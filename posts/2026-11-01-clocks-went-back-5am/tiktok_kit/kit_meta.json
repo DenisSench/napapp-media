@@ -1,0 +1,17 @@
+{
+  "post": "2026-11-01-clocks-went-back-5am",
+  "slot": "Sunday, Nov 1, 2026 at 7:30 AM ET (morning window)",
+  "source": "package/",
+  "created_at": "2026-10-28T21:53:41-0400",
+  "files": {
+    "01.jpg": "35611ae6c2bebb3ea3ff904a16d4a230c3f9ce7f5815ddd90699fc9648303ca4",
+    "02.jpg": "4168dd675c7eee8728ccb516889d00cad9949b0c1cc684666cc1f1fd00ca7fa8",
+    "03.jpg": "6ec99772d91859bbaed6da9b99c4bd4fe8b44373e2f99996888e6ba95aea7bd4",
+    "04.jpg": "bfc6ed8257ed2cffc95224ffd4a697df0b262f6b4cc3f84c85e66d727b1709eb",
+    "README.md": "c68fbd99b847644bb2329cba08ce51745a156aef45a9fc5fb8dc35f91b81e54e",
+    "caption.txt": "c5c8a4537ff8b543930f858ec0fb95e6fac028d9799a167bc133ff25256f6cae",
+    "cover.jpg": "35611ae6c2bebb3ea3ff904a16d4a230c3f9ce7f5815ddd90699fc9648303ca4",
+    "index.html": "9d224ca9368ac229bf78566d795c003289c12e2f9ad34e096443b9aff55a3438",
+    "slides.zip": "6c17ce5b0937534d35b7fdcbf89e81b638e293019eb365f271d8e924beb1f75d"
+  }
+}
