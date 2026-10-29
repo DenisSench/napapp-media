@@ -18,6 +18,18 @@
 - `reel.mp4` is Lee's `reel-preview-v3.mp4` used as-is (video stream-copied (-c:v copy) + silent AAC 48 kHz stereo track added); frames verified identical.
 - Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 
+## TikTok caption (posted from this kit)
+
+```
+Your 4 month old suddenly waking more?
+Around 3-5 months, sleep cycles become more adult-like, so more wakes between cycles is common. It's a developmental change, not something you did.
+Save this for the next 3am wake-up 🤍
+Noting wake times helps you spot patterns: log it in one tap, link in bio.
+Swaddling guidance: AAP. Not medical advice. Every baby is different. Worried? Check with your pediatrician.
+
+#babysleep #4monthregression #sleepregression #newmom
+```
+
 ## Sound
 
 **Instagram / Facebook picks:**

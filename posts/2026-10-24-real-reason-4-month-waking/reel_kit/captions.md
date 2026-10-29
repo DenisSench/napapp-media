@@ -19,3 +19,19 @@ Swaddling guidance: AAP. Not medical advice. If you're worried or your baby seem
 Your 4 month old suddenly waking more? It's often normal sleep development, and every baby moves through it differently. Swaddling guidance: AAP. Worried? Check with your pediatrician.
 Log wake times in one tap. Napapp: link on our Page. #babysleep
 ```
+
+## TikTok Caption
+
+```
+Your 4 month old suddenly waking more?
+Around 3-5 months, sleep cycles become more adult-like, so more wakes between cycles is common. It's a developmental change, not something you did.
+Save this for the next 3am wake-up 🤍
+Noting wake times helps you spot patterns: log it in one tap, link in bio.
+Swaddling guidance: AAP. Not medical advice. Every baby is different. Worried? Check with your pediatrician.
+```
+
+## TikTok Hashtags
+
+```
+#babysleep #4monthregression #sleepregression #newmom
+```
