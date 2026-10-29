@@ -1,6 +1,6 @@
 # TikTok manual kit: 2026-11-03-pov-daycare-week-naps
 
-Slot: Tuesday, Nov 3, 2026 at 7:00 PM ET
+Slot: Wednesday, Nov 4, 2026 at 7:00 PM ET
 Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg (+ cover.jpg), from Jessy's package/.
 
 ## Checklist

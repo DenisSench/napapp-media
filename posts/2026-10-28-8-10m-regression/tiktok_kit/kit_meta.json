@@ -1,8 +1,8 @@
 {
   "post": "2026-10-28-8-10m-regression",
-  "slot": "Wednesday, Oct 28, 2026 at 9:30 PM ET",
+  "slot": "Thursday, Oct 29, 2026 at 9:30 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
-  "created_at": "2026-10-28T21:53:40-0400",
   "files": {
     "01.jpg": "b448e93bf181a38fcb675ff324134f163909d92c5e73d98fdab6c0bfff3948a2",
     "02.jpg": "a119dd22d5e02196000cb9600fff88ffba4be46a31d0fa173f81cffc1b6a5e5d",
@@ -11,10 +11,10 @@
     "05.jpg": "3b7222e8cf1c18f447b8d5e8131f1ab977036ce290a97f9da5b66a522af0d6dd",
     "06.jpg": "2afd6f7f1628f75181eda16a28b8e49c972e66e955d1acabc7cec607c6458e21",
     "07.jpg": "3184784672533baab65d9b8dbb1450ff007c5f1fe2316b82a4ff2b2188ddf3d1",
-    "README.md": "16b20622355294178a0c3643dbae858e8eda0b772f0cbe1822e72a552f0b0033",
+    "README.md": "95570a82328c1cd2c67b81ccd9d386d7adbf4221fd619dd639353c6fd0a9ca97",
     "caption.txt": "ecc83cd51c29342f27fc035b7a2f556abded1b5cfd18483a9069ac5b8453645a",
     "cover.jpg": "b448e93bf181a38fcb675ff324134f163909d92c5e73d98fdab6c0bfff3948a2",
-    "index.html": "cd29219196547737e38c2fa5c5e01297520bd7fda40bc01aa3c0e66b46a31641",
-    "slides.zip": "31bdf05d87b23238b94cb5515cbc98e26caf02af305d063ff67377e0036be889"
+    "index.html": "a15348e57134879b054e41f742e24ebdfe85b49e80b66f752af9f36b5334ce6c",
+    "slides.zip": "4fb37f9d5c18f058c3fea90b2b35d00132c8279614a536ef8f6fcbd52198362e"
   }
 }

@@ -1,8 +1,8 @@
 {
   "post": "2026-10-31-2-to-1-nap-transition",
   "slot": "Saturday, Oct 31, 2026 at 9:30 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
-  "created_at": "2026-10-28T21:53:41-0400",
   "files": {
     "01.jpg": "e09003700acc1c013a0bd95344fa91e7f08c978572ed5a6ac6f73c2bf9004077",
     "02.jpg": "f4afd78b4aac50949c3588efbf133b1c32f03efa3dd030729ecf9759f10c8490",
@@ -14,6 +14,6 @@
     "caption.txt": "44fe8462f527b0df7bb8e37b2446a01b32e24258a8aef86ed9df6c71dc0985a1",
     "cover.jpg": "e09003700acc1c013a0bd95344fa91e7f08c978572ed5a6ac6f73c2bf9004077",
     "index.html": "d0fce84d1aeccf2cd20dfe4cea166747a7df57bb37806baed5ede1c0b6978a44",
-    "slides.zip": "adcc8d0d0523754333a17b9248c3d08e85bb72c4cc4ec1dbabb20370281660b1"
+    "slides.zip": "9b1fc2162867d91831261b31c837244c4a7b29ffa289d1e4a82c6c3f24cb08c7"
   }
 }

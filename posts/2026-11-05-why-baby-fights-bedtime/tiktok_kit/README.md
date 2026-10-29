@@ -1,6 +1,6 @@
 # TikTok manual kit: 2026-11-05-why-baby-fights-bedtime
 
-Slot: Thursday, Nov 5, 2026 at 12:30 PM ET
+Slot: Friday, Nov 6, 2026 at 12:30 PM ET
 Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg (+ cover.jpg), from Jessy's package/.
 
 ## Checklist

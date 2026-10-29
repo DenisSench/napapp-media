@@ -1,8 +1,8 @@
 {
   "post": "2026-11-01-week-wake-window-recap",
-  "slot": "Sunday, Nov 1, 2026 at 7:00 PM ET (early evening window)",
+  "slot": "Sunday, Nov 1, 2026 at 7:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
-  "created_at": "2026-10-28T21:53:41-0400",
   "files": {
     "01.jpg": "ce4f8ed501e3a99865d075ee11c4c40106f356273fc25f9035762c4ebbcd0f72",
     "02.jpg": "66187be4c83aa5d26d9ec45ff6db87d1322c51ea15fe1a112cf9c9dd3a6166ec",
@@ -11,10 +11,10 @@
     "05.jpg": "deaa852e934280c1d7c44d6305cf063011e368692ac55765a57bd0d830a73f0c",
     "06.jpg": "bd5187abe2e200052e8df14a375e804df125fe047c63c1de5c1e16e54f916ad5",
     "07.jpg": "f1d2da49137bcafb6655b195eac731836905023a6fac4058b8c37d0ad1cfc5fc",
-    "README.md": "48f113466d780fc75c8481ddf4868a8579fadeb64aaa650d672e516fe478ad37",
+    "README.md": "315a0d69f85100045aa8baee0e466d757bf2ad298395cef3695b197bb01118f3",
     "caption.txt": "d9d6e0e0bd88c68ea5f73536f78c6e3ff858c173b75d7ebca8225835234b8f46",
     "cover.jpg": "ce4f8ed501e3a99865d075ee11c4c40106f356273fc25f9035762c4ebbcd0f72",
-    "index.html": "5210357dc1852eb027083164d429ca0ea1abefffefa971419854a88b2a8e9d3d",
-    "slides.zip": "a3e9fb7ebfecdd6b6743698e07df89448133e6cbb7329697915321e3b5f9ee32"
+    "index.html": "44bc128a23d3659b3b3bc4ba3e39dc0373420919ef1a271de255ccf2d55ff685",
+    "slides.zip": "3697b92cb725274209b2a4fa0dbc9abcfa13291e9be34557e56caa0f4f7b492a"
   }
 }

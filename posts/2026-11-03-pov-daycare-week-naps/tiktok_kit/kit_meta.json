@@ -1,18 +1,18 @@
 {
   "post": "2026-11-03-pov-daycare-week-naps",
-  "slot": "Tuesday, Nov 3, 2026 at 7:00 PM ET",
+  "slot": "Wednesday, Nov 4, 2026 at 7:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
-  "created_at": "2026-10-28T21:53:41-0400",
   "files": {
     "01.jpg": "1ab582c700de3f2095ae9b6cdf7553c1b7862820858e2d0b526557e6266382c4",
     "02.jpg": "e73088effc979a1d6402a1af49934f0da3d5d969fb8d1c8e2e780c054c4563b1",
     "03.jpg": "18eca829ee8173c86e2a46fa1f5684aca8eb0bd2d9a2f535086438bf85dba74c",
     "04.jpg": "350934465daf8c3315184abffef02a941faafd3c0c6fd85df16a734dbcad4bae",
     "05.jpg": "0528ff20a2a069b5cc6783d48731f437e1989ae03754511f0ffda76c98c931b2",
-    "README.md": "a05a274fe1ef0eee3099b666bdba7151ed99e1604e8cd6b47e1a7aa67ee778fa",
+    "README.md": "ef594194a6fbc3913711f17ba38c0fd229511df6dd4ad9c4e3df093a8b873cd7",
     "caption.txt": "d6515b52e592cae5bfc45b7af4eefb5be1b2039704f2a8361ae97d788d38fffb",
     "cover.jpg": "1ab582c700de3f2095ae9b6cdf7553c1b7862820858e2d0b526557e6266382c4",
-    "index.html": "7e418919c82c810c0d6be393079aebe207bbc74cd3e458a380a494c8ddfe68b7",
-    "slides.zip": "4b3f05f263715bc2be0dd33bfadf7a036c202b0d662b70bff3efafcf8e85f885"
+    "index.html": "103c67c4af9a932cef79ff2f291bfe65a0ea50fbe8149d5bce74f23a47b3465a",
+    "slides.zip": "7bb0e780880dbff75208e99250318bf5ac183b041962751b3fb7e3ee6318fe8d"
   }
 }

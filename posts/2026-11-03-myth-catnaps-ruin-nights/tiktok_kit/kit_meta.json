@@ -1,8 +1,8 @@
 {
   "post": "2026-11-03-myth-catnaps-ruin-nights",
-  "slot": "Tuesday, Nov 3, 2026 at 12:30 PM ET",
+  "slot": "Wednesday, Nov 4, 2026 at 12:30 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
-  "created_at": "2026-10-28T21:53:41-0400",
   "files": {
     "01.jpg": "0e4afd6b27b36adf01e5ebfa6e57225189a162f8762d04c3a9694f74caacf970",
     "02.jpg": "1f3d08119723a998a4e933cf66624e643f81806053361cce3abea6493e26e3f4",
@@ -10,10 +10,10 @@
     "04.jpg": "3abd60ab8936e0534944bddbc276743363ae4266f0bde274526bce19490bb61d",
     "05.jpg": "32db23dbbbd13d792c0dacaf68cc835c3a6a6f702db9d19d779e1ed2b2be468e",
     "06.jpg": "f0dc7d4665d36a2ec084c9d87747b7005cd7a6d954642bb03f4fccbb200a0883",
-    "README.md": "c142d26238fb2cfb12460c8fb8438b357d0536936fd1693a393ebdb1ccbae41a",
+    "README.md": "4ff088a14edcb3d5de88842149d2434e5d46f2ea3095229d77caf7569e64d8b8",
     "caption.txt": "c5679d833e0ec474c340c70ef6e5de37e8e44502be88b49d3fa6c1a250add374",
     "cover.jpg": "0e4afd6b27b36adf01e5ebfa6e57225189a162f8762d04c3a9694f74caacf970",
-    "index.html": "939a87b0efacd312578a7486260562a3a9d9b89f358d4379cde17e8c529581b1",
-    "slides.zip": "220a2cd27a76c23e90c45eac56c47f774fad7cbdeb2a0f77d5c7ae89a307dd6b"
+    "index.html": "6d18f2d18bf245eb8dfda656da0b5ffd0eebaecb2d24951eaabeb134de296579",
+    "slides.zip": "79f17c7310347607738ba4d221e754e5a01e35b431fc4fa13351da02e5502a8b"
   }
 }

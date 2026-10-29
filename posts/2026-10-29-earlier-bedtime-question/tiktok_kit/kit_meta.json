@@ -1,8 +1,8 @@
 {
   "post": "2026-10-29-earlier-bedtime-question",
-  "slot": "Thursday, Oct 29, 2026 at 9:30 PM ET (late-evening window)",
+  "slot": "Friday, Oct 30, 2026 at 7:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
-  "created_at": "2026-10-28T21:53:41-0400",
   "files": {
     "01.jpg": "5753a524accc09e6ebdc9a08803a2019ef503e03f5eb3b4defd160b1931f4413",
     "02.jpg": "afe70c45ad46138ffdbed3c3a7d54058eeaf5ddebdad28ca5ed7fa7d9c826ba2",
@@ -10,10 +10,10 @@
     "04.jpg": "7e63ba9138f82cdf0d14612cd2de7f41b6bfdfe0b9bfb10b620cc92ba2928b5f",
     "05.jpg": "2c38733362310b6496bb6a7ae3e77d7afd6f6013c3f92336b7175500fc016e3f",
     "06.jpg": "5fb11de5a8bc838367dad6f5741404c8b5a2f2a4ec16197cf631037827266e9d",
-    "README.md": "0cf0fbe2b9b1de01ad8d8870e06fc23c0f074bc0c3e254a112381ac4101d0525",
+    "README.md": "a0f504040be032bfae3bb3280742d17cce7accf3e288642a660318630e8df11a",
     "caption.txt": "b481107ac224fe2f3a28a1b8736e25630f7d9d47614a2a2004e8807251cc4bea",
     "cover.jpg": "5753a524accc09e6ebdc9a08803a2019ef503e03f5eb3b4defd160b1931f4413",
-    "index.html": "fb3ce0c69087edb27a31f8a55ccb96a4ab4d05e8bdcf8366e341a285a26bf9c2",
-    "slides.zip": "b597abdf7ad392bc18d0f37fa4713ae53d34b1cdb7095e8891af6c0afa1b7219"
+    "index.html": "d706f8feeb19b7bbb3b167ea0154e3226b79e5a60d227d16e2c1f4113a148e47",
+    "slides.zip": "db280362ef48d21da6b996f530af6be1467e43123d242e9a2933a8f990efdd96"
   }
 }

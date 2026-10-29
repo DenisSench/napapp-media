@@ -1,6 +1,6 @@
 # TikTok manual kit: 2026-10-29-clocks-fall-back-5am
 
-Slot: Thursday, Oct 29, 2026 at 12:30 PM ET
+Slot: Friday, Oct 30, 2026 at 8:00 AM ET
 Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg (+ cover.jpg), from Jessy's package/.
 
 ## Checklist

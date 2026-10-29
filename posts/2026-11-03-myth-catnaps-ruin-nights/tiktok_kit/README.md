@@ -1,6 +1,6 @@
 # TikTok manual kit: 2026-11-03-myth-catnaps-ruin-nights
 
-Slot: Tuesday, Nov 3, 2026 at 12:30 PM ET
+Slot: Wednesday, Nov 4, 2026 at 12:30 PM ET
 Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg (+ cover.jpg), from Jessy's package/.
 
 ## Checklist

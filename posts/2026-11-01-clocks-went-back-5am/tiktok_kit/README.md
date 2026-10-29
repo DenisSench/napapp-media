@@ -1,6 +1,6 @@
 # TikTok manual kit: 2026-11-01-clocks-went-back-5am
 
-Slot: Sunday, Nov 1, 2026 at 7:30 AM ET (morning window)
+Slot: Sunday, Nov 1, 2026 at 7:30 AM ET
 Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg (+ cover.jpg), from Jessy's package/.
 
 ## Checklist
