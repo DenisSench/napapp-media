@@ -18,12 +18,16 @@
 
 - `reel.mp4` is Lee's `reel-preview-v2.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
 - Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
-- TikTok caption: taken from the kit's previous captions.md (post.md has none).
+- TikTok caption: approved text from package/UPLOAD.md.
 
 ## TikTok caption (posted from this kit)
 
 ```
-TikTok caption coming from Luna
+Later bedtime, later wake-up? Often not.
+Pushing bedtime later to get a later morning is one of the most common things parents try, and it often doesn't work that way. Cleveland Clinic notes overtired babies can have a harder time falling and staying asleep, so some parents test a slightly earlier bedtime instead. It's one option, not a rule, and there are no guarantees. Every baby is different. Save this for later 🤍 Keep track of what you try: log it in one tap. Napapp, link in bio.
+Not medical advice. Check with your pediatrician about your baby's sleep.
+
+#babysleep #earlyrising #babysleeptips #toddlersleep
 ```
 
 ## Sound

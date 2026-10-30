@@ -18,6 +18,7 @@
 
 - `reel.mp4` is Lee's `reel-preview-v3.mp4` used as-is (video stream-copied (-c:v copy) + silent AAC 48 kHz stereo track added); frames verified identical.
 - Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
+- TikTok caption: approved text from post.md (## TikTok Caption).
 
 ## TikTok caption (posted from this kit)
 
