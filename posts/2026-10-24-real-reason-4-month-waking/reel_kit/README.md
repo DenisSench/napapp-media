@@ -5,13 +5,14 @@
 ## Checklist
 
 1. Download `reel.mp4` to your phone (on the kit page: tap **Download reel.mp4**, or long-press the video and save it).
-2. The video is **silent**. In the Instagram / Facebook editor tap **Add audio**: use an IG/FB pick from the **Sound** block if there is one, otherwise pick a trending sound that fits a calm, parent-friendly mood. Check it isn't flagged as unavailable for business accounts.
-3. Instagram: New → Reel → pick `reel.mp4` → add the sound → Next → paste the **IG caption** below.
-4. Cover: pick the first slide (the hook) as the cover / Reels-tab thumbnail.
-5. AI label: still undecided as of Oct 28. If this post's art is AI-made and you decide to label it, turn on **Advanced settings → AI label** (IG) / the AI info toggle (FB) before sharing.
-6. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add the sound → paste the **FB caption** below.
-7. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice).
-8. After posting, send Bob the two links so the stats script can match them to this post.
+2. The video is **silent**. Sounds differ per platform; see the **Sound** block (Instagram and Facebook are separate).
+3. Instagram (from the **Instagram app**, not Meta Business Suite): on your phone open an Instagram pick's **audio link** → tap **Use audio** → pick `reel.mp4` → Next → paste the **IG caption** below. If none of the songs are available, use the Instagram backup (royalty-free).
+4. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
+5. Cover: pick the first slide (the hook) as the cover / Reels-tab thumbnail.
+6. AI label: still undecided as of Oct 28. If this post's art is AI-made and you decide to label it, turn on **Advanced settings → AI label** (IG) / the AI info toggle (FB) before sharing.
+7. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add a **Facebook** pick from the Sound block (Sound Collection, only tracks tagged 'Royalty-free'; or the CC0 re-render) → paste the **FB caption** below.
+8. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice; a licensed IG song may not carry over to the Page anyway).
+9. After posting, send Bob the two links so the stats script can match them to this post.
 
 ## Notes
 
@@ -32,7 +33,11 @@ Swaddling guidance: AAP. Not medical advice. Every baby is different. Worried? C
 
 ## Sound
 
-**Instagram / Facebook picks:**
+### Instagram (@getnapapp)
+
+- No picks for this platform in Vira's list (see notes).
+
+### Facebook Page
 
 - No picks for this platform in Vira's list (see notes).
 
@@ -46,8 +51,8 @@ Swaddling guidance: AAP. Not medical advice. Every baby is different. Worried? C
   - why: Dreamy, nocturnal feel for 2-4 a.m. wake-ups; use the soft intro [Octohog: Cleared, Oct 29 10:04 AM ET]
 
 Notes: TikTok video, Oct 29 12:30 PM ET. The slot has already passed, so this is only useful if it hasn't been posted yet. IG/FB Reel already posted ~11:06 AM ET, so no Meta picks. Backup TikTok sound: Ain't Nobody Else Like You (Cass Elliot), cleared and gentle. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent.
-Picks as of Oct 29, 2026, 1:05 PM ET
+Picks as of Oct 30, 2026, 2:10 PM ET
 
-_Only use sounds cleared for business use: TikTok's Commercial sounds list, and on Instagram/Facebook a sound not flagged as unavailable for business accounts._
+_Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
 Captions: see `captions.md` (or the kit page).

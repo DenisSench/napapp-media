@@ -24,14 +24,18 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg (+ cover.jpg), from Jessy's package/.
 - Sick Beat (https://www.tiktok.com/music/sick-beat-6786861842716166145) · Kero Kero Bonito
   - why: Bouncy, playful, non-seasonal fallback [Octohog: Cleared, Oct 29 10:04 AM ET]
 
-**Instagram / Facebook picks:**
+### Instagram (@getnapapp)
+
+- No picks for this platform in Vira's list (see notes).
+
+### Facebook Page
 
 - No picks for this platform in Vira's list (see notes).
 
 Notes: TikTok video only, Oct 31 12:30 PM ET (not on Meta, out of season). EXPIRES: both Halloween/October sounds stop working after Oct 31. Keep it cute, with no horror imagery or fear framing. Backup TikTok sound: Sick Beat (Kero Kero Bonito), cleared and not seasonal. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent.
-Picks as of Oct 29, 2026, 1:05 PM ET
+Picks as of Oct 30, 2026, 2:10 PM ET
 
-_Only use sounds cleared for business use: TikTok's Commercial sounds list, and on Instagram/Facebook a sound not flagged as unavailable for business accounts._
+_Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
 ## Caption (caption.txt)
 
