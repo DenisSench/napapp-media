@@ -41,9 +41,11 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list, and 
 ## Caption (caption.txt)
 
 ```
-Your 6am riser may wake at 5am Sunday.
-If your area changes its clocks, they go back 1 hour this Sunday, Nov 1. That's most of North America, so check your local time change. There's no right way to handle it. Gradual shifting and same-day switching are both common options, and every baby adjusts at their own pace. Save this 🤍 Tracking wake times over the week can show how the shift is going: log it in one tap. Napapp, link in bio.
-Not medical advice. Check with your pediatrician about your baby's sleep.
+Clocks go back Sunday? Here's a 3-night bedtime plan.
+If your clocks change on Nov 1 (most of North America; check your local time change), small 15-minute bedtime steps may help ease the shift. Switching on the day is common too, and every baby adjusts at their own pace.
+Save this for the weekend 🤍
+Logging bedtimes and wake-ups over the week can show how the shift is going: log it in one tap. Napapp, link in bio.
+Not medical advice. Every baby is different. Check with your pediatrician about your baby's sleep.
 
-#clockchange #daylightsaving #babysleep #earlyrising
+#clockchange #daylightsaving #babysleep #bedtimeroutine
 ```

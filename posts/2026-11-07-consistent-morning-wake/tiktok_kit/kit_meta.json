@@ -1,0 +1,21 @@
+{
+  "post": "2026-11-07-consistent-morning-wake",
+  "slot": "Saturday, Nov 7, 2026 at 12:30 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "74234e98afe7498f",
+  "sounds_found": false,
+  "files": {
+    "01.jpg": "ba2804a01e4e6ee4eb93c3bbb23b445bea1c3f52e31b9b06d7f75407bc485330",
+    "02.jpg": "7be164266e1f10874870c6d11ef3eb33e3018d48536d95f438341baaba37765d",
+    "03.jpg": "bd73865ac87b47f072aa894de80f7a7a6e7633611f4e9599361c0ba338b7debf",
+    "04.jpg": "7c5d0e495c0cb5d52b6b1a7a5e0803905172611659e99d5c9beed5dbbb31ffe0",
+    "05.jpg": "4c9ec787daa59e469d1cbe3bd3505cdd3d950777025b605122c1cce632e0e0ec",
+    "06.jpg": "9dff78aea9a404cc1aeed9987f20f5d1b0a2845e3a8649b24a6b87ac12106798",
+    "README.md": "decaffdd81982e1b8e1152ad6a6ae601b9f5c612d5551b4ae6bbe83eba8fb7a4",
+    "caption.txt": "e53b37d0599cd9099cc97872cdd75ff145fb004c0f33fc595a4fc03312e85034",
+    "cover.jpg": "ba2804a01e4e6ee4eb93c3bbb23b445bea1c3f52e31b9b06d7f75407bc485330",
+    "index.html": "08b391ac001fbba831153b8b056169d7f73e0b3cc756ad3fe677dce62a78b7a2",
+    "slides.zip": "32ffcc5ae8841f212e5de4a95f3772bc2342b23d5c71a28f86ffba575d5acdb7"
+  }
+}
