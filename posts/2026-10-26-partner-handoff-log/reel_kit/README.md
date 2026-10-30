@@ -34,19 +34,19 @@ TikTok caption coming from Luna
 
 **Instagram / Facebook picks:**
 
-- Tension Mode (https://www.instagram.com/explore/search/keyword/?q=Tension%20Mode%20Soundridemusic) · Soundridemusic
-  - why: Mock-epic drama for 'The 2am partner handoff: a tragedy in 6 slides'. It only works because the post is obviously comedic; keep it low [production-library track (Soundridemusic sells licences), so the safest for business; #5 on Tracygram global (Oct 29). It's dark and full of booms, so only use it on clearly comedic posts]
-- Nicole Kidman (Instrumental) (https://www.instagram.com/explore/search/keyword/?q=Nicole%20Kidman%20Instrumental%20caucause) · caucause
-  - why: Main-character 'my turn for the 2am shift' energy; listen first [instrumental cover of the ADÉLA trend (#2 on CreatorDB, #3 cleared on Octohog Oct 30); cover/instrumental versions are more likely usable on a business account, confirm in the picker]
-- Hello (https://www.instagram.com/explore/search/keyword/?q=Hello%20Lionel%20Richie) · Lionel Richie
-  - why: 'Hello, is it me you're looking for' at 2am, a relatable laugh, if it's available [Motown/major label, so it's the least likely to be usable on a business account; trending on Kabo IG (Oct 29)]
+- Meta Sound Collection: first result labelled 'Royalty-free' for 'comedy' (exact title not verifiable from public sources) (https://www.facebook.com/sound/collection/) · as listed in the picker (unverified) · role: primary; search_hint: In the Reels editor tap Add audio, type 'comedy', and only pick a track tagged 'Royalty-free' (Meta's label for Sound Collection audio). Write the exact title and artist back here once you've picked one.; confidence: MEDIUM: Meta's docs confirm Sound Collection / 'Royalty-free' audio is usable by business accounts and Pages; no specific track verified (the catalogue needs a login, which isn't allowed)
+  - why: Playful bed for "The 2am partner handoff: a tragedy in 6 slides"; the comedy comes from the text
+- Meta Sound Collection: first result labelled 'Royalty-free' for 'dramatic' (exact title not verifiable from public sources) (https://www.facebook.com/sound/collection/) · as listed in the picker (unverified) · role: backup; search_hint: In the Reels editor tap Add audio, type 'dramatic', and only pick a track tagged 'Royalty-free' (Meta's label for Sound Collection audio). Write the exact title and artist back here once you've picked one.; confidence: MEDIUM: Meta's docs confirm Sound Collection / 'Royalty-free' audio is usable by business accounts and Pages; no specific track verified (the catalogue needs a login, which isn't allowed)
+  - why: Mock-epic "tragedy" feel; pick one that sounds theatrical, not scary, and keep it low
+- Happy Sadie (https://archive.org/details/loyalty-freak-music-chill-for-real) · Loyalty Freak Music · role: backup (baked-in); search_hint: Not in the picker. Re-render with: reel/render_reel.py ... --track happy-sadie (music baked in, -16 LUFS), then upload with no in-app sound; licence: CC0 1.0 (reel/music/manifest.json, sha256-checked); confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
+  - why: Cheerful, ironic contrast with the 2am "tragedy" slides
 
 **TikTok picks:**
 
 - No picks for this platform in Vira's list (see notes).
 
-Notes: IG/FB Reel only (backfill), Oct 30 12:30 PM ET, awaiting approval. TikTok has been live since Oct 26, so no TikTok picks. Tired-parent humour only; no jokes about leaving a baby to cry. Backup Meta sound: search the Meta Sound Collection (https://www.facebook.com/sound/collection/) in the picker for 'soft piano', 'lullaby' or 'nocturne'. Last resort: re-render with --track to use the CC0 Loyalty Freak track. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent. Oct 30 9:10 AM ET: Breaking News (Instrumental) dropped out of Tracygram's global top 10 (it was #6 on Oct 29), so it's removed here and replaced with Nicole Kidman (Instrumental).
-Picks as of Oct 30, 2026, 9:10 AM ET
+Notes: IG/FB Reel only (backfill), Oct 30 12:30 PM ET, awaiting approval. TikTok has been live since Oct 26, so no TikTok picks. Tired-parent humour only; no jokes about leaving a baby to cry. Sounds are added in the app, and the reel.mp4 files are silent. META SOUNDS (rewritten Oct 30, 1:40 PM ET): business accounts and business-portfolio Pages don't get Meta's licensed music library, only the Sound Collection (labelled 'Royalty-free'), per https://help.instagram.com/402084904469945/ and https://www.facebook.com/business/help/880459498798521. So every earlier Meta pick, all of them licensed-library songs or covers, has been removed. In the picker only use tracks tagged 'Royalty-free'. If none fits, FALLBACK: re-render with --track <CC0 id> (reel/music/manifest.json, Loyalty Freak Music, CC0) so the music is baked into reel.mp4, then upload with no in-app sound. Carousels can't take baked-in audio, so use a Sound Collection track or post without sound.
+Picks as of Oct 30, 2026, 1:40 PM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list, and on Instagram/Facebook a sound not flagged as unavailable for business accounts._
 
