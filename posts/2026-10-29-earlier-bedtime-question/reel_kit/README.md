@@ -5,7 +5,7 @@
 ## Checklist
 
 1. Download `reel.mp4` to your phone (on the kit page: tap **Download reel.mp4**, or long-press the video and save it).
-2. The video is **silent**. Sounds differ per platform; see the **Sound** block (Instagram and Facebook are separate).
+2. The video is **silent**. Sounds differ per platform; see the **Sound** block (Instagram and Facebook are separate). If it has no picks yet: on Instagram pick a trending sound that fits a calm, parent-friendly mood, and on the Facebook Page only a Sound Collection track tagged 'Royalty-free'.
 3. Instagram (from the **Instagram app**, not Meta Business Suite): on your phone open an Instagram pick's **audio link** → tap **Use audio** → pick `reel.mp4` → Next → paste the **IG caption** below. If none of the songs are available, use the Instagram backup (royalty-free).
 4. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 5. Cover: pick the first slide (the hook) as the cover / Reels-tab thumbnail.
