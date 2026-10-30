@@ -26,15 +26,15 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg (+ cover.jpg), from Jessy's package/.
 
 **Instagram / Facebook picks:**
 
-- Breaking News (Instrumental) (https://www.instagram.com/explore/search/keyword/?q=Breaking%20News%20Instrumental%20AltairMakin) · AltairMakin
-  - why: 'Breaking news: baby did not get the memo', the best fit for the day-of meme [instrumental by an independent producer, so likely usable on a business account; #6 on Tracygram global (Oct 29)]
+- My Own Universe (https://www.instagram.com/explore/search/keyword/?q=My%20Own%20Universe%20PattiJ%20North) · PattiJ North
+  - why: Light 'you've never seen this before' reveal for 'baby did not get the memo' [independent artist, so likely usable on a business account; rising on CreatorDB (#10, week of Oct 28)]
 - Hello (https://www.instagram.com/explore/search/keyword/?q=Hello%20Lionel%20Richie) · Lionel Richie
   - why: 'Hello' at 5am, relatable, if the business picker allows it [Motown/major label, so it's the least likely to be usable on a business account; trending on Kabo IG (Oct 29)]
 - Nicole Kidman (Instrumental) (https://www.instagram.com/explore/search/keyword/?q=Nicole%20Kidman%20Instrumental%20caucause) · caucause
   - why: Trending melody with no lyrics, an ironic 'in control' energy [instrumental cover of a trending song, so likely usable on a business account; the ADÉLA vocal original is less likely to be]
 
-Notes: TikTok video Nov 1 7:30 AM ET; IG/FB Reel Nov 1 8:00 PM ET (same day, date-locked). The Only Exception is fading: it dropped off Kabo's top 20 on Oct 28-29 and is #18 on Octohog. No October sounds (it's Nov 1). Backup TikTok sound: Chopin Nocturne No. 2 (Piano Mono), cleared for business and evergreen. Backup Meta sound: search the Meta Sound Collection (https://www.facebook.com/sound/collection/) in the picker for 'soft piano', 'lullaby' or 'nocturne'. Last resort: re-render with --track to use the CC0 Loyalty Freak track. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent.
-Picks as of Oct 29, 2026, 1:05 PM ET
+Notes: TikTok video Nov 1 7:30 AM ET; IG/FB Reel Nov 1 8:00 PM ET (same day, date-locked). The Only Exception is fading: it dropped off Kabo's top 20 on Oct 28-29 and is #18 on Octohog. No October sounds (it's Nov 1). Backup TikTok sound: Chopin Nocturne No. 2 (Piano Mono), cleared for business and evergreen. Backup Meta sound: search the Meta Sound Collection (https://www.facebook.com/sound/collection/) in the picker for 'soft piano', 'lullaby' or 'nocturne'. Last resort: re-render with --track to use the CC0 Loyalty Freak track. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent. Oct 30 9:10 AM ET: Breaking News (Instrumental) dropped out of Tracygram's global top 10 (it was #6 on Oct 29), so it's removed here and replaced with My Own Universe.
+Picks as of Oct 30, 2026, 9:10 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list, and on Instagram/Facebook a sound not flagged as unavailable for business accounts._
 

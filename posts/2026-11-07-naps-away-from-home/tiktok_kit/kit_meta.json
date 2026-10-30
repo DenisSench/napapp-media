@@ -1,0 +1,22 @@
+{
+  "post": "2026-11-07-naps-away-from-home",
+  "slot": "Saturday, Nov 7, 2026 at 7:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "2dcd6a33c6561242",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "5b4f6c579144055a7a33fdc0a70bce36e8940f58bd4257ef2ad48771bdfad727",
+    "02.jpg": "26f0bd787d5ff46592ce57f405aebf56919f3636f3df81c96e12d322b6d693b8",
+    "03.jpg": "c501e1dd08b9152911fb8764fc63ddc784978bc925dac8a7a8c0753d39b8726d",
+    "04.jpg": "677f25a893039b420f5898f0c0e36200d3bc2015b224b52f691729e6db14c09b",
+    "05.jpg": "9ebe32e44b8fae65b0675bd7b7c89c14f110b741435cd4d7f5c45edf3d19d212",
+    "06.jpg": "946f3011efa7326931f8c7d69622d5b5905e21a5a6beae8d0051d11f94a74a19",
+    "07.jpg": "37e6347b18051cb55a9bb2630e8f9c28943eb250a9467167ca08814389468876",
+    "README.md": "a712c8f58c1a82ccd77f6a30761ffb63802bb4de8c196f6985a696e9639fd772",
+    "caption.txt": "88a47dede5f369e299d9ed9e5a674b964c1efab488010bee212cd5e3c3a6822d",
+    "cover.jpg": "5b4f6c579144055a7a33fdc0a70bce36e8940f58bd4257ef2ad48771bdfad727",
+    "index.html": "92ae5e8410ccd64826f2c9e11b834f7cd1bf36743e44948c9937a059255c0db7",
+    "slides.zip": "0977ec671e9e3088b528a3d4d607e4f3fa8afa87adbebc64d535b2c3ebf15c45"
+  }
+}

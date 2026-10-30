@@ -17,24 +17,24 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg (+ cover.jpg), fr
 
 **TikTok picks:**
 
+- Chopin Nocturne No. 2 (Piano Mono) (https://www.tiktok.com/music/chopin-nocturne-no-2-piano-mono-6817665487665629186) · moshimo sound design
+  - why: Calm bedtime piano for a gentle night-by-night plan; no lyrics competing with the checklist text [DataSocial: cleared for business, no vocals]
 - Coming Up Roses (https://www.tiktok.com/music/coming-up-roses-7613798254214187009) · Harry Styles
-  - why: Hopeful build for 'here's how to prepare', and the strongest cleared trend [Octohog: Cleared, Oct 29 10:04 AM ET]
+  - why: The top cleared trend (#1 on Octohog Oct 30), with a hopeful build for 'save this for the weekend' [Octohog: Cleared, re-checked Oct 30 ~7:35 AM ET]
 - Runaway (https://www.tiktok.com/music/runaway-6928389876177963010) · AURORA
-  - why: Dreamy early-dark morning mood [Octohog: Cleared, Oct 29 10:04 AM ET]
-- The Only Exception (https://www.tiktok.com/music/the-only-exception-6705033828240459778) · Paramore
-  - why: Soft-ironic reading: '5am: the only exception'. The Only Exception is fading: it dropped off Kabo's top 20 on Oct 28-29 and is #18 on Octohog. Use it this week or skip it [Octohog: Cleared, Oct 29 10:04 AM ET]
+  - why: Dreamy evening feel; a soft alternative for the bedtime steps [Octohog: Cleared, re-checked Oct 30 ~7:35 AM ET]
 
 **Instagram / Facebook picks:**
 
-- Breaking News (Instrumental) (https://www.instagram.com/explore/search/keyword/?q=Breaking%20News%20Instrumental%20AltairMakin) · AltairMakin
-  - why: News-jingle feel fits 'clocks go back Sunday', a playful announcement, not alarming [instrumental by an independent producer, so likely usable on a business account; #6 on Tracygram global (Oct 29)]
 - Autumn Journey (https://www.instagram.com/explore/search/keyword/?q=Autumn%20Journey%20Andrea%20Vanzo) · Andrea Vanzo
-  - why: Calm autumn piano that matches the season [independent piano instrumental, so likely usable on a business account; rising on CreatorDB (week of Oct 28)]
+  - why: Calm autumn piano that suits a step-by-step weekend plan [independent piano instrumental, so likely usable on a business account; rising on CreatorDB (week of Oct 28)]
+- My Own Universe (https://www.instagram.com/explore/search/keyword/?q=My%20Own%20Universe%20PattiJ%20North) · PattiJ North
+  - why: Light, tidy 'here's the plan' feel [light, dreamy track by an independent artist, so likely usable on a business account; rising on CreatorDB, few posts so far]
 - Evergreen (https://www.instagram.com/explore/search/keyword/?q=Evergreen%20Richy%20Mitch%20and%20the%20Coal%20Miners) · Richy Mitch & the Coal Miners
-  - why: Warm, unhurried, reassuring option [independent folk band; it may be available on a business account; #2 on Tracygram global (Oct 29), 1.3M reels]
+  - why: Warm, unhurried, reassuring [independent folk band; it may be available on a business account; big base (1.3M reels) but out of Tracygram's top 10 on Oct 30, so it's an evergreen pick, not a rising one]
 
-Notes: TikTok carousel Oct 30 8:00 AM ET; IG/FB carousel Oct 31 12:30 PM ET. Timely heads-up before the Nov 1 clock change. The Only Exception is fading: it dropped off Kabo's top 20 on Oct 28-29 and is #18 on Octohog. Backup TikTok sound: Chopin Nocturne No. 2 (Piano Mono), cleared for business and evergreen. Backup Meta sound: search the Meta Sound Collection (https://www.facebook.com/sound/collection/) in the picker for 'soft piano', 'lullaby' or 'nocturne'. Last resort: re-render with --track to use the CC0 Loyalty Freak track. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent.
-Picks as of Oct 29, 2026, 1:05 PM ET
+Notes: RE-ANGLED: a 3-night bedtime plan before the Nov 1 clock change (checklist, S1). TikTok carousel Oct 30 8:00 AM ET; IG/FB carousel Oct 31 12:30 PM ET. Needs approval; the old 5am version must not be uploaded. TikTok order (Chopin first, Coming Up Roses second) matches what was sent to Commander. Meta goes out Oct 31: No October/Halloween sounds (they die Oct 31), and nothing Christmas yet (Last Christmas is starting to appear on IG). Breaking News was dropped from this post: it's fading and doesn't suit a calm plan. Backup TikTok sound: Runaway (AURORA), cleared and not seasonal. Backup Meta sound: search the Meta Sound Collection (https://www.facebook.com/sound/collection/) in the picker for 'soft piano', 'lullaby' or 'nocturne'. Last resort: re-render with --track to use the CC0 Loyalty Freak track. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent.
+Picks as of Oct 30, 2026, 7:40 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list, and on Instagram/Facebook a sound not flagged as unavailable for business accounts._
 

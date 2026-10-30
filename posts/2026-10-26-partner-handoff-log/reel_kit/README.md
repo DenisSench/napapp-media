@@ -36,8 +36,8 @@ TikTok caption coming from Luna
 
 - Tension Mode (https://www.instagram.com/explore/search/keyword/?q=Tension%20Mode%20Soundridemusic) · Soundridemusic
   - why: Mock-epic drama for 'The 2am partner handoff: a tragedy in 6 slides'. It only works because the post is obviously comedic; keep it low [production-library track (Soundridemusic sells licences), so the safest for business; #5 on Tracygram global (Oct 29). It's dark and full of booms, so only use it on clearly comedic posts]
-- Breaking News (Instrumental) (https://www.instagram.com/explore/search/keyword/?q=Breaking%20News%20Instrumental%20AltairMakin) · AltairMakin
-  - why: 'Breaking news from the night shift' comic framing [instrumental by an independent producer, so likely usable on a business account; #6 on Tracygram global (Oct 29)]
+- Nicole Kidman (Instrumental) (https://www.instagram.com/explore/search/keyword/?q=Nicole%20Kidman%20Instrumental%20caucause) · caucause
+  - why: Main-character 'my turn for the 2am shift' energy; listen first [instrumental cover of the ADÉLA trend (#2 on CreatorDB, #3 cleared on Octohog Oct 30); cover/instrumental versions are more likely usable on a business account, confirm in the picker]
 - Hello (https://www.instagram.com/explore/search/keyword/?q=Hello%20Lionel%20Richie) · Lionel Richie
   - why: 'Hello, is it me you're looking for' at 2am, a relatable laugh, if it's available [Motown/major label, so it's the least likely to be usable on a business account; trending on Kabo IG (Oct 29)]
 
@@ -45,8 +45,8 @@ TikTok caption coming from Luna
 
 - No picks for this platform in Vira's list (see notes).
 
-Notes: IG/FB Reel only (backfill), Oct 30 12:30 PM ET, awaiting approval. TikTok has been live since Oct 26, so no TikTok picks. Tired-parent humour only; no jokes about leaving a baby to cry. Backup Meta sound: search the Meta Sound Collection (https://www.facebook.com/sound/collection/) in the picker for 'soft piano', 'lullaby' or 'nocturne'. Last resort: re-render with --track to use the CC0 Loyalty Freak track. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent.
-Picks as of Oct 29, 2026, 1:05 PM ET
+Notes: IG/FB Reel only (backfill), Oct 30 12:30 PM ET, awaiting approval. TikTok has been live since Oct 26, so no TikTok picks. Tired-parent humour only; no jokes about leaving a baby to cry. Backup Meta sound: search the Meta Sound Collection (https://www.facebook.com/sound/collection/) in the picker for 'soft piano', 'lullaby' or 'nocturne'. Last resort: re-render with --track to use the CC0 Loyalty Freak track. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent. Oct 30 9:10 AM ET: Breaking News (Instrumental) dropped out of Tracygram's global top 10 (it was #6 on Oct 29), so it's removed here and replaced with Nicole Kidman (Instrumental).
+Picks as of Oct 30, 2026, 9:10 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list, and on Instagram/Facebook a sound not flagged as unavailable for business accounts._
 

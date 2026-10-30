@@ -1,0 +1,21 @@
+{
+  "post": "2026-11-03-false-starts-after-bedtime",
+  "slot": "Tuesday, Nov 3, 2026 at 7:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "6d548703e936c5aa",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "58a24878e5dff2558e551bc5777fe0aee197abbb99ea9a7f073eea508c327bbb",
+    "02.jpg": "8c116730ec7bd3964c14ab5db2e9b532ebed12d2d62332344dffc47e3df3ea38",
+    "03.jpg": "ce1d0b17abcc8977cfd066a6bee47f94a84e155e1ef7f4c1897124a3ef19cfb6",
+    "04.jpg": "a862c984fd5ce09e3d198e62336db023fdc31ac64204470c9f12c27b4fc297b5",
+    "05.jpg": "3901af898e3cfb70811d1821fe108e75ee43cb90110598aded7696c47154eeb0",
+    "06.jpg": "9a21e706bc93925880ae0f687cb507076c593c4c963ff25f2c1984710bd8865d",
+    "README.md": "fe271c5a4becb7b76c86d7d483cd3a659e426cd570add5099cf9ee31bf038bcc",
+    "caption.txt": "6b20ebb036b0fb01fa1bd64766465b6f97baf0aeaabebcc25e15d1887cf6809b",
+    "cover.jpg": "58a24878e5dff2558e551bc5777fe0aee197abbb99ea9a7f073eea508c327bbb",
+    "index.html": "154a6eae496b32179ea946643c369b6a8e05df988c4aab99f863568e27772282",
+    "slides.zip": "42dc963c42b39403a14293fc6c77f32002cb1739c1ebdd8fa87360c41c5f4c4c"
+  }
+}

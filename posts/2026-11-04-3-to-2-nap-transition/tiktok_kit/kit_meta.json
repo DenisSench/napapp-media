@@ -1,0 +1,21 @@
+{
+  "post": "2026-11-04-3-to-2-nap-transition",
+  "slot": "Wednesday, Nov 4, 2026 at 12:30 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "65b862b881be7beb",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "e004fc97573c16266b1a0a0eabaf3e983a2e089e5966b1e87b5d034f17021ebf",
+    "02.jpg": "177f61a01c262f684830ffe0d1e6e293b35c963bfedcb05d1a9fd25708877809",
+    "03.jpg": "ea3bfcbe92ba5193790d02db746f4f119a12bb866711e3fc5f069463da944ecc",
+    "04.jpg": "045fe32befb73571d5eb6803075b601b512223e2c9f523dbdc795a8cb8f43fcc",
+    "05.jpg": "96d1f4f8389ecf60cb4a8926209db5138ef5ed59f7f0dd8a6ad1ab49c2626e9e",
+    "06.jpg": "abc4dedab5a2c5398b388e92b65de35a758f79195f9991c03743086ff46d810b",
+    "README.md": "a7ad0bbf96cfeaa0daf1207f53a87863ef85f17ea2ea127745e53b4c9c61cfaf",
+    "caption.txt": "f7af5344d76f66f11d476c6d5ff1dcbe75de0dfed032b5aa5e456869715081f2",
+    "cover.jpg": "e004fc97573c16266b1a0a0eabaf3e983a2e089e5966b1e87b5d034f17021ebf",
+    "index.html": "0b6bfe2e601128605bda6d788dd8bd28e73f7946e61085ec28ea86b20fc370db",
+    "slides.zip": "e5d51af76c8b17cdc60b2f60c40619e305d2a30849884fc592374065ac2c653a"
+  }
+}
