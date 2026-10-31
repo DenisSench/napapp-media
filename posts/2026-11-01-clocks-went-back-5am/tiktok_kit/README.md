@@ -18,7 +18,7 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg (+ cover.jpg), from Jessy's package/.
 **TikTok picks:**
 
 - The Only Exception (https://www.tiktok.com/music/the-only-exception-6705033828240459778) · Paramore
-  - why: Soft-ironic '5am: the only exception' read on a day-of meme. The Only Exception is fading: it dropped off Kabo's top 20 on Oct 28-29 and is #18 on Octohog. [Octohog: Cleared, Oct 29 10:04 AM ET]
+  - why: Soft-ironic '5am: the only exception' read on a day-of meme. Steady again: Octohog #9 and Kabo #13 on Oct 31 (it had dipped Oct 28-29) [Octohog: Cleared, Oct 30 11:41 PM ET]
 - Coming Up Roses (https://www.tiktok.com/music/coming-up-roses-7613798254214187009) · Harry Styles
   - why: Big cleared trend with a hopeful turn ('it settles in about a week') [Octohog: Cleared, Oct 29 10:04 AM ET]
 - Sick Beat (https://www.tiktok.com/music/sick-beat-6786861842716166145) · Kero Kero Bonito
@@ -28,7 +28,7 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg (+ cover.jpg), from Jessy's package/.
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** TikTok video Nov 1 7:30 AM ET; IG/FB Reel Nov 1 8:00 PM ET (same day, date-locked). The Only Exception is fading: it dropped off Kabo's top 20 on Oct 28-29 and is #18 on Octohog. No October sounds (it's Nov 1). Backup TikTok sound: Chopin Nocturne No. 2 (Piano Mono), cleared for business and evergreen. Sounds are added in the app, and the reel.mp4 files are silent. Confirm every TikTok sound in the in-app picker on the business account (Commercial Music Library) before publishing. FB PAGE SOUNDS (Oct 30, 1:40 PM ET; applies to the fb list): business accounts and business-portfolio Pages don't get Meta's licensed music library, only the Sound Collection (labelled 'Royalty-free'), per https://help.instagram.com/402084904469945/ and https://www.facebook.com/business/help/880459498798521. So every earlier Meta pick, all of them licensed-library songs or covers, has been removed. In the picker only use tracks tagged 'Royalty-free'. If none fits, FALLBACK: re-render with --track <CC0 id> (reel/music/manifest.json, Loyalty Freak Music, CC0) so the music is baked into reel.mp4, then upload with no in-app sound. Carousels can't take baked-in audio, so use a Sound Collection track or post without sound. IG vs FB (Oct 30, 2:10 PM ET): Denis confirmed @getnapapp is a Creator account (Canada), so IG gets named licensed-library songs; open the IG audio link and tap 'Use audio' rather than typing the title. Post from the Instagram app itself, not Meta Business Suite. If 'Share to Facebook' is on, the licensed song may not carry over to the Page (UNVERIFIED), so for the FB Page use the 'fb' picks or post separately. Don't boost or tag a paid partnership on a Reel with a licensed song (Meta: boosted Reels shouldn't use licensed music).
+> **Notes for this post:** TikTok video Nov 1 7:30 AM ET; IG/FB Reel Nov 1 8:00 PM ET (same day, date-locked). The Only Exception is steady again (Octohog #9, Kabo #13 on Oct 31). No October sounds (it's Nov 1). Backup TikTok sound: Chopin Nocturne No. 2 (Piano Mono), cleared for business and evergreen. Sounds are added in the app, and the reel.mp4 files are silent. Confirm every TikTok sound in the in-app picker on the business account (Commercial Music Library) before publishing. FB PAGE SOUNDS (Oct 30, 1:40 PM ET; applies to the fb list): business accounts and business-portfolio Pages don't get Meta's licensed music library, only the Sound Collection (labelled 'Royalty-free'), per https://help.instagram.com/402084904469945/ and https://www.facebook.com/business/help/880459498798521. So every earlier Meta pick, all of them licensed-library songs or covers, has been removed. In the picker only use tracks tagged 'Royalty-free'. If none fits, FALLBACK: re-render with --track <CC0 id> (reel/music/manifest.json, Loyalty Freak Music, CC0) so the music is baked into reel.mp4, then upload with no in-app sound. Carousels can't take baked-in audio, so use a Sound Collection track or post without sound. IG vs FB (Oct 30, 2:10 PM ET): Denis confirmed @getnapapp is a Creator account (Canada), so IG gets named licensed-library songs; open the IG audio link and tap 'Use audio' rather than typing the title. Post from the Instagram app itself, not Meta Business Suite. If 'Share to Facebook' is on, the licensed song may not carry over to the Page (UNVERIFIED), so for the FB Page use the 'fb' picks or post separately. Don't boost or tag a paid partnership on a Reel with a licensed song (Meta: boosted Reels shouldn't use licensed music). REFRESH Oct 31, 9:15 AM ET: The Only Exception is back to steady; IG chart evidence updated to Oct 31.
 
 - **Sunshine (Instrumental)** · Twista (primary)
   - link: https://www.instagram.com/reels/audio/2920100688130624/
@@ -46,7 +46,7 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg (+ cover.jpg), from Jessy's package/.
   - link: https://www.instagram.com/reels/audio/422969258110287/
   - why: Breezy retro lounge, mostly instrumental; light and playful under on-screen text. Light instrumental-leaning alternative
   - how: Best: open https://www.instagram.com/reels/audio/422969258110287/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Lady Love Piero Piccioni', then pick the result whose artist is exactly 'Piero Piccioni' (not a cover, sped-up version or 'original audio').
-  - trend: Tracygram Global #11 on Oct 30, 2026 (NEW, 259K reels)
+  - trend: Tracygram Global #7 on Oct 31, 2026 (rising fast, 260K reels); was #11 on Oct 30
   - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
 
 **Instagram backup (royalty-free):**
@@ -74,7 +74,7 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg (+ cover.jpg), from Jessy's package/.
   - licence: CC0 1.0 (reel/music/manifest.json, sha256-checked)
   - confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
 
-Picks as of Oct 30, 2026, 2:10 PM ET
+Picks as of Oct 31, 2026, 9:15 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 

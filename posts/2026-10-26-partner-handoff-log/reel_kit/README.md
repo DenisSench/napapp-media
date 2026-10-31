@@ -42,7 +42,7 @@ Every baby is different. Questions about your baby's sleep? Check with your pedi
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** IG/FB Reel only (backfill), Oct 30 12:30 PM ET, awaiting approval. TikTok has been live since Oct 26, so no TikTok picks. Tired-parent humour only; no jokes about leaving a baby to cry. Sounds are added in the app, and the reel.mp4 files are silent. FB PAGE SOUNDS (Oct 30, 1:40 PM ET; applies to the fb list): business accounts and business-portfolio Pages don't get Meta's licensed music library, only the Sound Collection (labelled 'Royalty-free'), per https://help.instagram.com/402084904469945/ and https://www.facebook.com/business/help/880459498798521. So every earlier Meta pick, all of them licensed-library songs or covers, has been removed. In the picker only use tracks tagged 'Royalty-free'. If none fits, FALLBACK: re-render with --track <CC0 id> (reel/music/manifest.json, Loyalty Freak Music, CC0) so the music is baked into reel.mp4, then upload with no in-app sound. Carousels can't take baked-in audio, so use a Sound Collection track or post without sound. IG vs FB (Oct 30, 2:10 PM ET): Denis confirmed @getnapapp is a Creator account (Canada), so IG gets named licensed-library songs; open the IG audio link and tap 'Use audio' rather than typing the title. Post from the Instagram app itself, not Meta Business Suite. If 'Share to Facebook' is on, the licensed song may not carry over to the Page (UNVERIFIED), so for the FB Page use the 'fb' picks or post separately. Don't boost or tag a paid partnership on a Reel with a licensed song (Meta: boosted Reels shouldn't use licensed music).
+> **Notes for this post:** IG/FB Reel only (backfill), Oct 30 12:30 PM ET, awaiting approval. TikTok has been live since Oct 26, so no TikTok picks. Tired-parent humour only; no jokes about leaving a baby to cry. Sounds are added in the app, and the reel.mp4 files are silent. FB PAGE SOUNDS (Oct 30, 1:40 PM ET; applies to the fb list): business accounts and business-portfolio Pages don't get Meta's licensed music library, only the Sound Collection (labelled 'Royalty-free'), per https://help.instagram.com/402084904469945/ and https://www.facebook.com/business/help/880459498798521. So every earlier Meta pick, all of them licensed-library songs or covers, has been removed. In the picker only use tracks tagged 'Royalty-free'. If none fits, FALLBACK: re-render with --track <CC0 id> (reel/music/manifest.json, Loyalty Freak Music, CC0) so the music is baked into reel.mp4, then upload with no in-app sound. Carousels can't take baked-in audio, so use a Sound Collection track or post without sound. IG vs FB (Oct 30, 2:10 PM ET): Denis confirmed @getnapapp is a Creator account (Canada), so IG gets named licensed-library songs; open the IG audio link and tap 'Use audio' rather than typing the title. Post from the Instagram app itself, not Meta Business Suite. If 'Share to Facebook' is on, the licensed song may not carry over to the Page (UNVERIFIED), so for the FB Page use the 'fb' picks or post separately. Don't boost or tag a paid partnership on a Reel with a licensed song (Meta: boosted Reels shouldn't use licensed music). REFRESH Oct 31, 9:15 AM ET: IG chart evidence updated to Oct 31.
 
 - **November Rain** · Guns N' Roses (primary)
   - link: https://www.instagram.com/reels/audio/2255709927836768/
@@ -54,7 +54,7 @@ Every baby is different. Questions about your baby's sleep? Check with your pedi
   - link: https://www.instagram.com/reels/audio/495072987594427/
   - why: Wistful 'take me back' nostalgia; works as a tongue-in-cheek 'before baby, when we slept' feeling. 'Take me back to the night we met' = the nights before 2am shifts
   - how: Best: open https://www.instagram.com/reels/audio/495072987594427/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'The Night We Met Lord Huron', then pick the result whose artist is exactly 'Lord Huron' (not a cover, sped-up version or 'original audio').
-  - trend: Tracygram Global #2 on Oct 30, 2026 (NEW, day 1, 1.2M reels)
+  - trend: Tracygram Global #5 on Oct 31, 2026 (1.2M reels); was #2 on Oct 30
   - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
 - **Hold On, We're Going Home** · Drake, Majid Jordan (backup)
   - link: https://www.instagram.com/reels/audio/435526946919130/
@@ -92,7 +92,7 @@ Every baby is different. Questions about your baby's sleep? Check with your pedi
 
 - No picks for this platform in Vira's list (see notes).
 
-Picks as of Oct 30, 2026, 2:10 PM ET
+Picks as of Oct 31, 2026, 9:15 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 

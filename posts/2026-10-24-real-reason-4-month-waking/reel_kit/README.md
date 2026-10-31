@@ -48,11 +48,11 @@ Swaddling guidance: AAP. Not medical advice. Every baby is different. Worried? C
   - why: Night-time lullaby piano for a 'suddenly waking at night' explainer, with no lyrics competing with the text [DataSocial: cleared for business, no vocals]
 - Coming Up Roses (https://www.tiktok.com/music/coming-up-roses-7613798254214187009) · Harry Styles
   - why: Hopeful lift that fits 'it's a developmental leap, not you' [Octohog: Cleared, Oct 29 10:04 AM ET]
-- Runaway (https://www.tiktok.com/music/runaway-6928389876177963010) · AURORA
-  - why: Dreamy, nocturnal feel for 2-4 a.m. wake-ups; use the soft intro [Octohog: Cleared, Oct 29 10:04 AM ET]
+- the feeling (https://www.tiktok.com/music/the-feeling-7646503537715611649) · Steve Lacy
+  - why: Mellow and still uncrowded; Octohog #5 and Kabo #17 on Oct 31, replacing Runaway, which fell off both charts. Listen first, mood not checked [Octohog: Cleared, Oct 30 11:41 PM ET]
 
-Notes: TikTok video, Oct 29 12:30 PM ET. The slot has already passed, so this is only useful if it hasn't been posted yet. IG/FB Reel already posted ~11:06 AM ET, so no Meta picks. Backup TikTok sound: Ain't Nobody Else Like You (Cass Elliot), cleared and gentle. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent.
-Picks as of Oct 30, 2026, 2:10 PM ET
+Notes: TikTok video, Oct 29 12:30 PM ET. The slot has already passed, so this is only useful if it hasn't been posted yet. IG/FB Reel already posted ~11:06 AM ET, so no Meta picks. Backup TikTok sound: Ain't Nobody Else Like You (Cass Elliot), cleared and gentle. Confirm every sound in the in-app picker on the business account before publishing (TikTok: Commercial Music Library; IG/FB: it shouldn't be greyed out or say 'unavailable for business'). Sounds are added in the app, and the reel.mp4 files are silent. REFRESH Oct 31, 9:15 AM ET: Runaway (AURORA) swapped out on TikTok, since it fell off Octohog's top 30 and Kabo's top 20; IG chart evidence updated to Oct 31.
+Picks as of Oct 31, 2026, 9:15 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
