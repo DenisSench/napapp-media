@@ -23,13 +23,14 @@ Log what you try in one tap. Napapp: link on our Page. #babysleep
 ## TikTok Caption
 
 ```
-Later bedtime, later wake-up? Often not.
-Pushing bedtime later to get a later morning is one of the most common things parents try, and it often doesn't work that way. Cleveland Clinic notes overtired babies can have a harder time falling and staying asleep, so some parents test a slightly earlier bedtime instead. It's one option, not a rule, and there are no guarantees. Every baby is different. Save this for later 🤍 Keep track of what you try: log it in one tap. Napapp, link in bio.
-Not medical advice. Check with your pediatrician about your baby's sleep.
+Kept them up late hoping for a sleep-in? Here's the catch.
+Cleveland Clinic notes overtired babies can find it harder to settle and stay asleep. So some parents try bedtime a little earlier for a few days and watch. One option, not a rule, and no guarantees.
+Note what you try: log it in one tap, link in bio.
+Source: Cleveland Clinic. Not medical advice. Every baby is different. Questions? Check with your pediatrician.
 ```
 
 ## TikTok Hashtags
 
 ```
-#babysleep #earlyrising #babysleeptips #toddlersleep
+#babysleep #bedtimeroutine #overtiredbaby #newmom
 ```
