@@ -35,26 +35,26 @@ Not medical advice. If you're worried about your baby's sleep, check with your p
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** IG/FB Reel, Mon Nov 2, 12:30 PM ET (per the request; plan/meta-plan.md still lists Tue Nov 3 and Sat Nov 7 for this slug, so confirm). TikTok was posted Oct 26, so no TikTok picks. Calm, empathetic 'short naps explained' mood: no tense, spooky or hype tracks, nothing that invites sleep-training jokes. Avoid Housewife, Training Season, expectations, Tension Mode, Somebody's Watching Me, Kids (Stranger Things synth), and user-made 'original audio' or (Instrumental)/(Slowed) uploads such as Oh Honey (Instrumental) and Memory Reboot (Slowed). Flower Duet and Night We Met are only 1-2 days on the chart, so re-check on Nov 2 morning. Post from the Instagram app (open the audio link and tap 'Use audio'), not Meta Business Suite. For the FB Page use the 'fb' picks or post separately. Don't boost or tag a paid partnership on a Reel with a licensed song. FALLBACK: re-render with --track soft-as-a-dry-pillow (CC0) so the music is baked into reel.mp4, then upload with no in-app sound. Sounds are added in the app; reel.mp4 is silent by default.
+> **Notes for this post:** IG/FB Reel, Mon Nov 2, 12:30 PM ET (per the request; plan/meta-plan.md still lists Tue Nov 3 and Sat Nov 7 for this slug, so confirm). TikTok was posted Oct 26, so no TikTok picks. Calm, empathetic 'short naps explained' mood: no tense, spooky or hype tracks, nothing that invites sleep-training jokes. Avoid Housewife, Training Season, expectations, Tension Mode, Somebody's Watching Me, Kids (Stranger Things synth), and user-made 'original audio' or (Instrumental)/(Slowed) uploads such as Oh Honey (Instrumental) and Memory Reboot (Slowed). Flower Duet and Night We Met are only 1-2 days on the chart, so re-check on Nov 2 morning. Post from the Instagram app (open the audio link and tap 'Use audio'), not Meta Business Suite. For the FB Page use the 'fb' picks or post separately. Don't boost or tag a paid partnership on a Reel with a licensed song. FALLBACK: re-render with --track soft-as-a-dry-pillow (CC0) so the music is baked into reel.mp4, then upload with no in-app sound. Sounds are added in the app; reel.mp4 is silent by default. REFRESH Nov 1, 9:15 AM ET: on IG, Lady Love (Piero Piccioni) and The Night We Met (Lord Huron) swapped out, since Tracygram's Nov 1 Global chart lists both as 'cooling' and both left its top 15; The Flower Duet (Delibes) also left the top 15 after one day. Replacements come from the same charts (Salvatore by Lana Del Rey, rising fast; Angel Of My Dreams by JADE, rising). TikTok picks unchanged; Octohog's chart hasn't updated since Oct 31, and the feeling (Steve Lacy) is no longer in Kabo's top 20, so keep it as a third choice only.
 
-- **Delibes: The Flower Duet (From "Lakmé")** · Katherine Jenkins, Kiri Te Kanawa, Philharmonia Orchestra, Anthony Inglis (primary)
-  - link: https://www.instagram.com/reels/audio/248997015659256/
-  - why: Gentle, floating classical duet; calm and reassuring under "short naps are common" slides
-  - how: Best: open https://www.instagram.com/reels/audio/248997015659256/ on the phone and tap 'Use audio' (exact track). Or Add audio and search 'Delibes: The Flower Duet', then pick the result whose artist is exactly 'Katherine Jenkins, Kiri Te Kanawa, Philharmonia Orchestra, Anthony Inglis' (not a cover, sped-up version or 'original audio').
-  - trend: Tracygram Global #14 on Oct 31, 2026 (new, 1st day, 71.7K reels; best part 0:12)
-  - confidence: MEDIUM: trending on IG per Tracygram's Oct 31 chart (official audio page link); availability on @getnapapp (Creator, Canada) UNVERIFIED until it appears in the picker; lyrics/section not listened to
-- **The Night We Met** · Lord Huron (backup)
-  - link: https://www.instagram.com/reels/audio/495072987594427/
-  - why: Soft, wistful and slow; fits an empathetic "we know this is tiring" tone. Use the quiet opening, not a lyric-heavy section
-  - how: Best: open https://www.instagram.com/reels/audio/495072987594427/ on the phone and tap 'Use audio' (exact track). Or Add audio and search 'The Night We Met', then pick the result whose artist is exactly 'Lord Huron' (not a cover, sped-up version or 'original audio').
-  - trend: Tracygram Global #5 on Oct 31, 2026 (2 days on chart, 1.25M reels; best part 0:44)
-  - confidence: MEDIUM: trending on IG per Tracygram's Oct 31 chart (official audio page link); availability on @getnapapp (Creator, Canada) UNVERIFIED until it appears in the picker; lyrics/section not listened to
-- **Lady Love** · Piero Piccioni (backup)
-  - link: https://www.instagram.com/reels/audio/422969258110287/
-  - why: Breezy, mostly instrumental retro lounge; light and unhurried under text
-  - how: Best: open https://www.instagram.com/reels/audio/422969258110287/ on the phone and tap 'Use audio' (exact track). Or Add audio and search 'Lady Love', then pick the result whose artist is exactly 'Piero Piccioni' (not a cover, sped-up version or 'original audio').
-  - trend: Tracygram Global #7 on Oct 31, 2026 (2 days on chart, 259.7K reels; best part 0:06)
-  - confidence: MEDIUM: trending on IG per Tracygram's Oct 31 chart (official audio page link); availability on @getnapapp (Creator, Canada) UNVERIFIED until it appears in the picker; lyrics/section not listened to
+- **Salvatore** · Lana Del Rey (primary)
+  - link: https://www.instagram.com/reels/audio/191646934740785/
+  - why: Slow, dreamy and soft; a calm late-night mood that sits under text-heavy sleep slides without fighting them
+  - how: Best: open https://www.instagram.com/reels/audio/191646934740785/ on the phone and tap 'Use audio' (exact track). Or Add audio and search 'Salvatore Lana Del Rey', and pick the result whose artist is exactly 'Lana Del Rey' (not a cover, sped-up version or 'original audio'). Tracygram marks the most-used section around 3:20, so pick that part or a soft early section.
+  - trend: Tracygram Global #6 on Nov 1, 2026, flagged 'Rising fast' (up 6 places, 207K reels, 2nd day on chart, not explicit)
+  - confidence: MEDIUM: rising on IG per Tracygram's Nov 1 chart (official audio page link); availability on @getnapapp (Creator, Canada) UNVERIFIED until it appears in the picker; lyrics/section not listened to
+- **Angel Of My Dreams** · JADE (backup)
+  - link: https://www.instagram.com/reels/audio/496336559627131/
+  - why: Dreamy, glossy pop that's climbing on both platforms; suits a soft 'too good to be true' reveal or a hopeful last slide
+  - how: Best: open https://www.instagram.com/reels/audio/496336559627131/ on the phone and tap 'Use audio' (exact track). Or Add audio and search 'Angel Of My Dreams JADE', and pick the result whose artist is exactly 'JADE' (not a cover, sped-up version or 'original audio').
+  - trend: SocialPilot Oct 31 - Nov 10, 2026: #2, Rising, 211K reels, 'most active sound on the list'; also Octohog TikTok #6 (Cleared) and Kabo TikTok #9 on Nov 1
+  - confidence: MEDIUM: rising on IG per SocialPilot's Oct 31 - Nov 10 list (official audio page link); availability on @getnapapp (Creator, Canada) UNVERIFIED until it appears in the picker; lyrics/section not listened to
+- **Linger** · The Cranberries (backup)
+  - link: https://www.instagram.com/reels/audio/192068608180555/
+  - why: Soft, cozy and slow; suits calm personal or explainer posts. Soft, cozy alternative
+  - how: Best: open https://www.instagram.com/reels/audio/192068608180555/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Linger The Cranberries', then pick the result whose artist is exactly 'The Cranberries' (not a cover, sped-up version or 'original audio').
+  - trend: SocialPilot Oct 31 - Nov 10, 2026: #11, Rising, 117K reels, 'wistful, cozy'
+  - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
 
 **Instagram backup (royalty-free):**
 
@@ -85,7 +85,7 @@ Not medical advice. If you're worried about your baby's sleep, check with your p
 
 - No picks for this platform in Vira's list (see notes).
 
-Picks as of Oct 31, 2026, 9:10 PM ET
+Picks as of Nov 1, 2026, 9:15 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
