@@ -35,14 +35,26 @@ Not medical advice. If you're worried about your baby's sleep, check with your p
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** PROVISIONAL (Bob, Oct 31 9 PM ET): no entry for this slug in Vira's plan/sounds.json yet, so these are copied from Vira's Oct 31 9:15 AM ET picks for real-reason-bedtime-battles (same calm 'real reason' explainer). Vira to confirm or replace. IG/FB Reel Mon Nov 2 12:30 PM ET; TikTok ran Oct 26, so no TikTok picks. IG songs via the instagram.com/reels/audio link and 'Use audio'; FB only 'Royalty-free' Sound Collection tracks or the baked-in CC0 --track. reel.mp4 is silent.
+> **Notes for this post:** IG/FB Reel, Mon Nov 2, 12:30 PM ET (per the request; plan/meta-plan.md still lists Tue Nov 3 and Sat Nov 7 for this slug, so confirm). TikTok was posted Oct 26, so no TikTok picks. Calm, empathetic 'short naps explained' mood: no tense, spooky or hype tracks, nothing that invites sleep-training jokes. Avoid Housewife, Training Season, expectations, Tension Mode, Somebody's Watching Me, Kids (Stranger Things synth), and user-made 'original audio' or (Instrumental)/(Slowed) uploads such as Oh Honey (Instrumental) and Memory Reboot (Slowed). Flower Duet and Night We Met are only 1-2 days on the chart, so re-check on Nov 2 morning. Post from the Instagram app (open the audio link and tap 'Use audio'), not Meta Business Suite. For the FB Page use the 'fb' picks or post separately. Don't boost or tag a paid partnership on a Reel with a licensed song. FALLBACK: re-render with --track soft-as-a-dry-pillow (CC0) so the music is baked into reel.mp4, then upload with no in-app sound. Sounds are added in the app; reel.mp4 is silent by default.
 
-- **Sunshine (Instrumental)** · Twista (primary)
-  - link: https://www.instagram.com/reels/audio/2920100688130624/
-  - why: No lyrics, so it sits under text and tips without competing. Instrumental, ideal under informational slides
-  - how: Best: open https://www.instagram.com/reels/audio/2920100688130624/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Sunshine (Instrumental) Twista', then pick the result whose artist is exactly 'Twista' (not a cover, sped-up version or 'original audio').
-  - trend: SocialPilot Oct 31 - Nov 10, 2026: #12, Rising, 202K reels, used for quick-tip Reels
-  - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
+- **Delibes: The Flower Duet (From "Lakmé")** · Katherine Jenkins, Kiri Te Kanawa, Philharmonia Orchestra, Anthony Inglis (primary)
+  - link: https://www.instagram.com/reels/audio/248997015659256/
+  - why: Gentle, floating classical duet; calm and reassuring under "short naps are common" slides
+  - how: Best: open https://www.instagram.com/reels/audio/248997015659256/ on the phone and tap 'Use audio' (exact track). Or Add audio and search 'Delibes: The Flower Duet', then pick the result whose artist is exactly 'Katherine Jenkins, Kiri Te Kanawa, Philharmonia Orchestra, Anthony Inglis' (not a cover, sped-up version or 'original audio').
+  - trend: Tracygram Global #14 on Oct 31, 2026 (new, 1st day, 71.7K reels; best part 0:12)
+  - confidence: MEDIUM: trending on IG per Tracygram's Oct 31 chart (official audio page link); availability on @getnapapp (Creator, Canada) UNVERIFIED until it appears in the picker; lyrics/section not listened to
+- **The Night We Met** · Lord Huron (backup)
+  - link: https://www.instagram.com/reels/audio/495072987594427/
+  - why: Soft, wistful and slow; fits an empathetic "we know this is tiring" tone. Use the quiet opening, not a lyric-heavy section
+  - how: Best: open https://www.instagram.com/reels/audio/495072987594427/ on the phone and tap 'Use audio' (exact track). Or Add audio and search 'The Night We Met', then pick the result whose artist is exactly 'Lord Huron' (not a cover, sped-up version or 'original audio').
+  - trend: Tracygram Global #5 on Oct 31, 2026 (2 days on chart, 1.25M reels; best part 0:44)
+  - confidence: MEDIUM: trending on IG per Tracygram's Oct 31 chart (official audio page link); availability on @getnapapp (Creator, Canada) UNVERIFIED until it appears in the picker; lyrics/section not listened to
+- **Lady Love** · Piero Piccioni (backup)
+  - link: https://www.instagram.com/reels/audio/422969258110287/
+  - why: Breezy, mostly instrumental retro lounge; light and unhurried under text
+  - how: Best: open https://www.instagram.com/reels/audio/422969258110287/ on the phone and tap 'Use audio' (exact track). Or Add audio and search 'Lady Love', then pick the result whose artist is exactly 'Piero Piccioni' (not a cover, sped-up version or 'original audio').
+  - trend: Tracygram Global #7 on Oct 31, 2026 (2 days on chart, 259.7K reels; best part 0:06)
+  - confidence: MEDIUM: trending on IG per Tracygram's Oct 31 chart (official audio page link); availability on @getnapapp (Creator, Canada) UNVERIFIED until it appears in the picker; lyrics/section not listened to
 
 **Instagram backup (royalty-free):**
 
@@ -54,15 +66,26 @@ Not medical advice. If you're worried about your baby's sleep, check with your p
 
 - **Meta Sound Collection: first result labelled 'Royalty-free' for 'lullaby' (exact title not verifiable from public sources)** · as listed in the picker (unverified) (primary)
   - link: https://www.facebook.com/sound/collection/
-  - why: Soft, sleepy instrumental under calm educational slides
+  - why: Soft, sleepy instrumental under calm, reassuring "short naps explained" slides
   - how: In the Reels editor tap Add audio, type 'lullaby', and only pick a track tagged 'Royalty-free' (Meta's label for Sound Collection audio). Write the exact title and artist back here once you've picked one.
   - confidence: MEDIUM: Meta's docs confirm Sound Collection / 'Royalty-free' audio is usable by business accounts and Pages; no specific track verified (the catalogue needs a login, which isn't allowed)
+- **Meta Sound Collection: first result labelled 'Royalty-free' for 'soft piano' (exact title not verifiable from public sources)** · as listed in the picker (unverified) (backup)
+  - link: https://www.facebook.com/sound/collection/
+  - why: Quiet piano bed; lets the empathetic text do the work
+  - how: In the Reels editor tap Add audio, type 'soft piano', and only pick a track tagged 'Royalty-free' (Meta's label for Sound Collection audio). Write the exact title and artist back here once you've picked one.
+  - confidence: MEDIUM: Meta's docs confirm Sound Collection / 'Royalty-free' audio is usable by business accounts and Pages; no specific track verified (the catalogue needs a login, which isn't allowed)
+- **Soft as a dry pillow** · Loyalty Freak Music (backup (baked-in))
+  - link: https://archive.org/details/loyalty-freak-music-chill-for-real
+  - why: Chill, low-key CC0 bed for a calm explainer
+  - how: Not in the picker. Re-render with: reel/render_reel.py ... --track soft-as-a-dry-pillow (music baked in, -16 LUFS), then upload with no in-app sound
+  - licence: CC0 1.0 (reel/music/manifest.json, sha256-checked)
+  - confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
 
 **TikTok picks:**
 
 - No picks for this platform in Vira's list (see notes).
 
-Picks as of Oct 31, 2026, 9:15 AM ET
+Picks as of Oct 31, 2026, 9:10 PM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
