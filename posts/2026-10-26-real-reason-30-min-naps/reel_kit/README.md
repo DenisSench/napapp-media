@@ -16,7 +16,7 @@
 
 ## Notes
 
-- `reel.mp4` is Lee's `reel-preview-v1.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
+- `reel.mp4` is Lee's `reel-preview-v2.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
 - Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from package/UPLOAD.md.
 
