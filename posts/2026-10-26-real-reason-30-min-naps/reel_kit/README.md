@@ -1,6 +1,6 @@
 # Reel kit: 2026-10-26-real-reason-30-min-naps
 
-`reel.mp4`: 23.567 s, 2.4 MB, 1080x1920, silent; slides from `slides/jpg-reel`.
+`reel.mp4`: 25.567 s, 2.8 MB, 1080x1920, silent; slides from `../../../../tmp/rr30-reelbase/jpg-reel-base`.
 
 ## Checklist
 
@@ -16,7 +16,7 @@
 
 ## Notes
 
-- The Napapp logo is baked in (approved for Reels Oct 28, 2026; carousels stay logo-free).
+- `reel.mp4` is Lee's `reel-preview-v1.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
 - Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from package/UPLOAD.md.
 
