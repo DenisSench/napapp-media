@@ -1,6 +1,6 @@
 # Reel kit: 2026-10-26-real-reason-30-min-naps
 
-`reel.mp4`: 23.567 s, 2.3 MB, 1080x1920, silent; slides from `slides/jpg`.
+`reel.mp4`: 23.567 s, 2.4 MB, 1080x1920, silent; slides from `slides/jpg-reel`.
 
 ## Checklist
 
@@ -16,7 +16,7 @@
 
 ## Notes
 
-- Slides came from `slides/jpg` (the TikTok render), not `slides/jpg-reel`. If this post has IG/FB text without on-slide sources, ask Lee for `renderer/render.sh <post> --reel-text` and rebuild the kit.
+- The Napapp logo is baked in (approved for Reels Oct 28, 2026; carousels stay logo-free).
 - Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from package/UPLOAD.md.
 
