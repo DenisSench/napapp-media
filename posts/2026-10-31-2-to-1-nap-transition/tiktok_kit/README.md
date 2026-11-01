@@ -1,6 +1,6 @@
 # TikTok manual kit: 2026-10-31-2-to-1-nap-transition
 
-Slot: Saturday, Oct 31, 2026 at 9:30 PM ET
+Slot: Monday, Nov 9, 2026 at 12:30 PM ET
 Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg (+ cover.jpg), from Jessy's package/.
 
 ## Checklist
