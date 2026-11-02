@@ -1,9 +1,9 @@
 {
   "post": "2026-11-04-day-night-mixup-newborns",
-  "slot": "Thursday, Nov 5, 2026 at 7:00 PM ET",
+  "slot": "Thursday, Nov 5, 2026 at 8:00 PM ET",
   "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
-  "sounds_fingerprint": "95de95419099074f",
+  "sounds_fingerprint": "93f726755f4e5513",
   "sounds_found": true,
   "files": {
     "01.jpg": "29ea2e82a4869fd3c0620ad3906964f714b2043b8e19742570e0e343698cad8f",
@@ -12,10 +12,10 @@
     "04.jpg": "fb46ef9b62a9384ea08babb53698735b83eec72a769008212a6c7781ffd35e79",
     "05.jpg": "6f135ec780e650efcb161c1e3f26a7faf229d3046e4f0e2e7daaa5c515555caf",
     "06.jpg": "6e22687061a35fe804fda8a50af362a5bfa044eef021a993476e8431d476bda7",
-    "README.md": "1bac5962914e12aeb436346be3bcfbbb0cdb5ce18c657ca572f6807cf125c41c",
+    "README.md": "53baa82fd1dd71d91bdd04c281a8018eed910437078ce8dacd73d5e61f6d7539",
     "caption.txt": "0b886a2dca58eac66d7cd03873f9341f3b45d425c3972f6499f222f44756708f",
     "cover.jpg": "29ea2e82a4869fd3c0620ad3906964f714b2043b8e19742570e0e343698cad8f",
-    "index.html": "28cace8317e265ed8e29336dfeb1d91ea9465437e732c8dc630f2400bdf0f351",
+    "index.html": "bf0e0e7782928d56a0a1d75c7837977bf867e1296c03b467a17568ab7d92c1af",
     "slides.zip": "96628fd16e744db974865e8d439b9ae074042e84081d61f2f369ff9b3d90beca"
   }
 }

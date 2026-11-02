@@ -1,6 +1,6 @@
 # TikTok manual kit: relatable-list-test
 
-Slot: Monday, Nov 2, 2026 at 7:00 PM ET
+Slot: Monday, Nov 2, 2026 at 8:00 PM ET
 Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg (+ cover.jpg), from Jessy's package/.
 
 ## Checklist
@@ -28,7 +28,7 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg (+ cover.
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** Relatable-list carousel (Hook B 'gym', Denis-picked; post not yet approved). PROPOSED: TikTok Mon Nov 2 7:00 PM ET; IG/FB Tue Nov 3 8:00 PM ET. Light, playful 'that's so me' mood, so it reuses the me-vs-baby-monitor playful picks (Sick Beat / Coming Up Roses on TikTok; Salvatore, Hold On We're Going Home, Sunshine (Instrumental) on IG; 'funny'/'quirky' Royalty-free on FB). Carousel: no baked-in CC0 audio possible, so if no IG/FB pick works, use a Royalty-free Sound Collection track or post silent. The Only Exception is fading, so use it last. No suspense/horror music, nothing implying sleep training. Confirm each TikTok sound in the business-account picker (Commercial Music Library); on IG open the audio link and tap 'Use audio' from the Instagram app, not Business Suite. Don't boost a post with a licensed song. Re-check on the Nov 1 refresh run's next pass (Nov 2 ~9 AM ET).
+> **Notes for this post:** SCHEDULE (same-day plan approved by Denis Nov 2; supersedes any earlier times in this note): TikTok carousel Mon Nov 2 8:00 PM ET; IG/FB carousel Tue Nov 3 12:30 PM ET. Relatable-list carousel (Hook B 'gym', Denis-picked; post not yet approved). PROPOSED: TikTok Mon Nov 2 7:00 PM ET; IG/FB Tue Nov 3 8:00 PM ET. Light, playful 'that's so me' mood, so it reuses the me-vs-baby-monitor playful picks (Sick Beat / Coming Up Roses on TikTok; Salvatore, Hold On We're Going Home, Sunshine (Instrumental) on IG; 'funny'/'quirky' Royalty-free on FB). Carousel: no baked-in CC0 audio possible, so if no IG/FB pick works, use a Royalty-free Sound Collection track or post silent. The Only Exception is fading, so use it last. No suspense/horror music, nothing implying sleep training. Confirm each TikTok sound in the business-account picker (Commercial Music Library); on IG open the audio link and tap 'Use audio' from the Instagram app, not Business Suite. Don't boost a post with a licensed song. Re-check on the Nov 1 refresh run's next pass (Nov 2 ~9 AM ET). REFRESH Nov 2, 9:10 AM ET: no pick changes. TikTok: Octohog still hasn't updated since Oct 31; Kabo's Nov 2 board has Coming Up Roses at #13 (down, still charting) and no longer lists Ain't Nobody Else Like You, the feeling or Sick Beat in its top 20, so treat those as calm/uncrowded fits rather than trend plays. IG: Salvatore still 'rising fast' on Tracygram's Nov 2 Global chart (#8); SocialPilot's Oct 31-Nov 10 list unchanged. Christmas sounds (Mariah 'defrosted') are peaking but still held back for sleep posts.
 
 - **Salvatore** · Lana Del Rey (primary)
   - link: https://www.instagram.com/reels/audio/191646934740785/
@@ -74,7 +74,7 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg (+ cover.
   - licence: CC0 1.0 (reel/music/manifest.json, sha256-checked)
   - confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
 
-Picks as of Nov 1, 2026, 1:12 PM ET
+Picks as of Nov 2, 2026, 9:10 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
