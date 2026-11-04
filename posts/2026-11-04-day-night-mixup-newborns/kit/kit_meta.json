@@ -1,0 +1,62 @@
+{
+  "post": "2026-11-04-day-night-mixup-newborns",
+  "kind": "carousel",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "b9ebd8a017732185",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-05",
+      "time": "20:00",
+      "status": "Scheduled",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-05",
+      "time": "20:00",
+      "status": "Scheduled",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-05",
+      "time": "20:00",
+      "status": "Scheduled",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "d5d60a76cb213db0cb6ed4ef6b351f2609064f10f7a8e3d895ef64137fc76b56",
+    "fb_caption.txt": "b51fc0ac5fe79e40fbe048ccee320cf56f4efab263e6c7c211e063f90a78cf1b",
+    "ig_caption.txt": "183b6911ca1e84cb4d280aff92a76fc009b89b4774bcb244ab849f3dc0143110",
+    "index.html": "2a94a3e80a71565c788a0f24c05c82982293a68d170857b8b2e5dfff67f62ccc",
+    "tiktok_caption.txt": "0b886a2dca58eac66d7cd03873f9341f3b45d425c3972f6499f222f44756708f"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "29ea2e82a4869fd3c0620ad3906964f714b2043b8e19742570e0e343698cad8f",
+    "tiktok_kit/02.jpg": "286ba3d9f75bd21e2d5c86bcbd62b41f89771866ca3b7b5fe44e4d4d3eb992f0",
+    "tiktok_kit/03.jpg": "f3b35f0c76d54a8497a3994e3ca83734999cae0482bcef43528f1488c409a0cc",
+    "tiktok_kit/04.jpg": "ac947d694fd785af00a6069f77126487ab55c51eb25d94a1541e5610160f58fc",
+    "tiktok_kit/05.jpg": "67324ca47240a68db4535bf18bab735b7efdab2bb8a3dd40e3defcc6fe09c68b",
+    "tiktok_kit/06.jpg": "6e22687061a35fe804fda8a50af362a5bfa044eef021a993476e8431d476bda7",
+    "tiktok_kit/cover.jpg": "29ea2e82a4869fd3c0620ad3906964f714b2043b8e19742570e0e343698cad8f",
+    "tiktok_kit/slides.zip": "8e543a211788e23a4501405455cfea7bc2b95873687fc9a0e98e47998223dbda",
+    "tiktok_kit/4x5/01.jpg": "503e914dbe3e2053ad15d470ac88901a706baba98ca53f698394eac9586b8ac7",
+    "tiktok_kit/4x5/02.jpg": "1e6f540ef9110287df09580e66cab547456ea0d042208db276153a621418200f",
+    "tiktok_kit/4x5/03.jpg": "b4ddb3df22b945e66fde490469d7345560a4fa5d6e30dcd996d8ae794d8e59ab",
+    "tiktok_kit/4x5/04.jpg": "062b0b571f3a33ff49b497b12914c505ca3ad8b55156842a0e636729d08d15ad",
+    "tiktok_kit/4x5/05.jpg": "ede6a2c6076a6fc0597732d0dc303790348091e3127a6abac9964cb45d8bee6e",
+    "tiktok_kit/4x5/06.jpg": "b6d54f0a09c8161ddccdd9df9ac83ca54652d3def65fa2de31b87265a012f087",
+    "tiktok_kit/slides-4x5.zip": "42f8b2fe3153dc8bcddb990c6b21d82caecc1ed6d75126dd5e07c3cde007dcc8"
+  }
+}
