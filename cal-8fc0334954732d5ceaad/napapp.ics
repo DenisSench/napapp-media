@@ -1063,20 +1063,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:me-vs-baby-bedtime-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
+DTSTAMP:20261104T184457Z
+SEQUENCE:1
 DTSTART;TZID=America/Toronto:20261109T123000
 DTEND;TZID=America/Toronto:20261109T124500
 SUMMARY:Post: Me vs baby bedtime [IG/FB]
 DESCRIPTION:• Instagram: post the Reel by hand\n• Facebook: post the Re
  el by hand\n\nApproval: Approved (published) (one approval for all platfor
- ms)\n⚠ Approvals disagree: calendar rows disagree: TikTok 'Posted' vs IG
-  'Needs approval'\, FB 'Needs approval'\n⚠ Approvals disagree: STATUS sa
- ys Approved (published) but plan slot status is needs_approval (IG\, FB)\n
- Platforms on different days: TikTok 2026-10-25 21:08\, IG 2026-11-09 12:30
- \, FB 2026-11-09 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/review/m
- e-vs-baby-bedtime/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/me-vs-baby-bedtime/
+ ms)\nPlatforms on different days: TikTok 2026-10-25 21:08\, IG 2026-11-09 
+ 12:30\, FB 2026-11-09 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/\nD
+ ashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
@@ -1305,20 +1302,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-windows-7-12m-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
+DTSTAMP:20261104T184457Z
+SEQUENCE:1
 DTSTART;TZID=America/Toronto:20261113T200000
 DTEND;TZID=America/Toronto:20261113T201500
 SUMMARY:Post: Wake windows 7-12m [IG/FB]
 DESCRIPTION:• Instagram: post the Reel by hand\n• Facebook: post the Re
  el by hand\n\nApproval: Approved (published) (one approval for all platfor
- ms)\n⚠ Approvals disagree: calendar rows disagree: TikTok 'Posted' vs IG
-  'Needs approval'\, FB 'Needs approval'\n⚠ Approvals disagree: STATUS sa
- ys Approved (published) but plan slot status is needs_approval (IG\, FB)\n
- Platforms on different days: TikTok 2026-10-25 10:02\, IG 2026-11-13 20:00
- \, FB 2026-11-13 20:00\nKit: https://media.napapp.io/cal-lvt4wit7/review/w
- ake-windows-7-12m/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/wake-windows-7-12m/
+ ms)\nPlatforms on different days: TikTok 2026-10-25 10:02\, IG 2026-11-13 
+ 20:00\, FB 2026-11-13 20:00\nKit: https://media.napapp.io/cal-lvt4wit7/\nD
+ ashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
