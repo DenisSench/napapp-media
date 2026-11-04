@@ -1,0 +1,48 @@
+{
+  "post": "2026-11-03-false-starts-after-bedtime",
+  "kind": "video",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "0c77e86e8726e7d0",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-03",
+      "time": "20:00",
+      "status": "Posted",
+      "posted": true,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-03",
+      "time": "20:26",
+      "status": "Posted",
+      "posted": true,
+      "mode": "hand",
+      "url": "https://www.instagram.com/reel/DfTRb38AIfE/"
+    },
+    "fb": {
+      "date": "2026-11-03",
+      "time": "20:26",
+      "status": "Posted",
+      "posted": true,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "dd613e94bfbe57414f44d13a9e769b0118dd2fcc4cd2a93bc0e7b5378f28f9b9",
+    "fb_caption.txt": "d972b7720b1d036046fedf9fe4f7065a2c0584b08accedf14df1eca15e8b9b88",
+    "ig_caption.txt": "cf9d03c060d0a610678f25879fb42f7cab705ef8e4349d955aae4c3177fccad6",
+    "index.html": "4f2d66503d655e92df09b084921be0187d5faf80050f8fea3126773dd0f04dcb",
+    "tiktok_caption.txt": "6b20ebb036b0fb01fa1bd64766465b6f97baf0aeaabebcc25e15d1887cf6809b"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "faa41377427578d5172918886065adefd052ebd35d938ae4775cc6695f0d7585"
+  }
+}

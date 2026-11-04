@@ -1,0 +1,48 @@
+{
+  "post": "newborn-evening-shift",
+  "kind": "video",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "68a6eca86907387c",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-12",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-12",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-12",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "9dd5c76b5ac94b7a8ced82e143945fdc9e724ee35ca3af919eb467d0ba26afd6",
+    "fb_caption.txt": "473a8acea337f1a311c9dd6af5de65565b43339967e6ee820696cd3fb69ead50",
+    "ig_caption.txt": "3dc8f1132fb8f428a0c56fb3f5a1fc8baf952929a3385035a1746b6550f39a4f",
+    "index.html": "9289844de32b4c978b614d039bcd289da751f643e430bd82d8cb8c8874a84e49",
+    "tiktok_caption.txt": "c5cde579b0f00ad26398c3a524b906d5e06ce293ad12aea6ef2336411b292943"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "5f8b888f5a3a8c96310ebef7bf147273ff4edf7e5f7bfb53eecc6e3ce3af5eab"
+  }
+}

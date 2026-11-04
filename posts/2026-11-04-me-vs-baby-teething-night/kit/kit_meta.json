@@ -1,0 +1,48 @@
+{
+  "post": "2026-11-04-me-vs-baby-teething-night",
+  "kind": "video",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "121c23721ccb9999",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-05",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-05",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-05",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "14d6327a01fa0b1c934fc438a0de5ae2d5c8f8b18595a59d3d39eba79fb6fc8d",
+    "fb_caption.txt": "477ce071f5521cba50a29b34bed5f507e35b61131ad4e5cb639a3893b3da2638",
+    "ig_caption.txt": "40638d922cad96b195a2bb8c6ec51ef53b0d0d401733c135a51044520042c5a2",
+    "index.html": "db80215b57bc1e49afccfabb50d3b627537c37f50942e1162c0c39f1b23d3d3a",
+    "tiktok_caption.txt": "aafa0992d8203efda05047ac969a53beadd6a273f437b3b9a18b9377d302e418"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "6db47c0a6af5e067f54ef7668a56082ca45a38130b1d25f6ce50de5c2893ba10"
+  }
+}

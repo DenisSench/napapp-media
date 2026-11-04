@@ -1,0 +1,62 @@
+{
+  "post": "2026-11-02-sleepy-cues-5-signs",
+  "kind": "carousel",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "984adb78742e52d3",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-03",
+      "time": "14:17",
+      "status": "Posted",
+      "posted": true,
+      "mode": "inbox",
+      "url": "https://www.tiktok.com/@nap_app/photo/7704026382090784020"
+    },
+    "ig": {
+      "date": "2026-11-03",
+      "time": "16:00",
+      "status": "Posted",
+      "posted": true,
+      "mode": "api",
+      "url": "https://www.instagram.com/p/DfSn3XbF_yz/"
+    },
+    "fb": {
+      "date": "2026-11-03",
+      "time": "16:00",
+      "status": "Posted",
+      "posted": true,
+      "mode": "api",
+      "url": ""
+    }
+  },
+  "files": {
+    "4x5/01.jpg": "a3b995e655647eb74eaab22a3b92667f46093401c6e8e2fee2f5fdd486bb6d28",
+    "4x5/02.jpg": "1618f0eecf4a61a3f32e107e09b9499a3b2e7e574d35087309968d6697179d25",
+    "4x5/03.jpg": "2dd2db6a7a64a27785e77b4b1fbf70269557b750866cfd0eeb91e4a611841865",
+    "4x5/04.jpg": "5d2973505fd8c59518215eb536fd15b5c115957be39cddf0ec82b942d6b6ec77",
+    "4x5/05.jpg": "89dec1836632259d09a1c21509453876da7f6ba0c7a06ba32b434358cc4e4c18",
+    "4x5/06.jpg": "3975db67c85838094a1fcaba2fc4b0e390b0a24cb287a3e854bda50223505c4f",
+    "README.md": "ac29dead2dffa23ae30c0490de7866396dc618a7632a4606eca63a36dd3225a8",
+    "fb_caption.txt": "cc7e25dd4b996f532580162bd0b62f09fce2a28ba1383315eb4ee1b64376b46f",
+    "ig_caption.txt": "c0aa644dc59145fd6f8a782ce3d1f76973de343e560775c1e4081338a306c58b",
+    "index.html": "8669abf5e5ea5ebea2b13b5bee205e224938a5601f458c0f98c53a3710a03f69",
+    "slides-4x5.zip": "21a58044368d37f9eb02d640cc644d41880ae6039ba4232bcf6b5ef0ea72691a",
+    "tiktok_caption.txt": "6b3510fafaeebe3a3bb549b750808a595822a7c5766839ff32f6b3c0209dbfdf"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "2a8fc40204e67af022c79ba9ef1aff3ec7214ffb9e739a12e9dcf896b7032907",
+    "tiktok_kit/02.jpg": "3da03b98a6e7fdcc06d9386f8bfea17e3cbacc1fd5bac213dccb72f40ddf7a56",
+    "tiktok_kit/03.jpg": "cd431f67346870502ed29cd6f0de19d945ae2e0ce7a43bab081c5accd9af02fd",
+    "tiktok_kit/04.jpg": "aca3a46c876e0affa85599a8cdc8db766d1c2cc6072bbce7ad9fd3eda8b08c62",
+    "tiktok_kit/05.jpg": "598afb8a43de2309f9f7119cbe6792cfbc004bc38042b53319cb12ec422aab79",
+    "tiktok_kit/06.jpg": "e38d5186e529851f090ee9e5cf0a3753b59c094f35cb7f56db401db79a38da41",
+    "tiktok_kit/cover.jpg": "2a8fc40204e67af022c79ba9ef1aff3ec7214ffb9e739a12e9dcf896b7032907",
+    "tiktok_kit/slides.zip": "13b69d94b79a18add39580597a37755eaf2f58d4ee2811fb0e357d464e4377c8"
+  }
+}
