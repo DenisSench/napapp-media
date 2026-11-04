@@ -746,35 +746,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-day-night-mixup-newborns@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261104T090000
-DTEND;TZID=America/Toronto:20261104T091500
-SUMMARY:Approve: Day night mixup newborns
-DESCRIPTION:day-night-mixup-newborns is 'On hold: needs Denis's approval' a
- nd is due 2026-11-05 20:00 ET on TikTok/IG/FB.\nOne approval covers TikTok
- \, IG and FB. Approve or skip it in the Commander chat (or the dashboard's
-  Approve button).\nSTATUS line 1 says approved\, but its note says: Nov 03
-  6:40 PM ET (Bob): package/\, package-ig/ and zips rebuilt from Lee's rend
- er (6 x 9:16\, 6 x 4:5). Old versions in _stale_old/. Still needs Denis's 
- approval.\nReview/kit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: h
- ttps://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Day night mixup newborns in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Day night mixup newborns in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:3-to-2-nap-transition-tt@napapp.io
 DTSTAMP:20261104T183542Z
 SEQUENCE:0
@@ -878,21 +849,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:day-night-mixup-newborns-tt-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
+DTSTAMP:20261104T192606Z
+SEQUENCE:1
 DTSTART;TZID=America/Toronto:20261105T200000
 DTEND;TZID=America/Toronto:20261105T201500
 SUMMARY:Post: Day night mixup newborns [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: give your go for the FB API post (nothing posts without it)\n\nApproval
- : On hold: needs Denis's approval (one approval for all platforms)\n⚠ Ap
- provals disagree: STATUS line 1 says approved\, but its note says: Nov 03 
- 6:40 PM ET (Bob): package/\, package-ig/ and zips rebuilt from Lee's rende
- r (6 x 9:16\, 6 x 4:5). Old versions in _stale_old/. Still needs Denis's a
- pproval.\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https://m
- edia.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
+ k: hand-post the carousel\n\nApproval: Approved (one approval for all plat
+ forms)\nKit: https://media.napapp.io/posts/2026-11-04-day-night-mixup-newb
+ orns/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-04-day-night-mixup-newborns/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
