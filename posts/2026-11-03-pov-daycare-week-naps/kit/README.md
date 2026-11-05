@@ -22,7 +22,7 @@ Just for laughs, not medical advice. Questions about your baby's sleep? Check wi
 #daycare #workingmom #momlife #parentinghumor
 ```
 
-## Instagram · Wed Nov 4, 8:00 PM ET · Hand-post
+## Instagram · Wed Nov 4, 9:47 PM ET · Hand-post · POSTED
 
 4:5 carousel posted by you by hand (no IG API)
 
@@ -42,7 +42,7 @@ Just for laughs, not medical advice. Questions about your baby's sleep? Check wi
 #daycare #workingmom #momlife #parentinghumor
 ```
 
-## Facebook · Wed Nov 4, 8:00 PM ET · Hand-post
+## Facebook · Wed Nov 4, 9:47 PM ET · Hand-post · POSTED
 
 4:5 carousel posted by you by hand (no FB API)
 

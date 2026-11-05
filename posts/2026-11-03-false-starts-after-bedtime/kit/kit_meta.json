@@ -12,11 +12,11 @@
   "platforms": {
     "tiktok": {
       "date": "2026-11-03",
-      "time": "20:00",
+      "time": "20:58",
       "status": "Posted",
       "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.tiktok.com/@nap_app/video/7704129835899096341"
     },
     "ig": {
       "date": "2026-11-03",
@@ -36,10 +36,10 @@
     }
   },
   "files": {
-    "README.md": "dd613e94bfbe57414f44d13a9e769b0118dd2fcc4cd2a93bc0e7b5378f28f9b9",
+    "README.md": "3e05e7139f90d5f80823940d95a8010e016c1dd34cd8c43624afe762d0e66ff2",
     "fb_caption.txt": "d972b7720b1d036046fedf9fe4f7065a2c0584b08accedf14df1eca15e8b9b88",
     "ig_caption.txt": "cf9d03c060d0a610678f25879fb42f7cab705ef8e4349d955aae4c3177fccad6",
-    "index.html": "4f2d66503d655e92df09b084921be0187d5faf80050f8fea3126773dd0f04dcb",
+    "index.html": "a209779fbfc669874a8b5345c37d4772a1bc6ab4e57709a87d8a01a28f8a0157",
     "tiktok_caption.txt": "6b20ebb036b0fb01fa1bd64766465b6f97baf0aeaabebcc25e15d1887cf6809b"
   },
   "refs": {

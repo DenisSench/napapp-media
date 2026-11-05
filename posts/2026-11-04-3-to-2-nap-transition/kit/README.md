@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../reel_kit/reel.mp4
 
-## TikTok · Wed Nov 4, 12:30 PM ET · Hand-post · POSTED
+## TikTok · Wed Nov 4, 1:21 PM ET · Hand-post · POSTED
 
 video posted by you by hand (no inbox draft for video slots)
 
