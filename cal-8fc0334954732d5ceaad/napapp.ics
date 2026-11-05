@@ -720,31 +720,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:pov-daycare-week-naps-tt@napapp.io
-DTSTAMP:20261105T140304Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261104T200000
-DTEND;TZID=America/Toronto:20261104T201500
-SUMMARY:Post: Pov daycare week naps [TT]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n\nApproval: Approved (one approval for all platforms)\nKit: https:/
- /media.napapp.io/posts/2026-11-03-pov-daycare-week-naps/kit/\nDashboard: h
- ttps://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-03-pov-daycare-week-naps/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Pov daycare week naps [TT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Pov daycare week naps [TT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:pov-daycare-week-naps-ig-fb@napapp.io
 DTSTAMP:20261105T140304Z
 SEQUENCE:0
