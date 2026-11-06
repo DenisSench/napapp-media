@@ -107,15 +107,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2-to-1-nap-transition-tt@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
+DTSTAMP:20261106T191152Z
+SEQUENCE:1
 DTSTART;TZID=America/Toronto:20261031T204200
 DTEND;TZID=America/Toronto:20261031T205700
 SUMMARY:✅ Posted: 2 to 1 nap transition [TT]
 DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n\nApproval: Approved (one approval for all platforms)\nPlatforms on
-  different days: TikTok 2026-10-31 20:42\, IG 2026-11-10 12:30\, FB 2026-1
- 1-10 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https:/
+  different days: TikTok 2026-10-31 20:42\, IG 2026-11-13 12:30\, FB 2026-1
+ 1-13 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https:/
  /media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/cal-lvt4wit7/
 TRANSP:TRANSPARENT
@@ -232,15 +232,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:week-wake-window-recap-tt@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
+DTSTAMP:20261106T191152Z
+SEQUENCE:1
 DTSTART;TZID=America/Toronto:20261101T190000
 DTEND;TZID=America/Toronto:20261101T191500
 SUMMARY:✅ Posted: Week wake window recap [TT]
 DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n\nApproval: Approved (one approval for all platforms)\nPlatforms on
-  different days: TikTok 2026-11-01 19:00\, IG 2026-11-09 20:00\, FB 2026-1
- 1-09 20:00\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https:/
+  different days: TikTok 2026-11-01 19:00\, IG 2026-11-11 12:30\, FB 2026-1
+ 1-11 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https:/
  /media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/cal-lvt4wit7/
 TRANSP:TRANSPARENT
@@ -692,6 +692,32 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:approve-nap-time-noise@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:1
+DTSTART;TZID=America/Toronto:20261106T090000
+DTEND;TZID=America/Toronto:20261106T091500
+SUMMARY:Approve: Nap time noise
+DESCRIPTION:nap-time-noise is 'Needs approval' and is due 2026-11-07 20:00 
+ ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve or sk
+ ip it in the Commander chat (or the dashboard's Approve button).\nReview/k
+ it: https://media.napapp.io/cal-lvt4wit7/review/nap-time-noise/\nDashboard
+ : https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/nap-time-noise/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Nap time noise in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Nap time noise in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:why-baby-fights-bedtime-tt-ig-fb@napapp.io
 DTSTAMP:20261104T183542Z
 SEQUENCE:0
@@ -745,321 +771,11 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:consistent-morning-wake-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261107T123000
-DTEND;TZID=America/Toronto:20261107T124500
-SUMMARY:Post: Consistent morning wake [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Approved (one approval for all plat
- forms)\nKit: https://media.napapp.io/posts/2026-11-07-consistent-morning-w
- ake/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-07-consistent-morning-wake/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Consistent morning wake [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Consistent morning wake [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:naps-away-from-home-tt-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261107T200000
-DTEND;TZID=America/Toronto:20261107T201500
-SUMMARY:Post: Naps away from home [TT/IG/FB]
-DESCRIPTION:• TikTok: post the video by hand from the kit\n• Instagram:
-  post the Reel by hand\n• Facebook: post the Reel by hand\n\nApproval: A
- pproved (one approval for all platforms)\nKit: https://media.napapp.io/cal
- -lvt4wit7/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Naps away from home [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Naps away from home [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:bedtime-routine-steps-tt-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261108T200000
-DTEND;TZID=America/Toronto:20261108T201500
-SUMMARY:Post: Bedtime routine steps [TT/IG/FB]
-DESCRIPTION:• TikTok: post the video by hand from the kit\n• Instagram:
-  post the Reel by hand\n• Facebook: post the Reel by hand\n\nApproval: P
- lanned (one approval for all platforms)\nKit: https://media.napapp.io/cal-
- lvt4wit7/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Bedtime routine steps [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Bedtime routine steps [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-nap-time-noise@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261109T090000
-DTEND;TZID=America/Toronto:20261109T091500
-SUMMARY:Approve: Nap time noise
-DESCRIPTION:nap-time-noise is 'Needs approval' and is due 2026-11-10 20:00 
- ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve or sk
- ip it in the Commander chat (or the dashboard's Approve button).\nReview/k
- it: https://media.napapp.io/cal-lvt4wit7/review/nap-time-noise/\nDashboard
- : https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/nap-time-noise/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Nap time noise in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Nap time noise in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:me-vs-baby-bedtime-ig-fb@napapp.io
-DTSTAMP:20261104T184457Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261109T123000
-DTEND;TZID=America/Toronto:20261109T124500
-SUMMARY:Post: Me vs baby bedtime [IG/FB]
-DESCRIPTION:• Instagram: post the Reel by hand\n• Facebook: post the Re
- el by hand\n\nApproval: Approved (published) (one approval for all platfor
- ms)\nPlatforms on different days: TikTok 2026-10-25 21:08\, IG 2026-11-09 
- 12:30\, FB 2026-11-09 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/\nD
- ashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Me vs baby bedtime [IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Me vs baby bedtime [IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:week-wake-window-recap-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261109T200000
-DTEND;TZID=America/Toronto:20261109T201500
-SUMMARY:Post: Week wake window recap [IG/FB]
-DESCRIPTION:• Instagram: hand-post the slideshow Reel (Option B)\n• Fac
- ebook: hand-post the carousel\n\nApproval: Approved (one approval for all 
- platforms)\nPlatforms on different days: TikTok 2026-11-01 19:00\, IG 2026
- -11-09 20:00\, FB 2026-11-09 20:00\nKit: https://media.napapp.io/cal-lvt4w
- it7/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Week wake window recap [IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Week wake window recap [IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-unsolicited-sleep-advice@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261110T090000
-DTEND;TZID=America/Toronto:20261110T091500
-SUMMARY:Approve: Unsolicited sleep advice
-DESCRIPTION:unsolicited-sleep-advice is 'Needs approval' and is due 2026-11
- -11 12:30 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. App
- rove or skip it in the Commander chat (or the dashboard's Approve button).
- \nReview/kit: https://media.napapp.io/cal-lvt4wit7/review/unsolicited-slee
- p-advice/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/unsolicited-sleep-advice/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Unsolicited sleep advice in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Unsolicited sleep advice in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:2-to-1-nap-transition-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261110T123000
-DTEND;TZID=America/Toronto:20261110T124500
-SUMMARY:Post: 2 to 1 nap transition [IG/FB]
-DESCRIPTION:• Instagram: post the Reel by hand\n• Facebook: post the Re
- el by hand\n\nApproval: Approved (one approval for all platforms)\nPlatfor
- ms on different days: TikTok 2026-10-31 20:42\, IG 2026-11-10 12:30\, FB 2
- 026-11-10 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: ht
- tps://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: 2 to 1 nap transition [IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: 2 to 1 nap transition [IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:nap-time-noise-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261110T200000
-DTEND;TZID=America/Toronto:20261110T201500
-SUMMARY:Post: Nap time noise [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Needs approval (one approval for al
- l platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/nap-time-no
- ise/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/nap-time-noise/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Nap time noise [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Nap time noise [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-running-on-empty@napapp.io
-DTSTAMP:20261105T140304Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261111T090000
-DTEND;TZID=America/Toronto:20261111T091500
-SUMMARY:Approve: Running on empty
-DESCRIPTION:running-on-empty is 'Needs approval' and is due 2026-11-12 20:0
- 0 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve or 
- skip it in the Commander chat (or the dashboard's Approve button).\nReview
- /kit: https://media.napapp.io/cal-lvt4wit7/review/running-on-empty/\nDashb
- oard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/running-on-empty/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Running on empty in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Running on empty in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:unsolicited-sleep-advice-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261111T123000
-DTEND;TZID=America/Toronto:20261111T124500
-SUMMARY:Post: Unsolicited sleep advice [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Needs approval (one approval for al
- l platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/unsolicited
- -sleep-advice/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/unsolicited-sleep-advice/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Unsolicited sleep advice [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Unsolicited sleep advice [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-sleep-comparison@napapp.io
-DTSTAMP:20261106T142251Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261112T090000
-DTEND;TZID=America/Toronto:20261112T091500
-SUMMARY:Approve: Sleep comparison
-DESCRIPTION:sleep-comparison is 'Needs approval' and is due 2026-11-13 12:3
- 0 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve or 
- skip it in the Commander chat (or the dashboard's Approve button).\nReview
- /kit: https://media.napapp.io/cal-lvt4wit7/review/sleep-comparison/\nDashb
- oard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/sleep-comparison/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Sleep comparison in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Sleep comparison in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:newborn-evening-shift-tt-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261112T123000
-DTEND;TZID=America/Toronto:20261112T124500
+DTSTAMP:20261106T191152Z
+SEQUENCE:1
+DTSTART;TZID=America/Toronto:20261107T170000
+DTEND;TZID=America/Toronto:20261107T171500
 SUMMARY:Post: Newborn evening shift [TT/IG/FB]
 DESCRIPTION:• TikTok: post the video by hand from the kit\n• Instagram:
   post the Reel by hand\n• Facebook: post the Reel by hand\n\nApproval: A
@@ -1081,89 +797,375 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:running-on-empty-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261112T200000
-DTEND;TZID=America/Toronto:20261112T201500
-SUMMARY:Post: Running on empty [TT/IG/FB]
+UID:nap-time-noise-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261107T200000
+DTEND;TZID=America/Toronto:20261107T201500
+SUMMARY:Post: Nap time noise [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Needs approval (one approval for al
- l platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/running-on-
- empty/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/running-on-empty/
+ k: hand-post the slideshow Reel\n\nApproval: Needs approval (one approval 
+ for all platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/nap-t
+ ime-noise/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/nap-time-noise/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Running on empty [TT/IG/FB] in 30 min
+DESCRIPTION:Post: Nap time noise [TT/IG/FB] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Running on empty [TT/IG/FB] in 5 min
+DESCRIPTION:Post: Nap time noise [TT/IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:sleep-comparison-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
+UID:approve-unsolicited-sleep-advice@napapp.io
+DTSTAMP:20261106T191152Z
 SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261113T123000
-DTEND;TZID=America/Toronto:20261113T124500
-SUMMARY:Post: Sleep comparison [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Needs approval (one approval for al
- l platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/sleep-compa
- rison/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/sleep-comparison/
+DTSTART;TZID=America/Toronto:20261108T090000
+DTEND;TZID=America/Toronto:20261108T091500
+SUMMARY:Approve: Unsolicited sleep advice
+DESCRIPTION:unsolicited-sleep-advice is 'Needs approval' and is due 2026-11
+ -09 20:00 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. App
+ rove or skip it in the Commander chat (or the dashboard's Approve button).
+ \nReview/kit: https://media.napapp.io/cal-lvt4wit7/review/unsolicited-slee
+ p-advice/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/unsolicited-sleep-advice/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Sleep comparison [TT/IG/FB] in 30 min
+DESCRIPTION:Approve: Unsolicited sleep advice in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Sleep comparison [TT/IG/FB] in 5 min
+DESCRIPTION:Approve: Unsolicited sleep advice in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:wake-windows-7-12m-ig-fb@napapp.io
-DTSTAMP:20261104T184457Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261113T200000
-DTEND;TZID=America/Toronto:20261113T201500
-SUMMARY:Post: Wake windows 7-12m [IG/FB]
+UID:me-vs-baby-bedtime-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261108T170000
+DTEND;TZID=America/Toronto:20261108T171500
+SUMMARY:Post: Me vs baby bedtime [IG/FB]
 DESCRIPTION:• Instagram: post the Reel by hand\n• Facebook: post the Re
  el by hand\n\nApproval: Approved (published) (one approval for all platfor
- ms)\nPlatforms on different days: TikTok 2026-10-25 10:02\, IG 2026-11-13 
- 20:00\, FB 2026-11-13 20:00\nKit: https://media.napapp.io/cal-lvt4wit7/\nD
+ ms)\nPlatforms on different days: TikTok 2026-10-25 21:08\, IG 2026-11-08 
+ 17:00\, FB 2026-11-08 17:00\nKit: https://media.napapp.io/cal-lvt4wit7/\nD
  ashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/cal-lvt4wit7/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Wake windows 7-12m [IG/FB] in 30 min
+DESCRIPTION:Post: Me vs baby bedtime [IG/FB] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Wake windows 7-12m [IG/FB] in 5 min
+DESCRIPTION:Post: Me vs baby bedtime [IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:naps-away-from-home-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:1
+DTSTART;TZID=America/Toronto:20261108T200000
+DTEND;TZID=America/Toronto:20261108T201500
+SUMMARY:Post: Naps away from home [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the Reel\n• Facebook: hand-post the slid
+ eshow Reel\n\nApproval: Approved (one approval for all platforms)\nKit: ht
+ tps://media.napapp.io/posts/2026-11-07-naps-away-from-home/kit/\nDashboard
+ : https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-07-naps-away-from-home/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Naps away from home [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Naps away from home [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-newborn-things-not-wrong@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261109T090000
+DTEND;TZID=America/Toronto:20261109T091500
+SUMMARY:Approve: Newborn things not wrong
+DESCRIPTION:newborn-things-not-wrong is 'Needs approval' and is due 2026-11
+ -10 17:00 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. App
+ rove or skip it in the Commander chat (or the dashboard's Approve button).
+ \nReview/kit: https://media.napapp.io/cal-lvt4wit7/review/newborn-things-n
+ ot-wrong/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/newborn-things-not-wrong/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Newborn things not wrong in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Newborn things not wrong in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:consistent-morning-wake-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261109T123000
+DTEND;TZID=America/Toronto:20261109T124500
+SUMMARY:Post: Consistent morning wake [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/posts/2026-11-07-consistent-mor
+ ning-wake/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-07-consistent-morning-wake/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Consistent morning wake [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Consistent morning wake [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:unsolicited-sleep-advice-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261109T200000
+DTEND;TZID=America/Toronto:20261109T201500
+SUMMARY:Post: Unsolicited sleep advice [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Needs approval (one approval 
+ for all platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/unsol
+ icited-sleep-advice/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/unsolicited-sleep-advice/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Unsolicited sleep advice [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Unsolicited sleep advice [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-newborn-sleep-log-receipt@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261110T090000
+DTEND;TZID=America/Toronto:20261110T091500
+SUMMARY:Approve: Newborn sleep log receipt
+DESCRIPTION:newborn-sleep-log-receipt is 'Needs approval' and is due 2026-1
+ 1-11 20:00 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Ap
+ prove or skip it in the Commander chat (or the dashboard's Approve button)
+ .\nReview/kit: https://media.napapp.io/cal-lvt4wit7/review/newborn-sleep-l
+ og-receipt/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/newborn-sleep-log-receipt/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Newborn sleep log receipt in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Newborn sleep log receipt in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:newborn-things-not-wrong-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261110T170000
+DTEND;TZID=America/Toronto:20261110T171500
+SUMMARY:Post: Newborn things not wrong [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Needs approval (one approval 
+ for all platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/newbo
+ rn-things-not-wrong/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/newborn-things-not-wrong/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Newborn things not wrong [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Newborn things not wrong [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pov-night-shift-swap-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261110T200000
+DTEND;TZID=America/Toronto:20261110T201500
+SUMMARY:Post: Pov night shift swap [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Planned (one approval for all
+  platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https:
+ //media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Pov night shift swap [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Pov night shift swap [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-back-to-work-tired@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261111T090000
+DTEND;TZID=America/Toronto:20261111T091500
+SUMMARY:Approve: Back to work tired
+DESCRIPTION:back-to-work-tired is 'Needs approval' and is due 2026-11-12 12
+ :30 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve o
+ r skip it in the Commander chat (or the dashboard's Approve button).\nRevi
+ ew/kit: https://media.napapp.io/cal-lvt4wit7/review/back-to-work-tired/\nD
+ ashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/back-to-work-tired/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Back to work tired in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Back to work tired in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-bedtime-routine-steps@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261111T090000
+DTEND;TZID=America/Toronto:20261111T091500
+SUMMARY:Approve: Bedtime routine steps
+DESCRIPTION:bedtime-routine-steps is 'Needs approval' and is due 2026-11-12
+  20:00 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approv
+ e or skip it in the Commander chat (or the dashboard's Approve button).\nR
+ eview/kit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https://media
+ .napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Bedtime routine steps in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Bedtime routine steps in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-nursery-setup@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261111T090000
+DTEND;TZID=America/Toronto:20261111T091500
+SUMMARY:Approve: Nursery setup
+DESCRIPTION:nursery-setup is 'Needs approval' and is due 2026-11-12 17:00 E
+ T on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve or ski
+ p it in the Commander chat (or the dashboard's Approve button).\nReview/ki
+ t: https://media.napapp.io/cal-lvt4wit7/review/nursery-setup/\nDashboard: 
+ https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/nursery-setup/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Nursery setup in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Nursery setup in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:week-wake-window-recap-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261111T123000
+DTEND;TZID=America/Toronto:20261111T124500
+SUMMARY:Post: Week wake window recap [IG/FB]
+DESCRIPTION:• Instagram: hand-post the slideshow Reel (Option B)\n• Fac
+ ebook: hand-post the slideshow Reel\n\nApproval: Approved (one approval fo
+ r all platforms)\nPlatforms on different days: TikTok 2026-11-01 19:00\, I
+ G 2026-11-11 12:30\, FB 2026-11-11 12:30\nKit: https://media.napapp.io/cal
+ -lvt4wit7/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Week wake window recap [IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Week wake window recap [IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:newborn-sleep-log-receipt-tt-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261114T123000
-DTEND;TZID=America/Toronto:20261114T124500
+DTSTAMP:20261106T191152Z
+SEQUENCE:1
+DTSTART;TZID=America/Toronto:20261111T200000
+DTEND;TZID=America/Toronto:20261111T201500
 SUMMARY:Post: Newborn sleep log receipt [TT/IG/FB]
 DESCRIPTION:• TikTok: post the video by hand from the kit\n• Instagram:
   post the Reel by hand\n• Facebook: post the Reel by hand\n\nApproval: N
@@ -1185,17 +1187,69 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:nursery-setup-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
+UID:approve-running-on-empty@napapp.io
+DTSTAMP:20261106T191152Z
 SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261114T200000
-DTEND;TZID=America/Toronto:20261114T201500
+DTSTART;TZID=America/Toronto:20261112T090000
+DTEND;TZID=America/Toronto:20261112T091500
+SUMMARY:Approve: Running on empty
+DESCRIPTION:running-on-empty is 'Needs approval' and is due 2026-11-13 20:0
+ 0 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve or 
+ skip it in the Commander chat (or the dashboard's Approve button).\nReview
+ /kit: https://media.napapp.io/cal-lvt4wit7/review/running-on-empty/\nDashb
+ oard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/running-on-empty/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Running on empty in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Running on empty in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:back-to-work-tired-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261112T123000
+DTEND;TZID=America/Toronto:20261112T124500
+SUMMARY:Post: Back to work tired [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Needs approval (one approval 
+ for all platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/back-
+ to-work-tired/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/back-to-work-tired/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Back to work tired [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Back to work tired [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:nursery-setup-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261112T170000
+DTEND;TZID=America/Toronto:20261112T171500
 SUMMARY:Post: Nursery setup [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Needs approval (one approval for al
- l platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/nursery-set
- up/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+ k: hand-post the slideshow Reel\n\nApproval: Needs approval (one approval 
+ for all platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/nurse
+ ry-setup/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/cal-lvt4wit7/review/nursery-setup/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -1211,28 +1265,183 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:back-to-work-tired-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
+UID:bedtime-routine-steps-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
 SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261115T123000
-DTEND;TZID=America/Toronto:20261115T124500
-SUMMARY:Post: Back to work tired [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Needs approval (one approval for al
- l platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/back-to-wor
- k-tired/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/back-to-work-tired/
+DTSTART;TZID=America/Toronto:20261112T200000
+DTEND;TZID=America/Toronto:20261112T201500
+SUMMARY:Post: Bedtime routine steps [TT/IG/FB]
+DESCRIPTION:• TikTok: post the video by hand from the kit\n• Instagram:
+  post the Reel by hand\n• Facebook: post the Reel by hand\n\nApproval: N
+ eeds approval (one approval for all platforms)\nKit: https://media.napapp.
+ io/cal-lvt4wit7/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Back to work tired [TT/IG/FB] in 30 min
+DESCRIPTION:Post: Bedtime routine steps [TT/IG/FB] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Back to work tired [TT/IG/FB] in 5 min
+DESCRIPTION:Post: Bedtime routine steps [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2-to-1-nap-transition-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:1
+DTSTART;TZID=America/Toronto:20261113T123000
+DTEND;TZID=America/Toronto:20261113T124500
+SUMMARY:Post: 2 to 1 nap transition [IG/FB]
+DESCRIPTION:• Instagram: post the Reel by hand\n• Facebook: post the Re
+ el by hand\n\nApproval: Approved (one approval for all platforms)\nPlatfor
+ ms on different days: TikTok 2026-10-31 20:42\, IG 2026-11-13 12:30\, FB 2
+ 026-11-13 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: ht
+ tps://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: 2 to 1 nap transition [IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: 2 to 1 nap transition [IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:running-on-empty-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261113T200000
+DTEND;TZID=America/Toronto:20261113T201500
+SUMMARY:Post: Running on empty [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Needs approval (one approval 
+ for all platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/runni
+ ng-on-empty/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/running-on-empty/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Running on empty [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Running on empty [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:me-vs-baby-monitor-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261114T123000
+DTEND;TZID=America/Toronto:20261114T124500
+SUMMARY:Post: Me vs baby monitor [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Needs approval (one approval 
+ for all platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/me-vs
+ -baby-monitor/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/me-vs-baby-monitor/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Me vs baby monitor [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Me vs baby monitor [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:night-wakes-by-age-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261114T170000
+DTEND;TZID=America/Toronto:20261114T171500
+SUMMARY:Post: Night wakes by age [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Planned (one approval for all
+  platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https:
+ //media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Night wakes by age [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Night wakes by age [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:sleep-comparison-tt-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261114T200000
+DTEND;TZID=America/Toronto:20261114T201500
+SUMMARY:Post: Sleep comparison [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Needs approval (one approval 
+ for all platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/sleep
+ -comparison/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/sleep-comparison/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Sleep comparison [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Sleep comparison [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:wake-windows-7-12m-ig-fb@napapp.io
+DTSTAMP:20261106T191152Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261115T123000
+DTEND;TZID=America/Toronto:20261115T124500
+SUMMARY:Post: Wake windows 7-12m [IG/FB]
+DESCRIPTION:• Instagram: post the Reel by hand\n• Facebook: post the Re
+ el by hand\n\nApproval: Approved (published) (one approval for all platfor
+ ms)\nPlatforms on different days: TikTok 2026-10-25 10:02\, IG 2026-11-15 
+ 12:30\, FB 2026-11-15 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/\nD
+ ashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Wake windows 7-12m [IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Wake windows 7-12m [IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -1258,110 +1467,6 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Post: Real reason bedtime battles [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:me-vs-baby-monitor-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261116T123000
-DTEND;TZID=America/Toronto:20261116T124500
-SUMMARY:Post: Me vs baby monitor [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Needs approval (one approval for al
- l platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/me-vs-baby-
- monitor/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/me-vs-baby-monitor/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Me vs baby monitor [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Me vs baby monitor [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:night-wakes-by-age-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261117T123000
-DTEND;TZID=America/Toronto:20261117T124500
-SUMMARY:Post: Night wakes by age [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Planned (one approval for all platf
- orms)\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https://medi
- a.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Night wakes by age [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Night wakes by age [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pov-night-shift-swap-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261118T123000
-DTEND;TZID=America/Toronto:20261118T124500
-SUMMARY:Post: Pov night shift swap [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Planned (one approval for all platf
- orms)\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https://medi
- a.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Pov night shift swap [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Pov night shift swap [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:newborn-things-not-wrong-tt-ig-fb@napapp.io
-DTSTAMP:20261106T181449Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261119T123000
-DTEND;TZID=America/Toronto:20261119T124500
-SUMMARY:Post: Newborn things not wrong [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the carousel\n\nApproval: Needs approval (one approval for al
- l platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/newborn-thi
- ngs-not-wrong/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/newborn-things-not-wrong/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Newborn things not wrong [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Newborn things not wrong [TT/IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
