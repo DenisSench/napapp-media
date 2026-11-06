@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../reel_kit/reel.mp4
 
-## TikTok · Thu Nov 5, 12:30 PM ET · Hand-post
+## TikTok · Thu Nov 5, 1:01 PM ET · Hand-post · POSTED
 
 video posted by you by hand (no inbox draft for video slots)
 
@@ -25,7 +25,7 @@ Just for laughs, not medical advice. If your baby seems unwell or you're worried
 #momlife #parentinghumor #teething #babysleep
 ```
 
-## Instagram · Thu Nov 5, 12:30 PM ET · Hand-post
+## Instagram · Thu Nov 5, 12:59 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
@@ -46,7 +46,7 @@ Just for laughs, not medical advice. If your baby seems unwell or you're worried
 #momlife #parentinghumor #teething #babysleep
 ```
 
-## Facebook · Thu Nov 5, 12:30 PM ET · Hand-post
+## Facebook · Thu Nov 5, 12:59 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 

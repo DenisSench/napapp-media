@@ -12,34 +12,34 @@
   "platforms": {
     "tiktok": {
       "date": "2026-11-05",
-      "time": "12:30",
-      "status": "Approved",
-      "posted": false,
+      "time": "13:01",
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.tiktok.com/@nap_app/video/7704749101182749973"
     },
     "ig": {
       "date": "2026-11-05",
-      "time": "12:30",
-      "status": "Approved",
-      "posted": false,
+      "time": "12:59",
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.instagram.com/reel/DfXn50vgJc8/"
     },
     "fb": {
       "date": "2026-11-05",
-      "time": "12:30",
-      "status": "Approved",
-      "posted": false,
+      "time": "12:59",
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     }
   },
   "files": {
-    "README.md": "8afef14e99fd9530805c4e699fe693df3da25e08d9a2defd7bb968e066d98be4",
+    "README.md": "e0a5956e6fda8ae2c1bd4387d699549398b81f5777cdd7eb16082bf296fead12",
     "fb_caption.txt": "477ce071f5521cba50a29b34bed5f507e35b61131ad4e5cb639a3893b3da2638",
     "ig_caption.txt": "40638d922cad96b195a2bb8c6ec51ef53b0d0d401733c135a51044520042c5a2",
-    "index.html": "62dc4f2b668d19468a10784d3d65d61ce61f18732c6a4ba9564317c03397ed5e",
+    "index.html": "8e7fc7447667ac9174b72456fd0e29452e159266f32881d50ba167ae67a61fd1",
     "tiktok_caption.txt": "aafa0992d8203efda05047ac969a53beadd6a273f437b3b9a18b9377d302e418"
   },
   "refs": {

@@ -34,7 +34,7 @@ Dinner was going so well. Who else gets the evening shift? Every baby is differe
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** Approved silent 11.7 s Reel (real-app demo), Thu Nov 12 12:30 PM ET on TikTok, IG and FB. Calm, soft mood suits a newborn evening-shift demo: no hype, spooky or tense tracks, no Christmas songs, no 'the feeling', no Angel Of My Dreams (lyrics). TikTok: Chopin Nocturne No. 2 first (cleared for business, evergreen); confirm each sound in the business account's Commercial Music Library picker before posting. IG: open the audio link in the Instagram app and tap 'Use audio' (not Business Suite); pick a soft section, since 11.7 s is short and loops. FB Page: 'Royalty-free' Sound Collection only, or re-render with --track soft-as-a-dry-pillow (CC0) and upload with no in-app sound. Don't boost a Reel with a licensed song. Picks are 9 days out, so the daily refresh will re-check them. REFRESH Nov 4, 9:20 AM ET: no pick changes. TikTok: Octohog's chart was refreshing and unreadable; Kabo's Nov 4 board has Coming Up Roses up to #9, and Sick Beat and Ain't Nobody Else Like You outside its top 20, so treat those two as calm fits rather than trend plays. IG: Salvatore still 'rising fast' on Tracygram's Nov 4 Global chart (#10); SocialPilot's Oct 31-Nov 10 list unchanged. Christmas sounds still held back.
+> **Notes for this post:** Approved silent 11.7 s Reel (real-app demo), Thu Nov 12 12:30 PM ET on TikTok, IG and FB. Calm, soft mood suits a newborn evening-shift demo: no hype, spooky or tense tracks, no Christmas songs, no 'the feeling', no Angel Of My Dreams (lyrics). TikTok: Chopin Nocturne No. 2 first (cleared for business, evergreen); confirm each sound in the business account's Commercial Music Library picker before posting. IG: open the audio link in the Instagram app and tap 'Use audio' (not Business Suite); pick a soft section, since 11.7 s is short and loops. FB Page: 'Royalty-free' Sound Collection only, or re-render with --track soft-as-a-dry-pillow (CC0) and upload with no in-app sound. Don't boost a Reel with a licensed song. Picks are 9 days out, so the daily refresh will re-check them. REFRESH Nov 4, 9:20 AM ET: no pick changes. TikTok: Octohog's chart was refreshing and unreadable; Kabo's Nov 4 board has Coming Up Roses up to #9, and Sick Beat and Ain't Nobody Else Like You outside its top 20, so treat those two as calm fits rather than trend plays. IG: Salvatore still 'rising fast' on Tracygram's Nov 4 Global chart (#10); SocialPilot's Oct 31-Nov 10 list unchanged. Christmas sounds still held back. REFRESH Nov 6, 9:20 AM ET: meaningful prune. TikTok: Kabo Nov 6 board (snapshot 00:10 UTC) has Coming Up Roses at #11 and The Only Exception back at #19 with only +201 videos (~0.1%), so treat #19 as fading — drop The Only Exception from window TikTok lists; keep Sick Beat / Cass Elliot / Chopin as calm/uncrowded cleared fits (none of those three appear in Kabo's recognizable top 20 today). Octohog public chart still unusable. IG: Salvatore remains absent from Tracygram's Nov 6 Global top 10 (confirmed still out after Nov 5 drop); SocialPilot's Oct 31–Nov 10 list still lists Hold On #7, Everlong #10, Linger #11, Sunshine #12 Rising — swap Salvatore out of any remaining window picks for Everlong (already-URL'd). Christmas/holiday sounds still held back for sleep posts. New Tracygram Global #1–10 (Housewife, Choosin' Texas, Janice STFU, etc.) skipped as poor fit for calm baby-sleep explainers.
 
 - **Sunshine (Instrumental)** · Twista (primary)
   - link: https://www.instagram.com/reels/audio/2920100688130624/
@@ -48,12 +48,12 @@ Dinner was going so well. Who else gets the evening shift? Every baby is differe
   - how: Best: open https://www.instagram.com/reels/audio/192068608180555/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Linger The Cranberries', then pick the result whose artist is exactly 'The Cranberries' (not a cover, sped-up version or 'original audio').
   - trend: SocialPilot Oct 31 - Nov 10, 2026: #11, Rising, 117K reels, 'wistful, cozy'
   - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
-- **Salvatore** · Lana Del Rey (backup)
-  - link: https://www.instagram.com/reels/audio/191646934740785/
-  - why: Slow, dreamy and soft; a calm late-night mood that sits under text-heavy sleep slides without fighting them
-  - how: Best: open https://www.instagram.com/reels/audio/191646934740785/ on the phone and tap 'Use audio' (exact track). Or Add audio and search 'Salvatore Lana Del Rey', and pick the result whose artist is exactly 'Lana Del Rey' (not a cover, sped-up version or 'original audio'). Tracygram marks the most-used section around 3:20, so pick that part or a soft early section.
-  - trend: Tracygram Global 'Rising fast' list on Nov 3, 2026 (still rising; it was #6 on Nov 1 and #8 on Nov 2, 207K reels, not explicit)
-  - confidence: MEDIUM: rising on IG per Tracygram's Nov 3 chart (official audio page link); availability on @getnapapp (Creator, Canada) UNVERIFIED until it appears in the picker; lyrics/section not listened to
+- **Everlong** · Foo Fighters (backup)
+  - link: https://www.instagram.com/reels/audio/1799705850076187/
+  - why: Slow-build alternative after Salvatore left the Global chart
+  - how: Best: open https://www.instagram.com/reels/audio/1799705850076187/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Everlong Foo Fighters', then pick the result whose artist is exactly 'Foo Fighters' (not a cover, sped-up version or 'original audio').
+  - trend: SocialPilot Oct 31 - Nov 10, 2026: #10, Rising, 123K reels ('how it started vs how it's going'); CreatorDB Oct 28: #44 Spotify US +18; Salvatore still absent Tracygram Nov 6 Global top 10 (re-checked Nov 6)
+  - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
 
 **Instagram backup (royalty-free):**
 
@@ -89,7 +89,7 @@ Dinner was going so well. Who else gets the evening shift? Every baby is differe
 - Sick Beat (https://www.tiktok.com/music/sick-beat-6786861842716166145) · Kero Kero Bonito
   - why: Bright and playful, back on Kabo's board (#20) Nov 3; replaces the feeling (Steve Lacy), off Kabo's top 20 since Nov 2 [Octohog: Cleared, Oct 30 11:41 PM ET]
 
-Picks as of Nov 4, 2026, 9:20 AM ET
+Picks as of Nov 6, 2026, 9:20 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
