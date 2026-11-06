@@ -1,6 +1,8 @@
 {
   "post": "2026-11-04-3-to-2-nap-transition",
   "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",

@@ -1,6 +1,8 @@
 {
   "post": "2026-11-07-consistent-morning-wake",
   "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-v1.mp4",
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -31,15 +33,16 @@
       "time": "12:30",
       "status": "Approved",
       "posted": false,
-      "mode": "api",
+      "mode": "hand",
       "url": ""
     }
   },
   "files": {
-    "README.md": "f2755f7c5e94af5319d251b01a8ac8c85a9a2819a111990ff981d95c374d8738",
+    "README.md": "99d9a806f9e618f113231c305ac46086fcec980684c41a9ea6cc9f9f5aaaf165",
     "fb_caption.txt": "ee1db73530d35253516d3be3018debb31220b972b5d060323ce6db8156759668",
     "ig_caption.txt": "35162554eeac91b4c3655223d47bf9d22d093ae4c279cec5d5928b617b260328",
-    "index.html": "b2ac70411455b58904b5b60384df542606c355c31a0eb47bbcfae62825c6e86f",
+    "index.html": "fdf2d04db48c0b5d60c7965b2744bbe19eb6cb9b5a30959a397c5d498bc1fe94",
+    "reel-preview-slideshow-v1.mp4": "b7ff48a5c16bd95c2a4634c9cf16c6b021eb3534a4d8b3233346d805254d7475",
     "tiktok_caption.txt": "e53b37d0599cd9099cc97872cdd75ff145fb004c0f33fc595a4fc03312e85034"
   },
   "refs": {

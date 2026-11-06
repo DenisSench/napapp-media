@@ -1,6 +1,8 @@
 {
   "post": "2026-11-05-total-sleep-by-age",
   "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Awaiting Denis's final OK (approve when posting)",

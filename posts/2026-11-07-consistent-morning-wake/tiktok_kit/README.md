@@ -90,7 +90,7 @@ Sources: Cleveland Clinic, NHS. Not medical advice. Check with your pediatrician
 
 ## Instagram + Facebook: Hand-posted
 
-Posted BY HAND (Instagram); no API. 4:5 slides in 4x5/ and slides-4x5.zip.
+Posted BY HAND (Instagram + Facebook); no API. 4:5 slides in 4x5/ and slides-4x5.zip.
 
 1. Download the 4:5 slides: slides-4x5.zip or each slide below (6 images, 1080x1350, in order).
 2. Instagram (@getnapapp): + → Post → select 01 → 06 in order → Add music (Instagram pick below) → paste the IG caption → Share. No AI label.

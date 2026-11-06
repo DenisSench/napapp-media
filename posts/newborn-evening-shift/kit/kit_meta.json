@@ -1,6 +1,8 @@
 {
   "post": "newborn-evening-shift",
   "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",

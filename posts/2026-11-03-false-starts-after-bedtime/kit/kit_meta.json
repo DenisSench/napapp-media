@@ -1,6 +1,8 @@
 {
   "post": "2026-11-03-false-starts-after-bedtime",
   "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",

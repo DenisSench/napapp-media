@@ -1,6 +1,8 @@
 {
   "post": "2026-11-04-day-night-mixup-newborns",
   "kind": "carousel",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -39,7 +41,7 @@
     "README.md": "d5d60a76cb213db0cb6ed4ef6b351f2609064f10f7a8e3d895ef64137fc76b56",
     "fb_caption.txt": "b51fc0ac5fe79e40fbe048ccee320cf56f4efab263e6c7c211e063f90a78cf1b",
     "ig_caption.txt": "183b6911ca1e84cb4d280aff92a76fc009b89b4774bcb244ab849f3dc0143110",
-    "index.html": "cae7e27bd97e0cc4a22ebea0f69347d3c47a9ae0ec95bcdf3225ffbd5061a736",
+    "index.html": "5eb947067fdd5ba937fd24116b551803b5e5b8f7776645a9b9388e789feba21e",
     "tiktok_caption.txt": "0b886a2dca58eac66d7cd03873f9341f3b45d425c3972f6499f222f44756708f"
   },
   "refs": {

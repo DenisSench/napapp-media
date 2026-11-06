@@ -1,6 +1,8 @@
 {
   "post": "2026-11-02-sleepy-cues-5-signs",
   "kind": "carousel",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -45,7 +47,7 @@
     "README.md": "ac29dead2dffa23ae30c0490de7866396dc618a7632a4606eca63a36dd3225a8",
     "fb_caption.txt": "cc7e25dd4b996f532580162bd0b62f09fce2a28ba1383315eb4ee1b64376b46f",
     "ig_caption.txt": "c0aa644dc59145fd6f8a782ce3d1f76973de343e560775c1e4081338a306c58b",
-    "index.html": "8669abf5e5ea5ebea2b13b5bee205e224938a5601f458c0f98c53a3710a03f69",
+    "index.html": "3079701d347aa1b7030586193ce1bc885aa6ac2270bf2d81dbf31f0563c7e9b0",
     "slides-4x5.zip": "21a58044368d37f9eb02d640cc644d41880ae6039ba4232bcf6b5ef0ea72691a",
     "tiktok_caption.txt": "6b3510fafaeebe3a3bb549b750808a595822a7c5766839ff32f6b3c0209dbfdf"
   },

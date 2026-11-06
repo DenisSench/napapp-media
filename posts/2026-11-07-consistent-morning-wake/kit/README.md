@@ -27,8 +27,10 @@ Sources: Cleveland Clinic, NHS. Not medical advice. Check with your pediatrician
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
-1. Option B: Instagram gets the 9:16 slideshow Reel made from these slides (Lee renders it), posted by you by hand in the Instagram app with an Instagram pick. No IG API.
-2. The slideshow Reel file isn't in this kit yet; Bob/Lee add it before the slot. Paste the IG caption below.
+1. Download reel-preview-slideshow-v1.mp4 (the 9:16 slideshow Reel, top of this page).
+2. Instagram app (@getnapapp): open an Instagram pick's audio link → Use audio → pick the slideshow Reel → Next.
+3. Paste the IG caption. Cover: the first slide (the hook). Don't tick "also share to Facebook".
+4. Share, then send Bob the link.
 
 Caption (tiktok_kit/ig_caption.txt):
 
@@ -42,11 +44,13 @@ Sources: Cleveland Clinic, NHS. Not medical advice. Check with your pediatrician
 #babysleep #babyschedule #morningroutine #parenting
 ```
 
-## Facebook · Sat Nov 7, 12:30 PM ET · API · needs your go
+## Facebook · Sat Nov 7, 12:30 PM ET · Hand-post
 
-posted through the API only after your explicit go at send time
+4:5 carousel posted by you by hand (no FB API)
 
-1. Nothing to do in the app: the 4:5 carousel goes to the Napapp Page through the FB API only after your explicit go at send time. No go, nothing posts.
+1. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-v1.mp4.
+2. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
+3. Paste the FB caption → Post. Send Bob the link.
 
 Caption (tiktok_kit/fb_caption.txt):
 

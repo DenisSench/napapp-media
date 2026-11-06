@@ -1,6 +1,8 @@
 {
   "post": "2026-11-05-why-baby-fights-bedtime",
   "kind": "carousel",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -39,7 +41,7 @@
     "README.md": "e1f7bc558dc5e30cab4449b93e62afb3ecc5265e1db86188367a51741300f525",
     "fb_caption.txt": "c0cf9c577d7f7822ad589454de870fde25a170cdf71632d2c7e18abd118e8034",
     "ig_caption.txt": "33d647fedeefbf63d3b6ab7d58c5658f3eaa812cbe73b511207c58eabfae0fd9",
-    "index.html": "4ddc3e06481aabbdbf476d588fdd1b9a2de667574d9bb0d38c146aa391f90c2e",
+    "index.html": "acde2350241dabb199b1e5e859e8fe7a408bd9b46be47b55fc38a702eca60d42",
     "tiktok_caption.txt": "930364fa964539bdf62bcc0e324ecc133c4e938f8efbf9bec7f925046a8ed4ea"
   },
   "refs": {
