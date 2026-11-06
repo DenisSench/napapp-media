@@ -1,0 +1,48 @@
+{
+  "post": "2026-11-05-total-sleep-by-age",
+  "kind": "video",
+  "approval": {
+    "state": "approved",
+    "label": "Awaiting Denis's final OK (approve when posting)",
+    "source": "AWAITING_FINAL_OK.txt",
+    "note": "Awaiting Denis's final OK (approve when posting). Reel kit built Nov 6 12:50 PM ET from reel-preview-v2-trim-proposal.mp4 (<=~8 words/frame). No REEL_APPROVED.txt on purpose."
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "72b38756666cc089",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-06",
+      "time": "20:00",
+      "status": "Awaiting Denis's final OK (approve when posting)",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-06",
+      "time": "20:00",
+      "status": "Awaiting Denis's final OK (approve when posting)",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-06",
+      "time": "20:00",
+      "status": "Awaiting Denis's final OK (approve when posting)",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "6cc917dffc5ec077a4878a05333114a30e360d78f2029ee944c83f6262a1c900",
+    "fb_caption.txt": "988e470a34a0fafbe7dfd7e0906049803a89d916a457ffee1e42b061313f2667",
+    "ig_caption.txt": "c930bce44a35c859ed31066ddb83ca2811b36c1f53532bd3900df8718675dfe4",
+    "index.html": "dcb231e2a6cb4ca93f3bc43a87711e27fb2d1c76b61e16e9d07447db8165957f",
+    "tiktok_caption.txt": "69ca3c5a40d656ca88a260d2171035f05052fca376f74db7156b92272af723c2"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "03ca3ad0096edf1ff92d248f892045a360a54fda1a23cb2734bca115a495881a"
+  }
+}
