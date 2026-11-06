@@ -87,31 +87,6 @@ Not medical advice. Check with your pediatrician about your newborn's sleep.
 #newbornsleep #newmom #babysleep #newborn
 ```
 
-## Instagram + Facebook: Hand-posted
+## Instagram + Facebook: Reel only
 
-Posted BY HAND (Instagram + Facebook); no API. 4:5 slides in 4x5/ and slides-4x5.zip.
-
-1. Download the 4:5 slides: slides-4x5.zip or each slide below (6 images, 1080x1350, in order).
-2. Instagram (@getnapapp): + → Post → select 01 → 06 in order → Add music (Instagram pick below) → paste the IG caption → Share. No AI label.
-3. Facebook (Napapp Page): Create post → Photo → select 01 → 06 in order → paste the FB caption → add music if offered (Facebook pick below) → Post.
-4. Send both links to Bob so tracker.csv gets the post ids.
-
-### IG caption (ig_caption.txt)
-
-```
-Newborn up all night, sleepy all day? Day-night mix-ups, explained 🌙
-Newborns don't know night from day at first, because their body clock isn't set yet.
-The NHS suggests keeping days light with everyday noise, and nights dim, calm and boring. Cleveland Clinic says it often shifts around 3-6 months, and every baby is different.
-Save this for the next 3am party 🤍
-Log sleep in one tap to see the shift. Napapp, link in bio.
-Sources: NHS; Cleveland Clinic. Not medical advice. Check with your pediatrician about your newborn's sleep.
-
-#newbornsleep #newmom #babysleep #newborn
-```
-
-### FB caption (fb_caption.txt)
-
-```
-Newborn up all night? Their body clock isn't set yet. Light days, dim nights (NHS); it often shifts around 3-6 months (Cleveland Clinic). Every baby is different; check with your pediatrician.
-Log sleep in one tap. Napapp: link on our Page. #newbornsleep
-```
+Instagram + Facebook get the 9:16 Reel only (Reels-only from Nov 7), posted by you by hand. Use the post's unified kit page (posts/<slug>/kit/) for the Reel and captions. No carousel or photo post on IG/FB.

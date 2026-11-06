@@ -29,7 +29,7 @@ Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no 
 1. Option B: Instagram gets the 9:16 slideshow Reel made from these slides (Lee renders it), posted by you by hand in the Instagram app with an Instagram pick. No IG API.
 2. The slideshow Reel file isn't in this kit yet; Bob/Lee add it before the slot. Paste the IG caption below.
 
-Caption (tiktok_kit/ig_caption.txt):
+Caption (post.md):
 
 ```
 Newborn up all night, sleepy all day? Day-night mix-ups, explained 🌙
@@ -49,7 +49,7 @@ Sources: NHS; Cleveland Clinic. Not medical advice. Check with your pediatrician
 1. Facebook (Napapp Page): Create post → Photo → select 01 → 06 (4:5) in order → paste the FB caption → add music if offered (Facebook pick below) → Post.
 2. Send Bob the link so tracker.csv gets the post id.
 
-Caption (tiktok_kit/fb_caption.txt):
+Caption (post.md):
 
 ```
 Newborn up all night? Their body clock isn't set yet. Light days, dim nights (NHS); it often shifts around 3-6 months (Cleveland Clinic). Every baby is different; check with your pediatrician.

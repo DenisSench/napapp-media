@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../reel_kit/reel.mp4
 
-## TikTok · Thu Nov 12, 12:30 PM ET · Hand-post
+## TikTok · Sat Nov 7, 5:00 PM ET · Hand-post
 
 video posted by you by hand (no inbox draft for video slots)
 
@@ -25,7 +25,7 @@ Dinner was going so well. Who else gets the evening shift? Every baby is differe
 #newbornlife #newmom #babysleeptips #napapp
 ```
 
-## Instagram · Thu Nov 12, 12:30 PM ET · Hand-post
+## Instagram · Sat Nov 7, 5:00 PM ET · Hand-post
 
 Reel posted by you by hand
 
@@ -44,7 +44,7 @@ Source: AAP HealthyChildren.org, "Colic Relief Tips for Parents".
 #newbornlife #newmom #babysleeptips #napapp
 ```
 
-## Facebook · Thu Nov 12, 12:30 PM ET · Hand-post
+## Facebook · Sat Nov 7, 5:00 PM ET · Hand-post
 
 Reel posted by you by hand
 
@@ -75,7 +75,7 @@ Source: AAP HealthyChildren.org, "Colic Relief Tips for Parents".
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** Approved silent 11.7 s Reel (real-app demo), Thu Nov 12 12:30 PM ET on TikTok, IG and FB. Calm, soft mood suits a newborn evening-shift demo: no hype, spooky or tense tracks, no Christmas songs, no 'the feeling', no Angel Of My Dreams (lyrics). TikTok: Chopin Nocturne No. 2 first (cleared for business, evergreen); confirm each sound in the business account's Commercial Music Library picker before posting. IG: open the audio link in the Instagram app and tap 'Use audio' (not Business Suite); pick a soft section, since 11.7 s is short and loops. FB Page: 'Royalty-free' Sound Collection only, or re-render with --track soft-as-a-dry-pillow (CC0) and upload with no in-app sound. Don't boost a Reel with a licensed song. Picks are 9 days out, so the daily refresh will re-check them. REFRESH Nov 4, 9:20 AM ET: no pick changes. TikTok: Octohog's chart was refreshing and unreadable; Kabo's Nov 4 board has Coming Up Roses up to #9, and Sick Beat and Ain't Nobody Else Like You outside its top 20, so treat those two as calm fits rather than trend plays. IG: Salvatore still 'rising fast' on Tracygram's Nov 4 Global chart (#10); SocialPilot's Oct 31-Nov 10 list unchanged. Christmas sounds still held back. REFRESH Nov 6, 9:20 AM ET: meaningful prune. TikTok: Kabo Nov 6 board (snapshot 00:10 UTC) has Coming Up Roses at #11 and The Only Exception back at #19 with only +201 videos (~0.1%), so treat #19 as fading — drop The Only Exception from window TikTok lists; keep Sick Beat / Cass Elliot / Chopin as calm/uncrowded cleared fits (none of those three appear in Kabo's recognizable top 20 today). Octohog public chart still unusable. IG: Salvatore remains absent from Tracygram's Nov 6 Global top 10 (confirmed still out after Nov 5 drop); SocialPilot's Oct 31–Nov 10 list still lists Hold On #7, Everlong #10, Linger #11, Sunshine #12 Rising — swap Salvatore out of any remaining window picks for Everlong (already-URL'd). Christmas/holiday sounds still held back for sleep posts. New Tracygram Global #1–10 (Housewife, Choosin' Texas, Janice STFU, etc.) skipped as poor fit for calm baby-sleep explainers.
+> **Notes for this post:** SCHEDULE (Nov 7-15 plan approved by Denis per Garry, Nov 6): Nov 07 17:00 ET. TikTok: video Reel. IG/FB: video Reel (CC0 bake-in fallback works). Still needs final approval per the plan. Earlier dates in these notes are superseded. Approved silent 11.7 s Reel (real-app demo), Thu Nov 12 12:30 PM ET on TikTok, IG and FB. Calm, soft mood suits a newborn evening-shift demo: no hype, spooky or tense tracks, no Christmas songs, no 'the feeling', no Angel Of My Dreams (lyrics). TikTok: Chopin Nocturne No. 2 first (cleared for business, evergreen); confirm each sound in the business account's Commercial Music Library picker before posting. IG: open the audio link in the Instagram app and tap 'Use audio' (not Business Suite); pick a soft section, since 11.7 s is short and loops. FB Page: 'Royalty-free' Sound Collection only, or re-render with --track soft-as-a-dry-pillow (CC0) and upload with no in-app sound. Don't boost a Reel with a licensed song. Picks are 9 days out, so the daily refresh will re-check them. REFRESH Nov 4, 9:20 AM ET: no pick changes. TikTok: Octohog's chart was refreshing and unreadable; Kabo's Nov 4 board has Coming Up Roses up to #9, and Sick Beat and Ain't Nobody Else Like You outside its top 20, so treat those two as calm fits rather than trend plays. IG: Salvatore still 'rising fast' on Tracygram's Nov 4 Global chart (#10); SocialPilot's Oct 31-Nov 10 list unchanged. Christmas sounds still held back. REFRESH Nov 6, 9:20 AM ET: meaningful prune. TikTok: Kabo Nov 6 board (snapshot 00:10 UTC) has Coming Up Roses at #11 and The Only Exception back at #19 with only +201 videos (~0.1%), so treat #19 as fading — drop The Only Exception from window TikTok lists; keep Sick Beat / Cass Elliot / Chopin as calm/uncrowded cleared fits (none of those three appear in Kabo's recognizable top 20 today). Octohog public chart still unusable. IG: Salvatore remains absent from Tracygram's Nov 6 Global top 10 (confirmed still out after Nov 5 drop); SocialPilot's Oct 31–Nov 10 list still lists Hold On #7, Everlong #10, Linger #11, Sunshine #12 Rising — swap Salvatore out of any remaining window picks for Everlong (already-URL'd). Christmas/holiday sounds still held back for sleep posts. New Tracygram Global #1–10 (Housewife, Choosin' Texas, Janice STFU, etc.) skipped as poor fit for calm baby-sleep explainers.
 
 - **Sunshine (Instrumental)** · Twista (primary)
   - link: https://www.instagram.com/reels/audio/2920100688130624/
@@ -121,7 +121,7 @@ Source: AAP HealthyChildren.org, "Colic Relief Tips for Parents".
   - licence: CC0 1.0 (reel/music/manifest.json, sha256-checked)
   - confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
 
-Picks as of Nov 6, 2026, 9:20 AM ET
+Picks as of Nov 6, 2026, 1:52 PM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
