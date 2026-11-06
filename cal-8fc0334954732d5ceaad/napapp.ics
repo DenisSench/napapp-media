@@ -26,32 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:clocks-fall-back-5am-tt@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261030T080000
-DTEND;TZID=America/Toronto:20261030T081500
-SUMMARY:✅ Posted: Clocks fall back 5am [TT]
-DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n\nApproval: Approved (one approval for all platforms)\nPlatforms on
-  different days: TikTok 2026-10-30 08:00\, IG 2026-10-31 12:30\, FB 2026-1
- 0-31 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https:/
- /media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Clocks fall back 5am [TT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Clocks fall back 5am [TT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:partner-handoff-log-ig-fb@napapp.io
 DTSTAMP:20261104T183542Z
 SEQUENCE:0
@@ -1080,6 +1054,32 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Post: Unsolicited sleep advice [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-sleep-comparison@napapp.io
+DTSTAMP:20261106T142251Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261112T090000
+DTEND;TZID=America/Toronto:20261112T091500
+SUMMARY:Approve: Sleep comparison
+DESCRIPTION:sleep-comparison is 'Needs approval' and is due 2026-11-13 12:3
+ 0 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve or 
+ skip it in the Commander chat (or the dashboard's Approve button).\nReview
+ /kit: https://media.napapp.io/cal-lvt4wit7/review/sleep-comparison/\nDashb
+ oard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/sleep-comparison/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Sleep comparison in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Sleep comparison in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
