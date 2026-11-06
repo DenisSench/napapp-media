@@ -2,7 +2,7 @@
   "post": "2026-11-07-consistent-morning-wake",
   "kind": "carousel",
   "meta_reels_only": true,
-  "meta_reel": "reel-preview-slideshow-v1.mp4",
+  "meta_reel": "reel-preview-slideshow-trim-proposal-fb.mp4",
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -44,11 +44,11 @@
     "4x5/04.jpg": "5a592f1e777667db60b10a86021016084fa717e1c94025a4e1c2e2a606e5770c",
     "4x5/05.jpg": "1a51a1b8c2f9b4230de617c9cfeb6e434d3e024230577648b07a467bf31d1a62",
     "4x5/06.jpg": "f2874da7b99a93e79e436c03ccde897e44fde391d4b316608422a856de69292d",
-    "README.md": "ea414bcdcec9e7b6385efbe234c12c9bfe54d6aacf617b78fbfa9b2b5eabed11",
+    "README.md": "d303cf450c07c04dec999920fb61cf318a271f20361e6bcf873f1237d4cfb5a1",
     "fb_caption.txt": "ee1db73530d35253516d3be3018debb31220b972b5d060323ce6db8156759668",
     "ig_caption.txt": "35162554eeac91b4c3655223d47bf9d22d093ae4c279cec5d5928b617b260328",
-    "index.html": "bbfcaa5f0103b75cf0abab0a60aaa2a673a68e32b217df5637b32e55056c384c",
-    "reel-preview-slideshow-v1.mp4": "b7ff48a5c16bd95c2a4634c9cf16c6b021eb3534a4d8b3233346d805254d7475",
+    "index.html": "acaa0039b3d8e9d80f745f13bd06c4c17e7d1d9367b82ec3d3a806faf082ba9c",
+    "reel-preview-slideshow-trim-proposal-fb.mp4": "af3d1665772136ed2e0b4f34e18945758d79b284e0d198e79e21d7b2014016d0",
     "slides-4x5.zip": "88b071ce0a0e649f73893a0b703bf034a0e42b07354a8084d0a4381e6b870169",
     "tiktok_caption.txt": "e53b37d0599cd9099cc97872cdd75ff145fb004c0f33fc595a4fc03312e85034"
   },

@@ -88,6 +88,31 @@ Sources: Cleveland Clinic, NHS. Not medical advice. If your baby seems unwell or
 #babysleep #bedtimeroutine #toddlersleep #newmom
 ```
 
-## Instagram + Facebook: Reel only
+## Instagram + Facebook: Hand-posted
 
-Instagram + Facebook get the 9:16 Reel only (Reels-only from Nov 7), posted by you by hand. Use the post's unified kit page (posts/<slug>/kit/) for the Reel and captions. No carousel or photo post on IG/FB.
+Posted BY HAND (Instagram); no API. 4:5 slides in 4x5/ and slides-4x5.zip.
+
+1. Download the 4:5 slides: slides-4x5.zip or each slide below (6 images, 1080x1350, in order).
+2. Instagram (@getnapapp): + → Post → select 01 → 06 in order → Add music (Instagram pick below) → paste the IG caption → Share. No AI label.
+3. Facebook (Napapp Page): Create post → Photo → select 01 → 06 in order → paste the FB caption → add music if offered (Facebook pick below) → Post.
+4. Send both links to Bob so tracker.csv gets the post ids.
+
+### IG caption (ig_caption.txt)
+
+```
+Baby or toddler fighting bedtime? Common reasons.
+Being overtired, not being tired enough yet, or a recent change like a new routine, a growth spurt or teething can all play a part.
+These are possibilities, not a diagnosis, and there's no guaranteed fix. A simple, soothing bedtime routine may help babies settle. Every baby is different.
+Save this for the next bedtime battle 🤍
+Log bedtimes in one tap to spot the pattern. Napapp, link in bio.
+Sources: Cleveland Clinic, NHS. Not medical advice. If your baby seems unwell or you're worried, check with your pediatrician.
+
+#babysleep #bedtimeroutine #toddlersleep #newmom
+```
+
+### FB caption (fb_caption.txt)
+
+```
+Baby or toddler fighting bedtime? Common reasons. Bedtime battles are common: overtired, not tired enough, or a recent change can play a part. Every baby is different. Sources: Cleveland Clinic, NHS. Not medical advice; worried? Check with your pediatrician.
+Log bedtimes in one tap. Napapp: link on our Page. #bedtimeroutine
+```

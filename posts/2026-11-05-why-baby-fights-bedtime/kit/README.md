@@ -30,7 +30,7 @@ Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no 
 1. Option B: Instagram gets the 9:16 slideshow Reel made from these slides (Lee renders it), posted by you by hand in the Instagram app with an Instagram pick. No IG API.
 2. The slideshow Reel file isn't in this kit yet; Bob/Lee add it before the slot. Paste the IG caption below.
 
-Caption (post.md):
+Caption (tiktok_kit/ig_caption.txt):
 
 ```
 Baby or toddler fighting bedtime? Common reasons.
@@ -49,7 +49,7 @@ posted through the API only after your explicit go at send time
 
 1. Nothing to do in the app: the 4:5 carousel goes to the Napapp Page through the FB API only after your explicit go at send time. No go, nothing posts.
 
-Caption (post.md):
+Caption (tiktok_kit/fb_caption.txt):
 
 ```
 Baby or toddler fighting bedtime? Common reasons. Bedtime battles are common: overtired, not tired enough, or a recent change can play a part. Every baby is different. Sources: Cleveland Clinic, NHS. Not medical advice; worried? Check with your pediatrician.
