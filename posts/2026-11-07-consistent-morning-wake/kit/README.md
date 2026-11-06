@@ -27,7 +27,7 @@ Sources: Cleveland Clinic, NHS. Not medical advice. Check with your pediatrician
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
-1. Download reel-preview-slideshow-trim-proposal-fb.mp4 (the 9:16 slideshow Reel, top of this page).
+1. Download reel-preview-slideshow-v1.mp4 (the 9:16 slideshow Reel, top of this page).
 2. Instagram app (@getnapapp): open an Instagram pick's audio link → Use audio → pick the slideshow Reel → Next.
 3. Paste the IG caption. Cover: the first slide (the hook). Don't tick "also share to Facebook".
 4. Share, then send Bob the link.
@@ -48,7 +48,7 @@ Sources: Cleveland Clinic, NHS. Not medical advice. Check with your pediatrician
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
-1. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-trim-proposal-fb.mp4.
+1. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-v1.mp4.
 2. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 3. Paste the FB caption → Post. Send Bob the link.
 
