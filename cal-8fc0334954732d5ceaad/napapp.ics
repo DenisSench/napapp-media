@@ -26,59 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:nap-count-by-age-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261030T215500
-DTEND;TZID=America/Toronto:20261030T221000
-SUMMARY:✅ Posted: Nap count by age [IG/FB]
-DESCRIPTION:✅ Instagram: give your go for the IG API post (nothing posts 
- without it)\n✅ Facebook: give your go for the FB API post (nothing posts
-  without it)\n\nApproval: Approved (one approval for all platforms)\nPlatf
- orms on different days: TikTok 2026-10-29 08:53\, IG 2026-10-30 21:55\, FB
-  2026-10-30 21:55\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: 
- https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Nap count by age [IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Nap count by age [IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:earlier-bedtime-question-tt@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261030T221100
-DTEND;TZID=America/Toronto:20261030T222600
-SUMMARY:✅ Posted: Earlier bedtime question [TT]
-DESCRIPTION:✅ TikTok: post the video by hand from the kit\n\nApproval: Ap
- proved (one approval for all platforms)\nPlatforms on different days: TikT
- ok 2026-10-30 22:11\, IG 2026-11-01 18:28\, FB 2026-11-01 18:28\nKit: http
- s://media.napapp.io/cal-lvt4wit7/\nDashboard: https://media.napapp.io/cal-
- lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Earlier bedtime question [TT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Earlier bedtime question [TT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:clocks-fall-back-5am-ig-fb@napapp.io
 DTSTAMP:20261104T183542Z
 SEQUENCE:0
@@ -872,17 +819,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:me-vs-baby-bedtime-ig-fb@napapp.io
-DTSTAMP:20261106T191152Z
-SEQUENCE:2
+DTSTAMP:20261107T042004Z
+SEQUENCE:3
 DTSTART;TZID=America/Toronto:20261108T170000
 DTEND;TZID=America/Toronto:20261108T171500
 SUMMARY:Post: Me vs baby bedtime [IG/FB]
 DESCRIPTION:• Instagram: post the Reel by hand\n• Facebook: post the Re
  el by hand\n\nApproval: Approved (published) (one approval for all platfor
  ms)\nPlatforms on different days: TikTok 2026-10-25 21:08\, IG 2026-11-08 
- 17:00\, FB 2026-11-08 17:00\nKit: https://media.napapp.io/cal-lvt4wit7/\nD
- ashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
+ 17:00\, FB 2026-11-08 17:00\nKit: https://media.napapp.io/posts/2026-10-25
+ -me-vs-baby-bedtime/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-10-25-me-vs-baby-bedtime/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
