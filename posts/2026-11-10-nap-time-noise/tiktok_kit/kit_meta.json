@@ -1,0 +1,33 @@
+{
+  "post": "2026-11-10-nap-time-noise",
+  "slot": "Saturday, Nov 7, 2026 at 8:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "d927187f51462ee3",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "5ac445a0061ac66ec214fc9d217bfc22e1af0b461863a84dbfb30b98724e599c",
+    "02.jpg": "f0fff9e6fdff928c7d7c41571297499afb9d8e0eca69b6777165d43e7531c3fa",
+    "03.jpg": "219061b4c7270cc6d7aceec13e363a3370188cd6990077c8fc3a645e65393152",
+    "04.jpg": "eaebdc59f596b9b765267605e81ddfb4cdaf220730618bc629fe0de83c586eb2",
+    "05.jpg": "7db4a60999a934caf1b8a8732b4b5d131b1be7daa1c5129f8dfd124fa1706769",
+    "06.jpg": "cf16dd8470f0a9c3ace7683cc74b2ab6b16ded4cd7631c08d8e1335556a0b072",
+    "07.jpg": "88829b8fc62ab501ea55427f092a03f777ca99c78890cadc8744a301e58a8f35",
+    "08.jpg": "63d2a4364ba2dba7cb8f3508d6298ff712a2862930cf885a863bd38b85abea88",
+    "09.jpg": "2fe07163f97f4119a7ffce101ca70f4d21747018b77ae8f60cb2833aeb4d9ba3",
+    "README.md": "091e324d343b40da16cd8e8a42dbdcbde5230fe1afd548bea66e84cb1de9db9b",
+    "caption.txt": "866b1bcb90f45562a2560171bebb4899f0ad029ba0c48b3eba35afb38c024787",
+    "cover.jpg": "5ac445a0061ac66ec214fc9d217bfc22e1af0b461863a84dbfb30b98724e599c",
+    "index.html": "eeda8237841076be987038973149319c75eb61e9325441f48d062df5fbb5a4a6",
+    "slides.zip": "cb75633b4fe7c2642a6d60b93d8a8c28943271d1e825ac3660e65a3902e71917"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}
