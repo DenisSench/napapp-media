@@ -772,17 +772,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nap-time-noise-tt-ig-fb@napapp.io
-DTSTAMP:20261107T004624Z
-SEQUENCE:3
+DTSTAMP:20261107T004950Z
+SEQUENCE:4
 DTSTART;TZID=America/Toronto:20261107T200000
 DTEND;TZID=America/Toronto:20261107T201500
 SUMMARY:Post: Nap time noise [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
  k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https
- ://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
+ l platforms)\nKit: https://media.napapp.io/posts/2026-11-10-nap-time-noise
+ /kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-10-nap-time-noise/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
