@@ -1259,6 +1259,58 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:approve-me-vs-baby-monitor@napapp.io
+DTSTAMP:20261107T141145Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261113T090000
+DTEND;TZID=America/Toronto:20261113T091500
+SUMMARY:Approve: Me vs baby monitor
+DESCRIPTION:me-vs-baby-monitor is 'Needs approval' and is due 2026-11-14 12
+ :30 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve o
+ r skip it in the Commander chat (or the dashboard's Approve button).\nRevi
+ ew/kit: https://media.napapp.io/cal-lvt4wit7/review/me-vs-baby-monitor/\nD
+ ashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/me-vs-baby-monitor/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Me vs baby monitor in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Me vs baby monitor in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:approve-sleep-comparison@napapp.io
+DTSTAMP:20261107T141145Z
+SEQUENCE:1
+DTSTART;TZID=America/Toronto:20261113T090000
+DTEND;TZID=America/Toronto:20261113T091500
+SUMMARY:Approve: Sleep comparison
+DESCRIPTION:sleep-comparison is 'Needs approval' and is due 2026-11-14 20:0
+ 0 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve or 
+ skip it in the Commander chat (or the dashboard's Approve button).\nReview
+ /kit: https://media.napapp.io/cal-lvt4wit7/review/sleep-comparison/\nDashb
+ oard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/review/sleep-comparison/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Sleep comparison in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Sleep comparison in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:2-to-1-nap-transition-ig-fb@napapp.io
 DTSTAMP:20261106T191152Z
 SEQUENCE:1
