@@ -667,13 +667,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:day-night-mixup-newborns-tt-ig-fb@napapp.io
-DTSTAMP:20261104T192606Z
-SEQUENCE:1
+DTSTAMP:20261107T021129Z
+SEQUENCE:2
 DTSTART;TZID=America/Toronto:20261105T200000
 DTEND;TZID=America/Toronto:20261105T201500
-SUMMARY:Post: Day night mixup newborns [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+SUMMARY:✅ Posted: Day night mixup newborns [TT/IG/FB]
+DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Faceboo
  k: hand-post the carousel\n\nApproval: Approved (one approval for all plat
  forms)\nKit: https://media.napapp.io/posts/2026-11-04-day-night-mixup-newb
  orns/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
@@ -682,65 +682,113 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Day night mixup newborns [TT/IG/FB] in 30 min
+DESCRIPTION:✅ Posted: Day night mixup newborns [TT/IG/FB] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Day night mixup newborns [TT/IG/FB] in 5 min
+DESCRIPTION:✅ Posted: Day night mixup newborns [TT/IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:why-baby-fights-bedtime-tt-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
+UID:why-baby-fights-bedtime-tt@napapp.io
+DTSTAMP:20261107T021129Z
 SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261106T123000
-DTEND;TZID=America/Toronto:20261106T124500
-SUMMARY:Post: Why baby fights bedtime [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: give your go for the FB API post (nothing posts without it)\n\nApproval
- : Approved (one approval for all platforms)\nKit: https://media.napapp.io/
- posts/2026-11-05-why-baby-fights-bedtime/kit/\nDashboard: https://media.na
- papp.io/cal-lvt4wit7/
+DTSTART;TZID=America/Toronto:20261106T123600
+DTEND;TZID=America/Toronto:20261106T125100
+SUMMARY:✅ Posted: Why baby fights bedtime [TT]
+DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n\nApproval: Approved (one approval for all platforms)\nKit: https:/
+ /media.napapp.io/posts/2026-11-05-why-baby-fights-bedtime/kit/\nDashboard:
+  https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-11-05-why-baby-fights-bedtime/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Why baby fights bedtime [TT/IG/FB] in 30 min
+DESCRIPTION:✅ Posted: Why baby fights bedtime [TT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Why baby fights bedtime [TT/IG/FB] in 5 min
+DESCRIPTION:✅ Posted: Why baby fights bedtime [TT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:total-sleep-by-age-tt-ig-fb@napapp.io
-DTSTAMP:20261107T005607Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261106T200000
-DTEND;TZID=America/Toronto:20261106T201500
-SUMMARY:✅ Posted: Total sleep by age [TT/IG/FB]
-DESCRIPTION:✅ TikTok: post the video by hand from the kit\n✅ Instagram:
-  post the Reel by hand\n✅ Facebook: post the Reel by hand\n\nApproval: A
- pproved (one approval for all platforms)\nKit: https://media.napapp.io/pos
- ts/2026-11-05-total-sleep-by-age/kit/\nDashboard: https://media.napapp.io/
- cal-lvt4wit7/
+UID:why-baby-fights-bedtime-ig-fb@napapp.io
+DTSTAMP:20261107T021129Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261106T123900
+DTEND;TZID=America/Toronto:20261106T125400
+SUMMARY:✅ Posted: Why baby fights bedtime [IG/FB]
+DESCRIPTION:✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Fac
+ ebook: give your go for the FB API post (nothing posts without it)\n\nAppr
+ oval: Approved (one approval for all platforms)\nKit: https://media.napapp
+ .io/posts/2026-11-05-why-baby-fights-bedtime/kit/\nDashboard: https://medi
+ a.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-05-why-baby-fights-bedtime/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:✅ Posted: Why baby fights bedtime [IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:✅ Posted: Why baby fights bedtime [IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:total-sleep-by-age-tt@napapp.io
+DTSTAMP:20261107T021129Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261106T185600
+DTEND;TZID=America/Toronto:20261106T191100
+SUMMARY:✅ Posted: Total sleep by age [TT]
+DESCRIPTION:✅ TikTok: post the video by hand from the kit\n\nApproval: Ap
+ proved (one approval for all platforms)\nKit: https://media.napapp.io/post
+ s/2026-11-05-total-sleep-by-age/kit/\nDashboard: https://media.napapp.io/c
+ al-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-11-05-total-sleep-by-age/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Total sleep by age [TT/IG/FB] in 30 min
+DESCRIPTION:✅ Posted: Total sleep by age [TT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Total sleep by age [TT/IG/FB] in 5 min
+DESCRIPTION:✅ Posted: Total sleep by age [TT] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:total-sleep-by-age-ig-fb@napapp.io
+DTSTAMP:20261107T021129Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261106T185900
+DTEND;TZID=America/Toronto:20261106T191400
+SUMMARY:✅ Posted: Total sleep by age [IG/FB]
+DESCRIPTION:✅ Instagram: post the Reel by hand\n✅ Facebook: post the Re
+ el by hand\n\nApproval: Approved (one approval for all platforms)\nKit: ht
+ tps://media.napapp.io/posts/2026-11-05-total-sleep-by-age/kit/\nDashboard:
+  https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-05-total-sleep-by-age/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:✅ Posted: Total sleep by age [IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:✅ Posted: Total sleep by age [IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
