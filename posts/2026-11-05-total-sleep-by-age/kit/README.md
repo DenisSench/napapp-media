@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../reel_kit/reel.mp4
 
-## TikTok · Fri Nov 6, 8:00 PM ET · Hand-post · POSTED
+## TikTok · Fri Nov 6, 6:56 PM ET · Hand-post · POSTED
 
 video posted by you by hand (no inbox draft for video slots)
 
@@ -26,7 +26,7 @@ Not medical advice. Check with your pediatrician about your baby's sleep.
 #babysleep #babysleeptips #toddlersleep #newmom
 ```
 
-## Instagram · Fri Nov 6, 8:00 PM ET · Hand-post · POSTED
+## Instagram · Fri Nov 6, 6:59 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
@@ -48,7 +48,7 @@ Sources: AASM guidance, endorsed by the AAP; Cleveland Clinic. Not medical advic
 #babysleep #babysleeptips #toddlersleep #newmom
 ```
 
-## Facebook · Fri Nov 6, 8:00 PM ET · Hand-post · POSTED
+## Facebook · Fri Nov 6, 6:59 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 

@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Fri Nov 6, 12:30 PM ET · Inbox draft
+## TikTok · Fri Nov 6, 12:36 PM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -23,7 +23,7 @@ Sources: Cleveland Clinic, NHS. Not medical advice. If your baby seems unwell or
 #babysleep #bedtimeroutine #toddlersleep #newmom
 ```
 
-## Instagram · Fri Nov 6, 12:30 PM ET · Hand-post
+## Instagram · Fri Nov 6, 12:39 PM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -43,7 +43,7 @@ Sources: Cleveland Clinic, NHS. Not medical advice. If your baby seems unwell or
 #babysleep #bedtimeroutine #toddlersleep #newmom
 ```
 
-## Facebook · Fri Nov 6, 12:30 PM ET · API · needs your go
+## Facebook · Fri Nov 6, 12:39 PM ET · API · needs your go · POSTED
 
 posted through the API only after your explicit go at send time
 

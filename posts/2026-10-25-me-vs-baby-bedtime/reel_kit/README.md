@@ -1,21 +1,26 @@
 # Reel kit: 2026-10-25-me-vs-baby-bedtime
 
+**AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook).**
+
 `reel.mp4`: 15.4 s, 10.7 MB, 1080x1920, silent; slides from `../../../../tmp/ss/me-vs-baby-bedtime-ig/slides/jpg-reel`.
 
 ## Checklist
 
-1. Download `reel.mp4` to your phone (on the kit page: tap **Download reel.mp4**, or long-press the video and save it).
-2. The video is **silent**. Sounds differ per platform; see the **Sound** block (Instagram and Facebook are separate). If it has no picks yet: on Instagram pick a trending sound that fits a calm, parent-friendly mood, and on the Facebook Page only a Sound Collection track tagged 'Royalty-free'.
-3. Instagram (from the **Instagram app**, not Meta Business Suite): on your phone open an Instagram pick's **audio link** → tap **Use audio** → pick `reel.mp4` → Next → paste the **IG caption** below. If none of the songs are available, use the Instagram backup (royalty-free).
-4. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
-5. Cover: pick the first slide (the hook) as the cover / Reels-tab thumbnail.
-6. AI label: still undecided as of Oct 28. If this post's art is AI-made and you decide to label it, turn on **Advanced settings → AI label** (IG) / the AI info toggle (FB) before sharing.
-7. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add a **Facebook** pick from the Sound block (Sound Collection, only tracks tagged 'Royalty-free'; or the CC0 re-render) → paste the **FB caption** below.
-8. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice; a licensed IG song may not carry over to the Page anyway).
-9. After posting, send Bob the two links so the stats script can match them to this post.
+1. AI label REQUIRED on Instagram: before sharing, Advanced settings → turn ON **AI label**.
+2. AI label REQUIRED on the Facebook Page: before sharing, turn ON the **AI info / AI label** toggle.
+3. AI label REQUIRED (this post uses AI-generated images): before posting, More options → turn ON **AI-generated content**. Do not post without it.
+4. Download `reel.mp4` to your phone (on the kit page: tap **Download reel.mp4**, or long-press the video and save it).
+5. The video is **silent**. Sounds differ per platform; see the **Sound** block (Instagram and Facebook are separate). If it has no picks yet: on Instagram pick a trending sound that fits a calm, parent-friendly mood, and on the Facebook Page only a Sound Collection track tagged 'Royalty-free'.
+6. Instagram (from the **Instagram app**, not Meta Business Suite): on your phone open an Instagram pick's **audio link** → tap **Use audio** → pick `reel.mp4` → Next → paste the **IG caption** below. If none of the songs are available, use the Instagram backup (royalty-free).
+7. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
+8. Cover: pick the first slide (the hook) as the cover / Reels-tab thumbnail.
+9. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add a **Facebook** pick from the Sound block (Sound Collection, only tracks tagged 'Royalty-free'; or the CC0 re-render) → paste the **FB caption** below.
+10. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice; a licensed IG song may not carry over to the Page anyway).
+11. After posting, send Bob the two links so the stats script can match them to this post.
 
 ## Notes
 
+- AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook).
 - `reel.mp4` is Lee's `reel-lookA-ig.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
 - Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from package/UPLOAD.md.

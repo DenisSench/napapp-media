@@ -1,0 +1,51 @@
+{
+  "post": "2026-10-25-me-vs-baby-bedtime",
+  "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
+  "approval": {
+    "state": "published",
+    "label": "Approved (published)",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "3fe4eb02208945ad",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-10-25",
+      "time": "21:08",
+      "status": "Posted",
+      "posted": true,
+      "mode": "inbox",
+      "url": "https://www.tiktok.com/@nap_app/photo/7700777083605175572"
+    },
+    "ig": {
+      "date": "2026-11-08",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-08",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "daa0398a22abb6c646709ff7493090d75b2860877273bccbd1610fd9fce30b4e",
+    "fb_caption.txt": "d907c6814fe5e6e047201e6ab0c536120059aebb497d2d2a5e767a7c76596149",
+    "ig_caption.txt": "7f4845abffcf75a8ca672d1428c9c086930adff450d291cd9428c48465a05d47",
+    "index.html": "c2d5fd4b15fb7ccb7126cfa0f8a0100fc3dc7e2915bd1aba2c7b7f0b9af66707",
+    "tiktok_caption.txt": "3763d236d806ec258f988378d33665734acce14997ae92e1d41392f2206c1365"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "c34761179e93d2328e87e856fe32bc83420b9df4ea43a432b554fa1b3a73162c",
+    "reel_kit/reel-fb.mp4": "0557cb6ad2765243f488371562c4ece62a1af5215f42d71fb721ade4ef2f4218"
+  }
+}

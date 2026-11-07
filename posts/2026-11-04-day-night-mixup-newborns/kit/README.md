@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Thu Nov 5, 8:00 PM ET · Inbox draft
+## TikTok · Thu Nov 5, 8:00 PM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -22,7 +22,7 @@ Not medical advice. Check with your pediatrician about your newborn's sleep.
 #newbornsleep #newmom #babysleep #newborn
 ```
 
-## Instagram · Thu Nov 5, 8:00 PM ET · Hand-post
+## Instagram · Thu Nov 5, 8:00 PM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -42,7 +42,7 @@ Sources: NHS; Cleveland Clinic. Not medical advice. Check with your pediatrician
 #newbornsleep #newmom #babysleep #newborn
 ```
 
-## Facebook · Thu Nov 5, 8:00 PM ET · Hand-post
+## Facebook · Thu Nov 5, 8:00 PM ET · Hand-post · POSTED
 
 4:5 carousel posted by you by hand (no FB API)
 
