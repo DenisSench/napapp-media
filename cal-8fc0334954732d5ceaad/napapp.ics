@@ -692,32 +692,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:approve-nap-time-noise@napapp.io
-DTSTAMP:20261106T191152Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261106T090000
-DTEND;TZID=America/Toronto:20261106T091500
-SUMMARY:Approve: Nap time noise
-DESCRIPTION:nap-time-noise is 'Needs approval' and is due 2026-11-07 20:00 
- ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Approve or sk
- ip it in the Commander chat (or the dashboard's Approve button).\nReview/k
- it: https://media.napapp.io/cal-lvt4wit7/review/nap-time-noise/\nDashboard
- : https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/nap-time-noise/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Nap time noise in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Nap time noise in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:why-baby-fights-bedtime-tt-ig-fb@napapp.io
 DTSTAMP:20261104T183542Z
 SEQUENCE:0
@@ -798,17 +772,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nap-time-noise-tt-ig-fb@napapp.io
-DTSTAMP:20261106T191152Z
-SEQUENCE:2
+DTSTAMP:20261107T004624Z
+SEQUENCE:3
 DTSTART;TZID=America/Toronto:20261107T200000
 DTEND;TZID=America/Toronto:20261107T201500
 SUMMARY:Post: Nap time noise [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Needs approval (one approval 
- for all platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/nap-t
- ime-noise/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/nap-time-noise/
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: https
+ ://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/cal-lvt4wit7/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
