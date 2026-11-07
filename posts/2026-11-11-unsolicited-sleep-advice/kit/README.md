@@ -52,7 +52,7 @@ Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; n
 Caption (post.md):
 
 ```
-Just went in for milk and came out with a sleep consultation. What's the best one you've been told? Every baby is different, so for real questions, check with your pediatrician. Track naps in one tap with Napapp: link in bio.
+Just went in for milk and came out with a sleep consultation. What's the best one you've been told? Every baby is different, so for real questions, check with your pediatrician. Track naps in one tap with Napapp: Link in bio.
 ```
 
 ## Sound

@@ -59,7 +59,7 @@ Caption (reel_kit/captions.md):
 
 ```
 Typical wake windows, 7-12 months: ranges, not targets, and every baby is different 🌙 Source: Cleveland Clinic. Not medical advice; check with your pediatrician.
-Log naps in one tap. Napapp: link in bio. #wakewindows
+Log naps in one tap. Napapp: Link in bio. #wakewindows
 ```
 
 ## Sound

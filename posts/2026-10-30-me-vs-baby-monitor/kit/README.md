@@ -58,7 +58,7 @@ Caption (post.md):
 
 ```
 Sleeping baby = the most-watched show in the house 😅 Just for laughs, not medical advice.
-Track the night in one tap. Napapp: link in bio. #parentinghumor
+Track the night in one tap. Napapp: Link in bio. #parentinghumor
 ```
 
 ## Sound

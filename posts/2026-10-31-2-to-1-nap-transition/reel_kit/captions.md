@@ -17,7 +17,7 @@ Sources: Cleveland Clinic; AASM (via Cleveland Clinic). Not medical advice. Chec
 
 ```
 18-24 months and fighting the second nap? 2 naps to 1 often happens around 18-24 months, and it's rarely a clean switch. Typical ranges, not targets; every toddler is different. Sources: Cleveland Clinic; AASM. Not medical advice; check with your pediatrician.
-Log naps in one tap. Napapp: link in bio. #toddlersleep
+Log naps in one tap. Napapp: Link in bio. #toddlersleep
 ```
 
 ## TikTok Caption

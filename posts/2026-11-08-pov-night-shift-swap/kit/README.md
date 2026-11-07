@@ -52,7 +52,7 @@ Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; n
 Caption (post.md):
 
 ```
-POV: the night shift swap. Very organised at 9 PM, a whispered mystery by 4 AM. Tag your night shift partner. Every baby is different, so if night wakes worry you, check with your pediatrician. Track every shift in one tap with Napapp: link in bio.
+POV: the night shift swap. Very organised at 9 PM, a whispered mystery by 4 AM. Tag your night shift partner. Every baby is different, so if night wakes worry you, check with your pediatrician. Track every shift in one tap with Napapp: Link in bio.
 ```
 
 ## Sound

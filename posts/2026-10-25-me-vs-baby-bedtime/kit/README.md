@@ -58,7 +58,7 @@ Caption (reel_kit/captions.md):
 
 ```
 Bedtime plans vs bedtime reality 😅 Every baby is different, and so is every night. Just for laughs, not medical advice.
-Track bedtime in one tap. Napapp: link in bio. #parentinghumor
+Track bedtime in one tap. Napapp: Link in bio. #parentinghumor
 ```
 
 ## Sound

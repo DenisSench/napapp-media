@@ -52,7 +52,7 @@ Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; n
 Caption (post.md):
 
 ```
-Third time's the charm for this coffee, right? Tell me your most tired moment this week. Every baby is different, so if something worries you, check with your pediatrician. Track naps in one tap with Napapp: link in bio.
+Third time's the charm for this coffee, right? Tell me your most tired moment this week. Every baby is different, so if something worries you, check with your pediatrician. Track naps in one tap with Napapp: Link in bio.
 ```
 
 ## Sound

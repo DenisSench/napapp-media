@@ -55,7 +55,7 @@ Reel posted by you by hand
 Caption (reel_kit/captions.md):
 
 ```
-Bedtime battles aren't always just about the baby. Some evenings we're rushing too. Many parents try a slower, calmer last stretch before bed: dim lights, phones away, the same few steps. Every baby is different, so if bedtime worries you, check with your pediatrician. Track your evenings in one tap with Napapp: link in bio.
+Bedtime battles aren't always just about the baby. Some evenings we're rushing too. Many parents try a slower, calmer last stretch before bed: dim lights, phones away, the same few steps. Every baby is different, so if bedtime worries you, check with your pediatrician. Track your evenings in one tap with Napapp: Link in bio.
 ```
 
 ## Sound
