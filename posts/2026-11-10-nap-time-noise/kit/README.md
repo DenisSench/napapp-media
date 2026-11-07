@@ -52,7 +52,7 @@ Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; n
 Caption (post.md):
 
 ```
-The doorbell, the dog and the delivery driver: the nap time trio. Which one gets you every time? Every baby is different, so if something worries you, check with your pediatrician. Track naps in one tap with Napapp: link on our Page.
+The doorbell, the dog and the delivery driver: the nap time trio. Which one gets you every time? Every baby is different, so if something worries you, check with your pediatrician. Track naps in one tap with Napapp: link in bio.
 ```
 
 ## Sound
