@@ -1,0 +1,33 @@
+# Captions: 2026-10-25-me-vs-baby-bedtime
+
+## Instagram (caption + hashtags)
+
+```
+Bedtime plans vs bedtime reality 😅
+7pm sharp, one more song, the medley, the monitor lighting up the second the snack opens. Every baby is different, and so is every night.
+Save this for the next 9pm "7pm bedtime" 🤍
+If your 7pm plan is really a 9pm reality, track it in one tap. Napapp, link in bio.
+Just for laughs, not medical advice. Questions about your baby's sleep? Check with your pediatrician.
+
+#momlife #parentinghumor #babysleep #newmom
+```
+
+## Facebook Page (caption + hashtags)
+
+```
+Bedtime plans vs bedtime reality 😅 Every baby is different, and so is every night. Just for laughs, not medical advice.
+Track bedtime in one tap. Napapp: link in bio. #parentinghumor
+```
+
+## TikTok Caption
+
+```
+Bedtime plans vs bedtime reality 😅 Every baby is different, and so is every night. Follow for more tired-parent truths 🤍 And if your 7pm plan is really a 9pm reality, track it in one tap. Napapp, link in bio.
+Just for laughs, not medical advice. Questions about your baby's sleep? Check with your pediatrician.
+```
+
+## TikTok Hashtags
+
+```
+#momlife #parentinghumor #babysleep #newmom
+```
