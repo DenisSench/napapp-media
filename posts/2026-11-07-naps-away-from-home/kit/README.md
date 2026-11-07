@@ -17,7 +17,7 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
 POV: nap time at grandma's.
-Bright room, lots of cuddles, schedule out the window. Naps away from home can look different, and that's common. Many parents pack the familiar things (the usual sleep sack, the same nap song) and keep the travel cot set up just like home: firm, flat, fitted sheet only, baby on their back. Every baby is different. Save this for your next visit 🤍 Share the nap log with family for free so everyone knows when the last nap was. Napapp, link in bio.
+Bright room, lots of cuddles, schedule out the window. Naps away from home can look different, and that's common. Many parents pack the familiar things (the usual sleep sack, the same nap song) and keep the travel cot set up just like home: firm, flat, fitted sheet only, baby on their back. Every baby is different. Save this for your next visit 🏡👵 Share the nap log with family for free so everyone knows when the last nap was. Napapp, link in bio.
 Safe sleep guidance: AAP. Not medical advice. Questions? Check with your pediatrician.
 
 #babysleep #travelwithbaby #grandparents #momlife
@@ -35,7 +35,7 @@ Caption (post.md):
 ```
 POV: nap time at grandma's.
 Bright room, lots of cuddles, schedule out the window. Naps away from home can look different, and that's common. Familiar things help it feel like home, and the travel cot stays just like home: firm, flat, fitted sheet only, baby on their back. Every baby is different.
-Save this for your next visit 🤍
+Save this for your next visit 🏡👵
 Share the nap log with family for free. Napapp, link in bio.
 Safe sleep guidance: AAP. Not medical advice. Questions? Check with your pediatrician.
 

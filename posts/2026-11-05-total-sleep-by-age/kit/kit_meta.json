@@ -15,33 +15,33 @@
     "tiktok": {
       "date": "2026-11-06",
       "time": "20:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     },
     "ig": {
       "date": "2026-11-06",
       "time": "20:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     },
     "fb": {
       "date": "2026-11-06",
       "time": "20:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     }
   },
   "files": {
-    "README.md": "2030c08c7716c7908ac7acddd6281d3f67713aa57dc433fc7617e456e957c7e4",
+    "README.md": "06c7cd10ab642d42c94574aaae2f5665688bd377564b22c644e1c655ae8c6674",
     "fb_caption.txt": "988e470a34a0fafbe7dfd7e0906049803a89d916a457ffee1e42b061313f2667",
     "ig_caption.txt": "c930bce44a35c859ed31066ddb83ca2811b36c1f53532bd3900df8718675dfe4",
-    "index.html": "7e38def8515b090b9abb9530549f467dde95ea91625556344a44c91861de9f33",
+    "index.html": "45d140bb41862a45a4f7e24f0d76562e602307b884d0bb2c998f3b707e489249",
     "tiktok_caption.txt": "69ca3c5a40d656ca88a260d2171035f05052fca376f74db7156b92272af723c2"
   },
   "refs": {
