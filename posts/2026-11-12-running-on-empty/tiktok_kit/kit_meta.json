@@ -1,0 +1,32 @@
+{
+  "post": "2026-11-12-running-on-empty",
+  "slot": "Friday, Nov 13, 2026 at 8:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "baa2db3520c9ca61",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "6ef0ccdca7a849414211ce88587de4a30c939260f8b7cf132ae8644a3e0f0c90",
+    "02.jpg": "8269ca8bc3c177290e1caba8faccdd26118819fbbb387e1e35a1a37afdc5c8d1",
+    "03.jpg": "773857b594c3d8e2d461aee41699978d70b9dc4fd5ab132453107940aff9c910",
+    "04.jpg": "533c354d07eb78eab01a09aa2bdff6ccc4255e7b90ccd9068b11f057ddf52f39",
+    "05.jpg": "5f35dfab0a70ddecac7ce76cc8e5d39d9026807b34b0a2900cf52cf10f6018a2",
+    "06.jpg": "9a34c7aa3489e916cd530d578e41fa9ac89c8339d30c64fbf834d23b12777665",
+    "07.jpg": "0b6bbdccb23e5fc7a14beb2501d318ab063939789844cefbb3e5fa2f926dd3a3",
+    "08.jpg": "9b0591711714dbae7e4b0cbe8b861b44c02bde4b740e0e81a2eed5d9db371550",
+    "README.md": "9caf511c29a7cd04330edae3366a5f03b8ad958e100788d90676a78add182bf4",
+    "caption.txt": "b56f0fafac60d459b634c630d177ce5b372910423173275d08aaff7815904e19",
+    "cover.jpg": "6ef0ccdca7a849414211ce88587de4a30c939260f8b7cf132ae8644a3e0f0c90",
+    "index.html": "494e9cf56d9d056cc9b2e568f8865958da80407d370cba7500f47681ad33b18a",
+    "slides.zip": "8be0d05cb022592e6b0c9b432d3df453cb9f715a5f26eaefda14291b2ff271f2"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}

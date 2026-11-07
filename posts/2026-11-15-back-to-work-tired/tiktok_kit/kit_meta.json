@@ -1,0 +1,32 @@
+{
+  "post": "2026-11-15-back-to-work-tired",
+  "slot": "Thursday, Nov 12, 2026 at 12:30 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "8733b0d228339ddc",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "ee4c9e61cd54865693c5939cb4f113603d3b52a8c91324a50665f9c2372b95eb",
+    "02.jpg": "7c5b13262e83921b7449cc10f864cc8fcdfefa9f5e6219f1d664533c0df47b7a",
+    "03.jpg": "ca6ebfa5234c520133cdbb79f85475c3d3e1ef2c543a9f7014dfc10b0722c5a2",
+    "04.jpg": "ebc2982e752e136c18f681ab7773676737412a94ef6453ce231c54b9acd9235d",
+    "05.jpg": "d7453a5b9f7238bb735ab646f330f37c428d428f4053e830f62b331780670a81",
+    "06.jpg": "9138f8834e2c53382179970056410e6f5756769d6340f78a984b6a20aa678e66",
+    "07.jpg": "acfec6ee06104ca282d02c9bd4e0f4e4acf2d93f57f7f57b7cbe0d14e1126914",
+    "08.jpg": "904cbb2636ac3d940ee05e5bc2c5ab8495c7ecfccdb44ddbf81e34d1b7decda8",
+    "README.md": "b693bfa5de4e0d18590854e3398049ab34e42f661d90368bb2f16a250fb7a696",
+    "caption.txt": "24cbcd7e152964bcbcb444e99df6a63b9199fab0486e8958140e1bae217eb64b",
+    "cover.jpg": "ee4c9e61cd54865693c5939cb4f113603d3b52a8c91324a50665f9c2372b95eb",
+    "index.html": "a9c90fd5c1c529134880dc4f27bf95957f9180e59df72f23ba712444c7f2192c",
+    "slides.zip": "b7c07eacddbf869fdcce6bba91552bdfad4c179401ae9651590f0be5be3dff1b"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}

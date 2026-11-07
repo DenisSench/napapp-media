@@ -1,0 +1,70 @@
+{
+  "post": "2026-11-07-night-wakes-by-age",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-lookA.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "301139246181f012",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-14",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-14",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-14",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "4x5/01.jpg": "675581950a1ea99eb8e1a7a691c1514064c4ba0bfd8fba3edcf958b918e92f78",
+    "4x5/02.jpg": "7b2bea7f90ab17b5b0394af2a42b1032eeefa180160aa3f03f82943b774e2690",
+    "4x5/03.jpg": "720d9a1ab2e372de25683e95c552dc5e29c8f28357b07b57d6e5c72234e61d43",
+    "4x5/04.jpg": "d427d050196e91c1f7f9e670a816245030f6952879c3380c711ddbb6a4ce2f75",
+    "4x5/05.jpg": "a50b59a2b25d8df7b285ff43a2cbf468633cffb4769eea7715b8db4fe69fcea9",
+    "4x5/06.jpg": "d310c54b44d1c38b21a7ede3c82ee6c6e9d10b19161732cee2be93dc4f203b26",
+    "4x5/07.jpg": "68638732fce80d74f53fbe9bd736551334fa48581d350ad6707f1663ed7bbd6b",
+    "4x5/08.jpg": "d86d4a68a145eb420014b233e882aa20a08a69f3bf5e459af851805a326099cd",
+    "README.md": "a012cf6600a784bcdff8227ea689c6beb8b555a523d6cf23263238e103e2fa52",
+    "fb_caption.txt": "586a5636e931e56a844d0b1f2b689f649f4cb887bf8ad94858de9bea3e2b53bb",
+    "ig_caption.txt": "f3c72a61c70cc7891c9703841017ab5c223a77fa8a0468a784a27401cd4f65c8",
+    "index.html": "cd97bc65898048157d991f11af8cf14dc4042a51bf329430ba5f2480c199002f",
+    "reel-preview-slideshow-lookA-fb.mp4": "83de2f79f390d383c505b65b9985d7c1062bd06b15da899778fd9b77d5f3ab6b",
+    "reel-preview-slideshow-lookA.mp4": "993fa3faadf90795de7ba47625d58f524ab2f6f2e24c00ea786ba6d55a74a9b5",
+    "slides-4x5.zip": "5faf26ec111cca6196bbe985e8a6df3e9f0cc644317cba95655a182422403d19",
+    "tiktok_caption.txt": "94e9dd80181d7f173b1cb799260c69c8cdad9325cc8e88c7bbd52659140e6296"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "3a41aa393ad8be18f4b5470d730a20ff543e97d3e6391d5cfccdce8ccf86b5e0",
+    "tiktok_kit/02.jpg": "0d1fc69895999e9c6a8cd0916a43a51d8184690d50286b2fa216eab03e7c6bd6",
+    "tiktok_kit/03.jpg": "d61c03b7d506f720c8b624f50f425c637d35a0619b357c9f9e664dc3ab5ca09b",
+    "tiktok_kit/04.jpg": "94fc2474867a17466f49f9e295881fc54e0d8a4fe888a88e58396d0a27211b24",
+    "tiktok_kit/05.jpg": "32255f8e9db1d772f25f6c7990f2379dde9702f928521025875f0089ab5758ff",
+    "tiktok_kit/06.jpg": "69ac60b0b393bd58f20c7d2080b742875ff4a7995d61544c666d7a991f4ab4ab",
+    "tiktok_kit/07.jpg": "4c57e1857c0b38eed4b538d39ab5914202dcdf20c8d5d46fb16f709e274465e9",
+    "tiktok_kit/08.jpg": "fa40e658130433df6a3a3e3468d1f069d885f544f2a76868a3230011afd2caff",
+    "tiktok_kit/cover.jpg": "3a41aa393ad8be18f4b5470d730a20ff543e97d3e6391d5cfccdce8ccf86b5e0",
+    "tiktok_kit/slides.zip": "19f50b2444469d90cf1b1a929ab37d0af5a83c345c09184a4297d0fa46582433"
+  }
+}

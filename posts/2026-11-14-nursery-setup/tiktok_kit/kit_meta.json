@@ -1,0 +1,32 @@
+{
+  "post": "2026-11-14-nursery-setup",
+  "slot": "Thursday, Nov 12, 2026 at 5:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "603f61fb6f448c11",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "4927fb3fdcda6e7fea159ebf344e0dc9306aac53c79bfdbb54f94f07dd7d0759",
+    "02.jpg": "6ebae782cc30f70db3a4cd32ff6a9ec5eba0eafb7aad72efa71eb9e34f29cb5a",
+    "03.jpg": "a10716c7ba06cabfaf73a1a18d8bb3356efd95bd9593438e887cefa2f92b0b2d",
+    "04.jpg": "ab73673aaef585746feb06b247529d8367de6f162ae7a7a388226c554245f442",
+    "05.jpg": "18b859e4b2ee64f9028a2f1139323a03026d00b51834c53436e9c286ee23a149",
+    "06.jpg": "0980ec24df74c4a86d577ba1f514ff38e2723e86e61e2fe2c949c003288647e9",
+    "07.jpg": "6e48cb6e88246603992aca87b35cc797b98bc8fa5597fc38ff3db1f97079032c",
+    "08.jpg": "9b0591711714dbae7e4b0cbe8b861b44c02bde4b740e0e81a2eed5d9db371550",
+    "README.md": "9d1f4580e1406d1d6adcd14ddafd4fbddb36e656784e5845be321876cc75d9a9",
+    "caption.txt": "1cc0f593a8591329dba9120b9d8b830acf221f2daae946ecb02cefc4098f3d5f",
+    "cover.jpg": "4927fb3fdcda6e7fea159ebf344e0dc9306aac53c79bfdbb54f94f07dd7d0759",
+    "index.html": "1091f002c4b101e9f8123ea39145e72949755710e7882e824dead195d07e597a",
+    "slides.zip": "2734e757e3c2c3da2eec63c4aa4a0fd06ffe56e7bf1ff3be002e1ed4c2e61e03"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}

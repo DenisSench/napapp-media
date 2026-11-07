@@ -1,0 +1,51 @@
+{
+  "post": "2026-10-25-wake-windows-7-12m",
+  "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
+  "approval": {
+    "state": "published",
+    "label": "Approved (published)",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "4d7225e2ac2d4e0a",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-10-25",
+      "time": "10:02",
+      "status": "Posted",
+      "posted": true,
+      "mode": "inbox",
+      "url": "https://www.tiktok.com/@nap_app/photo/7700605562706365716"
+    },
+    "ig": {
+      "date": "2026-11-15",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-15",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "1272760524210f9f505dad0ff17d3db6c06f355f21eb00867c6c56c2825a2fc8",
+    "fb_caption.txt": "7af5df1b8f529440230ca120322133ab01f26cd02fe0efc2fd46679a3db17340",
+    "ig_caption.txt": "7649f7dcbc94b9aa84bcabe62c9f139a608f0290461fea1efb628103393d2b90",
+    "index.html": "11de685f66459ddfa7bb19ff6db383db24561957ca884de5ecf1348a5139db2d",
+    "tiktok_caption.txt": "46785454cdcee0abaacbf9d45d1e8c475fba99e72558ebe3ad259e14d7e178c1"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "d7658756eac75629207b1154254415e46e82412a7c0da6a33dc62ec1b489c8ef",
+    "reel_kit/reel-fb.mp4": "572717fa86bd3bba65099a6d6ca19085e1760d987955b0f110b4787d6355ab15"
+  }
+}

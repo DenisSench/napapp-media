@@ -2,7 +2,7 @@
   "post": "2026-11-07-consistent-morning-wake",
   "kind": "carousel",
   "meta_reels_only": true,
-  "meta_reel": "reel-preview-slideshow-v1.mp4",
+  "meta_reel": "reel-preview-slideshow-lookA.mp4",
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -38,28 +38,30 @@
     }
   },
   "files": {
-    "4x5/01.jpg": "e0b2a565ddbfd97d45b1850a0e65c5fea8e105f52ef682a08d7623631ec2439a",
-    "4x5/02.jpg": "7b785dc836bbed50bf2bcffbe5a55cc6e87a6aca655c2420a583736a36ac45d6",
-    "4x5/03.jpg": "d77ce2711e1a06a8257dffb7d7829eb18b3ba547b438110bfa4d4e7c45665216",
-    "4x5/04.jpg": "5a592f1e777667db60b10a86021016084fa717e1c94025a4e1c2e2a606e5770c",
-    "4x5/05.jpg": "1a51a1b8c2f9b4230de617c9cfeb6e434d3e024230577648b07a467bf31d1a62",
-    "4x5/06.jpg": "f2874da7b99a93e79e436c03ccde897e44fde391d4b316608422a856de69292d",
-    "README.md": "65fdf7091e1622941459efec6ef6e1f06732e445df0a056276d6758c7198f215",
-    "fb_caption.txt": "1f6801706cd51fda6fe81a1a9952e4a43d49eb76802cf56b284efd21db732554",
-    "ig_caption.txt": "35162554eeac91b4c3655223d47bf9d22d093ae4c279cec5d5928b617b260328",
-    "index.html": "40476d8c1f63a01cf5ff87975cd914d5ee8bcdf409f6d70607874cfbabc75d00",
-    "reel-preview-slideshow-v1.mp4": "b7ff48a5c16bd95c2a4634c9cf16c6b021eb3534a4d8b3233346d805254d7475",
-    "slides-4x5.zip": "88b071ce0a0e649f73893a0b703bf034a0e42b07354a8084d0a4381e6b870169",
-    "tiktok_caption.txt": "e53b37d0599cd9099cc97872cdd75ff145fb004c0f33fc595a4fc03312e85034"
+    "4x5/01.jpg": "85533d4fff622fb2fb0bb3d3979d6c7b5758c5af5555fa9e3fb68f7412d0c192",
+    "4x5/02.jpg": "c7e114a341c966b2051a88b5ef24e6ab75695a32cf6ce640ff050c03cdb603c6",
+    "4x5/03.jpg": "cd295b14a596d9d13d05c68551d64cd4c41c0d744d845b58044e1ecaeac4546c",
+    "4x5/04.jpg": "74655fee36fec48df098c3168ae1109c6a210b05a7d737a2f3a3f505928dedd5",
+    "4x5/05.jpg": "e05d409897ace21fff1369d80a0f32d3a7f7879277f0bd9cda9c08e668d806a6",
+    "4x5/06.jpg": "af18796f8970f546d70ceb9da8f57fc2df57980f9ee5113adeb44feb2658fe5e",
+    "4x5/07.jpg": "54884526c9a317ee4bc0bc3a02df6afad325e33cfcebade86cabf63ac0c307bb",
+    "README.md": "e47a04555df967516aebb36777dd432629269dbff0137fe659f8c060156eb887",
+    "fb_caption.txt": "a2a15b914a25ff7a02da7bf0641cb996d3d00826a6ee2097ae762586e7d17ca9",
+    "ig_caption.txt": "a675ec875bd87cd2727b6a7917d38c089ac2cd1ac8e7a0b41f328ef16d9c5a7c",
+    "index.html": "2367bc0593e13206f86a0637ab9506acbd9d38340e8dc40e3865b2667a5d1792",
+    "reel-preview-slideshow-lookA.mp4": "1e43925fd7c2c053bdc7f670b02de47abf2a762d9d22f5a0b31175320b786a00",
+    "slides-4x5.zip": "36057d73c0cec5c540cf1c2b4879f51d15fb00ce977fa84dff8f374d82d23922",
+    "tiktok_caption.txt": "4be373d32974f09399fa75f58c92b63d7424161042e4ae2ab32c1a219d7af3b3"
   },
   "refs": {
-    "tiktok_kit/01.jpg": "ba2804a01e4e6ee4eb93c3bbb23b445bea1c3f52e31b9b06d7f75407bc485330",
-    "tiktok_kit/02.jpg": "7be164266e1f10874870c6d11ef3eb33e3018d48536d95f438341baaba37765d",
-    "tiktok_kit/03.jpg": "bd73865ac87b47f072aa894de80f7a7a6e7633611f4e9599361c0ba338b7debf",
-    "tiktok_kit/04.jpg": "7c5d0e495c0cb5d52b6b1a7a5e0803905172611659e99d5c9beed5dbbb31ffe0",
-    "tiktok_kit/05.jpg": "f568ea8234aef66fd086f528cd96ffc6481cbac7c981529bfc73de5572739f93",
-    "tiktok_kit/06.jpg": "9dff78aea9a404cc1aeed9987f20f5d1b0a2845e3a8649b24a6b87ac12106798",
-    "tiktok_kit/cover.jpg": "ba2804a01e4e6ee4eb93c3bbb23b445bea1c3f52e31b9b06d7f75407bc485330",
-    "tiktok_kit/slides.zip": "35e19d177035e126312d62b8f756dfcc60415785a1943097031de1c2eeeb410e"
+    "tiktok_kit/01.jpg": "89c738e2e760bcdc7918d54bcb69d0b17ffd51e573c0f2c3cc977d624fd1ca76",
+    "tiktok_kit/02.jpg": "6f98a3a225960adc4c676f1e894969343b012ee189382804105f1210938a2174",
+    "tiktok_kit/03.jpg": "38a131ac32944e3778b7b6b8d5e952b2f4007a669a42504309f0c8eee67324a3",
+    "tiktok_kit/04.jpg": "18a45ca5157724b2fbf140746b3a8c85df5e56cbb59fc67808b42d4e00762225",
+    "tiktok_kit/05.jpg": "ade6ac27c24a3fb21dc9877f5062e52c35976abed34ce1614120be6a1fe86ed7",
+    "tiktok_kit/06.jpg": "7543740a9b2b51c7a4206c40f3e508a772163657678c3178add5c84d0bb9e767",
+    "tiktok_kit/07.jpg": "d3e0ee319e520f33f7620b30893ff11cd18980165ade5d1f7e8b20032c4e7b57",
+    "tiktok_kit/cover.jpg": "89c738e2e760bcdc7918d54bcb69d0b17ffd51e573c0f2c3cc977d624fd1ca76",
+    "tiktok_kit/slides.zip": "377750f7d813b20593e5364fb109e7f5e9ead2a4b496894c2c9d905ecde35aab"
   }
 }

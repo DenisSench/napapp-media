@@ -1,19 +1,29 @@
 {
   "post": "2026-10-30-me-vs-baby-monitor",
-  "slot": "Monday, Nov 2, 2026 at 12:30 PM ET",
+  "slot": "Saturday, Nov 14, 2026 at 12:30 PM ET",
   "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
-  "sounds_fingerprint": "3c59c9b8e0eed8f5",
+  "sounds_fingerprint": "3cb28adfd6c19c0a",
   "sounds_found": true,
   "files": {
-    "01.jpg": "bcfac794f5561aef248ee86526c1937c87a53ef1e5ab1ba79390fd7e31f40cc8",
-    "02.jpg": "42620d78622b1e01aacd5b808b32ac8577486a6d2d085a1d9bba132384b784f2",
-    "03.jpg": "fb76417e27135b9d79be450a1c578b94f67141609a6c6e1573843a8a2837346c",
-    "04.jpg": "13b5828297a9e6fd328dbda17c5c9514899466de950b808f3c872e364a4cd439",
-    "README.md": "a7beedb7f44b9ff18f9da01cfa3304398c5cc2f6a2cf43e492c73d7a956bad8a",
+    "01.jpg": "73d0d75a4a7bc06c715e159d68346646e1dd9ed2971ea8b335b8130c78be2829",
+    "02.jpg": "d01c4e87cc03abd2509afd88a83aa1a0eda01e263bc642a4598b38825dd90298",
+    "03.jpg": "e224dca021f7b48289bb5791defe01e51534f71c9379905f9c5c633b77631b5d",
+    "04.jpg": "949eb69a4449c7be12c0c2e106458ec08dadac70239e0df364327faca1f094ac",
+    "05.jpg": "82d30f9bf6f900c43fbb17f7d1d80b16cdc379aabde8c73fc0338c4556cb3351",
+    "README.md": "1ac2b393108545d8a51ae996e14520ae9f9a423f16d90d4a9b2b3908c10f6642",
     "caption.txt": "5728a2e68999ab9c483ceae085554e00ba918b7f4639264539d0a09e7d935c5f",
-    "cover.jpg": "bcfac794f5561aef248ee86526c1937c87a53ef1e5ab1ba79390fd7e31f40cc8",
-    "index.html": "0225a555ebec0c58ab43321d42cd5ba600eae808bc67f18b854017f0cac2d192",
-    "slides.zip": "0fda9ddf0310924fcd0843f4fc4faefee3eb030ae927e7afeb4919b19dad784b"
+    "cover.jpg": "73d0d75a4a7bc06c715e159d68346646e1dd9ed2971ea8b335b8130c78be2829",
+    "index.html": "16f5a31d20a51db70d8de5bf96547145d2375c9d03f487b91de92834326a7dec",
+    "slides.zip": "52100e8ff900759af0d4ad9ef7454ee37238179d290cd5b0364ff462535e273b"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
   }
 }

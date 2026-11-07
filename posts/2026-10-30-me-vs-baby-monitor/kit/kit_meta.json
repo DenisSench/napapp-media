@@ -1,0 +1,64 @@
+{
+  "post": "2026-10-30-me-vs-baby-monitor",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-lookA.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "3cb28adfd6c19c0a",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-14",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-14",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-14",
+      "time": "12:30",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "4x5/01.jpg": "76e4a65a3cde26d7bc16d462c0cfd29f7e920c86227b9497b9c64beaeb439c76",
+    "4x5/02.jpg": "cdcef9067381edc4b8d244b8fd6a198c7162e1094ec2a25affcbad1e4e44b302",
+    "4x5/03.jpg": "19c9d0a434adcebae686f2db7792d8f8aac72e7bc1c81e5e09950cb2000fc5d0",
+    "4x5/04.jpg": "3e0a98a6208f424fd052c034b709988538bb40196eee380aff45ca0ee2718172",
+    "4x5/05.jpg": "5a1666b82d96e14ed188540394746cbb8b65c10769a6de19a6bd2a8baf339824",
+    "README.md": "4e6b11cec9aeaf4549bffc06f6efa38f486ec52240d60bccc72d47174b523285",
+    "fb_caption.txt": "59578a2413e93d6048901fb3a18de6a65344ee951cc944cc16caadb03b9a367f",
+    "ig_caption.txt": "9b6fd20c653435a6db7365c6bd27e3982fac3f1135c3d30728f242a2c1e87cd5",
+    "index.html": "b0757dfcd6d020eebc9a4d76f71838b2ca39e3fda4c38214754445c35a06ea23",
+    "reel-preview-slideshow-lookA-fb.mp4": "011c7ddcc72c2e8d1edc9de39452bd0b78a19bba449e2da1677105ccf20c1d7d",
+    "reel-preview-slideshow-lookA.mp4": "b128d8c8fbd26313ff7950964d0e0e8334373add3dae753469016b02d740b1a9",
+    "slides-4x5.zip": "c5436113ccda8902d743b36e607994532bcfeeb174cda52d52774078d8c25838",
+    "tiktok_caption.txt": "5728a2e68999ab9c483ceae085554e00ba918b7f4639264539d0a09e7d935c5f"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "73d0d75a4a7bc06c715e159d68346646e1dd9ed2971ea8b335b8130c78be2829",
+    "tiktok_kit/02.jpg": "d01c4e87cc03abd2509afd88a83aa1a0eda01e263bc642a4598b38825dd90298",
+    "tiktok_kit/03.jpg": "e224dca021f7b48289bb5791defe01e51534f71c9379905f9c5c633b77631b5d",
+    "tiktok_kit/04.jpg": "949eb69a4449c7be12c0c2e106458ec08dadac70239e0df364327faca1f094ac",
+    "tiktok_kit/05.jpg": "82d30f9bf6f900c43fbb17f7d1d80b16cdc379aabde8c73fc0338c4556cb3351",
+    "tiktok_kit/cover.jpg": "73d0d75a4a7bc06c715e159d68346646e1dd9ed2971ea8b335b8130c78be2829",
+    "tiktok_kit/slides.zip": "52100e8ff900759af0d4ad9ef7454ee37238179d290cd5b0364ff462535e273b"
+  }
+}
