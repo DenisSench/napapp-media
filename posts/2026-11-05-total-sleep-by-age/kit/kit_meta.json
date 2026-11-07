@@ -15,7 +15,7 @@
     "tiktok": {
       "date": "2026-11-06",
       "time": "20:00",
-      "status": "Awaiting Denis's final OK (approve when posting)",
+      "status": "Approved",
       "posted": false,
       "mode": "hand",
       "url": ""
@@ -23,7 +23,7 @@
     "ig": {
       "date": "2026-11-06",
       "time": "20:00",
-      "status": "Awaiting Denis's final OK (approve when posting)",
+      "status": "Approved",
       "posted": false,
       "mode": "hand",
       "url": ""
@@ -31,7 +31,7 @@
     "fb": {
       "date": "2026-11-06",
       "time": "20:00",
-      "status": "Awaiting Denis's final OK (approve when posting)",
+      "status": "Approved",
       "posted": false,
       "mode": "hand",
       "url": ""
@@ -41,7 +41,7 @@
     "README.md": "2030c08c7716c7908ac7acddd6281d3f67713aa57dc433fc7617e456e957c7e4",
     "fb_caption.txt": "988e470a34a0fafbe7dfd7e0906049803a89d916a457ffee1e42b061313f2667",
     "ig_caption.txt": "c930bce44a35c859ed31066ddb83ca2811b36c1f53532bd3900df8718675dfe4",
-    "index.html": "7a1509435de3a3bcb75ae1bfa363a0212adddc6d4b25497d1ee70f265c7a1ef3",
+    "index.html": "7e38def8515b090b9abb9530549f467dde95ea91625556344a44c91861de9f33",
     "tiktok_caption.txt": "69ca3c5a40d656ca88a260d2171035f05052fca376f74db7156b92272af723c2"
   },
   "refs": {
