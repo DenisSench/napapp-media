@@ -27,7 +27,7 @@ The doorbell, the dog and the delivery driver: the nap time trio. Which one gets
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
 1. AI label REQUIRED on Instagram: before sharing, Advanced settings → turn ON AI label.
-2. Download reel-preview-slideshow-v2.mp4 (the 9:16 slideshow Reel, top of this page).
+2. Download reel-preview-slideshow-lookA.mp4 (the 9:16 slideshow Reel, top of this page).
 3. Instagram app (@getnapapp): open an Instagram pick's audio link → Use audio → pick the slideshow Reel → Next.
 4. Paste the IG caption. Cover: the first slide (the hook). Don't tick "also share to Facebook".
 5. Share, then send Bob the link.
@@ -45,7 +45,7 @@ The doorbell, the dog and the delivery driver: the nap time trio. Which one gets
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-v2-fb.mp4.
+2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 

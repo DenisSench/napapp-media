@@ -1,6 +1,6 @@
 # Reel kit: newborn-evening-shift
 
-`reel.mp4`: 12.767 s, 1.6 MB, 1080x1920, silent; slides from `None`.
+`reel.mp4`: 12.767 s, 1.5 MB, 1080x1920, silent; slides from `None`.
 
 ## Checklist
 
@@ -16,7 +16,7 @@
 
 ## Notes
 
-- `reel.mp4` is Lee's `reel-preview-v3-rec.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
+- `reel.mp4` is Lee's `reel-preview-v3.1-rec.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
 - Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from post.md (## TikTok Caption).
 
