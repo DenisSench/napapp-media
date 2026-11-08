@@ -1,0 +1,30 @@
+{
+  "post": "newborn-things-not-wrong",
+  "slot": "Tuesday, Nov 10, 2026 at 5:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "9dfb43049b98b6b2",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "32948b6d263cd1b24c436af2608298c19cd4e45c56d47cf87db49938bcadf7db",
+    "02.jpg": "f11192ca4536abb9d71a242a2076353d6fd61d02bf4d2257f2db03a1fb2417d5",
+    "03.jpg": "d34fcaf61339c62767de43241f2f249b6c4849af7ee2048926c4f18a11a3d46d",
+    "04.jpg": "4caf2bfa75e7212e749768646228440ea61d4bc2e62f2313bcc4a92c120a90b8",
+    "05.jpg": "3ad343a3854759a77c8de4e4de8dd63773339487db6b6e703c259e39e01e98ac",
+    "06.jpg": "0b442a048f5288e9bc7c1328453bdd042ba100e624e93387d88d143c49c2dc1d",
+    "README.md": "1bd208c442919861024943a75fb654a9f8bd6e90723c39a5ca353b88c453af26",
+    "caption.txt": "caec3960b96a2298b05814933973b06e53f41d37de8e89de720e3e3ea93af478",
+    "cover.jpg": "32948b6d263cd1b24c436af2608298c19cd4e45c56d47cf87db49938bcadf7db",
+    "index.html": "d09eb6f5fa74020ac6c1134461eb32a3a0e7dc541ecfbe0c2537df5a388d2bf1",
+    "slides.zip": "7df8b6f018539925e75ec5208adc713097ea85c665fe400b5904495a022035c3"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}
