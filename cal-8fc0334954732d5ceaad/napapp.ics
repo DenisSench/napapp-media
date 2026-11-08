@@ -26,33 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:clocks-fall-back-5am-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261031T123000
-DTEND;TZID=America/Toronto:20261031T124500
-SUMMARY:✅ Posted: Clocks fall back 5am [IG/FB]
-DESCRIPTION:✅ Instagram: give your go for the IG API post (nothing posts 
- without it)\n✅ Facebook: give your go for the FB API post (nothing posts
-  without it)\n\nApproval: Approved (one approval for all platforms)\nPlatf
- orms on different days: TikTok 2026-10-30 08:00\, IG 2026-10-31 12:30\, FB
-  2026-10-31 12:30\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: 
- https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Clocks fall back 5am [IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Clocks fall back 5am [IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:2-to-1-nap-transition-tt@napapp.io
 DTSTAMP:20261107T160205Z
 SEQUENCE:2
@@ -740,58 +713,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:newborn-evening-shift-tt-ig-fb@napapp.io
-DTSTAMP:20261106T191152Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261107T170000
-DTEND;TZID=America/Toronto:20261107T171500
-SUMMARY:Post: Newborn evening shift [TT/IG/FB]
-DESCRIPTION:• TikTok: post the video by hand from the kit\n• Instagram:
-  post the Reel by hand\n• Facebook: post the Reel by hand\n\nApproval: A
- pproved (one approval for all platforms)\nKit: https://media.napapp.io/pos
- ts/newborn-evening-shift/kit/\nDashboard: https://media.napapp.io/cal-lvt4
- wit7/
-URL:https://media.napapp.io/posts/newborn-evening-shift/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Newborn evening shift [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Newborn evening shift [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:nap-time-noise-tt-ig-fb@napapp.io
-DTSTAMP:20261107T004950Z
-SEQUENCE:4
-DTSTART;TZID=America/Toronto:20261107T200000
-DTEND;TZID=America/Toronto:20261107T201500
-SUMMARY:Post: Nap time noise [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/posts/2026-11-10-nap-time-noise
- /kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-10-nap-time-noise/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Nap time noise [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Post: Nap time noise [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:me-vs-baby-bedtime-ig-fb@napapp.io
 DTSTAMP:20261107T042004Z
 SEQUENCE:3
@@ -840,32 +761,6 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:Post: Naps away from home [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:approve-newborn-things-not-wrong@napapp.io
-DTSTAMP:20261106T191152Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261109T090000
-DTEND;TZID=America/Toronto:20261109T091500
-SUMMARY:Approve: Newborn things not wrong
-DESCRIPTION:newborn-things-not-wrong is 'Needs approval' and is due 2026-11
- -10 17:00 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. App
- rove or skip it in the Commander chat (or the dashboard's Approve button).
- \nReview/kit: https://media.napapp.io/cal-lvt4wit7/review/newborn-things-n
- ot-wrong/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/newborn-things-not-wrong/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Newborn things not wrong in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Approve: Newborn things not wrong in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -949,17 +844,17 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:newborn-things-not-wrong-tt-ig-fb@napapp.io
-DTSTAMP:20261106T191152Z
-SEQUENCE:2
+DTSTAMP:20261108T001510Z
+SEQUENCE:3
 DTSTART;TZID=America/Toronto:20261110T170000
 DTEND;TZID=America/Toronto:20261110T171500
 SUMMARY:Post: Newborn things not wrong [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Needs approval (one approval 
- for all platforms)\nKit: https://media.napapp.io/cal-lvt4wit7/review/newbo
- rn-things-not-wrong/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/review/newborn-things-not-wrong/
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/posts/newborn-things-not-wrong/
+ kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/newborn-things-not-wrong/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
