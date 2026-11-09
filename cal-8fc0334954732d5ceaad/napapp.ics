@@ -616,16 +616,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:consistent-morning-wake-tt-ig-fb@napapp.io
-DTSTAMP:20261109T025010Z
-SEQUENCE:4
+DTSTAMP:20261109T141649Z
+SEQUENCE:5
 DTSTART;TZID=America/Toronto:20261109T090000
 DTEND;TZID=America/Toronto:20261109T091500
 SUMMARY:Post: Consistent morning wake [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n\nApproval: STATUS: held (one approval fo
- r all platforms)\nKit: https://media.napapp.io/posts/2026-11-07-consistent
- -morning-wake/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/posts/2026-11-07-consistent-mor
+ ning-wake/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-11-07-consistent-morning-wake/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
