@@ -641,10 +641,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:consistent-morning-wake-tt-ig-fb@napapp.io
-DTSTAMP:20261106T191152Z
-SEQUENCE:2
-DTSTART;TZID=America/Toronto:20261109T123000
-DTEND;TZID=America/Toronto:20261109T124500
+DTSTAMP:20261109T005909Z
+SEQUENCE:3
+DTSTART;TZID=America/Toronto:20261109T090000
+DTEND;TZID=America/Toronto:20261109T091500
 SUMMARY:Post: Consistent morning wake [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
@@ -667,10 +667,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unsolicited-sleep-advice-tt-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261109T200000
-DTEND;TZID=America/Toronto:20261109T201500
+DTSTAMP:20261109T005909Z
+SEQUENCE:4
+DTSTART;TZID=America/Toronto:20261109T190000
+DTEND;TZID=America/Toronto:20261109T191500
 SUMMARY:Post: Unsolicited sleep advice [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
@@ -693,13 +693,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:approve-newborn-sleep-log-receipt@napapp.io
-DTSTAMP:20261106T191152Z
-SEQUENCE:0
+DTSTAMP:20261109T005909Z
+SEQUENCE:1
 DTSTART;TZID=America/Toronto:20261110T090000
 DTEND;TZID=America/Toronto:20261110T091500
 SUMMARY:Approve: Newborn sleep log receipt
 DESCRIPTION:newborn-sleep-log-receipt is 'Needs approval' and is due 2026-1
- 1-11 20:00 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Ap
+ 1-11 19:00 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG and FB. Ap
  prove or skip it in the Commander chat (or the dashboard's Approve button)
  .\nReview/kit: https://media.napapp.io/cal-lvt4wit7/review/newborn-sleep-l
  og-receipt/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
@@ -719,10 +719,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:newborn-things-not-wrong-tt-ig-fb@napapp.io
-DTSTAMP:20261108T001510Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261110T170000
-DTEND;TZID=America/Toronto:20261110T171500
+DTSTAMP:20261109T005909Z
+SEQUENCE:4
+DTSTART;TZID=America/Toronto:20261110T130000
+DTEND;TZID=America/Toronto:20261110T131500
 SUMMARY:Post: Newborn things not wrong [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
@@ -745,10 +745,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pov-night-shift-swap-tt-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261110T200000
-DTEND;TZID=America/Toronto:20261110T201500
+DTSTAMP:20261109T005909Z
+SEQUENCE:4
+DTSTART;TZID=America/Toronto:20261110T190000
+DTEND;TZID=America/Toronto:20261110T191500
 SUMMARY:Post: Pov night shift swap [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
@@ -771,15 +771,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:week-wake-window-recap-ig-fb@napapp.io
-DTSTAMP:20261106T191152Z
-SEQUENCE:2
-DTSTART;TZID=America/Toronto:20261111T123000
-DTEND;TZID=America/Toronto:20261111T124500
+DTSTAMP:20261109T005909Z
+SEQUENCE:3
+DTSTART;TZID=America/Toronto:20261111T090000
+DTEND;TZID=America/Toronto:20261111T091500
 SUMMARY:Post: Week wake window recap [IG/FB]
 DESCRIPTION:• Instagram: hand-post the slideshow Reel (Option B)\n• Fac
  ebook: hand-post the slideshow Reel\n\nApproval: Approved (one approval fo
  r all platforms)\nPlatforms on different days: TikTok 2026-11-01 19:00\, I
- G 2026-11-11 12:30\, FB 2026-11-11 12:30\nKit: https://media.napapp.io/cal
+ G 2026-11-11 09:00\, FB 2026-11-11 09:00\nKit: https://media.napapp.io/cal
  -lvt4wit7/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/cal-lvt4wit7/
 TRANSP:TRANSPARENT
@@ -797,10 +797,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:newborn-sleep-log-receipt-tt-ig-fb@napapp.io
-DTSTAMP:20261106T191152Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261111T200000
-DTEND;TZID=America/Toronto:20261111T201500
+DTSTAMP:20261109T005909Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261111T190000
+DTEND;TZID=America/Toronto:20261111T191500
 SUMMARY:Post: Newborn sleep log receipt [TT/IG/FB]
 DESCRIPTION:• TikTok: post the video by hand from the kit\n• Instagram:
   post the Reel by hand\n• Facebook: post the Reel by hand\n\nApproval: N
@@ -823,10 +823,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:back-to-work-tired-tt-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261112T123000
-DTEND;TZID=America/Toronto:20261112T124500
+DTSTAMP:20261109T005909Z
+SEQUENCE:4
+DTSTART;TZID=America/Toronto:20261112T090000
+DTEND;TZID=America/Toronto:20261112T091500
 SUMMARY:Post: Back to work tired [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
@@ -849,10 +849,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:nursery-setup-tt-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261112T170000
-DTEND;TZID=America/Toronto:20261112T171500
+DTSTAMP:20261109T005909Z
+SEQUENCE:4
+DTSTART;TZID=America/Toronto:20261112T130000
+DTEND;TZID=America/Toronto:20261112T131500
 SUMMARY:Post: Nursery setup [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
@@ -875,10 +875,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:bedtime-routine-steps-tt-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:2
-DTSTART;TZID=America/Toronto:20261112T200000
-DTEND;TZID=America/Toronto:20261112T201500
+DTSTAMP:20261109T005909Z
+SEQUENCE:3
+DTSTART;TZID=America/Toronto:20261112T190000
+DTEND;TZID=America/Toronto:20261112T191500
 SUMMARY:Post: Bedtime routine steps [TT/IG/FB]
 DESCRIPTION:• TikTok: post the video by hand from the kit\n• Instagram:
   post the Reel by hand\n• Facebook: post the Reel by hand\n\nApproval: A
@@ -901,15 +901,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:2-to-1-nap-transition-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:2
-DTSTART;TZID=America/Toronto:20261113T123000
-DTEND;TZID=America/Toronto:20261113T124500
+DTSTAMP:20261109T005909Z
+SEQUENCE:3
+DTSTART;TZID=America/Toronto:20261113T090000
+DTEND;TZID=America/Toronto:20261113T091500
 SUMMARY:Post: 2 to 1 nap transition [IG/FB]
 DESCRIPTION:• Instagram: post the Reel by hand\n• Facebook: post the Re
  el by hand\n\nApproval: Approved (one approval for all platforms)\nPlatfor
- ms on different days: TikTok 2026-10-31 20:42\, IG 2026-11-13 12:30\, FB 2
- 026-11-13 12:30\nKit: https://media.napapp.io/posts/2026-10-31-2-to-1-nap-
+ ms on different days: TikTok 2026-10-31 20:42\, IG 2026-11-13 09:00\, FB 2
+ 026-11-13 09:00\nKit: https://media.napapp.io/posts/2026-10-31-2-to-1-nap-
  transition/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-10-31-2-to-1-nap-transition/kit/
 TRANSP:TRANSPARENT
@@ -927,10 +927,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:running-on-empty-tt-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261113T200000
-DTEND;TZID=America/Toronto:20261113T201500
+DTSTAMP:20261109T005909Z
+SEQUENCE:4
+DTSTART;TZID=America/Toronto:20261113T190000
+DTEND;TZID=America/Toronto:20261113T191500
 SUMMARY:Post: Running on empty [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
@@ -953,10 +953,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:me-vs-baby-monitor-tt-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261114T123000
-DTEND;TZID=America/Toronto:20261114T124500
+DTSTAMP:20261109T005909Z
+SEQUENCE:4
+DTSTART;TZID=America/Toronto:20261114T090000
+DTEND;TZID=America/Toronto:20261114T091500
 SUMMARY:Post: Me vs baby monitor [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
@@ -979,10 +979,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:night-wakes-by-age-tt-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261114T170000
-DTEND;TZID=America/Toronto:20261114T171500
+DTSTAMP:20261109T005909Z
+SEQUENCE:4
+DTSTART;TZID=America/Toronto:20261114T130000
+DTEND;TZID=America/Toronto:20261114T131500
 SUMMARY:Post: Night wakes by age [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
@@ -1005,10 +1005,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:sleep-comparison-tt-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261114T200000
-DTEND;TZID=America/Toronto:20261114T201500
+DTSTAMP:20261109T005909Z
+SEQUENCE:4
+DTSTART;TZID=America/Toronto:20261114T190000
+DTEND;TZID=America/Toronto:20261114T191500
 SUMMARY:Post: Sleep comparison [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
@@ -1031,15 +1031,15 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:wake-windows-7-12m-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261115T123000
-DTEND;TZID=America/Toronto:20261115T124500
+DTSTAMP:20261109T005909Z
+SEQUENCE:4
+DTSTART;TZID=America/Toronto:20261115T090000
+DTEND;TZID=America/Toronto:20261115T091500
 SUMMARY:Post: Wake windows 7-12m [IG/FB]
 DESCRIPTION:• Instagram: post the Reel by hand\n• Facebook: post the Re
  el by hand\n\nApproval: Approved (published) (one approval for all platfor
  ms)\nPlatforms on different days: TikTok 2026-10-25 10:02\, IG 2026-11-15 
- 12:30\, FB 2026-11-15 12:30\nKit: https://media.napapp.io/posts/2026-10-25
+ 09:00\, FB 2026-11-15 09:00\nKit: https://media.napapp.io/posts/2026-10-25
  -wake-windows-7-12m/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-10-25-wake-windows-7-12m/kit/
 TRANSP:TRANSPARENT
@@ -1057,10 +1057,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:real-reason-bedtime-battles-tt-ig-fb@napapp.io
-DTSTAMP:20261107T160205Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261115T200000
-DTEND;TZID=America/Toronto:20261115T201500
+DTSTAMP:20261109T005909Z
+SEQUENCE:2
+DTSTART;TZID=America/Toronto:20261115T190000
+DTEND;TZID=America/Toronto:20261115T191500
 SUMMARY:Post: Real reason bedtime battles [TT/IG/FB]
 DESCRIPTION:• TikTok: post the video by hand from the kit\n• Instagram:
   post the Reel by hand\n• Facebook: post the Reel by hand\n\nApproval: A
