@@ -616,16 +616,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:consistent-morning-wake-tt-ig-fb@napapp.io
-DTSTAMP:20261109T005909Z
-SEQUENCE:3
+DTSTAMP:20261109T025010Z
+SEQUENCE:4
 DTSTART;TZID=America/Toronto:20261109T090000
 DTEND;TZID=America/Toronto:20261109T091500
 SUMMARY:Post: Consistent morning wake [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/posts/2026-11-07-consistent-mor
- ning-wake/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+ k: hand-post the slideshow Reel\n\nApproval: STATUS: held (one approval fo
+ r all platforms)\nKit: https://media.napapp.io/posts/2026-11-07-consistent
+ -morning-wake/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-11-07-consistent-morning-wake/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -642,16 +642,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:unsolicited-sleep-advice-tt-ig-fb@napapp.io
-DTSTAMP:20261109T005909Z
-SEQUENCE:4
+DTSTAMP:20261109T025010Z
+SEQUENCE:5
 DTSTART;TZID=America/Toronto:20261109T190000
 DTEND;TZID=America/Toronto:20261109T191500
 SUMMARY:Post: Unsolicited sleep advice [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/posts/2026-11-11-unsolicited-sl
- eep-advice/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+ k: hand-post the slideshow Reel\n\nApproval: STATUS: held (one approval fo
+ r all platforms)\nKit: https://media.napapp.io/posts/2026-11-11-unsolicite
+ d-sleep-advice/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-11-11-unsolicited-sleep-advice/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -694,16 +694,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:newborn-things-not-wrong-tt-ig-fb@napapp.io
-DTSTAMP:20261109T005909Z
-SEQUENCE:4
+DTSTAMP:20261109T025010Z
+SEQUENCE:5
 DTSTART;TZID=America/Toronto:20261110T130000
 DTEND;TZID=America/Toronto:20261110T131500
 SUMMARY:Post: Newborn things not wrong [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/posts/newborn-things-not-wrong/
- kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+ k: hand-post the slideshow Reel\n\nApproval: STATUS: held (one approval fo
+ r all platforms)\nKit: https://media.napapp.io/posts/newborn-things-not-wr
+ ong/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/newborn-things-not-wrong/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -720,16 +720,16 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pov-night-shift-swap-tt-ig-fb@napapp.io
-DTSTAMP:20261109T005909Z
-SEQUENCE:4
+DTSTAMP:20261109T025010Z
+SEQUENCE:5
 DTSTART;TZID=America/Toronto:20261110T190000
 DTEND;TZID=America/Toronto:20261110T191500
 SUMMARY:Post: Pov night shift swap [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/posts/2026-11-08-pov-night-shif
- t-swap/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+ k: hand-post the slideshow Reel\n\nApproval: STATUS: held (one approval fo
+ r all platforms)\nKit: https://media.napapp.io/posts/2026-11-08-pov-night-
+ shift-swap/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-11-08-pov-night-shift-swap/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
