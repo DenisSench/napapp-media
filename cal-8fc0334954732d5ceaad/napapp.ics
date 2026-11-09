@@ -565,13 +565,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:consistent-morning-wake-tt-ig-fb@napapp.io
-DTSTAMP:20261109T141649Z
-SEQUENCE:5
+DTSTAMP:20261109T200733Z
+SEQUENCE:6
 DTSTART;TZID=America/Toronto:20261109T090000
 DTEND;TZID=America/Toronto:20261109T091500
-SUMMARY:Post: Consistent morning wake [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+SUMMARY:✅ Posted: Consistent morning wake [TT/IG/FB]
+DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Faceboo
  k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
  l platforms)\nKit: https://media.napapp.io/posts/2026-11-07-consistent-mor
  ning-wake/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
@@ -580,12 +580,12 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Consistent morning wake [TT/IG/FB] in 30 min
+DESCRIPTION:✅ Posted: Consistent morning wake [TT/IG/FB] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Consistent morning wake [TT/IG/FB] in 5 min
+DESCRIPTION:✅ Posted: Consistent morning wake [TT/IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
