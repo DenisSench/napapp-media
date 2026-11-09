@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Tue Nov 10, 5:00 PM ET · Inbox draft
+## TikTok · Tue Nov 10, 1:00 PM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -22,7 +22,7 @@ Save this for the 3am "is this normal?" moment 🌙💤 The AAP notes newborns m
 #newbornlife #newmom #babysleeptips #napapp
 ```
 
-## Instagram · Tue Nov 10, 5:00 PM ET · Hand-post
+## Instagram · Tue Nov 10, 1:00 PM ET · Hand-post
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -45,7 +45,7 @@ Sources: AAP HealthyChildren.org, "How Your Newborn Behaves" and "Getting Your B
 #newbornlife #newmom #babysleeptips #napapp
 ```
 
-## Facebook · Tue Nov 10, 5:00 PM ET · Hand-post
+## Facebook · Tue Nov 10, 1:00 PM ET · Hand-post
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

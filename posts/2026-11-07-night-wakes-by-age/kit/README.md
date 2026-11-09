@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Sat Nov 14, 5:00 PM ET · Inbox draft
+## TikTok · Sat Nov 14, 1:00 PM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -22,7 +22,7 @@ Still waking at night? Here's what's common at each age. Save this for the next 
 #babysleep #nightwakings #babysleephelp #newmom #momtok
 ```
 
-## Instagram · Sat Nov 14, 5:00 PM ET · Hand-post
+## Instagram · Sat Nov 14, 1:00 PM ET · Hand-post
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -43,7 +43,7 @@ Sources: AAP HealthyChildren.org, "Safe Sleep Tips for Sleep-Deprived New Parent
 #babysleep #nightwakings #babysleeptips #newmom
 ```
 
-## Facebook · Sat Nov 14, 5:00 PM ET · Hand-post
+## Facebook · Sat Nov 14, 1:00 PM ET · Hand-post
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

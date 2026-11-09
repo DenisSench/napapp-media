@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../reel_kit/reel.mp4
 
-## TikTok · Thu Nov 12, 8:00 PM ET · Hand-post
+## TikTok · Thu Nov 12, 7:00 PM ET · Hand-post
 
 video posted by you by hand (no inbox draft for video slots)
 
@@ -27,7 +27,7 @@ Source: AAP HealthyChildren.org, "Bedtime Routines for Infants and Toddlers"; AA
 #bedtimeroutine #babysleep #newmom #babysleeptips #momlife
 ```
 
-## Instagram · Thu Nov 12, 8:00 PM ET · Hand-post
+## Instagram · Thu Nov 12, 7:00 PM ET · Hand-post
 
 Reel posted by you by hand
 
@@ -47,7 +47,7 @@ Source: AAP HealthyChildren.org, "Bedtime Routines for Infants and Toddlers"; AA
 #bedtimeroutine #babysleep #newmom #babysleeptips #momlife
 ```
 
-## Facebook · Thu Nov 12, 8:00 PM ET · Hand-post
+## Facebook · Thu Nov 12, 7:00 PM ET · Hand-post
 
 Reel posted by you by hand
 

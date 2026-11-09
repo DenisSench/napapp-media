@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Sat Nov 14, 12:30 PM ET · Inbox draft
+## TikTok · Sat Nov 14, 9:00 AM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -23,7 +23,7 @@ Just for laughs, not medical advice. Questions about your baby's sleep? Check wi
 #momlife #parentinghumor #newmom #babysleep
 ```
 
-## Instagram · Sat Nov 14, 12:30 PM ET · Hand-post
+## Instagram · Sat Nov 14, 9:00 AM ET · Hand-post
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -45,7 +45,7 @@ Just for laughs, not medical advice. Questions about your baby's sleep? Check wi
 #momlife #parentinghumor #newmom #babysleep
 ```
 
-## Facebook · Sat Nov 14, 12:30 PM ET · Hand-post
+## Facebook · Sat Nov 14, 9:00 AM ET · Hand-post
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

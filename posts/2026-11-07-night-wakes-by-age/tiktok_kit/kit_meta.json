@@ -1,6 +1,6 @@
 {
   "post": "2026-11-07-night-wakes-by-age",
-  "slot": "Saturday, Nov 14, 2026 at 5:00 PM ET",
+  "slot": "Saturday, Nov 14, 2026 at 1:00 PM ET",
   "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
   "sounds_fingerprint": "b89bebafb61875a8",
@@ -14,10 +14,10 @@
     "06.jpg": "69ac60b0b393bd58f20c7d2080b742875ff4a7995d61544c666d7a991f4ab4ab",
     "07.jpg": "4c57e1857c0b38eed4b538d39ab5914202dcdf20c8d5d46fb16f709e274465e9",
     "08.jpg": "fa40e658130433df6a3a3e3468d1f069d885f544f2a76868a3230011afd2caff",
-    "README.md": "33a46c2434ff584c80d093e0542a7156508e46cf5b11df1000b7cd2f5c315756",
+    "README.md": "98d325c9dd6d0b7ab40d72d5f07f102e268b7a6a2cdaccffc1f1b52e88967507",
     "caption.txt": "94e9dd80181d7f173b1cb799260c69c8cdad9325cc8e88c7bbd52659140e6296",
     "cover.jpg": "3a41aa393ad8be18f4b5470d730a20ff543e97d3e6391d5cfccdce8ccf86b5e0",
-    "index.html": "9aa6e185b86d72d83998da2b54e89c226d03a9cff29375b8dc5ac91d8db3fb91",
+    "index.html": "2ae7c8875bd9831807625bb954275d834595272ecc0894f6e4ee5c6b31d6b960",
     "slides.zip": "19f50b2444469d90cf1b1a929ab37d0af5a83c345c09184a4297d0fa46582433"
   },
   "ai_label": {

@@ -24,7 +24,7 @@ Not medical advice. Check with your pediatrician about your toddler's sleep.
 #toddlersleep #napschedule #babysleep #parentingtips
 ```
 
-## Instagram · Fri Nov 13, 12:30 PM ET · Hand-post
+## Instagram · Fri Nov 13, 9:00 AM ET · Hand-post
 
 Reel posted by you by hand
 
@@ -47,7 +47,7 @@ Sources: Cleveland Clinic; AASM (via Cleveland Clinic). Not medical advice. Chec
 #toddlersleep #napschedule #babysleep #parentingtips
 ```
 
-## Facebook · Fri Nov 13, 12:30 PM ET · Hand-post
+## Facebook · Fri Nov 13, 9:00 AM ET · Hand-post
 
 Reel posted by you by hand
 

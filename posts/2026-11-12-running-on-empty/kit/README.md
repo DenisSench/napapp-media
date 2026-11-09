@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Fri Nov 13, 8:00 PM ET · Inbox draft
+## TikTok · Fri Nov 13, 7:00 PM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -22,7 +22,7 @@ Third time's the charm for this coffee, right? Tell me your most tired moment th
 #momlife #newmom #tiredparent #babysleep
 ```
 
-## Instagram · Fri Nov 13, 8:00 PM ET · Hand-post
+## Instagram · Fri Nov 13, 7:00 PM ET · Hand-post
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -40,7 +40,7 @@ Third time's the charm for this coffee, right? Tell me your most tired moment th
 #momlife #newmom #tiredparent #babysleep
 ```
 
-## Facebook · Fri Nov 13, 8:00 PM ET · Hand-post
+## Facebook · Fri Nov 13, 7:00 PM ET · Hand-post
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

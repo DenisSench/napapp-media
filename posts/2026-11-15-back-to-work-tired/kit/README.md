@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Thu Nov 12, 12:30 PM ET · Inbox draft
+## TikTok · Thu Nov 12, 9:00 AM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -22,7 +22,7 @@ Back at work, running on a 3am wake-up and pure willpower. What's your "camera o
 #workingmom #backtowork #momlife #babysleep
 ```
 
-## Instagram · Thu Nov 12, 12:30 PM ET · Hand-post
+## Instagram · Thu Nov 12, 9:00 AM ET · Hand-post
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -40,7 +40,7 @@ Back at work, running on a 3am wake-up and pure willpower. What's your "camera o
 #workingmom #backtowork #momlife #babysleep
 ```
 
-## Facebook · Thu Nov 12, 12:30 PM ET · Hand-post
+## Facebook · Thu Nov 12, 9:00 AM ET · Hand-post
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

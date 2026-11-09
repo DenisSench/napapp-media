@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Tue Nov 10, 8:00 PM ET · Inbox draft
+## TikTok · Tue Nov 10, 7:00 PM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -22,7 +22,7 @@ Who really had the hard shift? Tag your night shift partner. Every baby is diffe
 #babysleep #newparents #parentlife #momlife
 ```
 
-## Instagram · Tue Nov 10, 8:00 PM ET · Hand-post
+## Instagram · Tue Nov 10, 7:00 PM ET · Hand-post
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -40,7 +40,7 @@ POV: the night shift swap. Very organised at 9 PM, a whispered mystery by 4 AM. 
 #babysleep #newparents #parentlife #babysleeptips
 ```
 
-## Facebook · Tue Nov 10, 8:00 PM ET · Hand-post
+## Facebook · Tue Nov 10, 7:00 PM ET · Hand-post
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

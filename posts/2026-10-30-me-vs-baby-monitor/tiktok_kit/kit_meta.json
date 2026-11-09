@@ -1,6 +1,6 @@
 {
   "post": "2026-10-30-me-vs-baby-monitor",
-  "slot": "Saturday, Nov 14, 2026 at 12:30 PM ET",
+  "slot": "Saturday, Nov 14, 2026 at 9:00 AM ET",
   "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
   "sounds_fingerprint": "9b88f9c86180ae81",
@@ -11,10 +11,10 @@
     "03.jpg": "e224dca021f7b48289bb5791defe01e51534f71c9379905f9c5c633b77631b5d",
     "04.jpg": "949eb69a4449c7be12c0c2e106458ec08dadac70239e0df364327faca1f094ac",
     "05.jpg": "82d30f9bf6f900c43fbb17f7d1d80b16cdc379aabde8c73fc0338c4556cb3351",
-    "README.md": "c9e6af3d76e3f7fff6e046f547ff4ca9200ee971c517431354b75cb3f02a7bb5",
+    "README.md": "381bc03782268261ec1e733feecce759ddf985455c6b94e1caaa25084095353b",
     "caption.txt": "5728a2e68999ab9c483ceae085554e00ba918b7f4639264539d0a09e7d935c5f",
     "cover.jpg": "73d0d75a4a7bc06c715e159d68346646e1dd9ed2971ea8b335b8130c78be2829",
-    "index.html": "04a9446f1c6869e5523722433c94cdddc32b8397d6e3a07df8c6f267800d005f",
+    "index.html": "f6944b417bfe67c2f006f12c29578ce34d9bab1d03708b6c9e17de2f277ea74e",
     "slides.zip": "52100e8ff900759af0d4ad9ef7454ee37238179d290cd5b0364ff462535e273b"
   },
   "ai_label": {

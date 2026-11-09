@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Sat Nov 14, 8:00 PM ET · Inbox draft
+## TikTok · Sat Nov 14, 7:00 PM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -22,7 +22,7 @@ Love you, group chat, but please stop saying "sleeps through". Who else answers 
 #babysleep #momfriends #momlife #newmom
 ```
 
-## Instagram · Sat Nov 14, 8:00 PM ET · Hand-post
+## Instagram · Sat Nov 14, 7:00 PM ET · Hand-post
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -40,7 +40,7 @@ Love you, group chat, but please stop saying "sleeps through". Who else answers 
 #babysleep #momfriends #momlife #newmom
 ```
 
-## Facebook · Sat Nov 14, 8:00 PM ET · Hand-post
+## Facebook · Sat Nov 14, 7:00 PM ET · Hand-post
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

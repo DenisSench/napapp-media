@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../reel_kit/reel.mp4
 
-## TikTok · Sun Nov 15, 8:00 PM ET · Hand-post
+## TikTok · Sun Nov 15, 7:00 PM ET · Hand-post
 
 video posted by you by hand (no inbox draft for video slots)
 
@@ -25,7 +25,7 @@ Raise your hand if bedtime is also when you're the most fried. What does your la
 #babysleep #bedtimeroutine #newmom #momlife
 ```
 
-## Instagram · Sun Nov 15, 8:00 PM ET · Hand-post
+## Instagram · Sun Nov 15, 7:00 PM ET · Hand-post
 
 Reel posted by you by hand
 
@@ -43,7 +43,7 @@ Bedtime battles aren't always just about the baby. Some evenings we're rushing t
 #babysleep #bedtimeroutine #newmom #babysleeptips
 ```
 
-## Facebook · Sun Nov 15, 8:00 PM ET · Hand-post
+## Facebook · Sun Nov 15, 7:00 PM ET · Hand-post
 
 Reel posted by you by hand
 

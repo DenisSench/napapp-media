@@ -1,6 +1,6 @@
 {
   "post": "2026-11-08-pov-night-shift-swap",
-  "slot": "Tuesday, Nov 10, 2026 at 8:00 PM ET",
+  "slot": "Tuesday, Nov 10, 2026 at 7:00 PM ET",
   "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
   "sounds_fingerprint": "38cacdbd939a9db5",
@@ -14,10 +14,10 @@
     "06.jpg": "1b3886ea95b92d071f2de95b132c39937a97abdc584c574e332259126d5512f0",
     "07.jpg": "c5e92e9240e727e80a052eb54282d5189f9e259ab14d7bc617fa8ed6027c64b0",
     "08.jpg": "54df29100074ae0702f7b1dad2f224415bbc7934ebc831894fbc5cec54aa8e4f",
-    "README.md": "48aa632fddd027695edd38d162b88a62536d0554fd5163720bf897ae5d21bb46",
+    "README.md": "e339f7276cdc63398191edaaf510f5ce2c326458d183ffd8939fde371ba023a3",
     "caption.txt": "a4a95e05bb5ccc81eca78688c84dca8569079d0764f3304630cf021e2ecec97e",
     "cover.jpg": "7335c124c46e579e9219da2a226f33b26ad9f765c19b9b5909f35fc1ba7944ec",
-    "index.html": "1778876d0a42f79eb0a27229bb0187fd019cc5b4f97b88642d6362d9ae825e14",
+    "index.html": "331d11b3854e0be657add2ecd4ac02c3666a48fffb52cbb29e8c75d13ed5695c",
     "slides.zip": "594cc611b4f66368331544437d72df4166331ea319905b132113d52b19588495"
   },
   "ai_label": {

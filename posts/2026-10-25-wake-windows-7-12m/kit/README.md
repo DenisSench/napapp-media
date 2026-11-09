@@ -23,7 +23,7 @@ Not medical advice. Check with your pediatrician about your baby's sleep.
 #wakewindows #babysleep #napschedule #babysleeptips
 ```
 
-## Instagram · Sun Nov 15, 12:30 PM ET · Hand-post
+## Instagram · Sun Nov 15, 9:00 AM ET · Hand-post
 
 Reel posted by you by hand
 
@@ -46,7 +46,7 @@ Not medical advice. Check with your pediatrician about your baby's sleep.
 #wakewindows #babysleep #napschedule #babysleeptips
 ```
 
-## Facebook · Sun Nov 15, 12:30 PM ET · Hand-post
+## Facebook · Sun Nov 15, 9:00 AM ET · Hand-post
 
 Reel posted by you by hand
 
