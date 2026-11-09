@@ -17,6 +17,9 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg, 09.jpg (
 8. More options → Content disclosure ON → "Your brand". Do NOT tick "Branded content".
 9. Post, then send the TikTok link to Jessy/Commander so it's logged.
 
+- Picked for this post (TikTok): Sick Beat (Kero Kero Bonito) https://www.tiktok.com/music/sick-beat-6786861842716166145
+- Picked for this post (Instagram): Meta Sound Collection: first result labelled 'Royalty-free' for 'funny' (exact title not verifiable from public sources) (as listed in the picker (unverified)) https://www.facebook.com/sound/collection/
+- Picked for this post (Facebook): Meta Sound Collection: first result labelled 'Royalty-free' for 'funny' (exact title not verifiable from public sources) (as listed in the picker (unverified)) https://www.facebook.com/sound/collection/
 ## Sound
 
 **TikTok picks:**

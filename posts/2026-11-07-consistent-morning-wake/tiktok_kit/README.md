@@ -17,6 +17,9 @@ Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg, 09.jpg (
 8. More options → Content disclosure ON → "Your brand". Do NOT tick "Branded content".
 9. Post, then send the TikTok link to Jessy/Commander so it's logged.
 
+- Picked for this post (TikTok): Coming Up Roses (Harry Styles) https://www.tiktok.com/music/coming-up-roses-7613798254214187009
+- Picked for this post (Instagram): Meta Sound Collection: first result labelled 'Royalty-free' for 'acoustic' (exact title not verifiable from public sources) (as listed in the picker (unverified)) https://www.facebook.com/sound/collection/
+- Picked for this post (Facebook): Meta Sound Collection: first result labelled 'Royalty-free' for 'acoustic' (exact title not verifiable from public sources) (as listed in the picker (unverified)) https://www.facebook.com/sound/collection/
 ## Sound
 
 **TikTok picks:**
