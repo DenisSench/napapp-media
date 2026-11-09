@@ -12,12 +12,14 @@ a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 1. AI label REQUIRED (this post uses AI-generated images): before posting, More options → turn ON AI-generated content. Do not post without it.
 2. Nothing to upload: the draft (the 9:16 slides + caption) lands in your TikTok inbox ~2 h before the slot ("Napapp scheduled draft uploads").
 3. Open the draft, add a sound (TikTok pick below, or a Commercial sound), check the caption, turn Content disclosure ON → "Your brand", then post.
-4. If no draft arrives: post by hand from the 9:16 slides above (slides.zip, 6 images in order) with the caption below.
+4. If no draft arrives: post by hand from the 9:16 slides above (slides.zip, 8 images in order) with the caption below.
 
 Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
-Save this for the 3am "is this normal?" moment 🌙💤 The AAP notes newborns may only sleep 1 or 2 hours at a time, so short stretches are part of the newborn stage 🐣 Every baby is different, so check with your pediatrician if something worries you. Napapp: naps in one tap. Link in bio.
+Save this for the 3am "is this normal?" moment 🌙🐣 Grunts, sneezes and short stretches are common, and the AAP notes newborns may only sleep 1 or 2 hours at a time. Log every wake in one tap with Napapp, so you're not counting in the dark. Link in bio.
+Not medical advice. Questions? Check with your pediatrician.
+Source: AAP, healthychildren.org "Getting Your Baby to Sleep" ("they may only sleep 1 or 2 hours at a time").
 
 #newbornlife #newmom #babysleeptips #napapp
 ```
@@ -35,12 +37,9 @@ Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no 
 Caption (post.md):
 
 ```
-Save this for the 3am "is this normal?" moment 🌙💤
-- Grunts, squeaks and sighs are normal newborn sounds
-- Sneezing and hiccups are common
-- Newborns may only sleep 1 or 2 hours at a time, per the AAP 🐣
-Every baby is different. If something worries you, check with your pediatrician. Napapp: naps in one tap. Link in bio.
-Sources: AAP HealthyChildren.org, "How Your Newborn Behaves" and "Getting Your Baby to Sleep".
+Save this for the 3am "is this normal?" moment 🌙🐣 Grunts, sneezes and short stretches are common, and the AAP notes newborns may only sleep 1 or 2 hours at a time. Log every wake in one tap with Napapp, so you're not counting in the dark. Link in bio.
+Not medical advice. Questions? Check with your pediatrician.
+Source: AAP, healthychildren.org "Getting Your Baby to Sleep" ("they may only sleep 1 or 2 hours at a time").
 
 #newbornlife #newmom #babysleeptips #napapp
 ```
@@ -50,19 +49,16 @@ Sources: AAP HealthyChildren.org, "How Your Newborn Behaves" and "Getting Your B
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA.mp4.
+2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 
 Caption (post.md):
 
 ```
-Save this for the 3am "is this normal?" moment 🌙💤
-- Grunts, squeaks and sighs are normal newborn sounds
-- Sneezing and hiccups are common
-- Newborns may only sleep 1 or 2 hours at a time, per the AAP 🐣
-Every baby is different. If something worries you, check with your pediatrician. Napapp: naps in one tap. Link in bio.
-Sources: AAP HealthyChildren.org, "How Your Newborn Behaves" and "Getting Your Baby to Sleep".
+Save this for the 3am "is this normal?" moment 🌙🐣 Grunts, sneezes and short stretches are common, and the AAP notes newborns may only sleep 1 or 2 hours at a time. Log every wake in one tap with Napapp, so you're not counting in the dark. Link in bio.
+Not medical advice. Questions? Check with your pediatrician.
+Source: AAP, healthychildren.org "Getting Your Baby to Sleep" ("they may only sleep 1 or 2 hours at a time").
 
 #newbornlife #newmom #babysleeptips #napapp
 ```
@@ -82,7 +78,7 @@ Sources: AAP HealthyChildren.org, "How Your Newborn Behaves" and "Getting Your B
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** SCHEDULE (Nov 7-15 plan approved by Denis per Garry, Nov 6): Nov 10 17:00 ET. TikTok: carousel. IG/FB: 9:16 slideshow Reel (CC0 bake-in fallback works). Still needs final approval per the plan. Earlier dates in these notes are superseded. Slideshow Reel on IG (Denis approved IG Reels per Garry, Nov 3), around Nov 19. Calm, reassuring 'normal newborn things' mood: soft, no hype, spooky or Christmas tracks, no Angel Of My Dreams. IG: open the audio link in the Instagram app and tap 'Use audio'. FB Page: 'Royalty-free' only, or bake in CC0 soft-as-a-dry-pillow. TikTok picks are provisional. Confirm in the Commercial Music Library. Re-check around Nov 18. REFRESH Nov 7, 9:15 AM ET: TikTok: Kabo Nov 7 board (snapshot 00:10 UTC) has Coming Up Roses at #5 (+2.4K videos, +1.1%), so it stays the lead trend play; The Only Exception is #14 but stays out of window lists (pruned Nov 6 as fading); Angel Of My Dreams (#4) is still excluded for its lyrics. Sick Beat, Ain't Nobody Else Like You and Chopin stay as calm, uncrowded cleared fits. IG: Tracygram's Nov 7 Global top 10 (Housewife, Stop The Wedding!, BbY WOW, Nicole Kidman, Choosin' Texas, the cure, back to friends, Earrings, Mr. Brightside, Dead Fresh) has no calm baby-sleep fit, and Salvatore is still absent, so any leftover Salvatore pick in this window was swapped out. SocialPilot's Oct 31-Nov 10 list is unchanged (Hold On #7, Everlong #10, Linger #11, Sunshine #12, all Rising); it ends Nov 10, so IG picks for Nov 11-15 get re-checked against the next weekly list. Holiday sounds still held back. This entry changed today. REFRESH Nov 8, 9:20 AM ET: no pick swaps. TikTok: Kabo Nov 8 board (snapshot 00:10 UTC; chart pool published Nov 5) has Coming Up Roses down to #10 (from #5 Nov 7; per-row counts for #6-20 are sign-in only), still charting, so it stays the lead trend play; The Only Exception #16 stays out (pruned Nov 6); Angel Of My Dreams (#6) still excluded for its lyrics; holiday sounds (Mariah #4, Last Christmas #18) still held back. Sick Beat, Ain't Nobody Else Like You and Chopin stay as calm, uncrowded cleared fits. Tokchart's Nov 8 worldwide risers (Paper Moon Static, Piano Hush by Sid Ferris, etc.) and ContentScout's Nov 3 parenting sample (SexyBack, Cruel Summer, etc.) were not added: no Commercial Music Library clearance could be confirmed publicly, and most don't fit baby-sleep posts. IG: Tracygram's Nov 8 Global top 10 (Housewife, Stop The Wedding!, BbY WOW, Nicole Kidman, Choosin' Texas, stupid song, the cure, Earrings, Mr. Brightside, Dead Fresh; rising: Ain't In LA, the cure, Earrings, Beauty And A Beat) has no calm baby-sleep fit, and Salvatore is still absent. SocialPilot's list is still the Oct 31-Nov 10 edition, unchanged (Hold On #7, Everlong #10, Linger #11, Sunshine #12, all Rising); no newer weekly list yet, so IG picks for Nov 11-15 still need a re-check once it updates. FB unchanged (Sound Collection 'Royalty-free' searches + CC0 --track). No posts are scheduled Nov 16-18 (tiktok_slots.json and calendar-data.json end Nov 15; the Nov 16+ iteration needs Denis's approval first), so no new entries.
+> **Notes for this post:** SCHEDULE (Nov 7-15 plan approved by Denis per Garry, Nov 6): Nov 10 17:00 ET. TikTok: carousel. IG/FB: 9:16 slideshow Reel (CC0 bake-in fallback works). Still needs final approval per the plan. Earlier dates in these notes are superseded. Slideshow Reel on IG (Denis approved IG Reels per Garry, Nov 3), around Nov 19. Calm, reassuring 'normal newborn things' mood: soft, no hype, spooky or Christmas tracks, no Angel Of My Dreams. IG: open the audio link in the Instagram app and tap 'Use audio'. FB Page: 'Royalty-free' only, or bake in CC0 soft-as-a-dry-pillow. TikTok picks are provisional. Confirm in the Commercial Music Library. Re-check around Nov 18. REFRESH Nov 7, 9:15 AM ET: TikTok: Kabo Nov 7 board (snapshot 00:10 UTC) has Coming Up Roses at #5 (+2.4K videos, +1.1%), so it stays the lead trend play; The Only Exception is #14 but stays out of window lists (pruned Nov 6 as fading); Angel Of My Dreams (#4) is still excluded for its lyrics. Sick Beat, Ain't Nobody Else Like You and Chopin stay as calm, uncrowded cleared fits. IG: Tracygram's Nov 7 Global top 10 (Housewife, Stop The Wedding!, BbY WOW, Nicole Kidman, Choosin' Texas, the cure, back to friends, Earrings, Mr. Brightside, Dead Fresh) has no calm baby-sleep fit, and Salvatore is still absent, so any leftover Salvatore pick in this window was swapped out. SocialPilot's Oct 31-Nov 10 list is unchanged (Hold On #7, Everlong #10, Linger #11, Sunshine #12, all Rising); it ends Nov 10, so IG picks for Nov 11-15 get re-checked against the next weekly list. Holiday sounds still held back. This entry changed today. REFRESH Nov 8, 9:20 AM ET: no pick swaps. TikTok: Kabo Nov 8 board (snapshot 00:10 UTC; chart pool published Nov 5) has Coming Up Roses down to #10 (from #5 Nov 7; per-row counts for #6-20 are sign-in only), still charting, so it stays the lead trend play; The Only Exception #16 stays out (pruned Nov 6); Angel Of My Dreams (#6) still excluded for its lyrics; holiday sounds (Mariah #4, Last Christmas #18) still held back. Sick Beat, Ain't Nobody Else Like You and Chopin stay as calm, uncrowded cleared fits. Tokchart's Nov 8 worldwide risers (Paper Moon Static, Piano Hush by Sid Ferris, etc.) and ContentScout's Nov 3 parenting sample (SexyBack, Cruel Summer, etc.) were not added: no Commercial Music Library clearance could be confirmed publicly, and most don't fit baby-sleep posts. IG: Tracygram's Nov 8 Global top 10 (Housewife, Stop The Wedding!, BbY WOW, Nicole Kidman, Choosin' Texas, stupid song, the cure, Earrings, Mr. Brightside, Dead Fresh; rising: Ain't In LA, the cure, Earrings, Beauty And A Beat) has no calm baby-sleep fit, and Salvatore is still absent. SocialPilot's list is still the Oct 31-Nov 10 edition, unchanged (Hold On #7, Everlong #10, Linger #11, Sunshine #12, all Rising); no newer weekly list yet, so IG picks for Nov 11-15 still need a re-check once it updates. FB unchanged (Sound Collection 'Royalty-free' searches + CC0 --track). No posts are scheduled Nov 16-18 (tiktok_slots.json and calendar-data.json end Nov 15; the Nov 16+ iteration needs Denis's approval first), so no new entries. REFRESH Nov 9, 9:15 AM ET: no pick changes. TikTok: Kabo's Nov 9 board (snapshot 00:10 UTC, chart pool Nov 5) has Coming Up Roses at #10 (down from #5 Nov 7 but still charting), The Only Exception #18 (stays out), Angel Of My Dreams #6 (still excluded for lyrics); new leaders (Can I Ride, Housewife, Bow Bow Bow, holiday songs) are poor fits for calm baby-sleep posts. Sick Beat, Ain't Nobody Else Like You and Chopin stay as calm, uncrowded cleared fits. IG: Tracygram's Nov 9 Global top 10 (Housewife, Stop The Wedding!, BbY WOW, Nicole Kidman, Choosin' Texas, Last Christmas, the cure, Earrings, Dead Fresh, stupid song) has no calm baby-sleep fit; SocialPilot still shows its Oct 31-Nov 10 list (Hold On #7, Everlong #10, Linger #11, Sunshine #12, all Rising), not yet replaced, so Nov 11-15 IG picks get re-checked once the new weekly list is out. Holiday sounds still held back. TOMORROW RE-CHECK (Nov 9 for Nov 10): picks confirmed one day ahead against today's Kabo/Tracygram/SocialPilot reads; still confirm the TikTok sound in the Commercial Music Library and the IG song in the picker before posting.
 
 - **Sunshine (Instrumental)** · Twista (primary)
   - link: https://www.instagram.com/reels/audio/2920100688130624/
@@ -128,7 +124,7 @@ Sources: AAP HealthyChildren.org, "How Your Newborn Behaves" and "Getting Your B
   - licence: CC0 1.0 (reel/music/manifest.json, sha256-checked)
   - confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
 
-Picks as of Nov 8, 2026, 9:20 AM ET
+Picks as of Nov 9, 2026, 9:15 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
