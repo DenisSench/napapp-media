@@ -3,14 +3,14 @@
 **AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook).**
 
 Slot: Monday, Nov 9, 2026 at 9:00 AM ET
-Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg (+ cover.jpg), from Jessy's package/.
+Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg, 09.jpg (+ cover.jpg), from Jessy's package/.
 
 ## Checklist
 
 1. AI label REQUIRED (this post uses AI-generated images): before posting, More options → turn ON AI-generated content. Do not post without it.
 2. AI label REQUIRED on Instagram: before sharing, Advanced settings → turn ON AI label. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-3. Download the slides: tap Download all (slides.zip), or long-press each slide below → Save to Photos (7 images, in order 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg).
-4. TikTok (logged in as @nap_app): + → Upload → Photo → select the slides in order 01 → 07.
+3. Download the slides: tap Download all (slides.zip), or long-press each slide below → Save to Photos (9 images, in order 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg, 09.jpg).
+4. TikTok (logged in as @nap_app): + → Upload → Photo → select the slides in order 01 → 09.
 5. Cover: use cover.jpg's look (slide 01) as the cover.
 6. Add sound: use a TikTok pick from the Sound block below if there is one; otherwise pick a trending sound that's cleared for business use (Commercial sounds list only, since @nap_app is a brand account). Calm, parent-friendly.
 7. Tap Copy caption below and paste it into the description (caption + hashtags).
@@ -85,11 +85,10 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 ## Caption (caption.txt)
 
 ```
-Up at 5:10, 6:40, then 7:30?
-When the morning start moves every day, naps and bedtime often drift with it. Many parents keep a similar wake-up time each day, weekends included, and plan naps from there. Pairing it with morning daylight and play, and a calm, similar bedtime routine, is common too. It's an approach, not a promise, and every baby is different. Save this for later ☀️⏰ Log wake-ups in one tap to see your real pattern. Napapp, link in bio.
-Sources: Cleveland Clinic, NHS. Not medical advice. Check with your pediatrician about your baby's sleep.
+Up at 5:10, then 6:40, then 7:30? ☀️⏰ When wake-up time moves, naps and bedtime move with it, and it's a lot to hold in your head. Log each wake-up in one tap with Napapp and see every morning in one place. Link in bio.
+Not medical advice. Questions? Check with your pediatrician.
 
-#babysleep #babyschedule #morningroutine #parenting
+#babysleep #naplog #newparents #napapp
 ```
 
 ## Instagram + Facebook: Reel only

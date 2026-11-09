@@ -12,16 +12,15 @@ a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 1. AI label REQUIRED (this post uses AI-generated images): before posting, More options → turn ON AI-generated content. Do not post without it.
 2. Nothing to upload: the draft (the 9:16 slides + caption) lands in your TikTok inbox ~2 h before the slot ("Napapp scheduled draft uploads").
 3. Open the draft, add a sound (TikTok pick below, or a Commercial sound), check the caption, turn Content disclosure ON → "Your brand", then post.
-4. If no draft arrives: post by hand from the 9:16 slides above (slides.zip, 7 images in order) with the caption below.
+4. If no draft arrives: post by hand from the 9:16 slides above (slides.zip, 9 images in order) with the caption below.
 
 Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
-Up at 5:10, 6:40, then 7:30?
-When the morning start moves every day, naps and bedtime often drift with it. Many parents keep a similar wake-up time each day, weekends included, and plan naps from there. Pairing it with morning daylight and play, and a calm, similar bedtime routine, is common too. It's an approach, not a promise, and every baby is different. Save this for later ☀️⏰ Log wake-ups in one tap to see your real pattern. Napapp, link in bio.
-Sources: Cleveland Clinic, NHS. Not medical advice. Check with your pediatrician about your baby's sleep.
+Up at 5:10, then 6:40, then 7:30? ☀️⏰ When wake-up time moves, naps and bedtime move with it, and it's a lot to hold in your head. Log each wake-up in one tap with Napapp and see every morning in one place. Link in bio.
+Not medical advice. Questions? Check with your pediatrician.
 
-#babysleep #babyschedule #morningroutine #parenting
+#babysleep #naplog #newparents #napapp
 ```
 
 ## Instagram · Mon Nov 9, 9:00 AM ET · Hand-post
@@ -37,13 +36,10 @@ Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no 
 Caption (post.md):
 
 ```
-Up at 5:10, 6:40, then 7:30?
-When the morning start moves every day, naps and bedtime often drift too. Many parents keep a similar wake-up time each day, weekends included, with morning daylight and a calm bedtime routine. An approach, not a promise; every baby is different.
-Save this for later ☀️⏰
-Log wake-ups in one tap to see your real pattern. Napapp, link in bio.
-Sources: Cleveland Clinic, NHS. Not medical advice. Check with your pediatrician about your baby's sleep.
+Up at 5:10, then 6:40, then 7:30? ☀️⏰ When wake-up time moves, naps and bedtime move with it, and it's a lot to hold in your head. Log each wake-up in one tap with Napapp and see every morning in one place. Link in bio.
+Not medical advice. Questions? Check with your pediatrician.
 
-#babysleep #babyschedule #morningroutine #parenting
+#babysleep #naplog #newparents #napapp
 ```
 
 ## Facebook · Mon Nov 9, 9:00 AM ET · Hand-post
@@ -51,15 +47,17 @@ Sources: Cleveland Clinic, NHS. Not medical advice. Check with your pediatrician
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA.mp4.
+2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 
 Caption (post.md):
 
 ```
-Up at 5:10, 6:40, then 7:30? Many parents keep a similar wake-up time each day and plan naps from there. An approach, not a promise; every baby is different. Sources: Cleveland Clinic, NHS. Not medical advice; check with your pediatrician. #babysleep
-Log wake-ups in one tap. Napapp: Link in bio.
+Up at 5:10, then 6:40, then 7:30? ☀️⏰ When wake-up time moves, naps and bedtime move with it, and it's a lot to hold in your head. Log each wake-up in one tap with Napapp and see every morning in one place. Link in bio.
+Not medical advice. Questions? Check with your pediatrician.
+
+#babysleep #naplog #newparents #napapp
 ```
 
 ## Sound
