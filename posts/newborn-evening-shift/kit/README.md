@@ -25,7 +25,7 @@ Dinner was going so well. Who else gets the evening shift? Every baby is differe
 #newbornlife #newmom #babysleeptips #napapp
 ```
 
-## Instagram · Sat Nov 7, 5:00 PM ET · Hand-post
+## Instagram · Sat Nov 7, 5:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
@@ -44,7 +44,7 @@ Source: AAP HealthyChildren.org, "Colic Relief Tips for Parents".
 #newbornlife #newmom #babysleeptips #napapp
 ```
 
-## Facebook · Sat Nov 7, 5:00 PM ET · Hand-post
+## Facebook · Sat Nov 7, 5:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 

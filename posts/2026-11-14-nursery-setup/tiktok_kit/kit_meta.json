@@ -3,7 +3,7 @@
   "slot": "Thursday, Nov 12, 2026 at 1:00 PM ET",
   "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
-  "sounds_fingerprint": "317ccf285fd6d89b",
+  "sounds_fingerprint": "e4b7967b82cd9a9a",
   "sounds_found": true,
   "files": {
     "01.jpg": "4927fb3fdcda6e7fea159ebf344e0dc9306aac53c79bfdbb54f94f07dd7d0759",
@@ -14,10 +14,10 @@
     "06.jpg": "0980ec24df74c4a86d577ba1f514ff38e2723e86e61e2fe2c949c003288647e9",
     "07.jpg": "6e48cb6e88246603992aca87b35cc797b98bc8fa5597fc38ff3db1f97079032c",
     "08.jpg": "9b0591711714dbae7e4b0cbe8b861b44c02bde4b740e0e81a2eed5d9db371550",
-    "README.md": "ed0f2a135cf4775fb255b2734097bdc59963855e3f7ebc88327151e9e50ae6c4",
+    "README.md": "9e0638a09ed8d1e743f699cb8b25eabdab63f9ce561b651139fc8d697ed77797",
     "caption.txt": "1cc0f593a8591329dba9120b9d8b830acf221f2daae946ecb02cefc4098f3d5f",
     "cover.jpg": "4927fb3fdcda6e7fea159ebf344e0dc9306aac53c79bfdbb54f94f07dd7d0759",
-    "index.html": "2c45749ea24867f5ef504b17283aaa58275a56881f1c071293ebe81bb3e8a44d",
+    "index.html": "1ba4cb9602a82be9fb83a66cb443b9b808a7b925535e9368324fa5a015b713e1",
     "slides.zip": "2734e757e3c2c3da2eec63c4aa4a0fd06ffe56e7bf1ff3be002e1ed4c2e61e03"
   },
   "ai_label": {

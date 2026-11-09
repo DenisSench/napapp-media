@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Sat Nov 7, 8:00 PM ET · Inbox draft
+## TikTok · Sat Nov 7, 8:00 PM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -22,7 +22,7 @@ The doorbell, the dog and the delivery driver: the nap time trio. Which one gets
 #babysleep #napsoftiktok #momlife #newmom
 ```
 
-## Instagram · Sat Nov 7, 8:00 PM ET · Hand-post
+## Instagram · Sat Nov 7, 8:00 PM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -40,7 +40,7 @@ The doorbell, the dog and the delivery driver: the nap time trio. Which one gets
 #babysleep #napsoftiktok #momlife #newmom
 ```
 
-## Facebook · Sat Nov 7, 8:00 PM ET · Hand-post
+## Facebook · Sat Nov 7, 8:00 PM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
