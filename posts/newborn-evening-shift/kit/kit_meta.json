@@ -10,15 +10,15 @@
     "note": ""
   },
   "conflicts": [],
-  "sounds_fingerprint": "d537856d2ddf7c4d",
+  "sounds_fingerprint": "e001d40bcc3028d2",
   "platforms": {
     "tiktok": {
       "date": "2026-11-07",
       "time": "17:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.tiktok.com/@nap_app/video/7705612698440076564"
     },
     "ig": {
       "date": "2026-11-07",
@@ -38,10 +38,10 @@
     }
   },
   "files": {
-    "README.md": "cba4f4628234ed2f1ff56496f8255d9f48baacd92d5bc12f7fecd2104c286997",
+    "README.md": "0fc9bcc10229c3049635f3be7ea8a54e35ee31a5fe68f622f3eb1cc801b35702",
     "fb_caption.txt": "8960f11db1562d89acf51f6dadf994df5d9470d0bc3eb4777c71f9020a58858d",
     "ig_caption.txt": "3dc8f1132fb8f428a0c56fb3f5a1fc8baf952929a3385035a1746b6550f39a4f",
-    "index.html": "016ea0d029350a9552956b09f8a4a5431ab332b18dc21594c0a6d6490e1c5e7d",
+    "index.html": "5eb9e8f5077a5d926d5780b05e75e7cff89254daae6274def42825edf873bcdb",
     "tiktok_caption.txt": "c5cde579b0f00ad26398c3a524b906d5e06ce293ad12aea6ef2336411b292943"
   },
   "refs": {
