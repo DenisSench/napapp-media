@@ -89,7 +89,6 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 
 ```
 POV: you two split the night into shifts 🌗🤝 The 2am handover sounds clear… until 4am, when neither of you remembers the last sleep. With Napapp you both log in one tap and see the same shared sleep log. Link in bio.
-Not medical advice. Questions? Check with your pediatrician.
 
 #nightshiftparents #newparents #babysleep #napapp
 ```

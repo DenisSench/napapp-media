@@ -18,7 +18,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
 POV: you two split the night into shifts 🌗🤝 The 2am handover sounds clear… until 4am, when neither of you remembers the last sleep. With Napapp you both log in one tap and see the same shared sleep log. Link in bio.
-Not medical advice. Questions? Check with your pediatrician.
 
 #nightshiftparents #newparents #babysleep #napapp
 ```
@@ -37,7 +36,6 @@ Caption (post.md):
 
 ```
 POV: you two split the night into shifts 🌗🤝 The 2am handover sounds clear… until 4am, when neither of you remembers the last sleep. With Napapp you both log in one tap and see the same shared sleep log. Link in bio.
-Not medical advice. Questions? Check with your pediatrician.
 
 #nightshiftparents #newparents #babysleep #napapp
 ```
@@ -55,7 +53,6 @@ Caption (post.md):
 
 ```
 POV: you two split the night into shifts 🌗🤝 The 2am handover sounds clear… until 4am, when neither of you remembers the last sleep. With Napapp you both log in one tap and see the same shared sleep log. Link in bio.
-Not medical advice. Questions? Check with your pediatrician.
 
 #nightshiftparents #newparents #babysleep #napapp
 ```

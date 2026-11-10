@@ -86,7 +86,6 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 
 ```
 Sleeping baby = the most-watched show in the house 😅 Follow for more tired-parent truths 🤍 And if your brain is full by 9pm, let the log hold it: track it in one tap. Napapp, link in bio.
-Just for laughs, not medical advice. Questions about your baby's sleep? Check with your pediatrician.
 
 #momlife #parentinghumor #newmom #babysleep
 ```

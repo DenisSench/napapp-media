@@ -18,7 +18,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
 Sleeping baby = the most-watched show in the house 😅 Follow for more tired-parent truths 🤍 And if your brain is full by 9pm, let the log hold it: track it in one tap. Napapp, link in bio.
-Just for laughs, not medical advice. Questions about your baby's sleep? Check with your pediatrician.
 
 #momlife #parentinghumor #newmom #babysleep
 ```
@@ -40,7 +39,6 @@ Sleeping baby = the most-watched show in the house 😅
 "I'm finally going to relax" lasts about 2 minutes before the monitor comes out.
 Save this for the next night you forget to eat dinner 🤍
 If your brain is full by 9pm, let the log hold it: track it in one tap. Napapp, link in bio.
-Just for laughs, not medical advice. Questions about your baby's sleep? Check with your pediatrician.
 
 #momlife #parentinghumor #newmom #babysleep
 ```
@@ -57,7 +55,7 @@ Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; n
 Caption (post.md):
 
 ```
-Sleeping baby = the most-watched show in the house 😅 Just for laughs, not medical advice.
+Sleeping baby = the most-watched show in the house 😅
 Track the night in one tap. Napapp: Link in bio. #parentinghumor
 ```
 
