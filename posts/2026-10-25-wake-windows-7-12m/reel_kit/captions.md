@@ -5,7 +5,7 @@
 ```
 Wake windows 7-12 months, in one place 🌙
 7-10 months: about 2½-4½ hours awake. 10-12 months: about 3-6 hours. The first window of the day is often the shortest, and many babies drop a nap somewhere in here.
-These are typical ranges, not a schedule to hit. Every baby is different, so follow their cues. Source: Cleveland Clinic.
+These are typical ranges, not a schedule to hit. Source: Cleveland Clinic.
 Save this for the next schedule shuffle 🤍
 Want to see your baby's own pattern? Log naps in one tap. Napapp, link in bio.
 
@@ -15,7 +15,7 @@ Want to see your baby's own pattern? Log naps in one tap. Napapp, link in bio.
 ## Facebook Page (caption + hashtags)
 
 ```
-Typical wake windows, 7-12 months: ranges, not targets, and every baby is different 🌙 Source: Cleveland Clinic.
+Typical wake windows, 7-12 months: ranges, not targets 🌙 Source: Cleveland Clinic.
 Log naps in one tap. Napapp: Link in bio. #wakewindows
 ```
 

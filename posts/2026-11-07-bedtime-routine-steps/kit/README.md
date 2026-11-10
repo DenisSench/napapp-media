@@ -20,7 +20,7 @@ video posted by you by hand (no inbox draft for video slots)
 Caption (reel_kit/captions.md):
 
 ```
-A simple bedtime routine many families repeat: bath or wash, pyjamas, a short book or song, then down drowsy on their back in an empty crib. Every family's order can look a little different, and every baby is different. Save this for later.
+A simple bedtime routine many families repeat: bath or wash, pyjamas, a short book or song, then down drowsy on their back in an empty crib. Every family's order can look a little different. Save this for later.
 Napapp: naps in one tap. Link in bio.
 Source: AAP HealthyChildren.org, "Bedtime Routines for Infants and Toddlers"; AAP safe-sleep basics (back to sleep, empty crib).
 
@@ -40,7 +40,7 @@ Reel posted by you by hand
 Caption (reel_kit/captions.md):
 
 ```
-A simple bedtime routine many families repeat: bath or wash, pyjamas, a short book or song, then down drowsy on their back in an empty crib. Every family's order can look a little different, and every baby is different. Save this for later 🤍
+A simple bedtime routine many families repeat: bath or wash, pyjamas, a short book or song, then down drowsy on their back in an empty crib. Every family's order can look a little different. Save this for later 🤍
 Napapp: naps in one tap. Link in bio.
 Source: AAP HealthyChildren.org, "Bedtime Routines for Infants and Toddlers"; AAP safe-sleep basics (back to sleep, empty crib).
 
@@ -59,7 +59,7 @@ Reel posted by you by hand
 Caption (reel_kit/captions.md):
 
 ```
-A simple bedtime routine many families repeat: bath or wash, pyjamas, a short book or song, then down drowsy on their back in an empty crib. Every family's order can look a little different, and every baby is different. Save this for later.
+A simple bedtime routine many families repeat: bath or wash, pyjamas, a short book or song, then down drowsy on their back in an empty crib. Every family's order can look a little different. Save this for later.
 Track naps in one tap. Link in bio.
 Source: AAP HealthyChildren.org, "Bedtime Routines for Infants and Toddlers"; AAP safe-sleep basics.
 ```
