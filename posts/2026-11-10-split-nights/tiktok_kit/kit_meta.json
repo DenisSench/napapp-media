@@ -1,0 +1,32 @@
+{
+  "post": "2026-11-10-split-nights",
+  "slot": "Tuesday, Nov 10, 2026 at 11:55 AM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "e51673243bf7de42",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "8f78d897cafe100b9ec6769b6171a32bae13a6646fba6c5e94c9e72857d6aeb9",
+    "02.jpg": "45afa82aa5c162fbc6bf7f6e481b50212b1265c19d110089da684ca3bc7b9dcb",
+    "03.jpg": "bb325b93ae52b0f9ebf6cdd99fd99973bd248f768326775801bec9cabe3cb496",
+    "04.jpg": "6505706f3f5a29d31218256bc4f9fe42041a948b6e85b88472a7b53398c5cad3",
+    "05.jpg": "9fbb20133ddbaa6b3f1afbd1049df29f198285d0b8aeb82789d1ad632a423adf",
+    "06.jpg": "b3b57411fd702d426abfe18f6b1263d82d629eaf79091adccffc1ecee8ebb64a",
+    "07.jpg": "809270ab21c766a2ecd480546c949cb8d374db0660c2aa66d0faf65fe84e7720",
+    "08.jpg": "a9e586455fa57cf7e1ffe088b73fb2784372ed39bb686f0c2e93aaf9b73367a3",
+    "README.md": "b17c61e4fe29519f55d794a5e8fdeb1afeeb84098e05c9972cc70c9348c8f1fb",
+    "caption.txt": "06c5cea20139a0abef94778bfec064f77040b202f76e64ae778a1a9155ac414d",
+    "cover.jpg": "8f78d897cafe100b9ec6769b6171a32bae13a6646fba6c5e94c9e72857d6aeb9",
+    "index.html": "8aa5979264249351a8169a82ece5097cdbd3fbfdc1d730b167c144ae44da407f",
+    "slides.zip": "240c7e68b16fbc7c82ec9c9b32ac346f5ac15079e523eb37347117daf3d4704c"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}

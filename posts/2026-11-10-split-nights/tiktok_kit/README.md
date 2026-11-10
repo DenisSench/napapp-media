@@ -1,0 +1,100 @@
+# TikTok manual kit: 2026-11-10-split-nights
+
+**AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook).**
+
+Slot: Tuesday, Nov 10, 2026 at 11:55 AM ET
+Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg (+ cover.jpg), from Jessy's package/.
+
+## Checklist
+
+1. AI label REQUIRED (this post uses AI-generated images): before posting, More options → turn ON AI-generated content. Do not post without it.
+2. AI label REQUIRED on Instagram: before sharing, Advanced settings → turn ON AI label. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
+3. Download the slides: tap Download all (slides.zip), or long-press each slide below → Save to Photos (8 images, in order 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg).
+4. TikTok (logged in as @nap_app): + → Upload → Photo → select the slides in order 01 → 08.
+5. Cover: use cover.jpg's look (slide 01) as the cover.
+6. Add sound: use a TikTok pick from the Sound block below if there is one; otherwise pick a trending sound that's cleared for business use (Commercial sounds list only, since @nap_app is a brand account). Calm, parent-friendly.
+7. Tap Copy caption below and paste it into the description (caption + hashtags).
+8. More options → Content disclosure ON → "Your brand". Do NOT tick "Branded content".
+9. Post, then send the TikTok link to Jessy/Commander so it's logged.
+
+- Picked for this post (TikTok): Sick Beat (Kero Kero Bonito) https://www.tiktok.com/music/sick-beat-6786861842716166145
+- Picked for this post (Instagram): Meta Sound Collection: first result labelled 'Royalty-free' for 'playful' (exact title not verifiable from public sources) (as listed in the picker (unverified)) https://www.facebook.com/sound/collection/
+- Picked for this post (Facebook): Meta Sound Collection: first result labelled 'Royalty-free' for 'playful' (exact title not verifiable from public sources) (as listed in the picker (unverified)) https://www.facebook.com/sound/collection/
+## Sound
+
+**TikTok picks:**
+
+- Sick Beat (https://www.tiktok.com/music/sick-beat-6786861842716166145) · Kero Kero Bonito
+  - why: Playful, bouncy energy for a cheerful '2 AM party' story [Octohog: Cleared (earlier record); calm/uncrowded fit, not a trend play]
+- Coming Up Roses (https://www.tiktok.com/music/coming-up-roses-7613798254214187009) · Harry Styles
+  - why: Top cleared trend still charting; warm, reassuring tone for a 'this is common' explainer [Kabo Nov 10 #7, up from #10 Nov 9; Octohog: Cleared (earlier record)]
+- Chopin Nocturne No. 2 (Piano Mono) (https://www.tiktok.com/music/chopin-nocturne-no-2-piano-mono-6817665487665629186) · moshimo sound design
+  - why: Calm, no-lyrics night piano under the text-only night slides [DataSocial: cleared for business, no vocals]
+
+### Instagram (@getnapapp)
+
+> **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
+>
+> **Notes for this post:** SCHEDULE (tiktok_slots.json, reserved Nov 9 9:43 AM ET per Garry; NOT approved by Denis): Nov 10 09:00 ET, TikTok + IG + FB. Copy: proposals/2026-11-10/split-nights/copy.md (Luna, Story v3). Needs Denis's approval in his own words before it posts. TikTok: carousel and/or video (render-v2 has both; format still 'tbd' in tiktok_slots.json). IG/FB: video Reel or 9:16 slideshow Reel (CC0 bake-in fallback works). Wry, warm tired-parent humour: no hype, spooky or Christmas tracks; Angel Of My Dreams stays excluded for its lyrics. Confirm every TikTok sound in the business account's Commercial Music Library before publishing. IG (@getnapapp, Creator, Canada): open the IG audio link and tap 'Use audio'; post from the Instagram app, not Meta Business Suite; don't boost a Reel with a licensed song. FB Page: Sound Collection 'Royalty-free' only, or bake in the CC0 track. ADDED Nov 10, 9:05 AM ET (new reserved slot). If the 9 AM slot slips, these picks still hold for the next few days.
+
+- **Sunshine (Instrumental)** · Twista (primary)
+  - link: https://www.instagram.com/reels/audio/2920100688130624/
+  - why: Instrumental with no lyrics, so it sits under the 2 AM text slides without competing; easygoing, matches the cheerful party tone
+  - how: Best: open https://www.instagram.com/reels/audio/2920100688130624/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Sunshine (Instrumental) Twista', then pick the result whose artist is exactly 'Twista' (not a cover, sped-up version or 'original audio').
+  - trend: SocialPilot Oct 31 - Nov 10, 2026: #12, Rising, 202K reels, used for quick-tip Reels (SocialPilot Oct 31-Nov 10, 2026 edition, still the current one on Nov 10; Tracygram Nov 10 Global top 10 has no calm baby-sleep fit, re-checked Nov 10)
+  - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
+- **Hold On, We're Going Home** · Drake, Majid Jordan (backup)
+  - link: https://www.instagram.com/reels/audio/435526946919130/
+  - why: Used for relatable comedy skits; smooth, late-night feel for a 'wide awake at 2 AM' scene (lyrics not listened to)
+  - how: Best: open https://www.instagram.com/reels/audio/435526946919130/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Hold On, We're Going Home Drake', then pick the result whose artist is exactly 'Drake, Majid Jordan' (not a cover, sped-up version or 'original audio').
+  - trend: SocialPilot Oct 31 - Nov 10, 2026: #7, Rising, 66K reels, used for relatable comedy skits (SocialPilot Oct 31-Nov 10, 2026 edition, still the current one on Nov 10; Tracygram Nov 10 Global top 10 has no calm baby-sleep fit, re-checked Nov 10)
+  - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
+- **Linger** · The Cranberries (backup)
+  - link: https://www.instagram.com/reels/audio/192068608180555/
+  - why: Wistful, cozy and soft enough for a night-time story
+  - how: Best: open https://www.instagram.com/reels/audio/192068608180555/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Linger The Cranberries', then pick the result whose artist is exactly 'The Cranberries' (not a cover, sped-up version or 'original audio').
+  - trend: SocialPilot Oct 31 - Nov 10, 2026: #11, Rising, 117K reels, 'wistful, cozy' (SocialPilot Oct 31-Nov 10, 2026 edition, still the current one on Nov 10; Tracygram Nov 10 Global top 10 has no calm baby-sleep fit, re-checked Nov 10)
+  - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
+
+**Instagram backup (royalty-free):**
+
+- When: Use this if none of the IG songs appear or they're greyed out: a 'Royalty-free' Sound Collection track (any account type), or bake in the CC0 track.
+- Sound Collection ('Royalty-free'): In the Reels editor tap Add audio, type 'playful', and only pick a track tagged 'Royalty-free' (Meta's label for Sound Collection audio). Write the exact title and artist back here once you've picked one.
+- CC0 track (baked in): Happy Sadie (Loyalty Freak Music), Not in the picker. Re-render with: reel/render_reel.py ... --track happy-sadie (music baked in, -16 LUFS), then upload with no in-app sound
+
+### Facebook Page
+
+- **Meta Sound Collection: first result labelled 'Royalty-free' for 'playful' (exact title not verifiable from public sources)** · as listed in the picker (unverified) (primary)
+  - link: https://www.facebook.com/sound/collection/
+  - why: Light, playful bed for a cheerful '2 AM party' night
+  - how: In the Reels editor tap Add audio, type 'playful', and only pick a track tagged 'Royalty-free' (Meta's label for Sound Collection audio). Write the exact title and artist back here once you've picked one.
+  - confidence: MEDIUM: Meta's docs confirm Sound Collection / 'Royalty-free' audio is usable by business accounts and Pages; no specific track verified (the catalogue needs a login, which isn't allowed)
+- **Meta Sound Collection: first result labelled 'Royalty-free' for 'music box' (exact title not verifiable from public sources)** · as listed in the picker (unverified) (backup)
+  - link: https://www.facebook.com/sound/collection/
+  - why: Soft, night-time sparkle that matches the moon/clock art
+  - how: In the Reels editor tap Add audio, type 'music box', and only pick a track tagged 'Royalty-free' (Meta's label for Sound Collection audio). Write the exact title and artist back here once you've picked one.
+  - confidence: MEDIUM: Meta's docs confirm Sound Collection / 'Royalty-free' audio is usable by business accounts and Pages; no specific track verified (the catalogue needs a login, which isn't allowed)
+- **Happy Sadie** · Loyalty Freak Music (backup (baked-in))
+  - link: https://archive.org/details/loyalty-freak-music-chill-for-real
+  - why: Upbeat but gentle; suits the 'still a party' beat
+  - how: Not in the picker. Re-render with: reel/render_reel.py ... --track happy-sadie (music baked in, -16 LUFS), then upload with no in-app sound
+  - licence: CC0 1.0 (reel/music/manifest.json, sha256-checked)
+  - confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
+
+Picks as of Nov 10, 2026, 9:05 AM ET
+
+_Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
+
+## Caption (caption.txt)
+
+```
+Why is your baby partying at 2 AM? 🪩🌙 Babbling, kicking, zero signs of sleep, night after night. Lots of day sleep, an early bedtime or a long late nap can play a part. Log naps in one tap with Napapp and get sleep coaching tips made for your baby. Link in bio.
+Not medical advice. If you're worried about your baby's sleep, talk to your pediatrician.
+Sources: AAP (HealthyChildren.org), NHS, Cleveland Clinic.
+
+#babysleep #nightwakings #napschedule #newparents #napapp
+```
+
+## Instagram + Facebook: Reel only
+
+Instagram + Facebook get the 9:16 Reel only (Reels-only from Nov 7), posted by you by hand. Use the post's unified kit page (posts/<slug>/kit/) for the Reel and captions. No carousel or photo post on IG/FB.
