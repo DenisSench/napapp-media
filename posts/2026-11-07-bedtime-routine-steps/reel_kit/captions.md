@@ -4,7 +4,7 @@
 
 ```
 A simple bedtime routine many families repeat: bath or wash, pyjamas, a short book or song, then down drowsy on their back in an empty crib. Every family's order can look a little different, and every baby is different. Save this for later 🤍
-Questions about bedtime? Check with your pediatrician. Napapp: naps in one tap. Link in bio.
+Napapp: naps in one tap. Link in bio.
 Source: AAP HealthyChildren.org, "Bedtime Routines for Infants and Toddlers"; AAP safe-sleep basics (back to sleep, empty crib).
 
 #bedtimeroutine #babysleep #newmom #babysleeptips #momlife
@@ -14,14 +14,14 @@ Source: AAP HealthyChildren.org, "Bedtime Routines for Infants and Toddlers"; AA
 
 ```
 A simple bedtime routine many families repeat: bath or wash, pyjamas, a short book or song, then down drowsy on their back in an empty crib. Every family's order can look a little different, and every baby is different. Save this for later.
-Questions about bedtime? Check with your pediatrician. Track naps in one tap. Link in bio.
+Track naps in one tap. Link in bio.
 Source: AAP HealthyChildren.org, "Bedtime Routines for Infants and Toddlers"; AAP safe-sleep basics.
 ```
 
 ## TikTok Caption
 
 ```
-A simple bedtime routine many families repeat: bath or wash, pyjamas, a short book or song, then down drowsy on their back in an empty crib. Every family's order can look a little different, and every baby is different. Save this for later. Questions about bedtime? Check with your pediatrician.
+A simple bedtime routine many families repeat: bath or wash, pyjamas, a short book or song, then down drowsy on their back in an empty crib. Every family's order can look a little different, and every baby is different. Save this for later.
 Napapp: naps in one tap. Link in bio.
 Source: AAP HealthyChildren.org, "Bedtime Routines for Infants and Toddlers"; AAP safe-sleep basics (back to sleep, empty crib).
 ```

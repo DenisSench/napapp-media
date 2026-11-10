@@ -85,7 +85,7 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 ## Caption (caption.txt)
 
 ```
-Third time's the charm for this coffee, right? Tell me your most tired moment this week. Every baby is different, so check with your pediatrician if something worries you.
+Third time's the charm for this coffee, right? Tell me your most tired moment this week.
 
 #momlife #newmom #tiredparent #babysleep
 ```

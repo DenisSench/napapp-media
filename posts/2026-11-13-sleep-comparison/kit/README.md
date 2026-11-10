@@ -17,7 +17,7 @@ a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
-Love you, group chat, but please stop saying "sleeps through". Who else answers "pretty good!" no matter what? Every baby is different, so check with your pediatrician if something worries you.
+Love you, group chat, but please stop saying "sleeps through". Who else answers "pretty good!" no matter what?
 
 #babysleep #momfriends #momlife #newmom
 ```
@@ -35,7 +35,7 @@ Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no 
 Caption (post.md):
 
 ```
-Love you, group chat, but please stop saying "sleeps through". Who else answers "pretty good!" no matter what? Every baby is different, and their sleep isn't a contest. If something worries you, check with your pediatrician. Track naps in one tap with Napapp, link in bio.
+Love you, group chat, but please stop saying "sleeps through". Who else answers "pretty good!" no matter what? Every baby is different, and their sleep isn't a contest. Track naps in one tap with Napapp, link in bio.
 
 #babysleep #momfriends #momlife #newmom
 ```
@@ -52,7 +52,7 @@ Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; n
 Caption (post.md):
 
 ```
-Love you, group chat, but please stop saying "sleeps through". Who else answers "pretty good!" no matter what? Every baby is different, and their sleep isn't a contest. If something worries you, check with your pediatrician. Track naps in one tap with Napapp: Link in bio.
+Love you, group chat, but please stop saying "sleeps through". Who else answers "pretty good!" no matter what? Every baby is different, and their sleep isn't a contest. Track naps in one tap with Napapp: Link in bio.
 ```
 
 ## Sound

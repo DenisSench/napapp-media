@@ -20,7 +20,7 @@ video posted by you by hand (no inbox draft for video slots)
 Caption (reel_kit/captions.md):
 
 ```
-Raise your hand if bedtime is also when you're the most fried. What does your last 20 minutes look like? Every baby is different, so check with your pediatrician if bedtime worries you.
+Raise your hand if bedtime is also when you're the most fried. What does your last 20 minutes look like?
 
 #babysleep #bedtimeroutine #newmom #momlife
 ```
@@ -38,7 +38,7 @@ Reel posted by you by hand
 Caption (reel_kit/captions.md):
 
 ```
-Bedtime battles aren't always just about the baby. Some evenings we're rushing too. Many parents try a slower, calmer last stretch before bed: dim lights, phones away, the same few steps. Every baby is different, so if bedtime worries you, check with your pediatrician. Track your evenings in one tap with Napapp, link in bio.
+Bedtime battles aren't always just about the baby. Some evenings we're rushing too. Many parents try a slower, calmer last stretch before bed: dim lights, phones away, the same few steps. Track your evenings in one tap with Napapp, link in bio.
 
 #babysleep #bedtimeroutine #newmom #babysleeptips
 ```
@@ -55,7 +55,7 @@ Reel posted by you by hand
 Caption (reel_kit/captions.md):
 
 ```
-Bedtime battles aren't always just about the baby. Some evenings we're rushing too. Many parents try a slower, calmer last stretch before bed: dim lights, phones away, the same few steps. Every baby is different, so if bedtime worries you, check with your pediatrician. Track your evenings in one tap with Napapp: Link in bio.
+Bedtime battles aren't always just about the baby. Some evenings we're rushing too. Many parents try a slower, calmer last stretch before bed: dim lights, phones away, the same few steps. Track your evenings in one tap with Napapp: Link in bio.
 ```
 
 ## Sound

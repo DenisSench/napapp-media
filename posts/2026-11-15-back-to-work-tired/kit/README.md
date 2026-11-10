@@ -17,7 +17,7 @@ a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
-Back at work, running on a 3am wake-up and pure willpower. What's your "camera off" moment? Every baby is different, so check with your pediatrician if something worries you.
+Back at work, running on a 3am wake-up and pure willpower. What's your "camera off" moment?
 
 #workingmom #backtowork #momlife #babysleep
 ```
@@ -35,7 +35,7 @@ Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no 
 Caption (post.md):
 
 ```
-Back at work, running on a 3am wake-up and pure willpower. What's your "camera off" moment? Every baby is different, so if something worries you, check with your pediatrician. Track naps in one tap with Napapp, link in bio.
+Back at work, running on a 3am wake-up and pure willpower. What's your "camera off" moment? Track naps in one tap with Napapp, link in bio.
 
 #workingmom #backtowork #momlife #babysleep
 ```
@@ -52,7 +52,7 @@ Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; n
 Caption (post.md):
 
 ```
-Back at work, running on a 3am wake-up and pure willpower. What's your "camera off" moment? Every baby is different, so if something worries you, check with your pediatrician. Track naps in one tap with Napapp: Link in bio.
+Back at work, running on a 3am wake-up and pure willpower. What's your "camera off" moment? Track naps in one tap with Napapp: Link in bio.
 ```
 
 ## Sound

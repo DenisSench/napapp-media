@@ -85,7 +85,7 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 ## Caption (caption.txt)
 
 ```
-Still waking at night? Here's what's common at each age. Save this for the next 3am. Every baby is different, so check with your pediatrician if something worries you.
+Still waking at night? Here's what's common at each age. Save this for the next 3am.
 
 #babysleep #nightwakings #babysleephelp #newmom #momtok
 ```

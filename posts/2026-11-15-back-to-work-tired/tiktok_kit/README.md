@@ -85,7 +85,7 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 ## Caption (caption.txt)
 
 ```
-Back at work, running on a 3am wake-up and pure willpower. What's your "camera off" moment? Every baby is different, so check with your pediatrician if something worries you.
+Back at work, running on a 3am wake-up and pure willpower. What's your "camera off" moment?
 
 #workingmom #backtowork #momlife #babysleep
 ```

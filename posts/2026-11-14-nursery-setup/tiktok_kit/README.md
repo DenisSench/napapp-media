@@ -85,7 +85,7 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 ## Caption (caption.txt)
 
 ```
-The nursery: mostly blackout foil and good intentions. What did you buy that you swear you need? Every baby is different, so check with your pediatrician if something worries you.
+The nursery: mostly blackout foil and good intentions. What did you buy that you swear you need?
 
 #nursery #babysleep #newmom #momlife
 ```

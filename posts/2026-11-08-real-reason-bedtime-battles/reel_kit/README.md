@@ -28,7 +28,7 @@
 ## TikTok caption (posted from this kit)
 
 ```
-Raise your hand if bedtime is also when you're the most fried. What does your last 20 minutes look like? Every baby is different, so check with your pediatrician if bedtime worries you.
+Raise your hand if bedtime is also when you're the most fried. What does your last 20 minutes look like?
 
 #babysleep #bedtimeroutine #newmom #momlife
 ```

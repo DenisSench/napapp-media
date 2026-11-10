@@ -85,7 +85,7 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 ## Caption (caption.txt)
 
 ```
-Love you, group chat, but please stop saying "sleeps through". Who else answers "pretty good!" no matter what? Every baby is different, so check with your pediatrician if something worries you.
+Love you, group chat, but please stop saying "sleeps through". Who else answers "pretty good!" no matter what?
 
 #babysleep #momfriends #momlife #newmom
 ```
