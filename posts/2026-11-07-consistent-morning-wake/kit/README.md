@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Mon Nov 9, 9:00 AM ET · Inbox draft
+## TikTok · Mon Nov 9, 9:00 AM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -23,7 +23,7 @@ Not medical advice. Questions? Check with your pediatrician.
 #babysleep #naplog #newparents #napapp
 ```
 
-## Instagram · Mon Nov 9, 9:00 AM ET · Hand-post
+## Instagram · Mon Nov 9, 9:00 AM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -42,7 +42,7 @@ Not medical advice. Questions? Check with your pediatrician.
 #babysleep #naplog #newparents #napapp
 ```
 
-## Facebook · Mon Nov 9, 9:00 AM ET · Hand-post
+## Facebook · Mon Nov 9, 9:00 AM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
