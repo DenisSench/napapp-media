@@ -511,6 +511,38 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:approve-pov-night-shift-swap@napapp.io
+DTSTAMP:20261110T174224Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261109T090000
+DTEND;TZID=America/Toronto:20261109T091500
+SUMMARY:Approve: Pov night shift swap
+DESCRIPTION:pov-night-shift-swap is 'On hold: needs Denis's approval' and i
+ s due 2026-11-10 19:00 ET on TikTok/IG/FB.\nOne approval covers TikTok\, I
+ G and FB. Approve or skip it in the Commander chat (or the dashboard's App
+ rove button).\nSTATUS line 1 says approved\, but its note says: Nov 10 12:
+ 40 PM ET (Bob): package/\, package-ig/ and zips rebuilt from Lee's render 
+ (9 x 9:16\, 9 x 4:5). Old versions in _stale_old/. Still needs Denis's app
+ roval.\n⚠ approval is 'On hold: needs Denis's approval' but IG 'Approved
+ '\, FB 'Approved'\, TikTok 'Approved' on the calendar\n⚠ approval is 'On
+  hold: needs Denis's approval' but plan slot status is approved\nReview/ki
+ t: https://media.napapp.io/posts/2026-11-08-pov-night-shift-swap/kit/\nDas
+ hboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-08-pov-night-shift-swap/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Pov night shift swap in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Pov night shift swap in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:consistent-morning-wake-tt-ig-fb@napapp.io
 DTSTAMP:20261109T200733Z
 SEQUENCE:6
@@ -616,13 +648,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:split-nights-tt-ig-fb@napapp.io
-DTSTAMP:20261110T170608Z
-SEQUENCE:1
+DTSTAMP:20261110T174224Z
+SEQUENCE:2
 DTSTART;TZID=America/Toronto:20261110T115500
 DTEND;TZID=America/Toronto:20261110T121000
-SUMMARY:Post: Split nights [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the Reel\n• Facebook: hand-post the slid
+SUMMARY:✅ Posted: Split nights [TT/IG/FB]
+DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n✅ Instagram: hand-post the Reel\n✅ Facebook: hand-post the slid
  eshow Reel\n\nApproval: Approved (one approval for all platforms)\nKit: ht
  tps://media.napapp.io/posts/2026-11-10-split-nights/kit/\nDashboard: https
  ://media.napapp.io/cal-lvt4wit7/
@@ -631,12 +663,12 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Split nights [TT/IG/FB] in 30 min
+DESCRIPTION:✅ Posted: Split nights [TT/IG/FB] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Split nights [TT/IG/FB] in 5 min
+DESCRIPTION:✅ Posted: Split nights [TT/IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -668,16 +700,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pov-night-shift-swap-tt-ig-fb@napapp.io
-DTSTAMP:20261109T142354Z
-SEQUENCE:6
+DTSTAMP:20261110T174224Z
+SEQUENCE:7
 DTSTART;TZID=America/Toronto:20261110T190000
 DTEND;TZID=America/Toronto:20261110T191500
 SUMMARY:Post: Pov night shift swap [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/posts/2026-11-08-pov-night-shif
- t-swap/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+ k: hand-post the slideshow Reel\n\nApproval: On hold: needs Denis's approv
+ al (one approval for all platforms)\n⚠ Approvals disagree: approval is '
+ On hold: needs Denis's approval' but IG 'Approved'\, FB 'Approved'\, TikTo
+ k 'Approved' on the calendar\n⚠ Approvals disagree: approval is 'On hold
+ : needs Denis's approval' but plan slot status is approved\n⚠ Approvals 
+ disagree: STATUS line 1 says approved\, but its note says: Nov 10 12:40 PM
+  ET (Bob): package/\, package-ig/ and zips rebuilt from Lee's render (9 x 
+ 9:16\, 9 x 4:5). Old versions in _stale_old/. Still needs Denis's approval
+ .\nKit: https://media.napapp.io/posts/2026-11-08-pov-night-shift-swap/kit/
+ \nDashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-11-08-pov-night-shift-swap/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
@@ -876,6 +915,38 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+UID:approve-me-vs-baby-monitor@napapp.io
+DTSTAMP:20261110T174224Z
+SEQUENCE:1
+DTSTART;TZID=America/Toronto:20261113T090000
+DTEND;TZID=America/Toronto:20261113T091500
+SUMMARY:Approve: Me vs baby monitor
+DESCRIPTION:me-vs-baby-monitor is 'On hold: needs Denis's approval' and is 
+ due 2026-11-14 09:00 ET on TikTok/IG/FB.\nOne approval covers TikTok\, IG 
+ and FB. Approve or skip it in the Commander chat (or the dashboard's Appro
+ ve button).\nSTATUS line 1 says approved\, but its note says: Nov 10 12:40
+  PM ET (Bob): package/\, package-ig/ and zips rebuilt from Lee's render (5
+  x 9:16\, 5 x 4:5). Old versions in _stale_old/. Still needs Denis's appro
+ val.\n⚠ approval is 'On hold: needs Denis's approval' but IG 'Approved'\
+ , FB 'Approved'\, TikTok 'Approved' on the calendar\n⚠ approval is 'On h
+ old: needs Denis's approval' but plan slot status is approved\nReview/kit:
+  https://media.napapp.io/posts/2026-10-30-me-vs-baby-monitor/kit/\nDashboa
+ rd: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-10-30-me-vs-baby-monitor/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Me vs baby monitor in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Approve: Me vs baby monitor in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 UID:running-on-empty-tt-ig-fb@napapp.io
 DTSTAMP:20261109T005909Z
 SEQUENCE:4
@@ -903,16 +974,23 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:me-vs-baby-monitor-tt-ig-fb@napapp.io
-DTSTAMP:20261109T005909Z
-SEQUENCE:4
+DTSTAMP:20261110T174224Z
+SEQUENCE:5
 DTSTART;TZID=America/Toronto:20261114T090000
 DTEND;TZID=America/Toronto:20261114T091500
 SUMMARY:Post: Me vs baby monitor [TT/IG/FB]
 DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/posts/2026-10-30-me-vs-baby-mon
- itor/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+ k: hand-post the slideshow Reel\n\nApproval: On hold: needs Denis's approv
+ al (one approval for all platforms)\n⚠ Approvals disagree: approval is '
+ On hold: needs Denis's approval' but IG 'Approved'\, FB 'Approved'\, TikTo
+ k 'Approved' on the calendar\n⚠ Approvals disagree: approval is 'On hold
+ : needs Denis's approval' but plan slot status is approved\n⚠ Approvals 
+ disagree: STATUS line 1 says approved\, but its note says: Nov 10 12:40 PM
+  ET (Bob): package/\, package-ig/ and zips rebuilt from Lee's render (5 x 
+ 9:16\, 5 x 4:5). Old versions in _stale_old/. Still needs Denis's approval
+ .\nKit: https://media.napapp.io/posts/2026-10-30-me-vs-baby-monitor/kit/\n
+ Dashboard: https://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-10-30-me-vs-baby-monitor/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
