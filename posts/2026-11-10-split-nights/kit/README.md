@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Tue Nov 10, 11:55 AM ET · Inbox draft
+## TikTok · Tue Nov 10, 11:55 AM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -24,7 +24,7 @@ Sources: AAP (HealthyChildren.org), NHS, Cleveland Clinic.
 #babysleep #nightwakings #napschedule #newparents #napapp
 ```
 
-## Instagram · Tue Nov 10, 11:55 AM ET · Hand-post
+## Instagram · Tue Nov 10, 11:55 AM ET · Hand-post · POSTED
 
 Reels only: IG gets the 9:16 Reel, posted by you by hand; no IG API
 
@@ -44,7 +44,7 @@ Sources: AAP (HealthyChildren.org), NHS, Cleveland Clinic.
 #babysleep #nightwakings #napschedule #newparents #napapp
 ```
 
-## Facebook · Tue Nov 10, 11:55 AM ET · Hand-post
+## Facebook · Tue Nov 10, 11:55 AM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

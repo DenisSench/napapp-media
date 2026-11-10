@@ -15,24 +15,24 @@
     "tiktok": {
       "date": "2026-11-10",
       "time": "11:55",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "inbox",
-      "url": ""
+      "url": "https://www.tiktok.com/@nap_app/video/7706594615192800533"
     },
     "ig": {
       "date": "2026-11-10",
       "time": "11:55",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.instagram.com/reel/DfkcWP-gxvx/"
     },
     "fb": {
       "date": "2026-11-10",
       "time": "11:55",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     }
@@ -46,10 +46,10 @@
     "4x5/06.jpg": "89501723d92d621bf44e9985df3d0ac84e9ed53a713a4ed9f4e67aa40170116d",
     "4x5/07.jpg": "a9b173d13dc36c67059ca42b992ebdb7bc273fe97bf380187baca3b3ea9fd3e2",
     "4x5/08.jpg": "edbeecc26673a36616fb2a6472b81455ebd349d6425f9578b05aa140797afd21",
-    "README.md": "45ccf1335c50a748537944f18af02df1103a0ecd9c24cf05cd2bfc42e69ce1bb",
+    "README.md": "3b4118f910b1c5b819b19b7801c87a799fb348d5f03e6504c0dfb7b7962ac247",
     "fb_caption.txt": "1d06fd4fb841fa439e5569f01d69738fbb3ad82f8a5387778494fa7c32baaabc",
     "ig_caption.txt": "06c5cea20139a0abef94778bfec064f77040b202f76e64ae778a1a9155ac414d",
-    "index.html": "153543bafa899b94b6dc6602fc9e5f90cd8a515c2073423d1cbc8f1cd48b8e63",
+    "index.html": "3a5bff44f70d18c1146f60a4e125f7d3c126d8c6a64426a18753fdf4edd4d6e8",
     "reel-preview-slideshow-lookA-fb.mp4": "52c878a9c46250cb41e023a775c2a58394ada41c0f4bd38881ff0b0670070359",
     "reel-preview-slideshow-lookA.mp4": "02f897f86afbefa3b6ad34ecfda215360d1281d5d51162c0944a866cefe4adca",
     "slides-4x5.zip": "fbdd9a7fbfa384d25a4861a958a3aa408a5994f155528995e0dd526e53ea2237",

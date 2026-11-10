@@ -8,7 +8,6 @@ Wake windows 7-12 months, in one place 🌙
 These are typical ranges, not a schedule to hit. Every baby is different, so follow their cues. Source: Cleveland Clinic.
 Save this for the next schedule shuffle 🤍
 Want to see your baby's own pattern? Log naps in one tap. Napapp, link in bio.
-Not medical advice. Check with your pediatrician about your baby's sleep.
 
 #wakewindows #babysleep #napschedule #babysleeptips
 ```
@@ -16,7 +15,7 @@ Not medical advice. Check with your pediatrician about your baby's sleep.
 ## Facebook Page (caption + hashtags)
 
 ```
-Typical wake windows, 7-12 months: ranges, not targets, and every baby is different 🌙 Source: Cleveland Clinic. Not medical advice; check with your pediatrician.
+Typical wake windows, 7-12 months: ranges, not targets, and every baby is different 🌙 Source: Cleveland Clinic.
 Log naps in one tap. Napapp: Link in bio. #wakewindows
 ```
 
