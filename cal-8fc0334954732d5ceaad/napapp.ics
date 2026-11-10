@@ -26,33 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:relatable-list-test-ig-fb@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261103T131600
-DTEND;TZID=America/Toronto:20261103T133100
-SUMMARY:✅ Posted: Relatable list test [IG/FB]
-DESCRIPTION:✅ Instagram: give your go for the IG API post (nothing posts 
- without it)\n✅ Facebook: give your go for the FB API post (nothing posts
-  without it)\n\nApproval: Approved (one approval for all platforms)\nPlatf
- orms on different days: TikTok 2026-11-02 19:07\, IG 2026-11-03 13:16\, FB
-  2026-11-03 13:16\nKit: https://media.napapp.io/cal-lvt4wit7/\nDashboard: 
- https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/cal-lvt4wit7/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Relatable list test [IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Relatable list test [IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sleepy-cues-5-signs-tt@napapp.io
 DTSTAMP:20261104T183542Z
 SEQUENCE:0
