@@ -26,31 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sleepy-cues-5-signs-tt@napapp.io
-DTSTAMP:20261104T183542Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261103T141700
-DTEND;TZID=America/Toronto:20261103T143200
-SUMMARY:✅ Posted: Sleepy cues 5 signs [TT]
-DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n\nApproval: Approved (one approval for all platforms)\nKit: https:/
- /media.napapp.io/posts/2026-11-02-sleepy-cues-5-signs/kit/\nDashboard: htt
- ps://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-02-sleepy-cues-5-signs/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Sleepy cues 5 signs [TT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Sleepy cues 5 signs [TT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:sleepy-cues-5-signs-ig-fb@napapp.io
 DTSTAMP:20261104T183542Z
 SEQUENCE:0
