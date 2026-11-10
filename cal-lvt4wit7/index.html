@@ -231,4 +231,6 @@ function act(){var y=window.scrollY+90,cur=0;secs.forEach(function(s,i){if(s&&s.
   tabs.forEach(function(a,i){var on=i===cur;if(on!==a.classList.contains('on')){a.classList.toggle('on',on);if(on){a.setAttribute('aria-current','true');var p=a.parentNode;p.scrollTo({left:a.offsetLeft-p.clientWidth/2+a.clientWidth/2,behavior:'smooth'})}else a.removeAttribute('aria-current')}})}
 window.addEventListener('scroll',act,{passive:true});act();
 })();
-</script></body></html>
+</script></body>
+<!-- pages-rebuild retry after failed build of ebec6da1d3 -->
+</html>
