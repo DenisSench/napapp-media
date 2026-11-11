@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Tue Nov 10, 7:00 PM ET · Inbox draft
+## TikTok · Tue Nov 10, 7:00 PM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -22,7 +22,7 @@ POV: you two split the night into shifts 🌗🤝 The 2am handover sounds clear�
 #nightshiftparents #newparents #babysleep #napapp
 ```
 
-## Instagram · Tue Nov 10, 7:00 PM ET · Hand-post
+## Instagram · Tue Nov 10, 7:00 PM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 

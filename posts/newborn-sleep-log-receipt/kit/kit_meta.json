@@ -1,0 +1,51 @@
+{
+  "post": "newborn-sleep-log-receipt",
+  "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "a7f25073b1b25840",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-11",
+      "time": "19:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "e8435e2d18ebec41d65e76990c735f6baf18e77caa7260be2b880a7a7a3514d2",
+    "fb_caption.txt": "bfd87bf845b698b319f2117c11625eb018bbe3b0ec649e80f1682086e51184cc",
+    "ig_caption.txt": "ab80f2e4258ae8edbde16edaad4899b562968585902b4b0bd9c680f6915c889f",
+    "index.html": "dea2b4c170c878be5cb59a50682734c84dc0621d3c77578bc53eb84fb01b33f5",
+    "tiktok_caption.txt": "bfd87bf845b698b319f2117c11625eb018bbe3b0ec649e80f1682086e51184cc"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "38bfae2a096525454828af3662c169de65ddb2182d4f611d45c08cd7482609fe",
+    "reel_kit/reel-fb.mp4": "6e0c5921214e583ada261a474953a95dce49722323fcc563777a9b2c23707d6f"
+  }
+}
