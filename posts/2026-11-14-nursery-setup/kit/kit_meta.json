@@ -2,7 +2,7 @@
   "post": "2026-11-14-nursery-setup",
   "kind": "carousel",
   "meta_reels_only": true,
-  "meta_reel": null,
+  "meta_reel": "reel-preview-slideshow-lookA.mp4",
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -38,10 +38,12 @@
     }
   },
   "files": {
-    "README.md": "50045cf1c4309fdd407d12239c2ff4de1073317f731bcd7d5575f3ded0992a9f",
+    "README.md": "51017391f7e9659b78a7a87571f27a2bae552887cdc33f29baec9ea3dcd7fa16",
     "fb_caption.txt": "5ab348295721a394375f0979bfd55ecae68a99e169a81a3040640443a580eb90",
     "ig_caption.txt": "1a15e66305e693cdf87c7856b517e3d707232def38def6ccf0eb54b2ae5686a1",
-    "index.html": "47d6615a80bc097feece5c7963b3d190af252edc2e892493663a9e72a4d9dce0",
+    "index.html": "d31b87382bdbd72f34c6d73610652ee3276eee8da91b13485d28abe33372c099",
+    "reel-preview-slideshow-lookA-fb.mp4": "9e915ba088a1c13d213d2681106d917c16dcbf39cac4ac477bec68f8a2b66b17",
+    "reel-preview-slideshow-lookA.mp4": "ade30324fc30bfc297fafe9a102679c0c53f600e26e97806442ae123a4c07bf9",
     "tiktok_caption.txt": "1a15e66305e693cdf87c7856b517e3d707232def38def6ccf0eb54b2ae5686a1"
   },
   "refs": {

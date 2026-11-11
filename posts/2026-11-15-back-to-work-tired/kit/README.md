@@ -27,8 +27,10 @@ Camera off, brain buffering, and then: "When did she last nap?" 💻🫠 Napapp'
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
 1. AI label REQUIRED on Instagram: before sharing, Advanced settings → turn ON AI label.
-2. Reels only on Meta (from Nov 7): this post goes on Instagram as a 9:16 slideshow Reel made from the carousel, posted by you by hand. No carousel or photo post.
-3. Needs Lee's slideshow Reel: the mp4 isn't in this kit yet; Bob adds it here once Lee renders it. Don't post the 4:5 carousel.
+2. Download reel-preview-slideshow-lookA.mp4 (the 9:16 slideshow Reel, top of this page).
+3. Instagram app (@getnapapp): open an Instagram pick's audio link → Use audio → pick the slideshow Reel → Next.
+4. Paste the IG caption. Cover: the first slide (the hook). Don't tick "also share to Facebook".
+5. Share, then send Bob the link.
 
 Caption (post.md):
 
@@ -43,8 +45,9 @@ Camera off, brain buffering, and then: "When did she last nap?" 💻🫠 Napapp'
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Reels only on Meta (from Nov 7): this post goes on Facebook as a 9:16 slideshow Reel made from the carousel, posted by you by hand. No carousel or photo post.
-3. Needs Lee's slideshow Reel: the mp4 isn't in this kit yet; Bob adds it here once Lee renders it. Don't post the 4:5 carousel.
+2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
+3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
+4. Paste the FB caption → Post. Send Bob the link.
 
 Caption (post.md):
 
