@@ -1,0 +1,55 @@
+{
+  "post": "2026-11-01-week-wake-window-recap",
+  "kind": "igfb-reel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-ig.mp4",
+  "meta_reel_fb": "reel-fb.mp4",
+  "stills": 8,
+  "aspect": "9:16",
+  "no_4x5": true,
+  "caption_source": "proposals/2026-11-11/week-wake-window-recap/STD-FINAL-luna.md",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "Denis via Commander, Nov 10 2026 6:58 PM ET"
+  },
+  "sounds_fingerprint": "1a173cdfe1f264c6",
+  "platforms": {
+    "ig": {
+      "date": "2026-11-11",
+      "time": "09:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand"
+    },
+    "fb": {
+      "date": "2026-11-11",
+      "time": "09:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand"
+    }
+  },
+  "reel_md5": {
+    "reel-ig.mp4": "e8e8f453255ac09c29f1215f744cc0e2",
+    "reel-fb.mp4": "e79144110d68b2d1fc61aa185a7058c9"
+  },
+  "files": {
+    "01.jpg": "9d62daa516906a1b82b3d2ca105e6c39daba700736fd60aaa697495fe5c98638",
+    "02.jpg": "1d502bdd02f55011f4ed885612f449598d84a7c810ef6a609f0e88553cd35907",
+    "03.jpg": "f9e01e707c7d71d7e5e1446528784ae8f1d80438ccaebf6cfbe229f3a529d5d0",
+    "04.jpg": "3e9be51d55fad0cb565c257b6b289e527a7d6e3407ba0c6130e9bacfe428c936",
+    "05.jpg": "119daa0a6615d802e38b0b047bd5d6d3038cca2261da4533f1aadb76eb41cfcf",
+    "06.jpg": "8466745b09334d1989f5f9f84f6b8060f5424c3e947e43656012d9eefb618a2f",
+    "07.jpg": "b47f6d80c20782c391d94dbc64c867aa953466b50fca5ce5654b5c47c4a91a8e",
+    "08.jpg": "7d6977e4310527e5b735de2ae606744d817cfb4769252f10a75b468c7076b742",
+    "README.md": "84b04839c85a3c94b880af21ed757ae17b3a688aef8c43343f29b546a12a4d94",
+    "cover.jpg": "9d62daa516906a1b82b3d2ca105e6c39daba700736fd60aaa697495fe5c98638",
+    "fb_caption.txt": "9bdd78f0eb3b7d086a197cba60fc8a2087315ae2616f1a301b1a0b3705dc92e2",
+    "ig_caption.txt": "e6599c198bf1cfaf68960eb6a4116297765a93d59de2be5db02eea8828786077",
+    "index.html": "cd81a5e8520445b5bbcb307345e9a324a2e118787b416438c4846d315976acec",
+    "reel-fb.mp4": "3b21cbab9bd82ce3074cc22cc1b33ddad298b1a7e6b03e33c54fa89129e9f438",
+    "reel-ig.mp4": "6b0cc6b66881624cded547a4b7a3d8066f2f0d0fb7cc41c64461b1986c968997",
+    "slides.zip": "72cd8e7dd5322e541ac7f33882c996a4e3a4bbf0724a3f1c6d52583e499a617c"
+  }
+}
