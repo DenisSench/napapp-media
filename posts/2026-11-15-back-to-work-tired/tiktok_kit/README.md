@@ -3,14 +3,14 @@
 **AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook).**
 
 Slot: Thursday, Nov 12, 2026 at 9:00 AM ET
-Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg (+ cover.jpg), from Jessy's package/.
+Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg, 09.jpg (+ cover.jpg), from Jessy's package/.
 
 ## Checklist
 
 1. AI label REQUIRED (this post uses AI-generated images): before posting, More options → turn ON AI-generated content. Do not post without it.
 2. AI label REQUIRED on Instagram: before sharing, Advanced settings → turn ON AI label. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-3. Download the slides: tap Download all (slides.zip), or long-press each slide below → Save to Photos (8 images, in order 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg).
-4. TikTok (logged in as @nap_app): + → Upload → Photo → select the slides in order 01 → 08.
+3. Download the slides: tap Download all (slides.zip), or long-press each slide below → Save to Photos (9 images, in order 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg, 09.jpg).
+4. TikTok (logged in as @nap_app): + → Upload → Photo → select the slides in order 01 → 09.
 5. Cover: use cover.jpg's look (slide 01) as the cover.
 6. Add sound: use a TikTok pick from the Sound block below if there is one; otherwise pick a trending sound that's cleared for business use (Commercial sounds list only, since @nap_app is a brand account). Calm, parent-friendly.
 7. Tap Copy caption below and paste it into the description (caption + hashtags).
@@ -85,9 +85,9 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 ## Caption (caption.txt)
 
 ```
-Back at work, running on a 3am wake-up and pure willpower. What's your "camera off" moment?
+Camera off, brain buffering, and then: "When did she last nap?" 💻🫠 Napapp's free family sharing puts the sleep times everyone logs in one shared log, whether you're home or back at work. Link in bio.
 
-#workingmom #backtowork #momlife #babysleep
+#workingparents #backtowork #babysleep #napapp
 ```
 
 ## Instagram + Facebook: Reel only

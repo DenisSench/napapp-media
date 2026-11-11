@@ -12,14 +12,15 @@ a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 1. AI label REQUIRED (this post uses AI-generated images): before posting, More options → turn ON AI-generated content. Do not post without it.
 2. Nothing to upload: the draft (the 9:16 slides + caption) lands in your TikTok inbox ~2 h before the slot ("Napapp scheduled draft uploads").
 3. Open the draft, add a sound (TikTok pick below, or a Commercial sound), check the caption, turn Content disclosure ON → "Your brand", then post.
-4. If no draft arrives: post by hand from the 9:16 slides above (slides.zip, 8 images in order) with the caption below.
+4. If no draft arrives: post by hand from the 9:16 slides above (slides.zip, 9 images in order) with the caption below.
 
 Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
-The nursery: mostly blackout foil and good intentions. What did you buy that you swear you need?
+Pinterest nursery vs. where he actually naps 🎨🪛 Two sound machines, three sizes of sleep sacks, sage walls painted at 38 weeks... and still no idea when the last nap was. Napapp logs sleep in one tap. For sleep, baby goes on their back on a firm, flat surface in an empty crib with a fitted sheet only. Link in bio.
+Safe-sleep guidance: AAP (HealthyChildren.org).
 
-#nursery #babysleep #newmom #momlife
+#nurseryideas #babysleep #newparents #napapp
 ```
 
 ## Instagram · Thu Nov 12, 1:00 PM ET · Hand-post
@@ -27,17 +28,16 @@ The nursery: mostly blackout foil and good intentions. What did you buy that you
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
 1. AI label REQUIRED on Instagram: before sharing, Advanced settings → turn ON AI label.
-2. Download reel-preview-slideshow-lookA.mp4 (the 9:16 slideshow Reel, top of this page).
-3. Instagram app (@getnapapp): open an Instagram pick's audio link → Use audio → pick the slideshow Reel → Next.
-4. Paste the IG caption. Cover: the first slide (the hook). Don't tick "also share to Facebook".
-5. Share, then send Bob the link.
+2. Reels only on Meta (from Nov 7): this post goes on Instagram as a 9:16 slideshow Reel made from the carousel, posted by you by hand. No carousel or photo post.
+3. Needs Lee's slideshow Reel: the mp4 isn't in this kit yet; Bob adds it here once Lee renders it. Don't post the 4:5 carousel.
 
 Caption (post.md):
 
 ```
-The nursery: mostly blackout foil and good intentions. What did you buy that you swear you need? Track naps in one tap with Napapp, link in bio.
+Pinterest nursery vs. where he actually naps 🎨🪛 Two sound machines, three sizes of sleep sacks, sage walls painted at 38 weeks... and still no idea when the last nap was. Napapp logs sleep in one tap. For sleep, baby goes on their back on a firm, flat surface in an empty crib with a fitted sheet only. Link in bio.
+Safe-sleep guidance: AAP (HealthyChildren.org).
 
-#nursery #babysleep #newmom #momlife
+#nurseryideas #babysleep #newparents #napapp
 ```
 
 ## Facebook · Thu Nov 12, 1:00 PM ET · Hand-post
@@ -45,14 +45,13 @@ The nursery: mostly blackout foil and good intentions. What did you buy that you
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
-3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
-4. Paste the FB caption → Post. Send Bob the link.
+2. Reels only on Meta (from Nov 7): this post goes on Facebook as a 9:16 slideshow Reel made from the carousel, posted by you by hand. No carousel or photo post.
+3. Needs Lee's slideshow Reel: the mp4 isn't in this kit yet; Bob adds it here once Lee renders it. Don't post the 4:5 carousel.
 
 Caption (post.md):
 
 ```
-The nursery: mostly blackout foil and good intentions. What did you buy that you swear you need? Track naps in one tap with Napapp: Link in bio.
+Pinterest nursery vs. where he actually naps 🎨🪛 Two sound machines, three sizes of sleep sacks, sage walls painted at 38 weeks... and still no idea when the last nap was. Napapp logs sleep in one tap. For sleep, baby goes on their back on a firm, flat surface in an empty crib with a fitted sheet only. Safe-sleep guidance: AAP. Link in bio.
 ```
 
 ## Sound
