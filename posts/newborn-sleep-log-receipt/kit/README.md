@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../reel_kit/reel.mp4
 
-## TikTok · Wed Nov 11, 7:00 PM ET · Hand-post
+## TikTok · Wed Nov 11, 7:00 PM ET · Hand-post · POSTED
 
 video posted by you by hand (no inbox draft for video slots)
 
@@ -25,7 +25,7 @@ My newborn sleep log: a receipt, a napkin and my own hand 🧾✍️ Then 3 AM h
 #newbornlife #newparents #babysleep #napapp
 ```
 
-## Instagram · Wed Nov 11, 7:00 PM ET · Hand-post
+## Instagram · Wed Nov 11, 7:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
@@ -45,7 +45,7 @@ Napapp logs every nap in one tap and gives you sleep coaching tips made for your
 #newbornlife #newparents #babysleep #napapp
 ```
 
-## Facebook · Wed Nov 11, 7:00 PM ET · Hand-post
+## Facebook · Wed Nov 11, 7:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
