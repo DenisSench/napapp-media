@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-12-pre-bedtime-routine-5-steps",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-lookA.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "74234e98afe7498f",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-12",
+      "time": "19:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-12",
+      "time": "19:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-12",
+      "time": "19:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "031ce05b495146eac8f3d17acf679c2076edbef44f8d2d53b5c5d48112823d52",
+    "fb_caption.txt": "dea53608f1b2ee312dfc40174cdd02297a4ea85277ba467d494b89d479466f0b",
+    "ig_caption.txt": "415778cf5201ad691f31371155280c0f4ee22f0a2aa429be962e8d7334db6131",
+    "index.html": "b84df76b4c0891e2d48b796881f7fd98a8d085bf9fc37c9e179ccd5e625bace5",
+    "reel-preview-slideshow-lookA-fb.mp4": "f989909370914d666eeb3d4a65c9112e7d19e15f8cbfd252f556702936b662f0",
+    "reel-preview-slideshow-lookA.mp4": "d2846decdbac6d11625c5e117d028bb6f10081ed254bb4b6a7f296fa7a333884",
+    "tiktok_caption.txt": "dea53608f1b2ee312dfc40174cdd02297a4ea85277ba467d494b89d479466f0b"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "edb412fb9683ebeb37ad997e324329b03677efb13978a852eed65a2affd04763",
+    "tiktok_kit/02.jpg": "d50972fd422615607e8f6c289fc0e944ab1517ffed57233d8a8c4536ff1cbdfd",
+    "tiktok_kit/03.jpg": "7f8106cb924ecc32c74042edcfd3878aa336550a3d04b0e406d20618a47729c7",
+    "tiktok_kit/04.jpg": "b5adecedef4c3ec37529e8cf599f65c86ee5510662e50bda6743b91229496642",
+    "tiktok_kit/05.jpg": "bd94ac0d4aa2294e58cea9042b40542ca3aa022c53b14460098498420ce0c615",
+    "tiktok_kit/06.jpg": "022ea71582f598bb336f636cd7d41530c4840961bb20df32630a77afe73f6a35",
+    "tiktok_kit/07.jpg": "cb741f921443b6bbd48ba11da8aca055935ae54ba20379d2c8a57db0c06f8b25",
+    "tiktok_kit/cover.jpg": "edb412fb9683ebeb37ad997e324329b03677efb13978a852eed65a2affd04763",
+    "tiktok_kit/slides.zip": "4436dc57ff5ac3d93ef91cd0951adac12a87545283d6d10e33063eaba5c87267"
+  }
+}

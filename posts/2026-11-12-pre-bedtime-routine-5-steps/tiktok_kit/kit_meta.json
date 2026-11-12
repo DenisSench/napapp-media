@@ -1,0 +1,31 @@
+{
+  "post": "2026-11-12-pre-bedtime-routine-5-steps",
+  "slot": "Thursday, Nov 12, 2026 at 7:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "74234e98afe7498f",
+  "sounds_found": false,
+  "files": {
+    "01.jpg": "edb412fb9683ebeb37ad997e324329b03677efb13978a852eed65a2affd04763",
+    "02.jpg": "d50972fd422615607e8f6c289fc0e944ab1517ffed57233d8a8c4536ff1cbdfd",
+    "03.jpg": "7f8106cb924ecc32c74042edcfd3878aa336550a3d04b0e406d20618a47729c7",
+    "04.jpg": "b5adecedef4c3ec37529e8cf599f65c86ee5510662e50bda6743b91229496642",
+    "05.jpg": "bd94ac0d4aa2294e58cea9042b40542ca3aa022c53b14460098498420ce0c615",
+    "06.jpg": "022ea71582f598bb336f636cd7d41530c4840961bb20df32630a77afe73f6a35",
+    "07.jpg": "cb741f921443b6bbd48ba11da8aca055935ae54ba20379d2c8a57db0c06f8b25",
+    "README.md": "cc2a4b72819ecf3f4942b6e927d59bc850181a1468acdefcece47a1fc145e7ba",
+    "caption.txt": "dea53608f1b2ee312dfc40174cdd02297a4ea85277ba467d494b89d479466f0b",
+    "cover.jpg": "edb412fb9683ebeb37ad997e324329b03677efb13978a852eed65a2affd04763",
+    "index.html": "a816b52b97ab7a583a6d67c120c2414a355d73401e8ec930a3e5348d220ba5d9",
+    "slides.zip": "4436dc57ff5ac3d93ef91cd0951adac12a87545283d6d10e33063eaba5c87267"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}
