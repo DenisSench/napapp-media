@@ -618,4 +618,160 @@ DESCRIPTION:Post: Pre bedtime routine 5 steps [TT/IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:toddler-nap-5-ways-tt-ig-fb@napapp.io
+DTSTAMP:20261112T011624Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261113T090000
+DTEND;TZID=America/Toronto:20261113T091500
+SUMMARY:Post: Toddler nap 5 ways [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/posts/2026-11-13-toddler-nap-5-
+ ways/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-13-toddler-nap-5-ways/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Toddler nap 5 ways [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Toddler nap 5 ways [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:drowsy-but-awake-5-ways-tt-ig-fb@napapp.io
+DTSTAMP:20261112T011624Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261113T130000
+DTEND;TZID=America/Toronto:20261113T131500
+SUMMARY:Post: Drowsy but awake 5 ways [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/posts/2026-11-13-drowsy-but-awa
+ ke-5-ways/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-13-drowsy-but-awake-5-ways/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Drowsy but awake 5 ways [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Drowsy but awake 5 ways [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:night-feeds-4-steps-tt-ig-fb@napapp.io
+DTSTAMP:20261112T011624Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261113T190000
+DTEND;TZID=America/Toronto:20261113T191500
+SUMMARY:Post: Night feeds 4 steps [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/posts/2026-11-13-night-feeds-4-
+ steps/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-13-night-feeds-4-steps/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Night feeds 4 steps [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Night feeds 4 steps [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:swaddle-to-sleep-sack-tt-ig-fb@napapp.io
+DTSTAMP:20261112T011624Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261114T090000
+DTEND;TZID=America/Toronto:20261114T091500
+SUMMARY:Post: Swaddle to sleep sack [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/posts/2026-11-14-swaddle-to-sle
+ ep-sack/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-14-swaddle-to-sleep-sack/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Swaddle to sleep sack [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Swaddle to sleep sack [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4-month-naps-how-to-tt-ig-fb@napapp.io
+DTSTAMP:20261112T011624Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261114T130000
+DTEND;TZID=America/Toronto:20261114T131500
+SUMMARY:Post: 4 month naps how to [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/posts/2026-11-14-4-month-naps-h
+ ow-to/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-14-4-month-naps-how-to/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: 4 month naps how to [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: 4 month naps how to [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:calm-fussy-newborn-5-ways-tt-ig-fb@napapp.io
+DTSTAMP:20261112T011624Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261114T190000
+DTEND;TZID=America/Toronto:20261114T191500
+SUMMARY:Post: Calm fussy newborn 5 ways [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/posts/2026-11-14-calm-fussy-new
+ born-5-ways/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-14-calm-fussy-newborn-5-ways/kit/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Calm fussy newborn 5 ways [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Calm fussy newborn 5 ways [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
