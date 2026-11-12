@@ -26,56 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:pov-daycare-week-naps-tt@napapp.io
-DTSTAMP:20261106T021316Z
-SEQUENCE:1
-DTSTART;TZID=America/Toronto:20261104T214200
-DTEND;TZID=America/Toronto:20261104T215700
-SUMMARY:✅ Posted: Pov daycare week naps [TT]
-DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n\nApproval: Approved (one approval for all platforms)\nKit: https:/
- /media.napapp.io/posts/2026-11-03-pov-daycare-week-naps/kit/\nDashboard: h
- ttps://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-03-pov-daycare-week-naps/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Pov daycare week naps [TT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Pov daycare week naps [TT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:pov-daycare-week-naps-ig-fb@napapp.io
-DTSTAMP:20261105T140304Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261104T214700
-DTEND;TZID=America/Toronto:20261104T220200
-SUMMARY:✅ Posted: Pov daycare week naps [IG/FB]
-DESCRIPTION:✅ Instagram: hand-post the carousel\n✅ Facebook: hand-post 
- the carousel\n\nApproval: Approved (one approval for all platforms)\nKit: 
- https://media.napapp.io/posts/2026-11-03-pov-daycare-week-naps/kit/\nDashb
- oard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-03-pov-daycare-week-naps/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Pov daycare week naps [IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Pov daycare week naps [IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:me-vs-baby-teething-night-ig-fb@napapp.io
 DTSTAMP:20261106T021316Z
 SEQUENCE:0
