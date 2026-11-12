@@ -591,4 +591,31 @@ DESCRIPTION:Post: Nursery setup [TT/IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
+BEGIN:VEVENT
+UID:pre-bedtime-routine-5-steps-tt-ig-fb@napapp.io
+DTSTAMP:20261112T003721Z
+SEQUENCE:0
+DTSTART;TZID=America/Toronto:20261112T190000
+DTEND;TZID=America/Toronto:20261112T191500
+SUMMARY:Post: Pre bedtime routine 5 steps [TT/IG/FB]
+DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
+ l platforms)\nKit: https://media.napapp.io/posts/2026-11-12-pre-bedtime-ro
+ utine-5-steps/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+URL:https://media.napapp.io/posts/2026-11-12-pre-bedtime-routine-5-steps/ki
+ t/
+TRANSP:TRANSPARENT
+STATUS:CONFIRMED
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Pre bedtime routine 5 steps [TT/IG/FB] in 30 min
+TRIGGER:-PT30M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Post: Pre bedtime routine 5 steps [TT/IG/FB] in 5 min
+TRIGGER:-PT5M
+END:VALARM
+END:VEVENT
 END:VCALENDAR
