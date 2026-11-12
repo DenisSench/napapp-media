@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-13-toddler-nap-5-ways",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-plain.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "74234e98afe7498f",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-13",
+      "time": "09:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-13",
+      "time": "09:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-13",
+      "time": "09:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "42bdb2531f72f40edb73488932ca583c5407514cfb841670af146cc1de3e44b3",
+    "fb_caption.txt": "333158e1bd889d08f3d3832a06741bdfc704cb45c82ca4b7a0bbd49ddb3e2011",
+    "ig_caption.txt": "7c03e39fbcc234074c4a4fd59b762ca8b03330285afb9615957c213887582140",
+    "index.html": "3faf1702482c29998c692c89794a0e5f45bc99c1dbd19d2a9e734608725dbde3",
+    "reel-preview-slideshow-plain-fb.mp4": "dce7021030084f8ea0ec3d41234236cb95d4922eee5406b46dec2ed3b93910d7",
+    "reel-preview-slideshow-plain.mp4": "521df49289030a3a950c25a963c72c42732d80afd45c7937a601d939e478441a",
+    "tiktok_caption.txt": "333158e1bd889d08f3d3832a06741bdfc704cb45c82ca4b7a0bbd49ddb3e2011"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "156b68cddd8fa599196fa25fbb0bfc600a0cfd3e242a0d8e2d4d4651f7ab11bc",
+    "tiktok_kit/02.jpg": "5634fc42ecce1cf20f70df60647435e969aeebb0eff2eb0dcfafd12229075168",
+    "tiktok_kit/03.jpg": "8ac0d9dd325edfe434362f3880e83c067bcff47c8398421d151dc89bdfd299b3",
+    "tiktok_kit/04.jpg": "c0d5efcf6f064d5008e885997bd4b73012d31d22b27651991abde825aed86ae7",
+    "tiktok_kit/05.jpg": "5cbf6926a2b61127b2c6a2f7eecc6663807435971d98537555f2d1e7ae20a8a1",
+    "tiktok_kit/06.jpg": "c6df967590d526e93010869ecc7249869f36724ec2de5d6e530bbc6fd3adfed3",
+    "tiktok_kit/07.jpg": "13b68fdc1aebc413ff19f36be786cab50f5e3a4676e721c0fa6c317a81ad5e8b",
+    "tiktok_kit/cover.jpg": "156b68cddd8fa599196fa25fbb0bfc600a0cfd3e242a0d8e2d4d4651f7ab11bc",
+    "tiktok_kit/slides.zip": "f2d0cb64101816496ef4a9284f0f6dbebc654f541d39117bf2bf27f199a497b6"
+  }
+}

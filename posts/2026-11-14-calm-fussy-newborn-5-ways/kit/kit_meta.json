@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-14-calm-fussy-newborn-5-ways",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-plain.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "74234e98afe7498f",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-14",
+      "time": "19:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "2b6eb199566e734d37461cf149ca7b853205a03992a024ca4bc95062fdec6fd7",
+    "fb_caption.txt": "69dab5aeb32fdb071dc8358fe02b06ebfd60fb5c294b8adbebd381b231afe61f",
+    "ig_caption.txt": "fa7748163b73a9786369ace8e5f56a493f697155ae3279472ba710512bb05b6a",
+    "index.html": "c94910dc9eecdf0db33bf12774e0f2aced152834f77fcb64f45271994db39ed4",
+    "reel-preview-slideshow-plain-fb.mp4": "e21f875d8d279a6885a87bb71bccec1b7a02d0a5258f76d093bd26d680846fdf",
+    "reel-preview-slideshow-plain.mp4": "b4fd6df64db267f05706feb0d6ebe74b81c2d90252f7c806511a6009da7de874",
+    "tiktok_caption.txt": "69dab5aeb32fdb071dc8358fe02b06ebfd60fb5c294b8adbebd381b231afe61f"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "f59120d5223e5d7904a06dc26dbc8ce9c7e0d92f8f150eb9851135b7e657d7aa",
+    "tiktok_kit/02.jpg": "8b01072ca5e02d6aedfa60a0ae7d33109c52ffd747eee2398d9ca2506988f3b4",
+    "tiktok_kit/03.jpg": "dee5b9bdd6dbb6695227e0c735a44a7180b5b0113ca001d5c6afcf5e9915815c",
+    "tiktok_kit/04.jpg": "028401e1542b7d569ed701220c799efa2c50f548a5d7bcea97a9584916d09ac6",
+    "tiktok_kit/05.jpg": "4259abd535672a5f60d9d9b07fb76cad814b45424d7a4921c6040ac6ccc8fb72",
+    "tiktok_kit/06.jpg": "e599c34e1f32c671f5db33fa3bc5c949a0065338b19c4e76a5827c79ed8556ba",
+    "tiktok_kit/07.jpg": "9568fae62f150aa1da5adf7901e833ca105c2e53cf9b9951b7b9c0183093a95d",
+    "tiktok_kit/cover.jpg": "f59120d5223e5d7904a06dc26dbc8ce9c7e0d92f8f150eb9851135b7e657d7aa",
+    "tiktok_kit/slides.zip": "35c27be93a81ac86d03960bbd0c29797c21e00cb0f7e99a4f25b2d40cff81cd3"
+  }
+}

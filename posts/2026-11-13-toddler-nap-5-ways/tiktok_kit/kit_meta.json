@@ -1,0 +1,22 @@
+{
+  "post": "2026-11-13-toddler-nap-5-ways",
+  "slot": "Friday, Nov 13, 2026 at 9:00 AM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "74234e98afe7498f",
+  "sounds_found": false,
+  "files": {
+    "01.jpg": "156b68cddd8fa599196fa25fbb0bfc600a0cfd3e242a0d8e2d4d4651f7ab11bc",
+    "02.jpg": "5634fc42ecce1cf20f70df60647435e969aeebb0eff2eb0dcfafd12229075168",
+    "03.jpg": "8ac0d9dd325edfe434362f3880e83c067bcff47c8398421d151dc89bdfd299b3",
+    "04.jpg": "c0d5efcf6f064d5008e885997bd4b73012d31d22b27651991abde825aed86ae7",
+    "05.jpg": "5cbf6926a2b61127b2c6a2f7eecc6663807435971d98537555f2d1e7ae20a8a1",
+    "06.jpg": "c6df967590d526e93010869ecc7249869f36724ec2de5d6e530bbc6fd3adfed3",
+    "07.jpg": "13b68fdc1aebc413ff19f36be786cab50f5e3a4676e721c0fa6c317a81ad5e8b",
+    "README.md": "f36b2dab2ab283f52f70edae71e422fd9e8210c58d58d50772a907cc973090b0",
+    "caption.txt": "333158e1bd889d08f3d3832a06741bdfc704cb45c82ca4b7a0bbd49ddb3e2011",
+    "cover.jpg": "156b68cddd8fa599196fa25fbb0bfc600a0cfd3e242a0d8e2d4d4651f7ab11bc",
+    "index.html": "a54a104d7b3cbde7e2ef491ff356d6dc0948a9821cd9abfff5e99ce4f1dcf0e4",
+    "slides.zip": "f2d0cb64101816496ef4a9284f0f6dbebc654f541d39117bf2bf27f199a497b6"
+  }
+}

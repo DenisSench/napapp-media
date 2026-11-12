@@ -1,0 +1,31 @@
+{
+  "post": "2026-11-13-drowsy-but-awake-5-ways",
+  "slot": "Friday, Nov 13, 2026 at 1:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "74234e98afe7498f",
+  "sounds_found": false,
+  "files": {
+    "01.jpg": "7102f1ea6ed4272a2623707f250a1daa2009a771e1ff1f008f4d675b4509c13d",
+    "02.jpg": "72fd327fed934934ca40488ca46500e0a062d032d5b30c2d503f3399015b6b76",
+    "03.jpg": "fca8fc37e7caff9c5de1a4e6d35541c8d753d3408abd293906ba0f5909de58a6",
+    "04.jpg": "6b33e9c84c46b57d149026c0d5e557abebcd528ee8fa5d0d23e444c35911e382",
+    "05.jpg": "20f8a0cc4adb5196ae21c7f01bde3b8069431c36ec348f0e6a72e17aa3ad967b",
+    "06.jpg": "d7c6bb9d7bd5992e71bd756f15ee8687239a7de219d40d4441cba9f599f2e93a",
+    "07.jpg": "09b128b54f69fd352fa770300fe16210ea3bf5835ccf66e3d0b345476f8e3761",
+    "README.md": "8afaf3eaee9c38b74bec749f7664551966f52c19007573ecf2da2c5703fb67ed",
+    "caption.txt": "5816353d2ced008dc00b27acb132164ca62d2e960c98711666091a7aa5fadc0d",
+    "cover.jpg": "7102f1ea6ed4272a2623707f250a1daa2009a771e1ff1f008f4d675b4509c13d",
+    "index.html": "4a60a1f8764c245fac5518ce58c9257d52c2fddf99c448587d8b3aec163b172c",
+    "slides.zip": "24e278ff60e434203ee3d53ed02dafb261a321c35ee741bd08a3d5e4af44ef24"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}

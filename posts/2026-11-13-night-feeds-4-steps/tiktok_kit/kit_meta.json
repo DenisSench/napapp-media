@@ -1,0 +1,31 @@
+{
+  "post": "2026-11-13-night-feeds-4-steps",
+  "slot": "Friday, Nov 13, 2026 at 7:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "74234e98afe7498f",
+  "sounds_found": false,
+  "files": {
+    "01.jpg": "a893f74651b9462bd143bbafe02fef525d4660be7397203e9a2a7e0f6d9f8318",
+    "02.jpg": "f5f00ddab95bda78bbc2fb2f30d3a2453e635bcfec36be662057df8477241f78",
+    "03.jpg": "360027bb05cebc601fc513811b1c0960a71777833475af2269f00cb34998bb12",
+    "04.jpg": "543865da54be707e3ef4a64469573ea7e6e7f668b827b755d4908a208c0408d9",
+    "05.jpg": "af3ab67a1f8d94654423aa931cfc3845c9dda25e3638dbc288e48bfe62b5781e",
+    "06.jpg": "6a428e6b2122d8c3822c6b5d3dd048f8fe43fde03528fb65304f4fe1adb46e37",
+    "07.jpg": "93a172488022d637866eec13ab3aa630c249ed31a2acc763b1280a7b5f70a31f",
+    "README.md": "6e0a9bf7b16886484ac5c714b7aed5411dc18832d2a77418f196defe876b27f7",
+    "caption.txt": "0883939de26b40e34d78aa69485c77a75133aacafaa2488a51f8ff4008b81b1f",
+    "cover.jpg": "a893f74651b9462bd143bbafe02fef525d4660be7397203e9a2a7e0f6d9f8318",
+    "index.html": "9f3384513dd27e839151b9826e17af4c30a386efac184d91d45c9a55ef5c89a3",
+    "slides.zip": "a92ef02678fd8ec2d97e9058b8e52710f0035769c30f59a22ddd962504318a9a"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}

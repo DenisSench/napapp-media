@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-13-drowsy-but-awake-5-ways",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-lookA.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "74234e98afe7498f",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-13",
+      "time": "13:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-13",
+      "time": "13:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-13",
+      "time": "13:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "eb33ec78dccd96fb0df7dea01120b97cca0790a908fad104853615a88fc412b7",
+    "fb_caption.txt": "5816353d2ced008dc00b27acb132164ca62d2e960c98711666091a7aa5fadc0d",
+    "ig_caption.txt": "c03c72f6627ad70cee0db89943e8f70b00f5cd2ec25426a375764d9dae121d94",
+    "index.html": "fab7e32e7272ffd66384c726c2b173b96cf561db1c755520cfb388a068958e17",
+    "reel-preview-slideshow-lookA-fb.mp4": "d8a4f9e86d65b88214dd1ad9922d155bee704ca6b88fa0e2ddf1d00e878b6654",
+    "reel-preview-slideshow-lookA.mp4": "54f8ab69d230775f7709bdd43c838c64b36845d9f5a4faac3ae01a855fcf91e1",
+    "tiktok_caption.txt": "5816353d2ced008dc00b27acb132164ca62d2e960c98711666091a7aa5fadc0d"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "7102f1ea6ed4272a2623707f250a1daa2009a771e1ff1f008f4d675b4509c13d",
+    "tiktok_kit/02.jpg": "72fd327fed934934ca40488ca46500e0a062d032d5b30c2d503f3399015b6b76",
+    "tiktok_kit/03.jpg": "fca8fc37e7caff9c5de1a4e6d35541c8d753d3408abd293906ba0f5909de58a6",
+    "tiktok_kit/04.jpg": "6b33e9c84c46b57d149026c0d5e557abebcd528ee8fa5d0d23e444c35911e382",
+    "tiktok_kit/05.jpg": "20f8a0cc4adb5196ae21c7f01bde3b8069431c36ec348f0e6a72e17aa3ad967b",
+    "tiktok_kit/06.jpg": "d7c6bb9d7bd5992e71bd756f15ee8687239a7de219d40d4441cba9f599f2e93a",
+    "tiktok_kit/07.jpg": "09b128b54f69fd352fa770300fe16210ea3bf5835ccf66e3d0b345476f8e3761",
+    "tiktok_kit/cover.jpg": "7102f1ea6ed4272a2623707f250a1daa2009a771e1ff1f008f4d675b4509c13d",
+    "tiktok_kit/slides.zip": "24e278ff60e434203ee3d53ed02dafb261a321c35ee741bd08a3d5e4af44ef24"
+  }
+}

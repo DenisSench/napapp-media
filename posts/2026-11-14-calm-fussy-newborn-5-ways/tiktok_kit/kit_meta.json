@@ -1,0 +1,22 @@
+{
+  "post": "2026-11-14-calm-fussy-newborn-5-ways",
+  "slot": "Saturday, Nov 14, 2026 at 7:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "74234e98afe7498f",
+  "sounds_found": false,
+  "files": {
+    "01.jpg": "f59120d5223e5d7904a06dc26dbc8ce9c7e0d92f8f150eb9851135b7e657d7aa",
+    "02.jpg": "8b01072ca5e02d6aedfa60a0ae7d33109c52ffd747eee2398d9ca2506988f3b4",
+    "03.jpg": "dee5b9bdd6dbb6695227e0c735a44a7180b5b0113ca001d5c6afcf5e9915815c",
+    "04.jpg": "028401e1542b7d569ed701220c799efa2c50f548a5d7bcea97a9584916d09ac6",
+    "05.jpg": "4259abd535672a5f60d9d9b07fb76cad814b45424d7a4921c6040ac6ccc8fb72",
+    "06.jpg": "e599c34e1f32c671f5db33fa3bc5c949a0065338b19c4e76a5827c79ed8556ba",
+    "07.jpg": "9568fae62f150aa1da5adf7901e833ca105c2e53cf9b9951b7b9c0183093a95d",
+    "README.md": "c42ae6352fc5c8cbb49b45bac31a64c103599f70c4998d64077adb3d7c5e56cf",
+    "caption.txt": "69dab5aeb32fdb071dc8358fe02b06ebfd60fb5c294b8adbebd381b231afe61f",
+    "cover.jpg": "f59120d5223e5d7904a06dc26dbc8ce9c7e0d92f8f150eb9851135b7e657d7aa",
+    "index.html": "c76e5b6db204d38bace6dfe558ac4c89bfc888cd470e481be121481ba249b374",
+    "slides.zip": "35c27be93a81ac86d03960bbd0c29797c21e00cb0f7e99a4f25b2d40cff81cd3"
+  }
+}
