@@ -488,12 +488,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:week-wake-window-recap-ig-fb@napapp.io
-DTSTAMP:20261111T001029Z
-SEQUENCE:4
+DTSTAMP:20261112T021832Z
+SEQUENCE:5
 DTSTART;TZID=America/Toronto:20261111T090000
 DTEND;TZID=America/Toronto:20261111T091500
-SUMMARY:Post: Week wake window recap [IG/FB]
-DESCRIPTION:• Instagram: hand-post the slideshow Reel (Option B)\n• Fac
+SUMMARY:✅ Posted: Week wake window recap [IG/FB]
+DESCRIPTION:✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Fac
  ebook: hand-post the slideshow Reel\n\nApproval: Approved (one approval fo
  r all platforms)\nPlatforms on different days: TikTok 2026-11-01 19:00\, I
  G 2026-11-11 09:00\, FB 2026-11-11 09:00\nKit: https://media.napapp.io/pos
@@ -504,24 +504,24 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Week wake window recap [IG/FB] in 30 min
+DESCRIPTION:✅ Posted: Week wake window recap [IG/FB] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Week wake window recap [IG/FB] in 5 min
+DESCRIPTION:✅ Posted: Week wake window recap [IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:newborn-sleep-log-receipt-tt-ig-fb@napapp.io
-DTSTAMP:20261111T142252Z
-SEQUENCE:4
+DTSTAMP:20261112T021832Z
+SEQUENCE:5
 DTSTART;TZID=America/Toronto:20261111T190000
 DTEND;TZID=America/Toronto:20261111T191500
-SUMMARY:Post: Newborn sleep log receipt [TT/IG/FB]
-DESCRIPTION:• TikTok: post the video by hand from the kit\n• Instagram:
-  post the Reel by hand\n• Facebook: post the Reel by hand\n\nApproval: A
+SUMMARY:✅ Posted: Newborn sleep log receipt [TT/IG/FB]
+DESCRIPTION:✅ TikTok: post the video by hand from the kit\n✅ Instagram:
+  post the Reel by hand\n✅ Facebook: post the Reel by hand\n\nApproval: A
  pproved (one approval for all platforms)\nKit: https://media.napapp.io/pos
  ts/newborn-sleep-log-receipt/kit/\nDashboard: https://media.napapp.io/cal-
  lvt4wit7/
@@ -530,12 +530,12 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Newborn sleep log receipt [TT/IG/FB] in 30 min
+DESCRIPTION:✅ Posted: Newborn sleep log receipt [TT/IG/FB] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Newborn sleep log receipt [TT/IG/FB] in 5 min
+DESCRIPTION:✅ Posted: Newborn sleep log receipt [TT/IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
