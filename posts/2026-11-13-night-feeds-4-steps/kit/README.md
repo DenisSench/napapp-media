@@ -5,6 +5,31 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
+## YouTube Shorts · Fri Nov 13, 7:00 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+```
+Night feeds: 4 steps to keep them sleepy
+```
+
+Description:
+
+```
+Night feeds, minus the full wake-up 🌙🍼 The NHS suggests keeping night feeds calm and boring: lights down low, voice quiet, change the diaper only if needed, and put baby back down once they're fed and changed. That's how babies learn night-time is for sleeping. The AAP adds: try not to stimulate or wake babies when you feed or change them at night. Back down on their back, on a firm, flat surface, in an empty crib. Napapp logs sleep and wake times in one tap. App link on the channel.
+
+Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
+
+This video includes AI-generated content.
+
+#Shorts #nightfeeds #newbornlife #babysleep
+```
+
 ## TikTok · Fri Nov 13, 7:00 PM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
@@ -63,31 +88,6 @@ Night feeds, minus the full wake-up 🌙🍼 The NHS suggests keeping night feed
 Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #nightfeeds #newbornlife #babysleep #napapp
-```
-
-## YouTube Shorts · Fri Nov 13, 7:00 PM ET · Hand-post
-
-upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
-
-1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
-
-Title:
-
-```
-Night feeds: 4 steps to keep them sleepy
-```
-
-Description:
-
-```
-Night feeds, minus the full wake-up 🌙🍼 The NHS suggests keeping night feeds calm and boring: lights down low, voice quiet, change the diaper only if needed, and put baby back down once they're fed and changed. That's how babies learn night-time is for sleeping. The AAP adds: try not to stimulate or wake babies when you feed or change them at night. Back down on their back, on a firm, flat surface, in an empty crib. Napapp logs sleep and wake times in one tap. App link on the channel.
-
-Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
-
-This video includes AI-generated content.
-
-#Shorts #nightfeeds #newbornlife #babysleep
 ```
 
 ## Sound
