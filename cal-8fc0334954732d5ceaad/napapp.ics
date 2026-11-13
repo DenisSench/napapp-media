@@ -468,28 +468,30 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:drowsy-but-awake-5-ways-tt-ig-fb@napapp.io
-DTSTAMP:20261113T181332Z
-SEQUENCE:1
+UID:drowsy-but-awake-5-ways-tt-ig-fb-yt@napapp.io
+DTSTAMP:20261113T204526Z
+SEQUENCE:0
 DTSTART;TZID=America/Toronto:20261113T130000
 DTEND;TZID=America/Toronto:20261113T131500
-SUMMARY:✅ Posted: Drowsy but awake 5 ways [TT/IG/FB]
+SUMMARY:✅ Posted: Drowsy but awake 5 ways [TT/IG/FB/YT]
 DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
  sh it\n✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/posts/2026-11-13-drowsy-but-awa
- ke-5-ways/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
+ k: hand-post the slideshow Reel\n✅ YouTube: upload the 9:16 reel as a Sh
+ ort to @getnapapp (hand-post\; paste the title and description from the ki
+ t)\n\nApproval: Approved (one approval for all platforms)\nKit: https://me
+ dia.napapp.io/posts/2026-11-13-drowsy-but-awake-5-ways/kit/\nDashboard: ht
+ tps://media.napapp.io/cal-lvt4wit7/
 URL:https://media.napapp.io/posts/2026-11-13-drowsy-but-awake-5-ways/kit/
 TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Drowsy but awake 5 ways [TT/IG/FB] in 30 min
+DESCRIPTION:✅ Posted: Drowsy but awake 5 ways [TT/IG/FB/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Drowsy but awake 5 ways [TT/IG/FB] in 5 min
+DESCRIPTION:✅ Posted: Drowsy but awake 5 ways [TT/IG/FB/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
