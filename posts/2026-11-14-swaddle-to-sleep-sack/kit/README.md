@@ -1,4 +1,4 @@
-# Kit: 2026-11-14-swaddle-to-sleep-sack (TikTok + Instagram + Facebook)
+# Kit: 2026-11-14-swaddle-to-sleep-sack (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
@@ -63,6 +63,31 @@ Swaddle to sleep sack, step by step 🌯➡️ The AAP says to stop swaddling as
 Sources: AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org); AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org)
 
 #swaddle #sleepsack #babysleep #newparents #napapp
+```
+
+## YouTube Shorts · Sat Nov 14, 9:00 AM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+```
+Starting to roll? 5 tips to ditch swaddling
+```
+
+Description:
+
+```
+Swaddle to sleep sack, step by step 🌯➡️ The AAP says to stop swaddling as soon as your baby shows any signs of trying to roll; some start working on it as early as 2 months. Switch to a wearable blanket or sleep sack that doesn't swaddle, so arms, hips and legs can move freely. Keep the rest of bedtime the same, and skip weighted swaddles and sacks. For every sleep: on their back, on a firm, flat surface, in an empty crib. Napapp logs sleep in one tap. App link on the channel.
+
+Sources: AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org); AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org)
+
+This video includes AI-generated content.
+
+#Shorts #swaddle #sleepsack #babysleep
 ```
 
 ## Sound

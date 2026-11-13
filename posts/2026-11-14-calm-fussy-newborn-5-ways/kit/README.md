@@ -1,4 +1,4 @@
-# Kit: 2026-11-14-calm-fussy-newborn-5-ways (TikTok + Instagram + Facebook)
+# Kit: 2026-11-14-calm-fussy-newborn-5-ways (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
@@ -60,6 +60,28 @@ Fussy at 2 AM? Start here 🌌🎶 The AAP suggests meeting the basics first (hu
 Sources: AAP, "Responding to Your Baby's Cries" (HealthyChildren.org); AAP, "Self-Soothing: Help Your Baby Learn This Life Skill" (HealthyChildren.org); AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #newbornlife #newbornbaby #fussybaby #napapp
+```
+
+## YouTube Shorts · Sat Nov 14, 7:00 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+```
+Fussy newborn at night? 5 ways to calm
+```
+
+Description:
+
+```
+Fussy at 2 AM? Start here 🌌🎶 The AAP suggests meeting the basics first (hungry, wet, too warm or cold?), then trying calming techniques like rocking, gentle patting, soft shushing or white noise, or a safe swaddle if baby isn't trying to roll yet. Their tip: stick with one technique for about 5 minutes before switching, so baby isn't overstimulated. If baby falls asleep in your arms, move them to the crib on their back. If you're overwhelmed, it's OK to lay baby on their back in the crib and step away for a few minutes. Napapp logs every wake and sleep in one tap. App link on the channel.
+
+Sources: AAP, "Responding to Your Baby's Cries" (HealthyChildren.org); AAP, "Self-Soothing: Help Your Baby Learn This Life Skill" (HealthyChildren.org); AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
+
+#Shorts #newbornlife #newbornbaby #fussybaby
 ```
 
 ## Sound
