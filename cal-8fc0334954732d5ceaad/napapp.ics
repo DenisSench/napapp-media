@@ -26,32 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:day-night-mixup-newborns-tt-ig-fb@napapp.io
-DTSTAMP:20261107T021129Z
-SEQUENCE:2
-DTSTART;TZID=America/Toronto:20261105T200000
-DTEND;TZID=America/Toronto:20261105T201500
-SUMMARY:✅ Posted: Day night mixup newborns [TT/IG/FB]
-DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Faceboo
- k: hand-post the carousel\n\nApproval: Approved (one approval for all plat
- forms)\nKit: https://media.napapp.io/posts/2026-11-04-day-night-mixup-newb
- orns/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-04-day-night-mixup-newborns/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Day night mixup newborns [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Day night mixup newborns [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:why-baby-fights-bedtime-tt@napapp.io
 DTSTAMP:20261107T021129Z
 SEQUENCE:0
