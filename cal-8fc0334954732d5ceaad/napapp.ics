@@ -336,13 +336,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pov-night-shift-swap-tt-ig-fb@napapp.io
-DTSTAMP:20261111T001849Z
-SEQUENCE:9
+DTSTAMP:20261113T032835Z
+SEQUENCE:10
 DTSTART;TZID=America/Toronto:20261110T190000
 DTEND;TZID=America/Toronto:20261110T191500
-SUMMARY:Post: Pov night shift swap [TT/IG/FB]
+SUMMARY:✅ Posted: Pov night shift swap [TT/IG/FB]
 DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n✅ Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+ sh it\n✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Faceboo
  k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
  l platforms)\nKit: https://media.napapp.io/posts/2026-11-08-pov-night-shif
  t-swap/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
@@ -351,12 +351,12 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Pov night shift swap [TT/IG/FB] in 30 min
+DESCRIPTION:✅ Posted: Pov night shift swap [TT/IG/FB] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Pov night shift swap [TT/IG/FB] in 5 min
+DESCRIPTION:✅ Posted: Pov night shift swap [TT/IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
@@ -467,13 +467,13 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:pre-bedtime-routine-5-steps-tt-ig-fb@napapp.io
-DTSTAMP:20261112T003721Z
-SEQUENCE:0
+DTSTAMP:20261113T032835Z
+SEQUENCE:1
 DTSTART;TZID=America/Toronto:20261112T190000
 DTEND;TZID=America/Toronto:20261112T191500
-SUMMARY:Post: Pre bedtime routine 5 steps [TT/IG/FB]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
+SUMMARY:✅ Posted: Pre bedtime routine 5 steps [TT/IG/FB]
+DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Faceboo
  k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
  l platforms)\nKit: https://media.napapp.io/posts/2026-11-12-pre-bedtime-ro
  utine-5-steps/kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
@@ -483,12 +483,12 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Pre bedtime routine 5 steps [TT/IG/FB] in 30 min
+DESCRIPTION:✅ Posted: Pre bedtime routine 5 steps [TT/IG/FB] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Pre bedtime routine 5 steps [TT/IG/FB] in 5 min
+DESCRIPTION:✅ Posted: Pre bedtime routine 5 steps [TT/IG/FB] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
