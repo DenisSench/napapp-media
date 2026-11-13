@@ -40,7 +40,7 @@ POV: you two split the night into shifts 🌗🤝 The 2am handover sounds clear�
 #nightshiftparents #newparents #babysleep #napapp
 ```
 
-## Facebook · Tue Nov 10, 7:00 PM ET · Hand-post
+## Facebook · Tue Nov 10, 7:00 PM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

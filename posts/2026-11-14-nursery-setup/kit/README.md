@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Thu Nov 12, 1:00 PM ET · Inbox draft
+## TikTok · Thu Nov 12, 1:00 PM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -23,7 +23,7 @@ Safe-sleep guidance: AAP (HealthyChildren.org).
 #nurseryideas #babysleep #newparents #napapp
 ```
 
-## Instagram · Thu Nov 12, 1:00 PM ET · Hand-post
+## Instagram · Thu Nov 12, 1:00 PM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -42,7 +42,7 @@ Safe-sleep guidance: AAP (HealthyChildren.org).
 #nurseryideas #babysleep #newparents #napapp
 ```
 
-## Facebook · Thu Nov 12, 1:00 PM ET · Hand-post
+## Facebook · Thu Nov 12, 1:00 PM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

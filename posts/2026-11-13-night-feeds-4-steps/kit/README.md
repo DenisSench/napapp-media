@@ -80,7 +80,7 @@ Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (H
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** SCHEDULE (how-to batch 1, approved per Commander Nov 11): Nov 13 19:00 ET. TikTok: carousel. IG/FB: 9:16 slideshow Reel (CC0 bake-in fallback works). Calm picks: Chopin Nocturne No. 2 leads on TikTok for this night-feed how-to; IG is Linger, then Everlong, then Hold On, We're Going Home, with Sunshine (Instrumental) last (trend evidence aging). Denis confirms each sound in the in-app picker (TikTok Commercial Music Library; IG via the audio link, not Meta Business Suite; FB Sound Collection 'Royalty-free' or the CC0 --track). RE-CHECKED Nov 12, 9:05 AM ET (day-ahead confirm for Nov 13): TikTok picks unchanged (all cleared/evergreen); IG Linger #5 and Everlong #6 still Rising, Hold On #13 Rising on CreatorDB week of Nov 11; Sunshine still not on any current chart, keep it last.
+> **Notes for this post:** SCHEDULE (how-to batch 1, approved per Commander Nov 11): Nov 13 19:00 ET. TikTok: carousel. IG/FB: 9:16 slideshow Reel (CC0 bake-in fallback works). Calm picks: Chopin Nocturne No. 2 leads on TikTok for this night-feed how-to; IG is Linger, then Everlong, then Hold On, We're Going Home. Denis confirms each sound in the in-app picker (TikTok Commercial Music Library; IG via the audio link, not Meta Business Suite; FB Sound Collection 'Royalty-free' or the CC0 --track). RE-CHECKED Nov 12, 9:05 AM ET (day-ahead confirm for Nov 13): TikTok picks unchanged (all cleared/evergreen); IG Linger #5 and Everlong #6 still Rising, Hold On #13 Rising on CreatorDB week of Nov 11; Sunshine still not on any current chart, keep it last. SUNSHINE DROPPED Nov 13, 9:10 AM ET: Sunshine (Instrumental) (Twista) removed from IG as expired; no current trend list carries it (SocialPilot edition ended Nov 10; absent from CreatorDB week of Nov 11 and FypSpy Nov 13). IG order now: Linger, then Everlong, then Hold On, We're Going Home; if all are greyed out use ig_backup.
 
 - **Linger** · The Cranberries (primary)
   - link: https://www.instagram.com/reels/audio/192068608180555/
@@ -100,12 +100,6 @@ Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (H
   - how: Best: open https://www.instagram.com/reels/audio/435526946919130/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Hold On, We're Going Home Drake', then pick the result whose artist is exactly 'Drake, Majid Jordan' (not a cover, sped-up version or 'original audio').
   - trend: CreatorDB week of Nov 11, 2026: #13, Rising, Heat 38, 66K+ reels ('relatable skit'); earlier SocialPilot Oct 31 - Nov 10: #7, Rising
   - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
-- **Sunshine (Instrumental)** · Twista (backup)
-  - link: https://www.instagram.com/reels/audio/2920100688130624/
-  - why: No lyrics, so it sits under instructional slides without competing. Last pick: trend evidence aging as of Nov 11
-  - how: Best: open https://www.instagram.com/reels/audio/2920100688130624/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Sunshine (Instrumental) Twista', then pick the result whose artist is exactly 'Twista' (not a cover, sped-up version or 'original audio').
-  - trend: SocialPilot Oct 31 - Nov 10, 2026: #12, Rising, 202K reels (quick-tip Reels). That edition has ended with no replacement, and Sunshine is NOT in CreatorDB's week-of-Nov 11 list (14 sounds, 7 reports cross-checked), so trend evidence is aging (re-checked Nov 11)
-  - confidence: LOW-MEDIUM: trend evidence aging (no current list carries it as of Nov 11); kept as the no-lyrics option only. Availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker
 
 **Instagram backup (royalty-free):**
 
@@ -132,7 +126,7 @@ Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (H
   - licence: CC0 1.0 (reel/music/manifest.json, sha256-checked)
   - confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
 
-Picks as of Nov 12, 2026, 9:05 AM ET
+Picks as of Nov 13, 2026, 9:10 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
