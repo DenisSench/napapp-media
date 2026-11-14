@@ -15,36 +15,38 @@
     "tiktok": {
       "date": "2026-11-13",
       "time": "09:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "inbox",
-      "url": ""
+      "url": "https://www.tiktok.com/@nap_app/photo/7707677211708493077"
     },
     "ig": {
       "date": "2026-11-13",
       "time": "09:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.instagram.com/reel/Dfr8ItngXIH/"
     },
     "fb": {
       "date": "2026-11-13",
       "time": "09:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     }
   },
   "files": {
-    "README.md": "2dc073e52852a884d57c062cd342c5ef7a3af4df64ed36186846af7db94a6786",
+    "README.md": "d38597e31c3df843ee1d05b0682015d4a8bcd9fd69a9f9adf4649e8225740d01",
     "fb_caption.txt": "333158e1bd889d08f3d3832a06741bdfc704cb45c82ca4b7a0bbd49ddb3e2011",
     "ig_caption.txt": "7c03e39fbcc234074c4a4fd59b762ca8b03330285afb9615957c213887582140",
-    "index.html": "85990aa546394747add91e5677369d29bd9d756c7ad111bd71b31c8330c1cd66",
+    "index.html": "8ea6e71cbf9e300251529231b4a78253518726c4a81dcdd75142427bbf070267",
     "reel-preview-slideshow-plain-fb.mp4": "dce7021030084f8ea0ec3d41234236cb95d4922eee5406b46dec2ed3b93910d7",
     "reel-preview-slideshow-plain.mp4": "521df49289030a3a950c25a963c72c42732d80afd45c7937a601d939e478441a",
-    "tiktok_caption.txt": "333158e1bd889d08f3d3832a06741bdfc704cb45c82ca4b7a0bbd49ddb3e2011"
+    "tiktok_caption.txt": "333158e1bd889d08f3d3832a06741bdfc704cb45c82ca4b7a0bbd49ddb3e2011",
+    "youtube_description.txt": "c8dfb74f40d0fe37f26fdb111c190e107f5d7b80969aac8b36ed7adf2fc55801",
+    "youtube_title.txt": "65d91593f59a50298a617be92781d86eacc1e7d7453fdb423e0f191bccb1a564"
   },
   "refs": {
     "tiktok_kit/01.jpg": "156b68cddd8fa599196fa25fbb0bfc600a0cfd3e242a0d8e2d4d4651f7ab11bc",

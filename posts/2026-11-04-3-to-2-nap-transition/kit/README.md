@@ -1,9 +1,29 @@
-# Kit: 2026-11-04-3-to-2-nap-transition (TikTok + Instagram + Facebook)
+# Kit: 2026-11-04-3-to-2-nap-transition (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../reel_kit/reel.mp4
+
+## YouTube Shorts · Wed Nov 4, 1:19 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+3 naps getting messy? Common signs of the move to 2.
+A third nap that turns into a battle, shorter naps, and a bedtime that keeps creeping later are signs many parents notice. Wake windows typically get longer as babies grow, from about 2-4 hours at 5-7 months to 2½-4½ hours at 7-10 months (Cleveland Clinic's typical ranges, not targets), so fitting in three naps can get harder. . Save this for later 🤍 Log naps in one tap to see the shift. Napapp,
+Source: Cleveland Clinic. . Questions? Check with your pediatrician.
+
+#Shorts #napschedule #babysleep #wakewindows
+```
 
 ## TikTok · Wed Nov 4, 1:21 PM ET · Hand-post · POSTED
 

@@ -1,9 +1,30 @@
-# Kit: 2026-11-15-back-to-work-tired (TikTok + Instagram + Facebook)
+# Kit: 2026-11-15-back-to-work-tired (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Thu Nov 12, 9:00 AM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+Camera off, brain buffering, and then: "When did she last nap?" 💻🫠 Napapp's free family sharing puts the sleep times everyone logs in one shared log, whether you're home or back at work.
+
+This video includes AI-generated content.
+
+#Shorts #workingparents #backtowork #babysleep
+```
 
 ## TikTok · Thu Nov 12, 9:00 AM ET · Inbox draft · POSTED
 

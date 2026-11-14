@@ -1,9 +1,30 @@
-# Kit: 2026-11-03-pov-daycare-week-naps (TikTok + Instagram + Facebook)
+# Kit: 2026-11-03-pov-daycare-week-naps (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Wed Nov 4, 9:47 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+```
+POV: daycare pickup
+```
+
+Description:
+
+```
+Daycare nap reports vs home naps: a mystery series 😅 Every baby adjusts to daycare differently, and that's okay. Keeping pickup notes and home naps in one place helps. Share the log with your partner, free: family sharing doesn't need a paid plan. Napapp,
+Just for laughs, . Questions about your baby's sleep? Check with your pediatrician.
+
+#Shorts #daycare #workingmom #momlife
+```
 
 ## TikTok · Wed Nov 4, 9:42 PM ET · Inbox draft · POSTED
 

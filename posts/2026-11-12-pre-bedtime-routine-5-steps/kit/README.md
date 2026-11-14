@@ -1,9 +1,34 @@
-# Kit: 2026-11-12-pre-bedtime-routine-5-steps (TikTok + Instagram + Facebook)
+# Kit: 2026-11-12-pre-bedtime-routine-5-steps (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Thu Nov 12, 7:00 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+```
+Pre-bedtime routine: 5 steps that work
+```
+
+Description:
+
+```
+Same steps, same order, every night 🛁📖 A short, calm routine gives babies the cue that sleep is coming: a warm bath, a fresh diaper and pajamas, dim lights and one quiet book, then a song, a cuddle and into the crib. From about 4 months, the AAP suggests putting babies down drowsy but still awake. For every sleep: on their back, on a firm, flat surface, in an empty crib. Napapp logs sleep in one tap. App link on the channel.
+
+Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
+
+This video includes AI-generated content.
+
+#Shorts #bedtimeroutine #babysleep #newparents
+```
 
 ## TikTok · Thu Nov 12, 7:00 PM ET · Inbox draft · POSTED
 

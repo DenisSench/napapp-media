@@ -15,36 +15,46 @@
     "tiktok": {
       "date": "2026-11-13",
       "time": "13:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "inbox",
-      "url": ""
+      "url": "https://www.tiktok.com/@nap_app/photo/7707715870583246100"
     },
     "ig": {
       "date": "2026-11-13",
       "time": "13:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.instagram.com/reel/DfsNCS4AWpk/"
     },
     "fb": {
       "date": "2026-11-13",
       "time": "13:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
+    },
+    "yt": {
+      "date": "2026-11-13",
+      "time": "13:00",
+      "status": "Posted",
+      "posted": true,
+      "mode": "hand",
+      "url": "https://www.youtube.com/shorts/5glmPndDi0Q"
     }
   },
   "files": {
-    "README.md": "4facff4ff2c03c3868e0ac536d2fa1400948e0105fd67292fd4e1740c74e2ac4",
+    "README.md": "39c83610e04c35c78a07e33196456ed36cfe41ac0d1dbb85afce1aa25140e516",
     "fb_caption.txt": "5816353d2ced008dc00b27acb132164ca62d2e960c98711666091a7aa5fadc0d",
     "ig_caption.txt": "c03c72f6627ad70cee0db89943e8f70b00f5cd2ec25426a375764d9dae121d94",
-    "index.html": "75327d8a95d41231b2de62b0a2e94829ba3de63c06848205c82c2d0679b03d7b",
+    "index.html": "c674ae89a4513b1b17a0ed1825e156a65bb5539b710638081a8404e108ad3614",
     "reel-preview-slideshow-lookA-fb.mp4": "d8a4f9e86d65b88214dd1ad9922d155bee704ca6b88fa0e2ddf1d00e878b6654",
     "reel-preview-slideshow-lookA.mp4": "54f8ab69d230775f7709bdd43c838c64b36845d9f5a4faac3ae01a855fcf91e1",
-    "tiktok_caption.txt": "5816353d2ced008dc00b27acb132164ca62d2e960c98711666091a7aa5fadc0d"
+    "tiktok_caption.txt": "5816353d2ced008dc00b27acb132164ca62d2e960c98711666091a7aa5fadc0d",
+    "youtube_description.txt": "62101cc95fdf807aeb9bff8cc8dd3054f2d006ec979a92111bd57cc1a40b3f93",
+    "youtube_title.txt": "f0d3f85683976cb6662b22b8a95d41e58b0a5f1fb99d12ad50fab5fbb3dc8747"
   },
   "refs": {
     "tiktok_kit/01.jpg": "7102f1ea6ed4272a2623707f250a1daa2009a771e1ff1f008f4d675b4509c13d",

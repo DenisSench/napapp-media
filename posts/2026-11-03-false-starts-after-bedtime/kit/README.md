@@ -1,9 +1,30 @@
-# Kit: 2026-11-03-false-starts-after-bedtime (TikTok + Instagram + Facebook)
+# Kit: 2026-11-03-false-starts-after-bedtime (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../reel_kit/reel.mp4
+
+## YouTube Shorts · Tue Nov 3, 8:26 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+Up 30-45 min after bedtime? Is it a false start?
+That wake soon after going down is common, and many parents call it a false start. A long last wake window, a busy day or an exciting wind-down can all play a part. These are possibilities, not a diagnosis, and . Save this for tonight 🤍 Log bedtimes and wake-ups in one tap to see your own pattern. Napapp,
+
+Sources: Cleveland Clinic, NHS. . If you're worried, check with your pediatrician.
+
+#Shorts #babysleep #bedtime #newparents
+```
 
 ## TikTok · Tue Nov 3, 8:58 PM ET · Hand-post · POSTED
 

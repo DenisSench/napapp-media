@@ -1,9 +1,29 @@
-# Kit: 2026-11-02-sleepy-cues-5-signs (TikTok + Instagram + Facebook)
+# Kit: 2026-11-02-sleepy-cues-5-signs (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Tue Nov 3, 4:00 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+Yawning or meltdown? Early vs late sleepy cues by age.
+Early cues are quieter: yawning, staring off and frowning in newborns; eye rubbing, ear pulling and losing interest in play in older babies; yawning and slowing down in toddlers. Late cues get louder: frantic crying, clinginess, or a toddler who suddenly seems wired. Once little ones are overtired, settling can get harder, so many parents watch for the early ones. . Save this cheat sheet 🤍 Log naps in one tap to see when cues tend to show up. Napapp,
+Source: Cleveland Clinic. . Check with your pediatrician about your baby's sleep.
+
+#Shorts #babysleep #sleepycues #newmom
+```
 
 ## TikTok · Tue Nov 3, 2:17 PM ET · Inbox draft · POSTED
 

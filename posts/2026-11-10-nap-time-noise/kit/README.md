@@ -1,9 +1,32 @@
-# Kit: 2026-11-10-nap-time-noise (TikTok + Instagram + Facebook)
+# Kit: 2026-11-10-nap-time-noise (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Sat Nov 7, 8:00 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+```
+(cover) Headline: POV: the nap ended at the doorbell
+```
+
+Description:
+
+```
+The doorbell, the dog and the delivery driver: the nap time trio. Which one gets you every time? , so check with your pediatrician if something worries you.
+
+This video includes AI-generated content.
+
+#Shorts #babysleep #napsoftiktok #momlife
+```
 
 ## TikTok · Sat Nov 7, 8:00 PM ET · Inbox draft · POSTED
 

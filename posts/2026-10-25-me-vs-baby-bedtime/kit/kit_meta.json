@@ -26,7 +26,7 @@
       "status": "Posted",
       "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.instagram.com/reel/DfgCrC-gEXr/"
     },
     "fb": {
       "date": "2026-11-08",
@@ -38,11 +38,13 @@
     }
   },
   "files": {
-    "README.md": "f42891509b251f1af5c9884f0ff371cdaa29c90390ff46995ab132c943ecccae",
+    "README.md": "c92c9cbfe1e660a1b2b8fe5c805c788c5a357e881cdc205741fab946ab25474a",
     "fb_caption.txt": "757d9bd3c70e6c81c0a2628c71de91624393fade205d56d5c448b1496fd76816",
     "ig_caption.txt": "7f4845abffcf75a8ca672d1428c9c086930adff450d291cd9428c48465a05d47",
-    "index.html": "5c947df9f9c78033732a8505adc238619793670b61fa2eb35e9745136834ae62",
-    "tiktok_caption.txt": "3763d236d806ec258f988378d33665734acce14997ae92e1d41392f2206c1365"
+    "index.html": "25619cd7a5fd56aedd6fc8bcfed8b4f2005ec3a13919ff4d80622af308ee4d48",
+    "tiktok_caption.txt": "3763d236d806ec258f988378d33665734acce14997ae92e1d41392f2206c1365",
+    "youtube_description.txt": "f03de6dc0e465f80cd144ac1c7bf21e063fe7bfb89e6b81bcb95d08f6067a0f9",
+    "youtube_title.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   "refs": {
     "reel_kit/reel.mp4": "c34761179e93d2328e87e856fe32bc83420b9df4ea43a432b554fa1b3a73162c",

@@ -1,9 +1,28 @@
-# Kit: newborn-sleep-log-receipt (TikTok + Instagram + Facebook)
+# Kit: newborn-sleep-log-receipt (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../reel_kit/reel.mp4
+
+## YouTube Shorts · Wed Nov 11, 7:00 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+This video includes AI-generated content.
+
+#Shorts
+```
 
 ## TikTok · Wed Nov 11, 7:00 PM ET · Hand-post · POSTED
 

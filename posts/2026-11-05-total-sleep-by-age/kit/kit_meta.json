@@ -38,11 +38,13 @@
     }
   },
   "files": {
-    "README.md": "604cbd42718c2903f5f4f9966ece3338d57311719b4b5ea2b1012b3f885968ea",
+    "README.md": "337a5dabf7e71e09d3131d1721ec35f89436834b55345a52c2dd9f31ad714a91",
     "fb_caption.txt": "988e470a34a0fafbe7dfd7e0906049803a89d916a457ffee1e42b061313f2667",
     "ig_caption.txt": "c930bce44a35c859ed31066ddb83ca2811b36c1f53532bd3900df8718675dfe4",
-    "index.html": "9a9681a5b7d2b4316c0d468aff8b2d2eb536ff07f9b93250eda1d11572566ade",
-    "tiktok_caption.txt": "69ca3c5a40d656ca88a260d2171035f05052fca376f74db7156b92272af723c2"
+    "index.html": "09e04c9649397414af7bd26d9b9de6f5b0738e74f0f867131972ccf6d898e963",
+    "tiktok_caption.txt": "69ca3c5a40d656ca88a260d2171035f05052fca376f74db7156b92272af723c2",
+    "youtube_description.txt": "de1a1ee49eedd6ca2ff7282cfc4936ab390eee7f6aff20e4c7973fbecfd64c8c",
+    "youtube_title.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   "refs": {
     "reel_kit/reel.mp4": "03ca3ad0096edf1ff92d248f892045a360a54fda1a23cb2734bca115a495881a"

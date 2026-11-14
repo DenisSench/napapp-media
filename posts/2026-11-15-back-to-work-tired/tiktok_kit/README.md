@@ -1,6 +1,6 @@
 # TikTok manual kit: 2026-11-15-back-to-work-tired
 
-**AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook).**
+**AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook and YouTube).**
 
 Slot: Thursday, Nov 12, 2026 at 9:00 AM ET
 Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg, 08.jpg, 09.jpg (+ cover.jpg), from Jessy's package/.

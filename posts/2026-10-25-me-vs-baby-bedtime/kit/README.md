@@ -1,9 +1,31 @@
-# Kit: 2026-10-25-me-vs-baby-bedtime (TikTok + Instagram + Facebook)
+# Kit: 2026-10-25-me-vs-baby-bedtime (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (published) (one approval for all platforms)
 
 
 Asset: ../reel_kit/reel.mp4
+
+## YouTube Shorts · Sun Oct 25, 9:08 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+Bedtime plans vs bedtime reality 😅 , and so is every night. Follow for more tired-parent truths 🤍 If your 7pm plan is really a 9pm reality, track it in one tap. Napapp,
+Just for laughs, . Questions about your baby's sleep? Check with your pediatrician.
+
+This video includes AI-generated content.
+
+#Shorts #momlife #parentinghumor #babysleep
+```
 
 ## TikTok · Sun Oct 25, 9:08 PM ET · Inbox draft · POSTED
 

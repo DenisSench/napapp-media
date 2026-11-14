@@ -38,11 +38,13 @@
     }
   },
   "files": {
-    "README.md": "b3c9fb21210eb16a89efcd6b6306a94127f4d1530b265da63e682deda0a239a5",
+    "README.md": "1c0e47e6b46a64f743ef8bf41f408f01f011e924707337fc1ad4a2bd778d1f7b",
     "fb_caption.txt": "bfd87bf845b698b319f2117c11625eb018bbe3b0ec649e80f1682086e51184cc",
     "ig_caption.txt": "ab80f2e4258ae8edbde16edaad4899b562968585902b4b0bd9c680f6915c889f",
-    "index.html": "c088d571a33f4491882ce250180231cac91e3dbde08afb1465fe8bdbe4eeaf12",
-    "tiktok_caption.txt": "bfd87bf845b698b319f2117c11625eb018bbe3b0ec649e80f1682086e51184cc"
+    "index.html": "dd384a4ef6672dd3319edce99153e02791fec73b4eacaa37fdca8738b276ea33",
+    "tiktok_caption.txt": "bfd87bf845b698b319f2117c11625eb018bbe3b0ec649e80f1682086e51184cc",
+    "youtube_description.txt": "be09be77c23c4cb3ed4aced35519605473b1ae640935cf659ca5c75b88096c00",
+    "youtube_title.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   "refs": {
     "reel_kit/reel.mp4": "38bfae2a096525454828af3662c169de65ddb2182d4f611d45c08cd7482609fe",

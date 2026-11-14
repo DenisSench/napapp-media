@@ -1,9 +1,27 @@
-# Kit: newborn-evening-shift (TikTok + Instagram + Facebook)
+# Kit: newborn-evening-shift (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../reel_kit/reel.mp4
+
+## YouTube Shorts · Sat Nov 7, 5:00 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+Dinner was going so well. Who else gets the evening shift? , so check with your pediatrician if the crying worries you.
+
+#Shorts #newbornlife #newmom #babysleeptips
+```
 
 ## TikTok · Sat Nov 7, 5:00 PM ET · Hand-post · POSTED
 

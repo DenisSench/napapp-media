@@ -1,6 +1,6 @@
 # Reel kit: 2026-10-31-2-to-1-nap-transition
 
-**AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook).**
+**AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook and YouTube).**
 
 `reel.mp4`: 20.6 s, 15.4 MB, 1080x1920, silent; slides from `../../../../tmp/ss/2-to-1-nap-transition-ig/slides/jpg-reel`.
 
@@ -20,7 +20,7 @@
 
 ## Notes
 
-- AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook).
+- AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook and YouTube).
 - `reel.mp4` is Lee's `reel-lookA-ig.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
 - Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from package/UPLOAD.md.

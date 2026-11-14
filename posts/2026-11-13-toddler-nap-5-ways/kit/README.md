@@ -1,11 +1,33 @@
-# Kit: 2026-11-13-toddler-nap-5-ways (TikTok + Instagram + Facebook)
+# Kit: 2026-11-13-toddler-nap-5-ways (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Fri Nov 13, 9:00 AM ET · Inbox draft
+## YouTube Shorts · Fri Nov 13, 9:00 AM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+```
+5 ways to get a toddler to nap
+```
+
+Description:
+
+```
+Toddler fighting the nap? Try these ☀️🧸 Keep the nap at the same time every day, plan an active morning (outside if you can), and use a mini version of your bedtime routine, like one book and dim lights. NHS guidance suggests finishing naps before 3 PM so bedtime still comes easy. If they won't sleep, Cleveland Clinic suggests turning naptime into quiet time with books or a puzzle: rest still counts. Napapp logs naps in one tap. App link on the channel.
+
+Sources: NHS Bedfordshire & Luton Children's Health, "Sleep routines for toddlers and children"; AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org); Cleveland Clinic, "When Do Kids Stop Napping?"
+
+#Shorts #toddlernaps #toddlerlife #napschedule
+```
+
+## TikTok · Fri Nov 13, 9:00 AM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -23,7 +45,7 @@ Sources: NHS Bedfordshire & Luton Children's Health, "Sleep routines for toddler
 #toddlernaps #toddlerlife #napschedule #napapp
 ```
 
-## Instagram · Fri Nov 13, 9:00 AM ET · Hand-post
+## Instagram · Fri Nov 13, 9:00 AM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -44,7 +66,7 @@ Sources: NHS Bedfordshire & Luton Children's Health, "Sleep routines for toddler
 #toddlernaps #toddlerlife #napschedule #napapp
 ```
 
-## Facebook · Fri Nov 13, 9:00 AM ET · Hand-post
+## Facebook · Fri Nov 13, 9:00 AM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

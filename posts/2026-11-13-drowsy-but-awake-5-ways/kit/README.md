@@ -1,11 +1,36 @@
-# Kit: 2026-11-13-drowsy-but-awake-5-ways (TikTok + Instagram + Facebook)
+# Kit: 2026-11-13-drowsy-but-awake-5-ways (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## TikTok · Fri Nov 13, 1:00 PM ET · Inbox draft
+## YouTube Shorts · Fri Nov 13, 1:00 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+```
+Drowsy but awake: 5 ways to practise it
+```
+
+Description:
+
+```
+Drowsy but awake, made doable 🥱🌗 The AAP suggests that from about 4 months, babies go down drowsy but not yet asleep, so they get to practise falling asleep in their own bed. Watch for sleepy cues like yawns and eye rubs (Cleveland Clinic), run the same short routine, and lay them down on their back with eyes still open. If they fuss, the AAP says it's OK to pause a moment before stepping in; of course you can still feed, change or comfort them when needed. Empty crib, firm flat surface. Napapp logs sleep in one tap. App link on the channel.
+
+Sources: AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); Cleveland Clinic, "Wake Windows by Age"; AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
+
+This video includes AI-generated content.
+
+#Shorts #drowsybutawake #babysleep #babysleeptips
+```
+
+## TikTok · Fri Nov 13, 1:00 PM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -24,7 +49,7 @@ Sources: AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); Cleveland Clin
 #drowsybutawake #babysleep #babysleeptips #napapp
 ```
 
-## Instagram · Fri Nov 13, 1:00 PM ET · Hand-post
+## Instagram · Fri Nov 13, 1:00 PM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -46,7 +71,7 @@ Sources: AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); Cleveland Clin
 #drowsybutawake #babysleep #babysleeptips #napapp
 ```
 
-## Facebook · Fri Nov 13, 1:00 PM ET · Hand-post
+## Facebook · Fri Nov 13, 1:00 PM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

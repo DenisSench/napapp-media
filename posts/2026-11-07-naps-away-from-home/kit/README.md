@@ -1,9 +1,32 @@
-# Kit: 2026-11-07-naps-away-from-home (TikTok + Instagram + Facebook)
+# Kit: 2026-11-07-naps-away-from-home (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Mon Nov 9, 2:34 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+POV: Grandma's lap beats every nap plan 👵🫶 One cuddle, two gentle rocks, and she's out. Sweet… until bedtime, when nobody remembers when she last napped. Napapp keeps every nap in one History, so the answer is a glance away 🧸
+Contact naps are lovely when an adult is awake; for sleep, baby goes on their back in a bare crib (AAP). . Questions? Check with your pediatrician.
+Source: AAP safe sleep guidance (healthychildren.org)
+
+This video includes AI-generated content.
+
+#Shorts #babysleep #grandparents #contactnaps
+```
 
 ## TikTok · Mon Nov 9, 2:34 PM ET · Inbox draft · POSTED
 

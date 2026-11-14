@@ -1,9 +1,28 @@
-# Kit: 2026-11-04-day-night-mixup-newborns (TikTok + Instagram + Facebook)
+# Kit: 2026-11-04-day-night-mixup-newborns (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Thu Nov 5, 8:00 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+Up all night, sleepy all day is so common with newborns, because their body clock hasn't developed yet. Cleveland Clinic says the difference between night and day sleep often starts showing around 3-6 months, and . The NHS suggests keeping days light and normal and nights dim and quiet to help. Save this for later 🤍 Log sleep in one tap to see the shift. Napapp,
+. Check with your pediatrician about your newborn's sleep.
+
+#Shorts #newbornsleep #newmom #babysleep
+```
 
 ## TikTok · Thu Nov 5, 8:00 PM ET · Inbox draft · POSTED
 

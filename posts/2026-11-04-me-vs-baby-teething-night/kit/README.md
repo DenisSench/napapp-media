@@ -1,9 +1,28 @@
-# Kit: 2026-11-04-me-vs-baby-teething-night (TikTok + Instagram + Facebook)
+# Kit: 2026-11-04-me-vs-baby-teething-night (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../reel_kit/reel.mp4
+
+## YouTube Shorts · Thu Nov 5, 12:59 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+2am detective mode: teething? regression? moon? 🌙 Honestly, only your pediatrician can tell you, so jotting down what you notice helps. Follow for more tired-parent truths 🤍 Log the night in one tap. Napapp,
+Just for laughs, . If your baby seems unwell or you're worried, check with your pediatrician.
+
+#Shorts #momlife #parentinghumor #teething
+```
 
 ## TikTok · Thu Nov 5, 1:01 PM ET · Hand-post · POSTED
 

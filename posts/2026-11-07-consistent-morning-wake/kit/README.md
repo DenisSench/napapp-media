@@ -1,9 +1,28 @@
-# Kit: 2026-11-07-consistent-morning-wake (TikTok + Instagram + Facebook)
+# Kit: 2026-11-07-consistent-morning-wake (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Mon Nov 9, 9:00 AM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+This video includes AI-generated content.
+
+#Shorts #babysleep #naplog #newparents
+```
 
 ## TikTok · Mon Nov 9, 9:00 AM ET · Inbox draft · POSTED
 

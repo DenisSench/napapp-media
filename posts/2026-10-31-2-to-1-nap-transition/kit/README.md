@@ -1,9 +1,31 @@
-# Kit: 2026-10-31-2-to-1-nap-transition (TikTok + Instagram + Facebook)
+# Kit: 2026-10-31-2-to-1-nap-transition (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../reel_kit/reel.mp4
+
+## YouTube Shorts · Sat Oct 31, 8:42 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+18-24 months and fighting the second nap?
+Moving from two naps to one usually happens somewhere around 18-24 months, per Cleveland Clinic, and it's often a messy, back-and-forth stretch. That's normal. Total sleep matters too: toddlers 1-2 years typically need 11-14 hours across the day and night (AASM). These are typical ranges, not targets, and every toddler is different. Save this for later 🤍 Log naps in one tap to see the pattern. Napapp,
+
+This video includes AI-generated content.
+
+#Shorts #toddlersleep #napschedule #babysleep
+```
 
 ## TikTok · Sat Oct 31, 8:42 PM ET · Inbox draft · POSTED
 

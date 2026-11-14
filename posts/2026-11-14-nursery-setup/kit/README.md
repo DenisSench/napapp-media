@@ -1,9 +1,31 @@
-# Kit: 2026-11-14-nursery-setup (TikTok + Instagram + Facebook)
+# Kit: 2026-11-14-nursery-setup (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Thu Nov 12, 1:00 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+Pinterest nursery vs. where he actually naps 🎨🪛 Two sound machines, three sizes of sleep sacks, sage walls painted at 38 weeks... and still no idea when the last nap was. Napapp logs sleep in one tap. App link on the channel. For sleep, baby goes on their back on a firm, flat surface in an empty crib with a fitted sheet only.
+Safe-sleep guidance: AAP (HealthyChildren.org).
+
+This video includes AI-generated content.
+
+#Shorts #nurseryideas #babysleep #newparents
+```
 
 ## TikTok · Thu Nov 12, 1:00 PM ET · Inbox draft · POSTED
 

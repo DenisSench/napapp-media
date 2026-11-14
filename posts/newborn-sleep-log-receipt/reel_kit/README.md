@@ -1,6 +1,6 @@
 # Reel kit: newborn-sleep-log-receipt
 
-**AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook).**
+**AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook and YouTube).**
 
 `reel.mp4`: 20.7 s, 10.7 MB, 1080x1920, silent; slides from `None`.
 
@@ -20,7 +20,7 @@
 
 ## Notes
 
-- AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook).
+- AI-GENERATED: this post must carry the AI-generated label on every platform (TikTok, Instagram, Facebook and YouTube).
 - `reel.mp4` is Lee's `reel-ig.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
 - Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from post.md (## TikTok Caption).

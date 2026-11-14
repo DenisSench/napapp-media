@@ -1,9 +1,30 @@
-# Kit: 2026-11-10-split-nights (TikTok + Instagram + Facebook)
+# Kit: 2026-11-10-split-nights (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Tue Nov 10, 11:55 AM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+```
+Why is your baby partying at 2 AM? (Denis)
+```
+
+Description:
+
+```
+This video includes AI-generated content.
+
+#Shorts
+```
 
 ## TikTok · Tue Nov 10, 11:55 AM ET · Inbox draft · POSTED
 

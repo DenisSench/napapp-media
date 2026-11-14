@@ -1,9 +1,32 @@
-# Kit: 2026-11-05-why-baby-fights-bedtime (TikTok + Instagram + Facebook)
+# Kit: 2026-11-05-why-baby-fights-bedtime (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
+
+## YouTube Shorts · Fri Nov 6, 12:39 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+```
+Why does your baby fight bedtime?
+```
+
+Description:
+
+```
+Baby or toddler fighting bedtime? Common reasons.
+Bedtime battles are so common, and they're not a sign you're doing it wrong. Possible reasons include being overtired, not being tired enough yet, or a recent change like a new routine, a growth spurt or teething. These are possibilities, not a diagnosis, and there's no guaranteed fix. The NHS notes a simple, soothing bedtime routine may help babies settle. Save this for later 🤍 Log bedtimes in one tap to spot the pattern. Napapp,
+
+Sources: Cleveland Clinic, NHS. . If your baby seems unwell or you're worried, check with your pediatrician.
+
+#Shorts #babysleep #bedtimeroutine #toddlersleep
+```
 
 ## TikTok · Fri Nov 6, 12:36 PM ET · Inbox draft · POSTED
 

@@ -1,9 +1,29 @@
-# Kit: 2026-11-05-total-sleep-by-age (TikTok + Instagram + Facebook)
+# Kit: 2026-11-05-total-sleep-by-age (TikTok, Instagram, Facebook and YouTube)
 
 Approval: Approved (one approval for all platforms)
 
 
 Asset: ../reel_kit/reel.mp4
+
+## YouTube Shorts · Fri Nov 6, 6:59 PM ET · Hand-post
+
+upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
+
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+
+Title:
+
+(none yet)
+
+Description:
+
+```
+How much sleep, 4 months to 2 years?
+Typical total sleep in 24 hours, naps included: 4-12 months 12-16 hours, 1-2 years 11-14 hours (AASM guidance, endorsed by the AAP). There's no official range under 4 months, because newborn sleep varies so much (Cleveland Clinic). These are typical ranges, not targets, and . Save this for later 🤍 Log sleep in one tap to see your baby's daily totals. Napapp,
+. Check with your pediatrician about your baby's sleep.
+
+#Shorts #babysleep #babysleeptips #toddlersleep
+```
 
 ## TikTok · Fri Nov 6, 6:56 PM ET · Hand-post · POSTED
 

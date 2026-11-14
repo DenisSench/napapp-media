@@ -38,11 +38,13 @@
     }
   },
   "files": {
-    "README.md": "f6ee5bce9fa45bed62decc07eb63764952b78c98ae7269788336af3090ace24d",
+    "README.md": "d1e606088d934ed3aa36775075aa204930711739b916ff5d34cd4cdc9a68651a",
     "fb_caption.txt": "8960f11db1562d89acf51f6dadf994df5d9470d0bc3eb4777c71f9020a58858d",
     "ig_caption.txt": "3dc8f1132fb8f428a0c56fb3f5a1fc8baf952929a3385035a1746b6550f39a4f",
-    "index.html": "265a8f95738f04a8a5adf4bab5f9c933a38eccc867896dc9362df372fdc1a8e6",
-    "tiktok_caption.txt": "c5cde579b0f00ad26398c3a524b906d5e06ce293ad12aea6ef2336411b292943"
+    "index.html": "159733ab2fdb3f058e552ebddf0881ff3853c73ea7dc96b7f9c1f587e85e66df",
+    "tiktok_caption.txt": "c5cde579b0f00ad26398c3a524b906d5e06ce293ad12aea6ef2336411b292943",
+    "youtube_description.txt": "66fa27f7346c1eb7de5717f0aea85f325f00bb9386fa6ebef2c123cb57e8c823",
+    "youtube_title.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   "refs": {
     "reel_kit/reel.mp4": "33c4b75a756bbb27b68ff7a6f0864e68bcf712d785eb43cb6bbde03314022c87"
