@@ -26,56 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:total-sleep-by-age-tt@napapp.io
-DTSTAMP:20261107T021129Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261106T185600
-DTEND;TZID=America/Toronto:20261106T191100
-SUMMARY:✅ Posted: Total sleep by age [TT]
-DESCRIPTION:✅ TikTok: post the video by hand from the kit\n\nApproval: Ap
- proved (one approval for all platforms)\nKit: https://media.napapp.io/post
- s/2026-11-05-total-sleep-by-age/kit/\nDashboard: https://media.napapp.io/c
- al-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-05-total-sleep-by-age/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Total sleep by age [TT] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Total sleep by age [TT] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-UID:total-sleep-by-age-ig-fb@napapp.io
-DTSTAMP:20261107T021129Z
-SEQUENCE:0
-DTSTART;TZID=America/Toronto:20261106T185900
-DTEND;TZID=America/Toronto:20261106T191400
-SUMMARY:✅ Posted: Total sleep by age [IG/FB]
-DESCRIPTION:✅ Instagram: post the Reel by hand\n✅ Facebook: post the Re
- el by hand\n\nApproval: Approved (one approval for all platforms)\nKit: ht
- tps://media.napapp.io/posts/2026-11-05-total-sleep-by-age/kit/\nDashboard:
-  https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-05-total-sleep-by-age/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Total sleep by age [IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Total sleep by age [IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:newborn-evening-shift-tt-ig-fb@napapp.io
 DTSTAMP:20261109T142354Z
 SEQUENCE:3
@@ -497,14 +447,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:night-feeds-4-steps-tt-ig-fb-yt@napapp.io
-DTSTAMP:20261113T184111Z
-SEQUENCE:0
+DTSTAMP:20261114T022712Z
+SEQUENCE:1
 DTSTART;TZID=America/Toronto:20261113T190000
 DTEND;TZID=America/Toronto:20261113T191500
-SUMMARY:Post: Night feeds 4 steps [TT/IG/FB/YT]
-DESCRIPTION:• TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n• Instagram: hand-post the slideshow Reel (Option B)\n• Faceboo
- k: hand-post the slideshow Reel\n• YouTube: upload the 9:16 reel as a Sh
+SUMMARY:✅ Posted: Night feeds 4 steps [TT/IG/FB/YT]
+DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
+ sh it\n✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Faceboo
+ k: hand-post the slideshow Reel\n✅ YouTube: upload the 9:16 reel as a Sh
  ort to @getnapapp (hand-post\; paste the title and description from the ki
  t)\n\nApproval: Approved (one approval for all platforms)\nKit: https://me
  dia.napapp.io/posts/2026-11-13-night-feeds-4-steps/kit/\nDashboard: https:
@@ -514,12 +464,12 @@ TRANSP:TRANSPARENT
 STATUS:CONFIRMED
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Night feeds 4 steps [TT/IG/FB/YT] in 30 min
+DESCRIPTION:✅ Posted: Night feeds 4 steps [TT/IG/FB/YT] in 30 min
 TRIGGER:-PT30M
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Post: Night feeds 4 steps [TT/IG/FB/YT] in 5 min
+DESCRIPTION:✅ Posted: Night feeds 4 steps [TT/IG/FB/YT] in 5 min
 TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
