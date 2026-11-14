@@ -46,14 +46,13 @@
     }
   },
   "files": {
-    "README.md": "1f02f8ce5f9138a06b11e14e404e4295e19782fc129bc412aa12dfe504ef3b90",
-    "fb_caption.txt": "0883939de26b40e34d78aa69485c77a75133aacafaa2488a51f8ff4008b81b1f",
-    "ig_caption.txt": "8a3a24fbd1a9fb192eb3eb1f9bbf52fb9f38fb8cc03c7d2e4688efb199a2e0a4",
-    "index.html": "e85376a6bf0ccf000e4287315784539eba4f07942e087b313cfc41ec352de8a6",
-    "reel-preview-slideshow-lookA-fb.mp4": "afc2598010d135c59d06f57a8b83e64f9abfb40fcda034ef6d39db09d3347fdf",
+    "README.md": "589e18646e491c0bdb7b3bdad62a72a5c32e62e84e73fc09bb77fc46e83aaa6d",
+    "fb_caption.txt": "188167744ec62ae5127d0f4e135d8927f31f5a37d3625701aec5e0cb4e4a285a",
+    "ig_caption.txt": "25210434d1d4e25215e934a8c2aafdaacba950b91ba6961037a95fcf7584f38d",
+    "index.html": "d3dbd65d5ff567d7a43612acd254d50264607b0c6a26c58754d447a7d3f69515",
     "reel-preview-slideshow-lookA.mp4": "e30425f3be0be6f69dab8bada54b7a44ff2917eda0466dfe1158f89b7c9d91be",
-    "tiktok_caption.txt": "0883939de26b40e34d78aa69485c77a75133aacafaa2488a51f8ff4008b81b1f",
-    "youtube_description.txt": "f00fb06c95d4875deeea33cda0a5f543a3b04c0ff7b12adc1b2e9642663798b9",
+    "tiktok_caption.txt": "188167744ec62ae5127d0f4e135d8927f31f5a37d3625701aec5e0cb4e4a285a",
+    "youtube_description.txt": "8ce6e4fe1cc950d854ab0f821e4f7ed67d256e6e12c9ec7e8b51f60c2829038f",
     "youtube_title.txt": "43c55a8bc70e498a458a85c23900120c6c08951020b550153ebc733289ac1b80"
   },
   "refs": {
@@ -65,6 +64,6 @@
     "tiktok_kit/06.jpg": "6a428e6b2122d8c3822c6b5d3dd048f8fe43fde03528fb65304f4fe1adb46e37",
     "tiktok_kit/07.jpg": "93a172488022d637866eec13ab3aa630c249ed31a2acc763b1280a7b5f70a31f",
     "tiktok_kit/cover.jpg": "a893f74651b9462bd143bbafe02fef525d4660be7397203e9a2a7e0f6d9f8318",
-    "tiktok_kit/slides.zip": "a92ef02678fd8ec2d97e9058b8e52710f0035769c30f59a22ddd962504318a9a"
+    "tiktok_kit/slides.zip": "806009604cba176c6243ec4f2a380bc36f4fdf36ad89fded2eac1a2d02cdc2c6"
   }
 }

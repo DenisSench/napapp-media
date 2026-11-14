@@ -9,8 +9,8 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -22,10 +22,6 @@ Description:
 
 ```
 Drowsy but awake, made doable 🥱🌗 The AAP suggests that from about 4 months, babies go down drowsy but not yet asleep, so they get to practise falling asleep in their own bed. Watch for sleepy cues like yawns and eye rubs (Cleveland Clinic), run the same short routine, and lay them down on their back with eyes still open. If they fuss, the AAP says it's OK to pause a moment before stepping in; of course you can still feed, change or comfort them when needed. Empty crib, firm flat surface. Napapp logs sleep in one tap. App link on the channel.
-
-Sources: AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); Cleveland Clinic, "Wake Windows by Age"; AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
-
-This video includes AI-generated content.
 
 #Shorts #drowsybutawake #babysleep #babysleeptips
 ```
@@ -43,8 +39,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
 Drowsy but awake, made doable 🥱🌗 The AAP suggests that from about 4 months, babies go down drowsy but not yet asleep, so they get to practise falling asleep in their own bed. Watch for sleepy cues like yawns and eye rubs (Cleveland Clinic), run the same short routine, and lay them down on their back with eyes still open. If they fuss, the AAP says it's OK to pause a moment before stepping in; of course you can still feed, change or comfort them when needed. Empty crib, firm flat surface. Has drowsy but awake worked for yours? Napapp logs sleep in one tap and gives you sleep coaching tips made for your baby. Link in bio.
-
-Sources: AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); Cleveland Clinic, "Wake Windows by Age"; AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #drowsybutawake #babysleep #babysleeptips #napapp
 ```
@@ -66,8 +60,6 @@ Drowsy but awake, made doable 🥱🌗
 The AAP suggests that from about 4 months, babies go down drowsy but not yet asleep, so they get to practise falling asleep in their own bed. Watch for sleepy cues like yawns and eye rubs (Cleveland Clinic), run the same short routine, and lay them down on their back with eyes still open. If they fuss, the AAP says it's OK to pause a moment before stepping in; of course you can still feed, change or comfort them when needed. Empty crib, firm flat surface. Has drowsy but awake worked for yours? Napapp logs sleep in one tap and gives you sleep coaching tips made for your baby.
 Link in bio.
 
-Sources: AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); Cleveland Clinic, "Wake Windows by Age"; AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
-
 #drowsybutawake #babysleep #babysleeptips #napapp
 ```
 
@@ -76,7 +68,7 @@ Sources: AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); Cleveland Clin
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
+2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 
@@ -84,8 +76,6 @@ Caption (post.md):
 
 ```
 Drowsy but awake, made doable 🥱🌗 The AAP suggests that from about 4 months, babies go down drowsy but not yet asleep, so they get to practise falling asleep in their own bed. Watch for sleepy cues like yawns and eye rubs (Cleveland Clinic), run the same short routine, and lay them down on their back with eyes still open. If they fuss, the AAP says it's OK to pause a moment before stepping in; of course you can still feed, change or comfort them when needed. Empty crib, firm flat surface. Has drowsy but awake worked for yours? Napapp logs sleep in one tap and gives you sleep coaching tips made for your baby. Link in bio.
-
-Sources: AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); Cleveland Clinic, "Wake Windows by Age"; AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #drowsybutawake #babysleep #babysleeptips #napapp
 ```

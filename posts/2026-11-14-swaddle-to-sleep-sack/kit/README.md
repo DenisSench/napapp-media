@@ -9,8 +9,8 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -23,14 +23,10 @@ Description:
 ```
 Swaddle to sleep sack, step by step 🌯➡️ The AAP says to stop swaddling as soon as your baby shows any signs of trying to roll; some start working on it as early as 2 months. Switch to a wearable blanket or sleep sack that doesn't swaddle, so arms, hips and legs can move freely. Keep the rest of bedtime the same, and skip weighted swaddles and sacks. For every sleep: on their back, on a firm, flat surface, in an empty crib. Napapp logs sleep in one tap. App link on the channel.
 
-Sources: AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org); AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org)
-
-This video includes AI-generated content.
-
 #Shorts #swaddle #sleepsack #babysleep
 ```
 
-## TikTok · Sat Nov 14, 9:00 AM ET · Inbox draft
+## TikTok · Sat Nov 14, 9:00 AM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -44,12 +40,10 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 ```
 Swaddle to sleep sack, step by step 🌯➡️ The AAP says to stop swaddling as soon as your baby shows any signs of trying to roll; some start working on it as early as 2 months. Switch to a wearable blanket or sleep sack that doesn't swaddle, so arms, hips and legs can move freely; those can be used as long as you like. Keep the rest of bedtime the same, and skip weighted swaddles and sacks. For every sleep: on their back, on a firm, flat surface, in an empty crib. How old was yours when they started rolling? Napapp logs sleep in one tap so you can see how the switch is going. Link in bio.
 
-Sources: AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org); AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org)
-
 #swaddle #sleepsack #babysleep #newparents #napapp
 ```
 
-## Instagram · Sat Nov 14, 9:00 AM ET · Hand-post
+## Instagram · Sat Nov 14, 9:00 AM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -66,17 +60,15 @@ Swaddle to sleep sack, step by step 🌯➡️
 The AAP says to stop swaddling as soon as your baby shows any signs of trying to roll; some start working on it as early as 2 months. Switch to a wearable blanket or sleep sack that doesn't swaddle, so arms, hips and legs can move freely; those can be used as long as you like. Keep the rest of bedtime the same, and skip weighted swaddles and sacks. For every sleep: on their back, on a firm, flat surface, in an empty crib. How old was yours when they started rolling? Napapp logs sleep in one tap so you can see how the switch is going.
 Link in bio.
 
-Sources: AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org); AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org)
-
 #swaddle #sleepsack #babysleep #newparents #napapp
 ```
 
-## Facebook · Sat Nov 14, 9:00 AM ET · Hand-post
+## Facebook · Sat Nov 14, 9:00 AM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
+2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 
@@ -84,8 +76,6 @@ Caption (post.md):
 
 ```
 Swaddle to sleep sack, step by step 🌯➡️ The AAP says to stop swaddling as soon as your baby shows any signs of trying to roll; some start working on it as early as 2 months. Switch to a wearable blanket or sleep sack that doesn't swaddle, so arms, hips and legs can move freely; those can be used as long as you like. Keep the rest of bedtime the same, and skip weighted swaddles and sacks. For every sleep: on their back, on a firm, flat surface, in an empty crib. How old was yours when they started rolling? Napapp logs sleep in one tap so you can see how the switch is going. Link in bio.
-
-Sources: AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org); AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org)
 
 #swaddle #sleepsack #babysleep #newparents #napapp
 ```

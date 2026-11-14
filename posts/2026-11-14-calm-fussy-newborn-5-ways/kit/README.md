@@ -9,7 +9,7 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -21,8 +21,6 @@ Description:
 
 ```
 Fussy at 2 AM? Start here 🌌🎶 The AAP suggests meeting the basics first (hungry, wet, too warm or cold?), then trying calming techniques like rocking, gentle patting, soft shushing or white noise, or a safe swaddle if baby isn't trying to roll yet. Their tip: stick with one technique for about 5 minutes before switching, so baby isn't overstimulated. If baby falls asleep in your arms, move them to the crib on their back. If you're overwhelmed, it's OK to lay baby on their back in the crib and step away for a few minutes. Napapp logs every wake and sleep in one tap. App link on the channel.
-
-Sources: AAP, "Responding to Your Baby's Cries" (HealthyChildren.org); AAP, "Self-Soothing: Help Your Baby Learn This Life Skill" (HealthyChildren.org); AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #Shorts #newbornlife #newbornbaby #fussybaby
 ```
@@ -39,8 +37,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
 Fussy at 2 AM? Start here 🌌🎶 The AAP suggests meeting the basics first (hungry, wet, too warm or cold?), then trying calming techniques like rocking, gentle patting, soft shushing or white noise, or a safe swaddle if baby isn't trying to roll yet. Their tip: stick with one technique for about 5 minutes before switching, so baby isn't overstimulated. If baby falls asleep in your arms, move them to the crib on their back. And if you're overwhelmed, it's OK to lay baby on their back in the crib and step away for a few minutes. What's your go-to at 2 AM? Napapp logs every wake and sleep in one tap, so 2 AM you knows when the last nap was. Link in bio.
-
-Sources: AAP, "Responding to Your Baby's Cries" (HealthyChildren.org); AAP, "Self-Soothing: Help Your Baby Learn This Life Skill" (HealthyChildren.org); AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #newbornlife #newbornbaby #fussybaby #napapp
 ```
@@ -61,8 +57,6 @@ Fussy at 2 AM? Start here 🌌🎶
 The AAP suggests meeting the basics first (hungry, wet, too warm or cold?), then trying calming techniques like rocking, gentle patting, soft shushing or white noise, or a safe swaddle if baby isn't trying to roll yet. Their tip: stick with one technique for about 5 minutes before switching, so baby isn't overstimulated. If baby falls asleep in your arms, move them to the crib on their back. And if you're overwhelmed, it's OK to lay baby on their back in the crib and step away for a few minutes. What's your go-to at 2 AM? Napapp logs every wake and sleep in one tap, so 2 AM you knows when the last nap was.
 Link in bio.
 
-Sources: AAP, "Responding to Your Baby's Cries" (HealthyChildren.org); AAP, "Self-Soothing: Help Your Baby Learn This Life Skill" (HealthyChildren.org); AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
-
 #newbornlife #newbornbaby #fussybaby #napapp
 ```
 
@@ -70,7 +64,7 @@ Sources: AAP, "Responding to Your Baby's Cries" (HealthyChildren.org); AAP, "Sel
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
-1. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-plain-fb.mp4.
+1. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-plain.mp4.
 2. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 3. Paste the FB caption → Post. Send Bob the link.
 
@@ -78,8 +72,6 @@ Caption (post.md):
 
 ```
 Fussy at 2 AM? Start here 🌌🎶 The AAP suggests meeting the basics first (hungry, wet, too warm or cold?), then trying calming techniques like rocking, gentle patting, soft shushing or white noise, or a safe swaddle if baby isn't trying to roll yet. Their tip: stick with one technique for about 5 minutes before switching, so baby isn't overstimulated. If baby falls asleep in your arms, move them to the crib on their back. And if you're overwhelmed, it's OK to lay baby on their back in the crib and step away for a few minutes. What's your go-to at 2 AM? Napapp logs every wake and sleep in one tap, so 2 AM you knows when the last nap was. Link in bio.
-
-Sources: AAP, "Responding to Your Baby's Cries" (HealthyChildren.org); AAP, "Self-Soothing: Help Your Baby Learn This Life Skill" (HealthyChildren.org); AAP, "Swaddling: Is it Safe for Your Baby?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #newbornlife #newbornbaby #fussybaby #napapp
 ```

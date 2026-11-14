@@ -9,7 +9,7 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -21,8 +21,6 @@ Description:
 
 ```
 4-month naps, a little easier 😴⏱️ Cleveland Clinic puts typical awake time at 3 to 4 months at about 1.25 to 2.5 hours, and says to watch for early sleepy cues like yawning and eye rubbing. Keep a short nap routine that's the same each time, dim the room, and, as the AAP suggests from about 4 months, lay baby down drowsy but still awake. For every sleep: on their back, on a firm, flat surface, in an empty crib. Napapp logs naps in one tap. App link on the channel.
-
-Sources: Cleveland Clinic, "Wake Windows by Age"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #Shorts #4monthold #babynaps #babysleep
 ```
@@ -39,8 +37,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
 4-month naps, a little easier 😴⏱️ Cleveland Clinic puts typical awake time at 3 to 4 months at about 1.25 to 2.5 hours, and says to watch for early sleepy cues like yawning and eye rubbing. Keep a short nap routine that's the same each time, dim the room, and, as the AAP suggests from about 4 months, lay baby down drowsy but still awake. For every sleep: on their back, on a firm, flat surface, in an empty crib. How long are your 4-month-old's naps? Napapp logs naps in one tap and gives you sleep coaching tips made for your baby. Link in bio.
-
-Sources: Cleveland Clinic, "Wake Windows by Age"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #4monthold #babynaps #babysleep #napapp
 ```
@@ -61,8 +57,6 @@ Caption (post.md):
 Cleveland Clinic puts typical awake time at 3 to 4 months at about 1.25 to 2.5 hours, and says to watch for early sleepy cues like yawning and eye rubbing. Keep a short nap routine that's the same each time, dim the room, and, as the AAP suggests from about 4 months, lay baby down drowsy but still awake. For every sleep: on their back, on a firm, flat surface, in an empty crib. How long are your 4-month-old's naps? Napapp logs naps in one tap and gives you sleep coaching tips made for your baby.
 Link in bio.
 
-Sources: Cleveland Clinic, "Wake Windows by Age"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
-
 #4monthold #babynaps #babysleep #napapp
 ```
 
@@ -70,7 +64,7 @@ Sources: Cleveland Clinic, "Wake Windows by Age"; AAP, "Getting Your Baby to Sle
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
-1. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-plain-fb.mp4.
+1. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-plain.mp4.
 2. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 3. Paste the FB caption → Post. Send Bob the link.
 
@@ -78,8 +72,6 @@ Caption (post.md):
 
 ```
 4-month naps, a little easier 😴⏱️ Cleveland Clinic puts typical awake time at 3 to 4 months at about 1.25 to 2.5 hours, and says to watch for early sleepy cues like yawning and eye rubbing. Keep a short nap routine that's the same each time, dim the room, and, as the AAP suggests from about 4 months, lay baby down drowsy but still awake. For every sleep: on their back, on a firm, flat surface, in an empty crib. How long are your 4-month-old's naps? Napapp logs naps in one tap and gives you sleep coaching tips made for your baby. Link in bio.
-
-Sources: Cleveland Clinic, "Wake Windows by Age"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #4monthold #babynaps #babysleep #napapp
 ```

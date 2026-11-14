@@ -9,8 +9,8 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -22,10 +22,6 @@ Description:
 
 ```
 Night feeds, minus the full wake-up 🌙🍼 The NHS suggests keeping night feeds calm and boring: lights down low, voice quiet, change the diaper only if needed, and put baby back down once they're fed and changed. That's how babies learn night-time is for sleeping. The AAP adds: try not to stimulate or wake babies when you feed or change them at night. Back down on their back, on a firm, flat surface, in an empty crib. Napapp logs sleep and wake times in one tap. App link on the channel.
-
-Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
-
-This video includes AI-generated content.
 
 #Shorts #nightfeeds #newbornlife #babysleep
 ```
@@ -43,8 +39,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
 Night feeds, minus the full wake-up 🌙🍼 The NHS suggests keeping night feeds calm and boring: lights down low, voice quiet, change the diaper only if it's needed, and put baby back down once they're fed and changed. Over time, that's how babies learn night-time is for sleeping. The AAP adds: try not to stimulate or wake babies when you feed or change them at night. Back down on their back, on a firm, flat surface, in an empty crib. Who's on night feeds at your place? Napapp logs sleep and wake times in one tap, so you know when the last stretch started. Link in bio.
-
-Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #nightfeeds #newbornlife #babysleep #napapp
 ```
@@ -66,8 +60,6 @@ Night feeds, minus the full wake-up 🌙🍼
 The NHS suggests keeping night feeds calm and boring: lights down low, voice quiet, change the diaper only if it's needed, and put baby back down once they're fed and changed. Over time, that's how babies learn night-time is for sleeping. The AAP adds: try not to stimulate or wake babies when you feed or change them at night. Back down on their back, on a firm, flat surface, in an empty crib. Who's on night feeds at your place? Napapp logs sleep and wake times in one tap, so you know when the last stretch started.
 Link in bio.
 
-Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
-
 #nightfeeds #newbornlife #babysleep #napapp
 ```
 
@@ -76,7 +68,7 @@ Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (H
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
+2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 
@@ -84,8 +76,6 @@ Caption (post.md):
 
 ```
 Night feeds, minus the full wake-up 🌙🍼 The NHS suggests keeping night feeds calm and boring: lights down low, voice quiet, change the diaper only if it's needed, and put baby back down once they're fed and changed. Over time, that's how babies learn night-time is for sleeping. The AAP adds: try not to stimulate or wake babies when you feed or change them at night. Back down on their back, on a firm, flat surface, in an empty crib. Who's on night feeds at your place? Napapp logs sleep and wake times in one tap, so you know when the last stretch started. Link in bio.
-
-Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #nightfeeds #newbornlife #babysleep #napapp
 ```

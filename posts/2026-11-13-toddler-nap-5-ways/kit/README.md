@@ -9,7 +9,7 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -21,8 +21,6 @@ Description:
 
 ```
 Toddler fighting the nap? Try these ☀️🧸 Keep the nap at the same time every day, plan an active morning (outside if you can), and use a mini version of your bedtime routine, like one book and dim lights. NHS guidance suggests finishing naps before 3 PM so bedtime still comes easy. If they won't sleep, Cleveland Clinic suggests turning naptime into quiet time with books or a puzzle: rest still counts. Napapp logs naps in one tap. App link on the channel.
-
-Sources: NHS Bedfordshire & Luton Children's Health, "Sleep routines for toddlers and children"; AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org); Cleveland Clinic, "When Do Kids Stop Napping?"
 
 #Shorts #toddlernaps #toddlerlife #napschedule
 ```
@@ -39,8 +37,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
 Toddler fighting the nap? Try these ☀️🧸 Keep the nap at the same time every day, plan an active morning (outside if you can), and use a mini version of your bedtime routine, like one book and dim lights. NHS guidance suggests finishing naps before 3 PM so bedtime still comes easy. And if they won't sleep, Cleveland Clinic suggests turning naptime into quiet time with books or a puzzle: rest still counts. What time does your toddler nap? Napapp logs naps in one tap and gives you sleep coaching tips made for your toddler. Link in bio.
-
-Sources: NHS Bedfordshire & Luton Children's Health, "Sleep routines for toddlers and children"; AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org); Cleveland Clinic, "When Do Kids Stop Napping?"
 
 #toddlernaps #toddlerlife #napschedule #napapp
 ```
@@ -61,8 +57,6 @@ Toddler fighting the nap? Try these ☀️🧸
 Keep the nap at the same time every day, plan an active morning (outside if you can), and use a mini version of your bedtime routine, like one book and dim lights. NHS guidance suggests finishing naps before 3 PM so bedtime still comes easy. And if they won't sleep, Cleveland Clinic suggests turning naptime into quiet time with books or a puzzle: rest still counts. What time does your toddler nap? Napapp logs naps in one tap and gives you sleep coaching tips made for your toddler.
 Link in bio.
 
-Sources: NHS Bedfordshire & Luton Children's Health, "Sleep routines for toddlers and children"; AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org); Cleveland Clinic, "When Do Kids Stop Napping?"
-
 #toddlernaps #toddlerlife #napschedule #napapp
 ```
 
@@ -70,7 +64,7 @@ Sources: NHS Bedfordshire & Luton Children's Health, "Sleep routines for toddler
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
-1. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-plain-fb.mp4.
+1. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-plain.mp4.
 2. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 3. Paste the FB caption → Post. Send Bob the link.
 
@@ -78,8 +72,6 @@ Caption (post.md):
 
 ```
 Toddler fighting the nap? Try these ☀️🧸 Keep the nap at the same time every day, plan an active morning (outside if you can), and use a mini version of your bedtime routine, like one book and dim lights. NHS guidance suggests finishing naps before 3 PM so bedtime still comes easy. And if they won't sleep, Cleveland Clinic suggests turning naptime into quiet time with books or a puzzle: rest still counts. What time does your toddler nap? Napapp logs naps in one tap and gives you sleep coaching tips made for your toddler. Link in bio.
-
-Sources: NHS Bedfordshire & Luton Children's Health, "Sleep routines for toddlers and children"; AAP, "Healthy Sleep Habits: How Many Hours Does Your Child Need?" (HealthyChildren.org); Cleveland Clinic, "When Do Kids Stop Napping?"
 
 #toddlernaps #toddlerlife #napschedule #napapp
 ```
