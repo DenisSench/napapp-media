@@ -1,0 +1,32 @@
+{
+  "post": "2026-11-15-night-wake-settle-5-steps",
+  "slot": "Sunday, Nov 15, 2026 at 12:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "2ef3416074c1bead",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "893b998b4f69ddc82354c9f52b5a994d66b03414c3dab41c2be610a14ba3cccd",
+    "02.jpg": "2050f6ef07b0ede0bb02426d47912fba8f0e30b57e57ac9ba150bfb14c2a6562",
+    "03.jpg": "79f2a57f219cd984ae7b86f4f641db83fba60d98d405bf20d8f4aaa969585380",
+    "04.jpg": "c5a6f23ba0a755a589c72d91bf16e7d019d27fd5eecd302b1b8d80710bceea2e",
+    "05.jpg": "86cb422c42ef5de5a739f18075495285fc4ad321f77489e5c311d077a63fb359",
+    "06.jpg": "ddd3f96d71b848784eac896410bf92082c69cf09e9d91cc343d448d060820181",
+    "07.jpg": "73396520d689b1028f99d034265c56cb20bc6487588cd5c03a592541d831005f",
+    "08.jpg": "3b73740620e4497c11c382b3bd99d636b2060f0eef7f9f5a4e21008547db3c7d",
+    "README.md": "fde91e56e8418a1be7028c3e4f0f1d8641edff8bf3913e367eb3c274bfdead98",
+    "caption.txt": "941b751de3feecd07b725e1c458ae241534edca5c1597f5f15a13ada753c742b",
+    "cover.jpg": "893b998b4f69ddc82354c9f52b5a994d66b03414c3dab41c2be610a14ba3cccd",
+    "index.html": "98b5d40dd98150cb739b3944e25fe242e09c197b8a90a1daa2b41df7efc890aa",
+    "slides.zip": "f01f5197f08241a6b7b04a9835b4fa551c21d62bf4e9403530597034a477c939"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}

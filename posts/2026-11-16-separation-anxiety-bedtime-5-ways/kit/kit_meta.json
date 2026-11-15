@@ -1,0 +1,70 @@
+{
+  "post": "2026-11-16-separation-anxiety-bedtime-5-ways",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-lookA.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "d216fbdf00ac9ca2",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-16",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-16",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-16",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-16",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "cb4c01b76ac7321712503346b49f692047178d7eafe3667ca3c5f2b9e12001f1",
+    "fb_caption.txt": "bb76ff5d6579988f91de4f577e4e23037913f62126307170d775d090d267c49e",
+    "ig_caption.txt": "6228dcc02d57b0cd7f9a26d1e5a2e26b6c07e219a73970cd44f89c8b37811e2f",
+    "index.html": "4b092b93b2b4663494f35278789ba39223864a2356220ae0f2e9485de6214f53",
+    "reel-preview-slideshow-lookA.mp4": "c6e9d802cb95e67bd60662b2f3a5a512effca9e5fae5cdee7dad2d3e71116cce",
+    "tiktok_caption.txt": "bb76ff5d6579988f91de4f577e4e23037913f62126307170d775d090d267c49e",
+    "youtube_description.txt": "0beadeeca2a8d5b9ed3733b49adb8e3fd735a80e80daeee3dbd8a067c9eb1306",
+    "youtube_title.txt": "ebe8d2d681cfaf5584106a231cf77c5cc744f15731116fcdc35d9998200ace1f"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "728f0bf6a7de762eeaeb5240b7b9bbcb547769af60ff42cbd9c13209ecb255c6",
+    "tiktok_kit/02.jpg": "326fe0f4408ab80cd67f3d9de3a4dcf676223c1b63c51207fd1966b0e22b12aa",
+    "tiktok_kit/03.jpg": "9725f1dd3b0abc421ba0a337745358e915f02f86592c38e7d03bc7d2adb005e4",
+    "tiktok_kit/04.jpg": "db03b4d9117173d6aca00026bb52dd6af7ab8eb4241dc32a0e1facca8c2074d9",
+    "tiktok_kit/05.jpg": "b6a8b370ea19d9fd006c00536045bc4f2da6e4ba5c24b2fba6f3e6902756e35a",
+    "tiktok_kit/06.jpg": "44b347445ace4298c867a86ea1f7388d66e4018fa83868e592ad1690621b45fb",
+    "tiktok_kit/07.jpg": "4e691f444682e2fd8a026af3c9f5c313f75e1cdcdad4a8bb488d14a589d399ba",
+    "tiktok_kit/08.jpg": "fb1eea13a100fa72376d0497740d7949cb41a68cc44307632c9945a9b51e0a3a",
+    "tiktok_kit/cover.jpg": "728f0bf6a7de762eeaeb5240b7b9bbcb547769af60ff42cbd9c13209ecb255c6",
+    "tiktok_kit/slides.zip": "3a0536ec76152eceeb57dba51bd42ef7449afe1b49acceb5658aeed81860bc32"
+  }
+}

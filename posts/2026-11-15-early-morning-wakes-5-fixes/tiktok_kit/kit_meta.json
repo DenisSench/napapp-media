@@ -1,0 +1,32 @@
+{
+  "post": "2026-11-15-early-morning-wakes-5-fixes",
+  "slot": "Sunday, Nov 15, 2026 at 9:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "78102dc0d699dfd1",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "589412a69af603e08ba666251860e72e8db13145d7565655a4347fbe1793ddea",
+    "02.jpg": "2ee28b77ea8175257ae2c6844c8818ee57a178f7985087cc542034af8536f54f",
+    "03.jpg": "b1656a7dfa10074a910cd13a801035747053d5f0e0d5132fb03cf74c90dbf109",
+    "04.jpg": "4d16f1cca99d18e93c9d6bdac8b6ce575c6d9fca9db565795571e089e96ff49d",
+    "05.jpg": "367cc500a9fae103e9a4330c148e61969482485598d5c5f36168e2a3afe488a7",
+    "06.jpg": "12fb9cddb402adb440cc1e9485be8db9b11be2b887c357cd15ffe22cc32d1060",
+    "07.jpg": "ee3e04deaf33733e31c4e0a929ff675dcacf4dc20e424828a4d078399c65b455",
+    "08.jpg": "537cb702bbc6a26bab3751fd1e82178b5c46dc52122db7c094117c148b6a5f8b",
+    "README.md": "bbbe063c3dc063ad57a6415e1ad97de6e817686f3e6d3233d620f9892b061409",
+    "caption.txt": "36b9c29b530fe4f662648f1301dd0293115802447f1ce5c2f50d33adcdfc209b",
+    "cover.jpg": "589412a69af603e08ba666251860e72e8db13145d7565655a4347fbe1793ddea",
+    "index.html": "87ea070140befe8765af61552b672259a295f1507b7124ac7463855cb6f54e58",
+    "slides.zip": "75aabb9224b0446a24a80b9097fc3edeb8b44475a1afdb74246cc5c61f97ed85"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}

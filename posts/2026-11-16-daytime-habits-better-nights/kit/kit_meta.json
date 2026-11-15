@@ -1,0 +1,70 @@
+{
+  "post": "2026-11-16-daytime-habits-better-nights",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-plain.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "7dc2c4dfccef6907",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-16",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-16",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-16",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-16",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "0f0f248b1a62ec6a809c53cdd91b6c229e2365666d1fcae643207754c943dcfb",
+    "fb_caption.txt": "3623656b77c6d677f2c1c115d04cfaef221715e20f048f9c1e97a6ab48c20fd4",
+    "ig_caption.txt": "6935b2e3c499317d4035e347097964f4c9b55dfa20d3b27748cadea4cd62eee0",
+    "index.html": "97a0acc6eb198638ebb9b65d68830aeb52388d67d46968e08bdbb715a26e8d71",
+    "reel-preview-slideshow-plain.mp4": "75bba1ec50b6e64ee51875ea58d6f1cff37a4316fbdb37d3e1d2b97c659b6b42",
+    "tiktok_caption.txt": "3623656b77c6d677f2c1c115d04cfaef221715e20f048f9c1e97a6ab48c20fd4",
+    "youtube_description.txt": "9abc8361a2eaa6563e16a916a211adbad0815a8e5f4056256f4aaaad5713c093",
+    "youtube_title.txt": "224c62c89fd3f48665c5ecea61bdcb0d41012033a8539642eb5253d87f1a1f8d"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "7bec25d5028580e0b9a559bc45936ae83b2059e13acdf914f65c5d662fcbb0cb",
+    "tiktok_kit/02.jpg": "9615d9198b7d482a239363532e755aeb54a06f2f57b921fd63855d89c71fd81a",
+    "tiktok_kit/03.jpg": "9fbfdeb73f5cbd477fe4e205e3a11e8c166a209b9f67895740fb28da9ed43feb",
+    "tiktok_kit/04.jpg": "b24dfa960c0257a8da61adc54aee96ac7f266efe04d2c47900ef2c6293b93819",
+    "tiktok_kit/05.jpg": "710e8aabb8603340a96098ed436a63c26bb17d411c0f125229bd684bbb8247d1",
+    "tiktok_kit/06.jpg": "5adf059185386d40622d084d504160719e4b58a97107843baf55992be2e2630e",
+    "tiktok_kit/07.jpg": "090fb72d6dfc3198ecc5f63b565139ec7cf747b5979e83e0e8b2bae1b0c1ac62",
+    "tiktok_kit/08.jpg": "6ad780da626ee7087b50ee2b4429787e22f9d3fc81361c8d1832340460e2459f",
+    "tiktok_kit/cover.jpg": "7bec25d5028580e0b9a559bc45936ae83b2059e13acdf914f65c5d662fcbb0cb",
+    "tiktok_kit/slides.zip": "3bbfe931dac95c66a0d53b75ae7f06b31e89db01262a476bec653734dc18cfcc"
+  }
+}

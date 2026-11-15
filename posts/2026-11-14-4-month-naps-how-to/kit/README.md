@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## YouTube Shorts · Sat Nov 14, 1:00 PM ET · Hand-post
+## YouTube Shorts · Sun Nov 15, 5:00 PM ET · Hand-post
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
@@ -25,7 +25,7 @@ Description:
 #Shorts #4monthold #babynaps #babysleep
 ```
 
-## TikTok · Sat Nov 14, 1:00 PM ET · Inbox draft
+## TikTok · Sun Nov 15, 5:00 PM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -41,7 +41,7 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 #4monthold #babynaps #babysleep #napapp
 ```
 
-## Instagram · Sat Nov 14, 1:00 PM ET · Hand-post
+## Instagram · Sun Nov 15, 5:00 PM ET · Hand-post
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -60,7 +60,7 @@ Link in bio.
 #4monthold #babynaps #babysleep #napapp
 ```
 
-## Facebook · Sat Nov 14, 1:00 PM ET · Hand-post
+## Facebook · Sun Nov 15, 5:00 PM ET · Hand-post
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

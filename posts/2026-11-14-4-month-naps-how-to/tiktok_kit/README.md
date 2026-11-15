@@ -1,6 +1,6 @@
 # TikTok manual kit: 2026-11-14-4-month-naps-how-to
 
-Slot: Saturday, Nov 14, 2026 at 1:00 PM ET
+Slot: Sunday, Nov 15, 2026 at 5:00 PM ET
 Slides: 01.jpg, 02.jpg, 03.jpg, 04.jpg, 05.jpg, 06.jpg, 07.jpg (+ cover.jpg), from Jessy's package/.
 
 ## Checklist

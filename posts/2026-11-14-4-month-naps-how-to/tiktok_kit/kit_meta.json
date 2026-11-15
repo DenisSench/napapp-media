@@ -1,6 +1,6 @@
 {
   "post": "2026-11-14-4-month-naps-how-to",
-  "slot": "Saturday, Nov 14, 2026 at 1:00 PM ET",
+  "slot": "Sunday, Nov 15, 2026 at 5:00 PM ET",
   "slot_source": "plan/tiktok_slots.json",
   "source": "package/",
   "sounds_fingerprint": "8836463c5ea76768",
@@ -13,10 +13,10 @@
     "05.jpg": "93ba3713000305856aa2cee3c9f2beca3065ac8f553c7fcb61988e5d59da3765",
     "06.jpg": "b81150767b1fd6d28d12d367cd43b1fd932061b05d4caf546658d6f700296adb",
     "07.jpg": "286ec4363f4c591a6603488f7a9e435151cafe45652b2f90e7c08d1cd288ce37",
-    "README.md": "07e9cbf46eaad6c2cc907aa8e68b234652d5f7eb36caf6cb344d2944b21d62c5",
+    "README.md": "fd570ad69f2b8861d2d46456c72e1d68e65e0fec61399ac439669ac8171351d8",
     "caption.txt": "6fe175573ec8bd589b4e11855b35e2c328e40263c70b61708495ed3f7c84a81f",
     "cover.jpg": "c2d5af806b7a80c61ccec2f011bf4db71f8e773c1e3ec82a8ad7910db79e616e",
-    "index.html": "106f000536a0278b3e3a40a31786fd5857f6349013b28741eccac5746d9fdc76",
+    "index.html": "d852dc1d68845d15e7121f4c82a0f6062cad6d0f9ffa4ae2f51592e7e2c7d4cf",
     "slides.zip": "ded1c6c4c6441052ca088a1e8be685736dfce12a4aaa557fed220434aa295475"
   }
 }

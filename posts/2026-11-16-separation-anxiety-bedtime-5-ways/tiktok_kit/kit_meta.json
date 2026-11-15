@@ -1,0 +1,32 @@
+{
+  "post": "2026-11-16-separation-anxiety-bedtime-5-ways",
+  "slot": "Monday, Nov 16, 2026 at 5:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "d216fbdf00ac9ca2",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "728f0bf6a7de762eeaeb5240b7b9bbcb547769af60ff42cbd9c13209ecb255c6",
+    "02.jpg": "326fe0f4408ab80cd67f3d9de3a4dcf676223c1b63c51207fd1966b0e22b12aa",
+    "03.jpg": "9725f1dd3b0abc421ba0a337745358e915f02f86592c38e7d03bc7d2adb005e4",
+    "04.jpg": "db03b4d9117173d6aca00026bb52dd6af7ab8eb4241dc32a0e1facca8c2074d9",
+    "05.jpg": "b6a8b370ea19d9fd006c00536045bc4f2da6e4ba5c24b2fba6f3e6902756e35a",
+    "06.jpg": "44b347445ace4298c867a86ea1f7388d66e4018fa83868e592ad1690621b45fb",
+    "07.jpg": "4e691f444682e2fd8a026af3c9f5c313f75e1cdcdad4a8bb488d14a589d399ba",
+    "08.jpg": "fb1eea13a100fa72376d0497740d7949cb41a68cc44307632c9945a9b51e0a3a",
+    "README.md": "3f426e2f49a82aa613bf645a60e03499ec5e83cf80e1816445b7f47612fb2609",
+    "caption.txt": "bb76ff5d6579988f91de4f577e4e23037913f62126307170d775d090d267c49e",
+    "cover.jpg": "728f0bf6a7de762eeaeb5240b7b9bbcb547769af60ff42cbd9c13209ecb255c6",
+    "index.html": "62df42f3f6461fa3134bdeac539799bce3724407387cb33a67d23c1dee6a6c44",
+    "slides.zip": "3a0536ec76152eceeb57dba51bd42ef7449afe1b49acceb5658aeed81860bc32"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}
