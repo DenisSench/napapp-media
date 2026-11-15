@@ -90,7 +90,6 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 ```
 Save this for the 3am "is this normal?" moment 🌙🐣 Grunts, sneezes and short stretches are common, and the AAP notes newborns may only sleep 1 or 2 hours at a time. Log every wake in one tap with Napapp, so you're not counting in the dark. Link in bio.
 Not medical advice. Questions? Check with your pediatrician.
-Source: AAP, healthychildren.org "Getting Your Baby to Sleep" ("they may only sleep 1 or 2 hours at a time").
 
 #newbornlife #newmom #babysleeptips #napapp
 ```

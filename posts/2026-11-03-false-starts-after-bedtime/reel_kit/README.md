@@ -13,11 +13,11 @@
 7. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add a **Facebook** pick from the Sound block (Sound Collection, only tracks tagged 'Royalty-free'; or the CC0 re-render) → paste the **FB caption** below.
 8. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice; a licensed IG song may not carry over to the Page anyway).
 9. After posting, send Bob the two links so the stats script can match them to this post.
+10. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 ## Notes
 
 - `reel.mp4` is Lee's `reel-preview-v5.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
-- Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from package/UPLOAD.md.
 
 ## TikTok caption (posted from this kit)
@@ -28,6 +28,23 @@ That wake soon after going down is common, and many parents call it a false star
 Sources: Cleveland Clinic, NHS. Not medical advice. If you're worried, check with your pediatrician.
 
 #babysleep #bedtime #newparents #babysleeptips
+```
+
+## YouTube Shorts
+
+Title:
+
+```
+
+```
+
+Description:
+
+```
+Up 30-45 min after bedtime? Is it a false start?
+That wake soon after going down is common, and many parents call it a false start. A long last wake window, a busy day or an exciting wind-down can all play a part. These are possibilities, not a diagnosis, and . Save this for tonight 🤍 Log bedtimes and wake-ups in one tap to see your own pattern. Napapp,
+
+#Shorts #babysleep #bedtime #newparents
 ```
 
 ## Sound

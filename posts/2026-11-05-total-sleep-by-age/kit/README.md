@@ -9,7 +9,7 @@ Asset: ../reel_kit/reel.mp4
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -63,7 +63,6 @@ Typical total sleep in 24 hours, naps included: 4-12 months 12-16 hours; 1-2 yea
 Under 4 months? There's no official recommendation, because newborn sleep varies so much. These are typical ranges, not targets, and every baby is different.
 Save this for later 🤍
 Log sleep in one tap to see your baby's daily totals. Napapp, link in bio.
-Sources: AASM guidance, endorsed by the AAP; Cleveland Clinic. Not medical advice. Check with your pediatrician about your baby's sleep.
 
 #babysleep #babysleeptips #toddlersleep #newmom
 ```

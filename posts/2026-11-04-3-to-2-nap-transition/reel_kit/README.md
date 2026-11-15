@@ -13,11 +13,11 @@
 7. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add a **Facebook** pick from the Sound block (Sound Collection, only tracks tagged 'Royalty-free'; or the CC0 re-render) → paste the **FB caption** below.
 8. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice; a licensed IG song may not carry over to the Page anyway).
 9. After posting, send Bob the two links so the stats script can match them to this post.
+10. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 ## Notes
 
 - `reel.mp4` is Lee's `reel-preview-v5.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
-- Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from package/UPLOAD.md.
 
 ## TikTok caption (posted from this kit)
@@ -28,6 +28,23 @@ A third nap that turns into a battle, shorter naps, and a bedtime that keeps cre
 Source: Cleveland Clinic. Not medical advice. Questions? Check with your pediatrician.
 
 #napschedule #babysleep #wakewindows #newmom
+```
+
+## YouTube Shorts
+
+Title:
+
+```
+
+```
+
+Description:
+
+```
+3 naps getting messy? Common signs of the move to 2.
+A third nap that turns into a battle, shorter naps, and a bedtime that keeps creeping later are signs many parents notice. Wake windows typically get longer as babies grow, from about 2-4 hours at 5-7 months to 2½-4½ hours at 7-10 months (Cleveland Clinic's typical ranges, not targets), so fitting in three naps can get harder. . Save this for later 🤍 Log naps in one tap to see the shift. Napapp,
+
+#Shorts #napschedule #babysleep #wakewindows
 ```
 
 ## Sound

@@ -9,8 +9,8 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -19,8 +19,6 @@ Title:
 Description:
 
 ```
-This video includes AI-generated content.
-
 #Shorts #newbornlife #newmom #babysleeptips
 ```
 
@@ -38,7 +36,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 ```
 Save this for the 3am "is this normal?" moment 🌙🐣 Grunts, sneezes and short stretches are common, and the AAP notes newborns may only sleep 1 or 2 hours at a time. Log every wake in one tap with Napapp, so you're not counting in the dark. Link in bio.
 Not medical advice. Questions? Check with your pediatrician.
-Source: AAP, healthychildren.org "Getting Your Baby to Sleep" ("they may only sleep 1 or 2 hours at a time").
 
 #newbornlife #newmom #babysleeptips #napapp
 ```
@@ -58,7 +55,6 @@ Caption (post.md):
 ```
 Save this for the 3am "is this normal?" moment 🌙🐣 Grunts, sneezes and short stretches are common, and the AAP notes newborns may only sleep 1 or 2 hours at a time. Log every wake in one tap with Napapp, so you're not counting in the dark. Link in bio.
 Not medical advice. Questions? Check with your pediatrician.
-Source: AAP, healthychildren.org "Getting Your Baby to Sleep" ("they may only sleep 1 or 2 hours at a time").
 
 #newbornlife #newmom #babysleeptips #napapp
 ```
@@ -68,7 +64,7 @@ Source: AAP, healthychildren.org "Getting Your Baby to Sleep" ("they may only sl
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
+2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 
@@ -77,7 +73,6 @@ Caption (post.md):
 ```
 Save this for the 3am "is this normal?" moment 🌙🐣 Grunts, sneezes and short stretches are common, and the AAP notes newborns may only sleep 1 or 2 hours at a time. Log every wake in one tap with Napapp, so you're not counting in the dark. Link in bio.
 Not medical advice. Questions? Check with your pediatrician.
-Source: AAP, healthychildren.org "Getting Your Baby to Sleep" ("they may only sleep 1 or 2 hours at a time").
 
 #newbornlife #newmom #babysleeptips #napapp
 ```

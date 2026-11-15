@@ -22,7 +22,7 @@
     },
     "ig": {
       "date": "2026-11-15",
-      "time": "09:00",
+      "time": "12:00",
       "status": "Held",
       "posted": false,
       "mode": "hand",
@@ -30,7 +30,7 @@
     },
     "fb": {
       "date": "2026-11-15",
-      "time": "09:00",
+      "time": "12:00",
       "status": "Held",
       "posted": false,
       "mode": "hand",
@@ -38,16 +38,15 @@
     }
   },
   "files": {
-    "README.md": "583ab68f6eb504c179326aa0475d3efa0a5044572ce394f230fc11f21130361f",
+    "README.md": "5734f159fac2ce75fc57ef4dcf45e069b658e3d6073ed611dba0c7c9726d002b",
     "fb_caption.txt": "c0f48d2cc1e83bd02d02827140da2e01b60acc4b2ce4b233871c37837f215266",
     "ig_caption.txt": "a3e4b220f4cdd53278be3d9c0a1afecc15fdde6808c6df51e5ef024e996c0d91",
-    "index.html": "da57506e0776a5ee5a85d77a6c09bae1b415c324b00258e4684c3a4051814919",
+    "index.html": "87e4dd1bb6359330efe775765e052d1f488fb08916ef74bb3691a65b335d0478",
     "tiktok_caption.txt": "46785454cdcee0abaacbf9d45d1e8c475fba99e72558ebe3ad259e14d7e178c1",
-    "youtube_description.txt": "753a0ed821b16c8e9cd803fd34fb3681f2f41758faf74b235280bf06a782fd73",
+    "youtube_description.txt": "98d52c740970546ff1167f621c909559f7d419f197478729cb7fa9decfea9121",
     "youtube_title.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   "refs": {
-    "reel_kit/reel.mp4": "d7658756eac75629207b1154254415e46e82412a7c0da6a33dc62ec1b489c8ef",
-    "reel_kit/reel-fb.mp4": "572717fa86bd3bba65099a6d6ca19085e1760d987955b0f110b4787d6355ab15"
+    "reel_kit/reel.mp4": "d7658756eac75629207b1154254415e46e82412a7c0da6a33dc62ec1b489c8ef"
   }
 }

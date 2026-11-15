@@ -9,7 +9,7 @@ Asset: ../reel_kit/reel.mp4
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -57,7 +57,6 @@ Caption (reel_kit/captions.md):
 ```
 6 PM and the evening shift clocks in. A daily fussy stretch, often between 6 p.m. and midnight, is common in young babies, and it usually eases over the first few months.
 What many parents try: dim lights, a quieter house, gentle motion in a carrier or their arms. It won't fix every evening, and that's okay. Every baby is different, so check with your pediatrician if the crying is new, intense or worrying. Napapp, link in bio.
-Source: AAP HealthyChildren.org, "Colic Relief Tips for Parents".
 
 #newbornlife #newmom #babysleeptips #napapp
 ```
@@ -75,7 +74,6 @@ Caption (reel_kit/captions.md):
 ```
 6 PM and the evening shift clocks in. A daily fussy stretch, often between 6 p.m. and midnight, is common in young babies, and it usually eases over the first few months.
 What many parents try: dim lights, a quieter house, gentle motion in a carrier or their arms. It won't fix every evening, and that's okay. Every baby is different, so check with your pediatrician if the crying is new, intense or worrying. Napapp: Link in bio.
-Source: AAP HealthyChildren.org, "Colic Relief Tips for Parents".
 ```
 
 ## Sound

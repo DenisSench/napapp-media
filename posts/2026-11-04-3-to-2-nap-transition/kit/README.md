@@ -9,7 +9,7 @@ Asset: ../reel_kit/reel.mp4
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -41,7 +41,6 @@ Caption (reel_kit/captions.md):
 ```
 3 naps getting messy? Common signs of the move to 2.
 A third nap that turns into a battle, shorter naps, and a bedtime that keeps creeping later are signs many parents notice. Wake windows typically get longer as babies grow, from about 2-4 hours at 5-7 months to 2½-4½ hours at 7-10 months (Cleveland Clinic's typical ranges, not targets), so fitting in three naps can get harder. Every baby is different. Save this for later 🤍 Log naps in one tap to see the shift. Napapp, link in bio.
-Source: Cleveland Clinic. Not medical advice. Questions? Check with your pediatrician.
 
 #napschedule #babysleep #wakewindows #newmom
 ```
@@ -62,7 +61,6 @@ Caption (reel_kit/captions.md):
 A third nap that's a battle, shorter naps, and a bedtime creeping later are signs many parents notice. Wake windows typically get longer as babies grow (typical ranges, not targets), so three naps can get harder to fit. Every baby is different.
 Save this for later 🤍
 Log naps in one tap to see the shift. Napapp, link in bio.
-Source: Cleveland Clinic. Not medical advice. Questions? Check with your pediatrician.
 
 #napschedule #babysleep #wakewindows #newmom
 ```

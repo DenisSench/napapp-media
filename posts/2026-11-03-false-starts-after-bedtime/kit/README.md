@@ -9,7 +9,7 @@ Asset: ../reel_kit/reel.mp4
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -20,8 +20,6 @@ Description:
 ```
 Up 30-45 min after bedtime? Is it a false start?
 That wake soon after going down is common, and many parents call it a false start. A long last wake window, a busy day or an exciting wind-down can all play a part. These are possibilities, not a diagnosis, and . Save this for tonight 🤍 Log bedtimes and wake-ups in one tap to see your own pattern. Napapp,
-
-Sources: Cleveland Clinic, NHS. . If you're worried, check with your pediatrician.
 
 #Shorts #babysleep #bedtime #newparents
 ```
@@ -42,7 +40,6 @@ Caption (reel_kit/captions.md):
 ```
 Up 30-45 min after bedtime? Is it a false start?
 That wake soon after going down is common, and many parents call it a false start. A long last wake window, a busy day or an exciting wind-down can all play a part. These are possibilities, not a diagnosis, and every baby is different. Save this for tonight 🤍 Log bedtimes and wake-ups in one tap to see your own pattern. Napapp, link in bio.
-Sources: Cleveland Clinic, NHS. Not medical advice. If you're worried, check with your pediatrician.
 
 #babysleep #bedtime #newparents #babysleeptips
 ```
@@ -63,7 +60,6 @@ Up 30-45 min after bedtime? Is it a false start?
 That wake soon after going down is common. A long last wake window, a busy day or an exciting wind-down can all play a part. Possibilities, not a diagnosis; every baby is different.
 Save this for tonight 🤍
 Log bedtimes and wake-ups in one tap to see your pattern. Napapp, link in bio.
-Sources: Cleveland Clinic, NHS. Not medical advice. If you're worried, check with your pediatrician.
 
 #babysleep #bedtime #newparents #babysleeptips
 ```

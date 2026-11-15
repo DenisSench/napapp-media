@@ -91,7 +91,6 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 POV: Grandma's lap beats every nap plan 👵🫶 One cuddle, two gentle rocks, and she's out. Sweet… until bedtime, when nobody remembers when she last napped. Napapp keeps every nap in one History, so the answer is a glance away 🧸
 Contact naps are lovely when an adult is awake; for sleep, baby goes on their back in a bare crib (AAP).
 Link in bio. Not medical advice. Questions? Check with your pediatrician.
-Source: AAP safe sleep guidance (healthychildren.org)
 
 #babysleep #grandparents #contactnaps #newparents #napapp
 ```

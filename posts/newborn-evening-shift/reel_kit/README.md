@@ -13,11 +13,11 @@
 7. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add a **Facebook** pick from the Sound block (Sound Collection, only tracks tagged 'Royalty-free'; or the CC0 re-render) → paste the **FB caption** below.
 8. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice; a licensed IG song may not carry over to the Page anyway).
 9. After posting, send Bob the two links so the stats script can match them to this post.
+10. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 ## Notes
 
 - `reel.mp4` is Lee's `reel-preview-v3.1-rec.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
-- Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from post.md (## TikTok Caption).
 
 ## TikTok caption (posted from this kit)
@@ -26,6 +26,22 @@
 Dinner was going so well. Who else gets the evening shift? Every baby is different, so check with your pediatrician if the crying worries you.
 
 #newbornlife #newmom #babysleeptips #napapp
+```
+
+## YouTube Shorts
+
+Title:
+
+```
+
+```
+
+Description:
+
+```
+Dinner was going so well. Who else gets the evening shift? , so check with your pediatrician if the crying worries you.
+
+#Shorts #newbornlife #newmom #babysleeptips
 ```
 
 ## Sound

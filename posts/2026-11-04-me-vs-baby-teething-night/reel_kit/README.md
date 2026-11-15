@@ -13,11 +13,11 @@
 7. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add a **Facebook** pick from the Sound block (Sound Collection, only tracks tagged 'Royalty-free'; or the CC0 re-render) → paste the **FB caption** below.
 8. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice; a licensed IG song may not carry over to the Page anyway).
 9. After posting, send Bob the two links so the stats script can match them to this post.
+10. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 ## Notes
 
 - `reel.mp4` is Lee's `reel-preview-v4.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
-- Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from package/UPLOAD.md.
 
 ## TikTok caption (posted from this kit)
@@ -27,6 +27,23 @@
 Just for laughs, not medical advice. If your baby seems unwell or you're worried, check with your pediatrician.
 
 #momlife #parentinghumor #teething #babysleep
+```
+
+## YouTube Shorts
+
+Title:
+
+```
+
+```
+
+Description:
+
+```
+2am detective mode: teething? regression? moon? 🌙 Honestly, only your pediatrician can tell you, so jotting down what you notice helps. Follow for more tired-parent truths 🤍 Log the night in one tap. Napapp,
+Just for laughs, . If your baby seems unwell or you're worried, check with your pediatrician.
+
+#Shorts #momlife #parentinghumor #teething
 ```
 
 ## Sound

@@ -9,8 +9,8 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -22,10 +22,6 @@ Description:
 
 ```
 Same steps, same order, every night 🛁📖 A short, calm routine gives babies the cue that sleep is coming: a warm bath, a fresh diaper and pajamas, dim lights and one quiet book, then a song, a cuddle and into the crib. From about 4 months, the AAP suggests putting babies down drowsy but still awake. For every sleep: on their back, on a firm, flat surface, in an empty crib. Napapp logs sleep in one tap. App link on the channel.
-
-Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
-
-This video includes AI-generated content.
 
 #Shorts #bedtimeroutine #babysleep #newparents
 ```
@@ -43,8 +39,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 
 ```
 Same steps, same order, every night 🛁📖 A short, calm routine gives babies the cue that sleep is coming: a warm bath, a fresh diaper and pajamas, dim lights and one quiet book, then a song, a cuddle and into the crib. From about 4 months, the AAP suggests putting babies down drowsy but still awake. For every sleep: on their back, on a firm, flat surface, in an empty crib. What's step 1 in your house? Napapp logs sleep in one tap and gives you sleep coaching tips made for your baby. Link in bio.
-
-Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #bedtimeroutine #babysleep #newparents #napapp
 ```
@@ -66,8 +60,6 @@ Same steps, same order, every night 🛁📖
 A short, calm routine gives babies the cue that sleep is coming: a warm bath, a fresh diaper and pajamas, dim lights and one quiet book, then a song, a cuddle and into the crib. From about 4 months, the AAP suggests putting babies down drowsy but still awake. For every sleep: on their back, on a firm, flat surface, in an empty crib. What's step 1 in your house? Napapp logs sleep in one tap and gives you sleep coaching tips made for your baby.
 Link in bio.
 
-Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
-
 #bedtimeroutine #babysleep #newparents #napapp
 ```
 
@@ -76,7 +68,7 @@ Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (H
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
+2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 
@@ -84,8 +76,6 @@ Caption (post.md):
 
 ```
 Same steps, same order, every night 🛁📖 A short, calm routine gives babies the cue that sleep is coming: a warm bath, a fresh diaper and pajamas, dim lights and one quiet book, then a song, a cuddle and into the crib. From about 4 months, the AAP suggests putting babies down drowsy but still awake. For every sleep: on their back, on a firm, flat surface, in an empty crib. What's step 1 in your house? Napapp logs sleep in one tap and gives you sleep coaching tips made for your baby. Link in bio.
-
-Sources: NHS, "Helping your baby to sleep"; AAP, "Getting Your Baby to Sleep" (HealthyChildren.org); AAP, "A Parent's Guide to Safe Sleep" (HealthyChildren.org)
 
 #bedtimeroutine #babysleep #newparents #napapp
 ```

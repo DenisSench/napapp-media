@@ -13,11 +13,11 @@
 7. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add a **Facebook** pick from the Sound block (Sound Collection, only tracks tagged 'Royalty-free'; or the CC0 re-render) → paste the **FB caption** below.
 8. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice; a licensed IG song may not carry over to the Page anyway).
 9. After posting, send Bob the two links so the stats script can match them to this post.
+10. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 ## Notes
 
 - `reel.mp4` is Lee's `reel-preview-v2-trim-proposal.mp4` used as-is (byte-for-byte copy (source already had audio)); frames verified identical.
-- Caption: post.md has no '## Sources' list; captions are as written in post.md (any source named there is kept).
 - TikTok caption: approved text from package/UPLOAD.md.
 
 ## TikTok caption (posted from this kit)
@@ -28,6 +28,24 @@ Typical total sleep in 24 hours, naps included: 4-12 months 12-16 hours, 1-2 yea
 Not medical advice. Check with your pediatrician about your baby's sleep.
 
 #babysleep #babysleeptips #toddlersleep #newmom
+```
+
+## YouTube Shorts
+
+Title:
+
+```
+
+```
+
+Description:
+
+```
+How much sleep, 4 months to 2 years?
+Typical total sleep in 24 hours, naps included: 4-12 months 12-16 hours, 1-2 years 11-14 hours (AASM guidance, endorsed by the AAP). There's no official range under 4 months, because newborn sleep varies so much (Cleveland Clinic). These are typical ranges, not targets, and . Save this for later 🤍 Log sleep in one tap to see your baby's daily totals. Napapp,
+. Check with your pediatrician about your baby's sleep.
+
+#Shorts #babysleep #babysleeptips #toddlersleep
 ```
 
 ## Sound

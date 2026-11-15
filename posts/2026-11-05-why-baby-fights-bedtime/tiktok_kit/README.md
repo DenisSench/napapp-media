@@ -83,7 +83,6 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 ```
 Baby or toddler fighting bedtime? Common reasons.
 Bedtime battles are so common, and they're not a sign you're doing it wrong. Possible reasons include being overtired, not being tired enough yet, or a recent change like a new routine, a growth spurt or teething. These are possibilities, not a diagnosis, and there's no guaranteed fix. The NHS notes a simple, soothing bedtime routine may help babies settle. Save this for later 🤍 Log bedtimes in one tap to spot the pattern. Napapp, link in bio.
-Sources: Cleveland Clinic, NHS. Not medical advice. If your baby seems unwell or you're worried, check with your pediatrician.
 
 #babysleep #bedtimeroutine #toddlersleep #newmom
 ```
@@ -105,7 +104,6 @@ Being overtired, not being tired enough yet, or a recent change like a new routi
 These are possibilities, not a diagnosis, and there's no guaranteed fix. A simple, soothing bedtime routine may help babies settle. Every baby is different.
 Save this for the next bedtime battle 🤍
 Log bedtimes in one tap to spot the pattern. Napapp, link in bio.
-Sources: Cleveland Clinic, NHS. Not medical advice. If your baby seems unwell or you're worried, check with your pediatrician.
 
 #babysleep #bedtimeroutine #toddlersleep #newmom
 ```

@@ -8,7 +8,6 @@ Many toddlers move to one nap somewhere around 18-24 months, and it's often a me
 Total sleep still matters: toddlers 1-2 years typically need 11-14 hours in 24 hours, naps included. These are typical ranges, not targets.
 Save this for when the second nap gets wobbly 🤍
 Log naps in one tap to see the pattern. Napapp, link in bio.
-Sources: Cleveland Clinic; AASM (via Cleveland Clinic).
 
 #toddlersleep #napschedule #babysleep #parentingtips
 ```

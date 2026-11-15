@@ -38,10 +38,10 @@
     }
   },
   "files": {
-    "README.md": "a84849f2d53ab4999a7a7bb7a3c14657679b246672c1376f3d990fb7a04646fc",
+    "README.md": "3571a19ca1d354c0a021d579bf67b06028d6f8368a50bd324a6066bfb82e68fc",
     "fb_caption.txt": "b51fc0ac5fe79e40fbe048ccee320cf56f4efab263e6c7c211e063f90a78cf1b",
-    "ig_caption.txt": "183b6911ca1e84cb4d280aff92a76fc009b89b4774bcb244ab849f3dc0143110",
-    "index.html": "1b9fa3f8632798cd6b3393697168b2b8bbe8373aad26a03c887125fef53f6d3c",
+    "ig_caption.txt": "0fe4ec8fa26bd82336b645113524410e50195f2f42e22fa599a20fb324ac1efc",
+    "index.html": "06d8f3936556428277e7ac53a1f93e852c3dcdf137fe0f5f6392492f96ebada0",
     "tiktok_caption.txt": "0b886a2dca58eac66d7cd03873f9341f3b45d425c3972f6499f222f44756708f",
     "youtube_description.txt": "963b5aaa6c6b9b770695a9eae8b9f6a00c9351d18faaf0f3053da07464169e1c",
     "youtube_title.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
@@ -61,6 +61,6 @@
     "tiktok_kit/4x5/04.jpg": "062b0b571f3a33ff49b497b12914c505ca3ad8b55156842a0e636729d08d15ad",
     "tiktok_kit/4x5/05.jpg": "ede6a2c6076a6fc0597732d0dc303790348091e3127a6abac9964cb45d8bee6e",
     "tiktok_kit/4x5/06.jpg": "b6d54f0a09c8161ddccdd9df9ac83ca54652d3def65fa2de31b87265a012f087",
-    "tiktok_kit/slides-4x5.zip": "42f8b2fe3153dc8bcddb990c6b21d82caecc1ed6d75126dd5e07c3cde007dcc8"
+    "tiktok_kit/slides-4x5.zip": "48c5e407e79ec40d7fe95aec0d36864705fbd9af6ce372464e8d0e8f7ae46762"
   }
 }

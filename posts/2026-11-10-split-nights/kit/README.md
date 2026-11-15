@@ -9,8 +9,8 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -21,8 +21,6 @@ Why is your baby partying at 2 AM? (Denis)
 Description:
 
 ```
-This video includes AI-generated content.
-
 #Shorts
 ```
 
@@ -40,7 +38,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 ```
 Why is your baby partying at 2 AM? 🪩🌙 Babbling, kicking, zero signs of sleep, night after night. Lots of day sleep, an early bedtime or a long late nap can play a part. Log naps in one tap with Napapp and get sleep coaching tips made for your baby. Link in bio.
 Not medical advice. If you're worried about your baby's sleep, talk to your pediatrician.
-Sources: AAP (HealthyChildren.org), NHS, Cleveland Clinic.
 
 #babysleep #nightwakings #napschedule #newparents #napapp
 ```
@@ -60,7 +57,6 @@ Caption (post.md):
 ```
 Why is your baby partying at 2 AM? 🪩🌙 Babbling, kicking, zero signs of sleep, night after night. Lots of day sleep, an early bedtime or a long late nap can play a part. Log naps in one tap with Napapp and get sleep coaching tips made for your baby. Link in bio.
 Not medical advice. If you're worried about your baby's sleep, talk to your pediatrician.
-Sources: AAP (HealthyChildren.org), NHS, Cleveland Clinic.
 
 #babysleep #nightwakings #napschedule #newparents #napapp
 ```
@@ -70,7 +66,7 @@ Sources: AAP (HealthyChildren.org), NHS, Cleveland Clinic.
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA-fb.mp4.
+2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 

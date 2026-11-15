@@ -9,8 +9,8 @@ Asset: ../reel_kit/reel.mp4
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -21,8 +21,6 @@ Description:
 ```
 Bedtime plans vs bedtime reality 😅 , and so is every night. Follow for more tired-parent truths 🤍 If your 7pm plan is really a 9pm reality, track it in one tap. Napapp,
 Just for laughs, . Questions about your baby's sleep? Check with your pediatrician.
-
-This video includes AI-generated content.
 
 #Shorts #momlife #parentinghumor #babysleep
 ```
@@ -72,7 +70,7 @@ Just for laughs, not medical advice. Questions about your baby's sleep? Check wi
 Reel posted by you by hand
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → reel-fb.mp4 (the Facebook Reel above, not the Instagram one).
+2. Facebook: switch to the Napapp Page → Reel → the same reel.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 

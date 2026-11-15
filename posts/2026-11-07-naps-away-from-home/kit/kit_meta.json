@@ -46,15 +46,14 @@
     "4x5/06.jpg": "ab5343d977f8bd6a31355c2f4d44ecd11eb94de0798ef77a1a29b433eb9ed90c",
     "4x5/07.jpg": "882d36b304c0b278870c14a4cd7a2d93189540112ae09b163d2f7cbd67ccaec6",
     "4x5/08.jpg": "edbeecc26673a36616fb2a6472b81455ebd349d6425f9578b05aa140797afd21",
-    "README.md": "2d50fe09cd03850ead571ffcff39d45b31dc2a25041242810f8a692f9b300ed0",
+    "README.md": "8a4111c4cd24a47f409c7d4a3df5b9fd387f30c290017416cb1e6cacf641c3df",
     "fb_caption.txt": "0aea9a3ecff48a49d6c11574bdd76977e361134f584b1438248e2d5211e23f21",
     "ig_caption.txt": "8dbfeafa3c87394b3e5b4f5351b653e23f4fb9f315e16c4f5286dee9d86d572f",
-    "index.html": "272a810d2658fc616f1aa5f94e70b00b4b579ad1788c657bf187236e97b9c92b",
-    "reel-preview-slideshow-lookA-fb.mp4": "9b6775f901a59b505bf8d2711165d763630578b45a3da3545456b2dd3ed9facb",
+    "index.html": "5242e881bf9795ff8b2850110e3a31fd2525600d454d3388e8319c60d508a439",
     "reel-preview-slideshow-lookA.mp4": "e66175a7b0ebf0971f98ac8307209ef3621301c44e38976680bddbc0df10a0b0",
     "slides-4x5.zip": "d0f2d6ee0293108cef46ddf0c078a04da78e4177351674664b8bd083c080209a",
-    "tiktok_caption.txt": "2b38abfb4f5ec8241fd4d537bf4320ea2e0e121522e5351511e6cb6fe1fe6491",
-    "youtube_description.txt": "1424a32454c6d4338a04a2d69a6af807c23dc02a295ff74ed3956bbd2611cf1d",
+    "tiktok_caption.txt": "131e547a157342f2934c3acad75a79179aaff38e02cc51a93d14ccc47ecb920b",
+    "youtube_description.txt": "d7eaa79231fd78046dd1b47980ccef895c640c6c105322e7b7447afade748119",
     "youtube_title.txt": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
   "refs": {
@@ -67,6 +66,6 @@
     "tiktok_kit/07.jpg": "b14988a9bf9493ae099cfb51e5d83f9ae7fcfa6dce1e3fe64983055f3d11b4d7",
     "tiktok_kit/08.jpg": "a9e586455fa57cf7e1ffe088b73fb2784372ed39bb686f0c2e93aaf9b73367a3",
     "tiktok_kit/cover.jpg": "c0a734fbfb3ea940d8ca41e95727210f84642dd1411fb02428446cc72af9e257",
-    "tiktok_kit/slides.zip": "c9385090c56638f1add90cfb500653ab73e084b9f9d055323319f04cf83fdbc4"
+    "tiktok_kit/slides.zip": "d9b63253f884a8933e3a5688d5613d03224ec20d46ed24a2ba4e58892a4ce502"
   }
 }

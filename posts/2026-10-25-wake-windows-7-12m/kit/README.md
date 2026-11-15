@@ -9,8 +9,8 @@ Asset: ../reel_kit/reel.mp4
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube: before publishing the Short, set the altered/synthetic content toggle to Yes.
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -20,8 +20,6 @@ Description:
 
 ```
 Wake windows for older babies, in one place: 7-10 months is about 2.5-4.5 hours, and 10-12 months is about 3-6 hours. These are typical ranges, not a schedule to hit. , so follow their cues. Source: Cleveland Clinic. Save this for later 🤍 Want to see your baby's own pattern? Log naps in one tap. Napapp,
-
-This video includes AI-generated content.
 
 #Shorts #wakewindows #babysleep #napschedule
 ```
@@ -44,7 +42,7 @@ Not medical advice. Check with your pediatrician about your baby's sleep.
 #wakewindows #babysleep #napschedule #babysleeptips
 ```
 
-## Instagram · Sun Nov 15, 9:00 AM ET · Hand-post
+## Instagram · Sun Nov 15, 12:00 PM ET · Hand-post
 
 Reel posted by you by hand
 
@@ -66,12 +64,12 @@ Want to see your baby's own pattern? Log naps in one tap. Napapp, link in bio.
 #wakewindows #babysleep #napschedule #babysleeptips
 ```
 
-## Facebook · Sun Nov 15, 9:00 AM ET · Hand-post
+## Facebook · Sun Nov 15, 12:00 PM ET · Hand-post
 
 Reel posted by you by hand
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → reel-fb.mp4 (the Facebook Reel above, not the Instagram one).
+2. Facebook: switch to the Napapp Page → Reel → the same reel.mp4.
 3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
 4. Paste the FB caption → Post. Send Bob the link.
 

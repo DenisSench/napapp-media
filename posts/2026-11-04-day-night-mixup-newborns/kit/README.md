@@ -9,7 +9,7 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -56,7 +56,6 @@ Newborns don't know night from day at first, because their body clock isn't set 
 The NHS suggests keeping days light with everyday noise, and nights dim, calm and boring. Cleveland Clinic says it often shifts around 3-6 months, and every baby is different.
 Save this for the next 3am party 🤍
 Log sleep in one tap to see the shift. Napapp, link in bio.
-Sources: NHS; Cleveland Clinic. Not medical advice. Check with your pediatrician about your newborn's sleep.
 
 #newbornsleep #newmom #babysleep #newborn
 ```

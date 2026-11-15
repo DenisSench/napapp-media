@@ -46,15 +46,14 @@
     "4x5/06.jpg": "89501723d92d621bf44e9985df3d0ac84e9ed53a713a4ed9f4e67aa40170116d",
     "4x5/07.jpg": "a9b173d13dc36c67059ca42b992ebdb7bc273fe97bf380187baca3b3ea9fd3e2",
     "4x5/08.jpg": "edbeecc26673a36616fb2a6472b81455ebd349d6425f9578b05aa140797afd21",
-    "README.md": "875ff409c6676c773e8a54ab217cdc03b132a3af3ca983e803fdfb84e9f97364",
+    "README.md": "f053f30a5e8d5fbc96c433cf5ad440a97c5a2971fb0dde8617827298f8b35b44",
     "fb_caption.txt": "1d06fd4fb841fa439e5569f01d69738fbb3ad82f8a5387778494fa7c32baaabc",
-    "ig_caption.txt": "06c5cea20139a0abef94778bfec064f77040b202f76e64ae778a1a9155ac414d",
-    "index.html": "6431b10f0ab5554714c6f59826987d72ccac95b48246fa3fb9af5371a05b7cfa",
-    "reel-preview-slideshow-lookA-fb.mp4": "52c878a9c46250cb41e023a775c2a58394ada41c0f4bd38881ff0b0670070359",
+    "ig_caption.txt": "badd658812850fbb421e5d894e783f9e7f512d41ceb9735d796e9ff303dcbfe6",
+    "index.html": "989616673c8e46a3525fa1c7980be6260f4b7967a78234f1150d3e624e0cbe27",
     "reel-preview-slideshow-lookA.mp4": "02f897f86afbefa3b6ad34ecfda215360d1281d5d51162c0944a866cefe4adca",
     "slides-4x5.zip": "fbdd9a7fbfa384d25a4861a958a3aa408a5994f155528995e0dd526e53ea2237",
-    "tiktok_caption.txt": "06c5cea20139a0abef94778bfec064f77040b202f76e64ae778a1a9155ac414d",
-    "youtube_description.txt": "be09be77c23c4cb3ed4aced35519605473b1ae640935cf659ca5c75b88096c00",
+    "tiktok_caption.txt": "badd658812850fbb421e5d894e783f9e7f512d41ceb9735d796e9ff303dcbfe6",
+    "youtube_description.txt": "52992678b7c266d07a2aa100c044e63d855359ade51f9442df553208bb9a7367",
     "youtube_title.txt": "75e950a1a2ac4ecdcf23e032ad7c1a732609f5fac795ee7b8c3b0ee71733aa76"
   },
   "refs": {
@@ -67,6 +66,6 @@
     "tiktok_kit/07.jpg": "809270ab21c766a2ecd480546c949cb8d374db0660c2aa66d0faf65fe84e7720",
     "tiktok_kit/08.jpg": "a9e586455fa57cf7e1ffe088b73fb2784372ed39bb686f0c2e93aaf9b73367a3",
     "tiktok_kit/cover.jpg": "8f78d897cafe100b9ec6769b6171a32bae13a6646fba6c5e94c9e72857d6aeb9",
-    "tiktok_kit/slides.zip": "240c7e68b16fbc7c82ec9c9b32ac346f5ac15079e523eb37347117daf3d4704c"
+    "tiktok_kit/slides.zip": "c769c6a066c172990958efb6c05f7a1302adfc42628a0ae4a8a95d51b5861e7a"
   }
 }

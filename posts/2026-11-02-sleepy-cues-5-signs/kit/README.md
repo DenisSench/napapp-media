@@ -9,7 +9,7 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -38,7 +38,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 ```
 Yawning or meltdown? Early vs late sleepy cues by age.
 Early cues are quieter: yawning, staring off and frowning in newborns; eye rubbing, ear pulling and losing interest in play in older babies; yawning and slowing down in toddlers. Late cues get louder: frantic crying, clinginess, or a toddler who suddenly seems wired. Once little ones are overtired, settling can get harder, so many parents watch for the early ones. Every baby is different. Save this cheat sheet 🤍 Log naps in one tap to see when cues tend to show up. Napapp, link in bio.
-Source: Cleveland Clinic. Not medical advice. Check with your pediatrician about your baby's sleep.
 
 #babysleep #sleepycues #newmom #babysleeptips #toddlersleep
 ```
@@ -56,7 +55,6 @@ Yawning or meltdown? Early vs late sleepy cues by age.
 Early cues are quieter (yawning, staring off, eye rubbing, losing interest in play); late cues get louder (frantic crying, clinginess, a toddler who suddenly seems wired). Once little ones are overtired, settling can get harder. Every baby is different.
 Save this cheat sheet for nap time 🤍
 Log naps in one tap to see when cues show up. Napapp, link in bio.
-Source: Cleveland Clinic. Not medical advice. Check with your pediatrician about your baby's sleep.
 
 #babysleep #sleepycues #newmom #babysleeptips #toddlersleep
 ```

@@ -7,7 +7,6 @@
 A third nap that's a battle, shorter naps, and a bedtime creeping later are signs many parents notice. Wake windows typically get longer as babies grow (typical ranges, not targets), so three naps can get harder to fit. Every baby is different.
 Save this for later 🤍
 Log naps in one tap to see the shift. Napapp, link in bio.
-Source: Cleveland Clinic. Not medical advice. Questions? Check with your pediatrician.
 
 #napschedule #babysleep #wakewindows #newmom
 ```

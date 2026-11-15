@@ -9,7 +9,7 @@ Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description, and set the altered/synthetic content toggle to Yes for AI_LABEL posts.
+1. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -22,8 +22,6 @@ Description:
 ```
 Baby or toddler fighting bedtime? Common reasons.
 Bedtime battles are so common, and they're not a sign you're doing it wrong. Possible reasons include being overtired, not being tired enough yet, or a recent change like a new routine, a growth spurt or teething. These are possibilities, not a diagnosis, and there's no guaranteed fix. The NHS notes a simple, soothing bedtime routine may help babies settle. Save this for later 🤍 Log bedtimes in one tap to spot the pattern. Napapp,
-
-Sources: Cleveland Clinic, NHS. . If your baby seems unwell or you're worried, check with your pediatrician.
 
 #Shorts #babysleep #bedtimeroutine #toddlersleep
 ```
@@ -41,7 +39,6 @@ Caption (tiktok_kit/caption.txt (package/UPLOAD.md)):
 ```
 Baby or toddler fighting bedtime? Common reasons.
 Bedtime battles are so common, and they're not a sign you're doing it wrong. Possible reasons include being overtired, not being tired enough yet, or a recent change like a new routine, a growth spurt or teething. These are possibilities, not a diagnosis, and there's no guaranteed fix. The NHS notes a simple, soothing bedtime routine may help babies settle. Save this for later 🤍 Log bedtimes in one tap to spot the pattern. Napapp, link in bio.
-Sources: Cleveland Clinic, NHS. Not medical advice. If your baby seems unwell or you're worried, check with your pediatrician.
 
 #babysleep #bedtimeroutine #toddlersleep #newmom
 ```
@@ -61,7 +58,6 @@ Being overtired, not being tired enough yet, or a recent change like a new routi
 These are possibilities, not a diagnosis, and there's no guaranteed fix. A simple, soothing bedtime routine may help babies settle. Every baby is different.
 Save this for the next bedtime battle 🤍
 Log bedtimes in one tap to spot the pattern. Napapp, link in bio.
-Sources: Cleveland Clinic, NHS. Not medical advice. If your baby seems unwell or you're worried, check with your pediatrician.
 
 #babysleep #bedtimeroutine #toddlersleep #newmom
 ```
