@@ -1,0 +1,70 @@
+{
+  "post": "2026-11-18-overtired-baby-5-signs",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-lookA.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "74234e98afe7498f",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-18",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-18",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-18",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-18",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "3a2d354414466efe9c3b06e6662df2ad2af22d5032f27b5a67f4f5f4b4696927",
+    "fb_caption.txt": "8d63345b6305f4f0ab5c267ca8c5b61103e523305490fee8d88051ee811f57ea",
+    "ig_caption.txt": "47b065939b7922ea754c8a457b98ae5450e60018aca397e2f82faf94040efa9a",
+    "index.html": "013003d5a02ffdf4d4ba8d6cc5a0349089d144e853d4721c3cae75e777fcfc4e",
+    "reel-preview-slideshow-lookA.mp4": "d1b908826b71134a10f5d94c12983ddcdfb61261b51be7342fd11c2e8aabc336",
+    "tiktok_caption.txt": "8d63345b6305f4f0ab5c267ca8c5b61103e523305490fee8d88051ee811f57ea",
+    "youtube_description.txt": "88762a82fe025efc4f3e252dc83bd03e7e2af22223bf0c9697128c20b2052bfd",
+    "youtube_title.txt": "d923966f3b50b64a1dc79738afaf1ffcb3326b89ad1a3fab4fc1fd25ab1e4c16"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "6854e563efc405a7dfa094c2cf1614490a5cab080bc55ff2731fbffb1fcab5b6",
+    "tiktok_kit/02.jpg": "21b6ee9e184ed24de151af32765cf7088c011f8d25e92956888311ddecdad708",
+    "tiktok_kit/03.jpg": "e2dc6ac39eaafb023ccccea72ea8226585c53c66e8aae51e36371a4b583add0b",
+    "tiktok_kit/04.jpg": "6d76cf8a760dc2d7395a1bd1918cd525ec53d5cfa73c200b3eeb9b06df18cd5a",
+    "tiktok_kit/05.jpg": "28017a3902d35b178a0e60ff50b1ceaa2042110eee0dea7f9f7f80a4c01702da",
+    "tiktok_kit/06.jpg": "229b0f04288d1f1e1c46165d9c8807fe4411d2142dd08abc9fa24049291712af",
+    "tiktok_kit/07.jpg": "22b546d91b99b4d59a8cadcc8cefa130e467627e618d81354553958ead52e1ed",
+    "tiktok_kit/08.jpg": "2928aa9c7ae6a06dbc6ee6c827b01c645ce48fb08468f06dada985b0c1b6bad2",
+    "tiktok_kit/cover.jpg": "6854e563efc405a7dfa094c2cf1614490a5cab080bc55ff2731fbffb1fcab5b6",
+    "tiktok_kit/slides.zip": "ad18ef56ac985184a889838bfe18ecb8faa6d17796e2ba60deb62614f3494223"
+  }
+}

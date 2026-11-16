@@ -1,0 +1,23 @@
+{
+  "post": "2026-11-18-teething-nights-5-ways",
+  "slot": "Wednesday, Nov 18, 2026 at 9:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "74234e98afe7498f",
+  "sounds_found": false,
+  "files": {
+    "01.jpg": "894488ed33815f7fb8c4afef23feab666021dd8d549d40ff28ba2d545b4cce70",
+    "02.jpg": "bfa998c8b9c14202b96e2b4671201f82e0333ddbb1779eb9fc6dbf9a5f013946",
+    "03.jpg": "c0e52a0d15dd7bddbc6cbcdf21b826ae84aaef2ac8b454cb3e9e8291185ccea6",
+    "04.jpg": "f526665d869dc7e697853c04f87c0708e3f5604393cc96cfc9e8ae9118b6d85f",
+    "05.jpg": "7dc80232b1da563c0796cfd658c528d12bfa77ab99daba4b90179745054710f0",
+    "06.jpg": "72d3dfaf8206275babc3fd119a3ffac2fcad1942f6547b45caa479071e43be13",
+    "07.jpg": "6b086554da7033d3883557d90c127355209dab7849404c67a5c5b330133fe41b",
+    "08.jpg": "1b92d93dc690b06aabe8250ac6520b094755932a9688576cf21ef69dab11db1d",
+    "README.md": "6276c6e58db78ba5ff81209b452fc64cd3058426fc93b765746b424763f2b6ff",
+    "caption.txt": "b6ca52ad0813b8df85ade543b82f12ba7f3bbac4e0e8b4f7e5b22305cb63a92c",
+    "cover.jpg": "894488ed33815f7fb8c4afef23feab666021dd8d549d40ff28ba2d545b4cce70",
+    "index.html": "7dab628f5f199e544f44f6de595c03f9cb118662d64fc084bd34b6e01edfa8c0",
+    "slides.zip": "460f07268d129b87234e11b80a2acfbb3cad2ebea4909587ba2b7d862de7d4e9"
+  }
+}

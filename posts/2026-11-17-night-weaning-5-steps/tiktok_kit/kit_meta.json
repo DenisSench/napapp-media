@@ -1,0 +1,32 @@
+{
+  "post": "2026-11-17-night-weaning-5-steps",
+  "slot": "Tuesday, Nov 17, 2026 at 9:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "69cc3ba67d5a259b",
+  "sounds_found": true,
+  "files": {
+    "01.jpg": "db9c40d5e9869b25f2ccf82c69c35b30c745ec2d2c3bb1c5fca32d326a0a974a",
+    "02.jpg": "29959f7f4a9c6cba5402c23f2da3c708fd308401a0f85d5deac0bcf377515d88",
+    "03.jpg": "9aab89f055b16e7d2720d4d794ab36a523d92bfef93c3e65d05d603b013d6c0a",
+    "04.jpg": "4dd1973751fcccf10c1b9738823413a7be757b4fcbe737bf640ad4408482e878",
+    "05.jpg": "d56f17a783be351a6f2c9738ba87d7fdbb43d2cc27b621c57dc7c065154e364f",
+    "06.jpg": "8f1ddfe918f44e2f49793308cd58c5f293348951fcef1b8b9039631dd34c0b94",
+    "07.jpg": "fe01b920b21217f38a7f6b20b8623990ee1ebd44183c16d9355cc308d0b12a1f",
+    "08.jpg": "51ffa7116aa73f2dc68360bd17febc0d4b7841903b5f77bb63d9bd28ca9e5080",
+    "README.md": "235bd6e4a751d906ce78e50766fc76d79aad698edc71e4aef768d789e8fee3b0",
+    "caption.txt": "f81236da91aff48067a1ea32be252958da1cc13a641ed83019b6c71f262ab9d6",
+    "cover.jpg": "db9c40d5e9869b25f2ccf82c69c35b30c745ec2d2c3bb1c5fca32d326a0a974a",
+    "index.html": "f5e19b7767e41210d43e16545b79b965b7c37458d68d953296d8bf703825367b",
+    "slides.zip": "a0511691322f1c08af59dcd2e6a52facedd44d1d21eaaf8ed28a861f2216d1a7"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}

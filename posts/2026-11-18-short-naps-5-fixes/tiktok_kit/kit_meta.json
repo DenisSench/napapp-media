@@ -1,0 +1,23 @@
+{
+  "post": "2026-11-18-short-naps-5-fixes",
+  "slot": "Wednesday, Nov 18, 2026 at 12:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "74234e98afe7498f",
+  "sounds_found": false,
+  "files": {
+    "01.jpg": "826f3a2d54901934202d4fc49d7fff9357bc298ab3150ce81c86daefe91a2ea7",
+    "02.jpg": "491a8fee3c55a3a7a5f2d0012ad78e8d08f8231dd0ffd9b1f93acae2e49c988e",
+    "03.jpg": "2551c6990c69bb63f5615993b6218903a1ee415d0ed4faf3ed69a71675bd07c5",
+    "04.jpg": "13f7726f2806ccbc2fe91bbdff96dc345cf9c355d414749924e1cd002357a958",
+    "05.jpg": "b9dcae6269fae99b7a3bd762f69dc09bf69f3bfb6b362bd99219a8ed7c30b5eb",
+    "06.jpg": "59febacc78b2916ff7185bb4deade68d969703dc6babddd7e4baa7c868d72805",
+    "07.jpg": "b5b6a049f5c81c29fd3324f29c0c92e2aa9c9adcd070cf48e2f889e5b3de298a",
+    "08.jpg": "7f5eef421278a404ee462596327605f97a83590ae622c86e708fdd9e7cd58e72",
+    "README.md": "6b3ad28b09c9727b5aca84a4c7e539014e3be8d6a468ee71fef166f0b3e727af",
+    "caption.txt": "3938a52d8cfb3ab5382b5924a553785122dd7635c351824ac0d47ad15c19794e",
+    "cover.jpg": "826f3a2d54901934202d4fc49d7fff9357bc298ab3150ce81c86daefe91a2ea7",
+    "index.html": "310118db9c42e12f87a6eccd566205f334658e9e952d3cce01f1b3b813694c9b",
+    "slides.zip": "bfbf1b22c36b65adcdea321b9d3f6c60f8afbea75fcff855c4672f72de983934"
+  }
+}

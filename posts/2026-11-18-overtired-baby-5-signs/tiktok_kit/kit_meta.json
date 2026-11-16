@@ -1,0 +1,32 @@
+{
+  "post": "2026-11-18-overtired-baby-5-signs",
+  "slot": "Wednesday, Nov 18, 2026 at 5:00 PM ET",
+  "slot_source": "plan/tiktok_slots.json",
+  "source": "package/",
+  "sounds_fingerprint": "74234e98afe7498f",
+  "sounds_found": false,
+  "files": {
+    "01.jpg": "6854e563efc405a7dfa094c2cf1614490a5cab080bc55ff2731fbffb1fcab5b6",
+    "02.jpg": "21b6ee9e184ed24de151af32765cf7088c011f8d25e92956888311ddecdad708",
+    "03.jpg": "e2dc6ac39eaafb023ccccea72ea8226585c53c66e8aae51e36371a4b583add0b",
+    "04.jpg": "6d76cf8a760dc2d7395a1bd1918cd525ec53d5cfa73c200b3eeb9b06df18cd5a",
+    "05.jpg": "28017a3902d35b178a0e60ff50b1ceaa2042110eee0dea7f9f7f80a4c01702da",
+    "06.jpg": "229b0f04288d1f1e1c46165d9c8807fe4411d2142dd08abc9fa24049291712af",
+    "07.jpg": "22b546d91b99b4d59a8cadcc8cefa130e467627e618d81354553958ead52e1ed",
+    "08.jpg": "2928aa9c7ae6a06dbc6ee6c827b01c645ce48fb08468f06dada985b0c1b6bad2",
+    "README.md": "e541b31ee1a999ed9b6f4c0f56639b93f9feafaa06b38ffa495688a64d708a6b",
+    "caption.txt": "8d63345b6305f4f0ab5c267ca8c5b61103e523305490fee8d88051ee811f57ea",
+    "cover.jpg": "6854e563efc405a7dfa094c2cf1614490a5cab080bc55ff2731fbffb1fcab5b6",
+    "index.html": "e151aa1aa9d7025a4be5ba53ce107d5f48b68fd22e39cc81a3424e754481b660",
+    "slides.zip": "ad18ef56ac985184a889838bfe18ecb8faa6d17796e2ba60deb62614f3494223"
+  },
+  "ai_label": {
+    "required": true,
+    "platforms": [
+      "tiktok",
+      "instagram",
+      "facebook"
+    ],
+    "flag": "AI_LABEL"
+  }
+}

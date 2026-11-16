@@ -1,0 +1,70 @@
+{
+  "post": "2026-11-18-teething-nights-5-ways",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-plain.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "74234e98afe7498f",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-18",
+      "time": "21:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-18",
+      "time": "21:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-18",
+      "time": "21:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-18",
+      "time": "21:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "c5e1b4271804689345a059c5f55439486221c8d856a6103a915c05326c9ca664",
+    "fb_caption.txt": "b6ca52ad0813b8df85ade543b82f12ba7f3bbac4e0e8b4f7e5b22305cb63a92c",
+    "ig_caption.txt": "aa2e8d9dee78116e6d433ff6c19dc3baca6a42c77dc45b2afc92dcc0149ddc2e",
+    "index.html": "0843369f8534b86925302979b3e52fbef63143ca60b768872d1ac63b3e044aec",
+    "reel-preview-slideshow-plain.mp4": "7731007039798c9f3ea60061443347c1e51142531611608c4d3a5995d7a06a68",
+    "tiktok_caption.txt": "b6ca52ad0813b8df85ade543b82f12ba7f3bbac4e0e8b4f7e5b22305cb63a92c",
+    "youtube_description.txt": "6a784f31d195d8bf5611fb87f385f1d37e264fddd858b232fff1ff2cb238e814",
+    "youtube_title.txt": "adfb602453217806967c12a53e61ba75a8f5c851dda0fbb6b4d10f401cbaeeb9"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "894488ed33815f7fb8c4afef23feab666021dd8d549d40ff28ba2d545b4cce70",
+    "tiktok_kit/02.jpg": "bfa998c8b9c14202b96e2b4671201f82e0333ddbb1779eb9fc6dbf9a5f013946",
+    "tiktok_kit/03.jpg": "c0e52a0d15dd7bddbc6cbcdf21b826ae84aaef2ac8b454cb3e9e8291185ccea6",
+    "tiktok_kit/04.jpg": "f526665d869dc7e697853c04f87c0708e3f5604393cc96cfc9e8ae9118b6d85f",
+    "tiktok_kit/05.jpg": "7dc80232b1da563c0796cfd658c528d12bfa77ab99daba4b90179745054710f0",
+    "tiktok_kit/06.jpg": "72d3dfaf8206275babc3fd119a3ffac2fcad1942f6547b45caa479071e43be13",
+    "tiktok_kit/07.jpg": "6b086554da7033d3883557d90c127355209dab7849404c67a5c5b330133fe41b",
+    "tiktok_kit/08.jpg": "1b92d93dc690b06aabe8250ac6520b094755932a9688576cf21ef69dab11db1d",
+    "tiktok_kit/cover.jpg": "894488ed33815f7fb8c4afef23feab666021dd8d549d40ff28ba2d545b4cce70",
+    "tiktok_kit/slides.zip": "460f07268d129b87234e11b80a2acfbb3cad2ebea4909587ba2b7d862de7d4e9"
+  }
+}

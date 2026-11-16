@@ -1,0 +1,70 @@
+{
+  "post": "2026-11-17-night-weaning-5-steps",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-lookA.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "69cc3ba67d5a259b",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-17",
+      "time": "21:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-17",
+      "time": "21:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-17",
+      "time": "21:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-17",
+      "time": "21:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "e6f0f045903016b89cf3daa81dba1094b8313b3bdbb6f890a7060ad96d0ba157",
+    "fb_caption.txt": "f81236da91aff48067a1ea32be252958da1cc13a641ed83019b6c71f262ab9d6",
+    "ig_caption.txt": "6c646b83dc4171543b236a2e02dd4858dcee4ffa94a625f5541a65cb4b8d93d5",
+    "index.html": "c382711be4e4fa96975ec76cc49e28caff46f5fba03e737254479d68e7535182",
+    "reel-preview-slideshow-lookA.mp4": "1e1c1f16cc8c31efd8bf830c2f20dcaa8fb16df3de888d7dddfc6062964af6a4",
+    "tiktok_caption.txt": "f81236da91aff48067a1ea32be252958da1cc13a641ed83019b6c71f262ab9d6",
+    "youtube_description.txt": "571efdfa9f2fe9f390015aeec628448509db0c7514c94c99e3717767621707c4",
+    "youtube_title.txt": "76cf2da581097e87d42106e79c63553ad95cad47bd2e487962912d826b819251"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "db9c40d5e9869b25f2ccf82c69c35b30c745ec2d2c3bb1c5fca32d326a0a974a",
+    "tiktok_kit/02.jpg": "29959f7f4a9c6cba5402c23f2da3c708fd308401a0f85d5deac0bcf377515d88",
+    "tiktok_kit/03.jpg": "9aab89f055b16e7d2720d4d794ab36a523d92bfef93c3e65d05d603b013d6c0a",
+    "tiktok_kit/04.jpg": "4dd1973751fcccf10c1b9738823413a7be757b4fcbe737bf640ad4408482e878",
+    "tiktok_kit/05.jpg": "d56f17a783be351a6f2c9738ba87d7fdbb43d2cc27b621c57dc7c065154e364f",
+    "tiktok_kit/06.jpg": "8f1ddfe918f44e2f49793308cd58c5f293348951fcef1b8b9039631dd34c0b94",
+    "tiktok_kit/07.jpg": "fe01b920b21217f38a7f6b20b8623990ee1ebd44183c16d9355cc308d0b12a1f",
+    "tiktok_kit/08.jpg": "51ffa7116aa73f2dc68360bd17febc0d4b7841903b5f77bb63d9bd28ca9e5080",
+    "tiktok_kit/cover.jpg": "db9c40d5e9869b25f2ccf82c69c35b30c745ec2d2c3bb1c5fca32d326a0a974a",
+    "tiktok_kit/slides.zip": "a0511691322f1c08af59dcd2e6a52facedd44d1d21eaaf8ed28a861f2216d1a7"
+  }
+}
