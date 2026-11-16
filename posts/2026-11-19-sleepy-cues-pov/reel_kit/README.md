@@ -18,7 +18,7 @@
 10. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add a **Facebook** pick from the Sound block (Sound Collection, only tracks tagged 'Royalty-free'; or the CC0 re-render) → paste the **FB caption** below.
 11. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice; a licensed IG song may not carry over to the Page anyway).
 12. After posting, send Bob the two links so the stats script can match them to this post.
-13. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
+13. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. AI label REQUIRED: before publishing, turn ON the altered/synthetic content label. Do not add an AI line to the description (YouTube has a dedicated field).
 
 ## Notes
 
