@@ -1,8 +1,8 @@
 {
   "post": "2026-11-14-4-month-naps-how-to",
   "kind": "carousel",
-  "meta_reels_only": true,
-  "meta_reel": "reel-preview-slideshow-plain.mp4",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -15,42 +15,41 @@
     "tiktok": {
       "date": "2026-11-15",
       "time": "17:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "inbox",
-      "url": ""
+      "url": "https://www.tiktok.com/@nap_app/video/7708527502146293013"
     },
     "ig": {
       "date": "2026-11-15",
       "time": "17:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.instagram.com/reel/Dfx2TArA0OT/"
     },
     "fb": {
       "date": "2026-11-15",
       "time": "17:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     },
     "yt": {
       "date": "2026-11-15",
       "time": "17:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.youtube.com/shorts/RleHdBI4VLo"
     }
   },
   "files": {
-    "README.md": "1d9f8da76f960d1e1b2ce059aae18546227a556c8642303c726e68aa74957814",
+    "README.md": "f710f3f3f9d945a0910230d5bcdb9127e98147810df667098cda7648d4ab95b3",
     "fb_caption.txt": "6fe175573ec8bd589b4e11855b35e2c328e40263c70b61708495ed3f7c84a81f",
     "ig_caption.txt": "e4050b66d8ac96784d8ab1633ecd4a0d3f89b3895a66f6d5149be5d7d159c0ae",
-    "index.html": "63c956d2394f9da8ceb0d06629b4b7f880513c9075ec02b0c2d6d533cc0928dc",
-    "reel-preview-slideshow-plain.mp4": "8fce4649bcef783103e8f2ac3a9918cbe5dae70a0e7f700e55990c5e0d7c5abd",
+    "index.html": "11f6daa9178c88c1f2e8b4f5e4f16ed93f49a1d021fc822dbae73fc99009d284",
     "tiktok_caption.txt": "6fe175573ec8bd589b4e11855b35e2c328e40263c70b61708495ed3f7c84a81f",
     "youtube_description.txt": "54ef7c31dbca998571c8fd4636f93d956bc6d259e64bd972cef6e6487d506590",
     "youtube_title.txt": "bc39a34a5992af8e2c0d1bdf24ef8458b2eee06ab77e6e9ea04e9c423e432391"

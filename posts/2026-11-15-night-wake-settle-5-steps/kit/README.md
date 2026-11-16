@@ -29,7 +29,7 @@ You can always attend if baby needs a feed, a clean diaper or comfort. Safe slee
 Subscribe for more simple baby sleep how-tos. Link in bio.
 ```
 
-## TikTok · Sun Nov 15, 12:00 PM ET · Inbox draft
+## TikTok · Sun Nov 15, 12:00 PM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -46,15 +46,13 @@ Night wake? Here's a calm order to try 🌛⭐ The AAP says it's normal for a 6-
 #babysleep #nightwaking #newparents #napapp
 ```
 
-## Instagram · Sun Nov 15, 12:00 PM ET · Hand-post
+## Instagram · Sun Nov 15, 12:00 PM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
 1. AI label REQUIRED on Instagram: before sharing, Advanced settings → turn ON AI label.
-2. Download reel-preview-slideshow-lookA.mp4 (the 9:16 slideshow Reel, top of this page).
-3. Instagram app (@getnapapp): open an Instagram pick's audio link → Use audio → pick the slideshow Reel → Next.
-4. Paste the IG caption. Cover: the first slide (the hook). Don't tick "also share to Facebook".
-5. Share, then send Bob the link.
+2. Option B: Instagram gets the 9:16 slideshow Reel made from these slides (Lee renders it), posted by you by hand in the Instagram app with an Instagram pick. No IG API.
+3. The slideshow Reel file isn't in this kit yet; Bob/Lee add it before the slot. Paste the IG caption below.
 
 Caption (post.md):
 
@@ -66,14 +64,13 @@ Link in bio.
 #babysleep #nightwaking #newparents #napapp
 ```
 
-## Facebook · Sun Nov 15, 12:00 PM ET · Hand-post
+## Facebook · Sun Nov 15, 12:00 PM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
 1. AI label REQUIRED on the Facebook Page: before sharing, turn ON the AI info / AI label toggle.
-2. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-lookA.mp4.
-3. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
-4. Paste the FB caption → Post. Send Bob the link.
+2. Facebook (Napapp Page): Create post → Photo → select 01 → 00 (4:5) in order → paste the FB caption → add music if offered (Facebook pick below) → Post.
+3. Send Bob the link so tracker.csv gets the post id.
 
 Caption (post.md):
 

@@ -1,8 +1,8 @@
 {
   "post": "2026-11-15-early-morning-wakes-5-fixes",
   "kind": "carousel",
-  "meta_reels_only": true,
-  "meta_reel": "reel-preview-slideshow-lookA.mp4",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -15,42 +15,41 @@
     "tiktok": {
       "date": "2026-11-15",
       "time": "21:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "inbox",
       "url": ""
     },
     "ig": {
       "date": "2026-11-15",
       "time": "21:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     },
     "fb": {
       "date": "2026-11-15",
       "time": "21:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     },
     "yt": {
       "date": "2026-11-15",
       "time": "21:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.youtube.com/shorts/GVvkfyLDPbg"
     }
   },
   "files": {
-    "README.md": "78fe1beacbb2519b8873ad7320e19ca08a68c74389c5af36131da7e6b73b0a78",
+    "README.md": "752577c816192d4173827fedd3d0c878e2a5b19c9e674b7819324d543db569a6",
     "fb_caption.txt": "36b9c29b530fe4f662648f1301dd0293115802447f1ce5c2f50d33adcdfc209b",
     "ig_caption.txt": "9c8cc43690d3db2a41f99431076d5631577d5a8144d572f4ce132f2789965623",
-    "index.html": "3e9f3631be368e75883cff2340e7a3e9dc41fa0fe74f687d2aaa538fa4ea3207",
-    "reel-preview-slideshow-lookA.mp4": "2b36b5a9226db9c6cf0e0dfa56364ce231f717667fdb9e408f428711eb92b06f",
+    "index.html": "983c0c341975abe9cddaf5f3a30fbf7e035d42affca1bc69fee3c11d7255025c",
     "tiktok_caption.txt": "36b9c29b530fe4f662648f1301dd0293115802447f1ce5c2f50d33adcdfc209b",
     "youtube_description.txt": "0103a813f8127abb2abbca1a9db5a25dd66343393c0eadb600a9f994cc1fe043",
     "youtube_title.txt": "1e30065af9c137d0749550d278f58989eef0b5c506577d96798dd8eb60a45b7e"

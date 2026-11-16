@@ -1,8 +1,8 @@
 {
   "post": "2026-11-15-night-wake-settle-5-steps",
   "kind": "carousel",
-  "meta_reels_only": true,
-  "meta_reel": "reel-preview-slideshow-lookA.mp4",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -15,42 +15,41 @@
     "tiktok": {
       "date": "2026-11-15",
       "time": "12:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "inbox",
-      "url": ""
+      "url": "https://www.tiktok.com/@nap_app/video/7708484127015783681"
     },
     "ig": {
       "date": "2026-11-15",
       "time": "12:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.instagram.com/reel/Dfxiq0HycIY/"
     },
     "fb": {
       "date": "2026-11-15",
       "time": "12:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     },
     "yt": {
       "date": "2026-11-15",
       "time": "12:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.youtube.com/shorts/V-DVFD-Sa5Q"
     }
   },
   "files": {
-    "README.md": "f45bf56c477fb376d4a64c51df8fcdf0a1e64e3d71eb638266e9836a1eff2738",
+    "README.md": "92e0a723affe3234c9467c91630045c443f80f356307cc685fa93e9fad8a86ab",
     "fb_caption.txt": "941b751de3feecd07b725e1c458ae241534edca5c1597f5f15a13ada753c742b",
     "ig_caption.txt": "9fea7f33c8f2ebd55b7ceef7c6ba5fd7273a322e73812f021c06dba8faca1a00",
-    "index.html": "5f83b91274f6c60768b18e351b1925c1b8a3cb540c1a93cf62f04a0d65c3e09a",
-    "reel-preview-slideshow-lookA.mp4": "ef8d1de8115636c336890a92da49a0eef24432fe0c703091033a86d19e5785df",
+    "index.html": "a52df700601ff5930a7c90e0601548254768d1ee34a3b53ec64777d95dd6795b",
     "tiktok_caption.txt": "941b751de3feecd07b725e1c458ae241534edca5c1597f5f15a13ada753c742b",
     "youtube_description.txt": "7034ad719bd147d6c7579668868c85c424018f65ecfcaed6fc990e4cb185e2ce",
     "youtube_title.txt": "592ed2bda4e8648d25907703d0002f2ee87870688ca9f2637ab1ed506eb93635"
