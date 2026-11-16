@@ -26,34 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:consistent-morning-wake-tt-ig-fb@napapp.io
-DTSTAMP:20261115T194411Z
-SEQUENCE:7
-DTSTART;TZID=America/Toronto:20261109T090000
-DTEND;TZID=America/Toronto:20261109T091500
-SUMMARY:✅ Posted: Consistent morning wake [TT/IG/FB]
-DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/posts/2026-11-07-consistent-mor
- ning-wake/kit/\nTikTok kit: https://media.napapp.io/posts/2026-11-07-consi
- stent-morning-wake/tiktok_kit/\nDashboard: https://media.napapp.io/cal-lvt
- 4wit7/
-URL:https://media.napapp.io/posts/2026-11-07-consistent-morning-wake/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Consistent morning wake [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Consistent morning wake [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:naps-away-from-home-tt-ig-fb@napapp.io
 DTSTAMP:20261115T194411Z
 SEQUENCE:4
