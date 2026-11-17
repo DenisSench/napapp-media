@@ -9,8 +9,8 @@ Asset: ../reel_kit/reel.mp4
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
+1. AI label REQUIRED on YouTube Shorts: before publishing, turn ON the **altered/synthetic content** label. Do not add an AI line to the description (YouTube has a dedicated field).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. AI label REQUIRED: before publishing, turn ON the altered/synthetic content label. Do not add an AI line to the description (YouTube has a dedicated field).
 
 Title:
 
