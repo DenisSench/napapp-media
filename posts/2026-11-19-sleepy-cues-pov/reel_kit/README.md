@@ -59,7 +59,7 @@ Subscribe for more simple baby sleep how-tos. Link in bio.
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** SCHEDULE (Kling video 1, requested by Commander Nov 16): 2026-11-19 17:00 ET. TikTok/IG/FB: 18.1 s silent 9:16 Kling video Reel of a baby's sleepy cues with text overlays (kit: posts/2026-11-19-sleepy-cues-pov/reel_kit/). The video has no audio stream, so a sound is required on every platform. Calm picks: Chopin Nocturne No. 2 leads on TikTok (Cleared); IG is Everlong, then Linger, then Hold On, We're Going Home (Everlong rotated to lead because Linger already leads every other current IG Reel). Sunshine (Instrumental) is not used (off current charts as of the Nov 11 refresh). FB / ig_backup: Sound Collection searches 'lullaby' then 'soft piano', plus CC0 --track soft-as-a-dry-pillow. Denis confirms each sound in the in-app picker (TikTok Commercial Music Library; IG via the audio link, not Meta Business Suite; FB Sound Collection 'Royalty-free' or the CC0 --track). RE-CHECKED Nov 16 against research/vira-sounds-refresh-2026-11-11.md: none of these picks is listed as fading; Coming Up Roses still #7 on Kabo; Linger and Everlong still Rising on CreatorDB week of Nov 11.
+> **Notes for this post:** SCHEDULE (Kling video 1, requested by Commander Nov 16): 2026-11-19 17:00 ET. TikTok/IG/FB: 18.1 s silent 9:16 Kling video Reel of a baby's sleepy cues with text overlays (kit: posts/2026-11-19-sleepy-cues-pov/reel_kit/). The video has no audio stream, so a sound is required on every platform. Calm picks: Chopin Nocturne No. 2 leads on TikTok (Cleared); IG is Everlong, then Linger, then Hold On, We're Going Home (Everlong rotated to lead because Linger already leads every other current IG Reel). Sunshine (Instrumental) is not used (off current charts as of the Nov 11 refresh). FB / ig_backup: Sound Collection searches 'lullaby' then 'soft piano', plus CC0 --track soft-as-a-dry-pillow. Denis confirms each sound in the in-app picker (TikTok Commercial Music Library; IG via the audio link, not Meta Business Suite; FB Sound Collection 'Royalty-free' or the CC0 --track). RE-CHECKED Nov 16 against research/vira-sounds-refresh-2026-11-11.md: none of these picks is listed as fading; Coming Up Roses still #7 on Kabo; Linger and Everlong still Rising on CreatorDB week of Nov 11. RECHECK Nov 17, 9:00 AM ET (two days out; day-ahead confirm comes Nov 18): picks unchanged. Coming Up Roses #11 on Kabo Nov 17 (was #7), still charting; Everlong/Linger still Rising on CreatorDB week of Nov 11.
 
 - **Everlong** · Foo Fighters (primary)
   - link: https://www.instagram.com/reels/audio/1799705850076187/
@@ -114,7 +114,7 @@ Subscribe for more simple baby sleep how-tos. Link in bio.
 - Coming Up Roses (https://www.tiktok.com/music/coming-up-roses-7613798254214187009) · Harry Styles
   - why: Big-trend option if the calmer picks are missing in the picker [Octohog: Cleared, Oct 29 10:04 AM ET]
 
-Picks as of Nov 16, 2026, 6:39 PM ET
+Picks as of Nov 17, 2026, 9:00 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 

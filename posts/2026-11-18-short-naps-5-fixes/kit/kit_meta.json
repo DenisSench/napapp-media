@@ -10,7 +10,7 @@
     "note": ""
   },
   "conflicts": [],
-  "sounds_fingerprint": "74234e98afe7498f",
+  "sounds_fingerprint": "b496c32ce8f1e10f",
   "platforms": {
     "tiktok": {
       "date": "2026-11-18",
@@ -46,10 +46,10 @@
     }
   },
   "files": {
-    "README.md": "a39cec81b0844937236f6e6dc79ab46f54192620814029c57d6f3a390c3be8f0",
+    "README.md": "ee1f42523067465b0dc13df6299cedc74952ca170938054646e4bd79dd4c22c0",
     "fb_caption.txt": "3938a52d8cfb3ab5382b5924a553785122dd7635c351824ac0d47ad15c19794e",
     "ig_caption.txt": "cc8bf80341493279103cf5b51b87241c53e45d930f66265660c49e1791c909ae",
-    "index.html": "6307feb53edaab1d3babfd2f47846c43d97c62d205ed79757d11315a071eac9c",
+    "index.html": "a9bdb9c531faefed7edb1d4edf1bb6edddb3428e0ed640ec7fa9e739a62ca305",
     "reel-preview-slideshow-plain.mp4": "45cc495914d2476911b9aca0e3738aff624bb44e60a0029d68ca7a62df2e10a2",
     "tiktok_caption.txt": "3938a52d8cfb3ab5382b5924a553785122dd7635c351824ac0d47ad15c19794e",
     "youtube_description.txt": "c730c6c369aea3827e9ce3398adb28c97c6605e2726f0c9f782525ad7f1886e9",

@@ -1,8 +1,8 @@
 {
   "post": "2026-11-16-sleep-after-sick-5-ways",
   "kind": "carousel",
-  "meta_reels_only": true,
-  "meta_reel": "reel-preview-slideshow-plain.mp4",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -15,42 +15,41 @@
     "tiktok": {
       "date": "2026-11-16",
       "time": "21:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "inbox",
-      "url": ""
+      "url": "https://www.tiktok.com/@nap_app/video/7708955900433796372"
     },
     "ig": {
       "date": "2026-11-16",
       "time": "21:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.instagram.com/reel/Df00gpxAUvH/"
     },
     "fb": {
       "date": "2026-11-16",
       "time": "21:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     },
     "yt": {
       "date": "2026-11-16",
       "time": "21:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.youtube.com/shorts/bIDqUx5ECAs"
     }
   },
   "files": {
-    "README.md": "3586719aa7fda004e68af68dabccfa7c23b4f8ee98b4b281113509ccd12ad733",
+    "README.md": "2f306f1f1008a707c091a54e10f898a88276c1d3dc6ceda8b2982f2b19a7b2fc",
     "fb_caption.txt": "9578e2855710ec3d08c1862b5460b933085285eeacc0ead7be8fb0f0556b1f53",
     "ig_caption.txt": "380880513789c66d1208c2f3d8a4b9581efce0c1a572a088d1e367b9f1be2435",
-    "index.html": "c3d77b47f5b278e9ed61b11efb795780d33ed03266e47a5d56bae4166862d9fc",
-    "reel-preview-slideshow-plain.mp4": "2d7a961203709bf56a872d0f19c1b6808e6a114305889a05173271e6670939c7",
+    "index.html": "3c009009ba22b83c66e6da76405c545b4674a54574800855fefb3aaab748bf61",
     "tiktok_caption.txt": "9578e2855710ec3d08c1862b5460b933085285eeacc0ead7be8fb0f0556b1f53",
     "youtube_description.txt": "959fee7afe85170da943ecbd1683469194d026759ef451b302d1ce52dab52188",
     "youtube_title.txt": "c8c6079de20ddbb138a21bd1345e016f21c77bf0ddc02ac8eefb1666964a7a12"
