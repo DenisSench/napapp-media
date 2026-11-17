@@ -1,0 +1,70 @@
+{
+  "post": "2026-11-19-bedtime-by-age-cheat-sheet",
+  "kind": "carousel",
+  "meta_reels_only": true,
+  "meta_reel": "reel-preview-slideshow-lookA.mp4",
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "365583f5d835b123",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-19",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "inbox",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-19",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-19",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-19",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "c11363b3c8c67d9e28f46741e7d8f2e87048183720d6eaa1528b291d0dbee732",
+    "fb_caption.txt": "ddf5f12199c0c4bfcc67f766fa66e2ec20ce03d0a7b1eac253705420002cea2c",
+    "ig_caption.txt": "703642428edce45bbfaf84cab7301a599d66030a40241bb74dd8c1ad7dd92ffe",
+    "index.html": "45b2f71d0f7ab9eefea04dc4f32d3981c8df48a4b5810f9972def7ac343f27a2",
+    "reel-preview-slideshow-lookA.mp4": "e5faa744f5178fbf7930f1bb3eb35ee312fe4bee29eabfee250c4fc530ff1acd",
+    "tiktok_caption.txt": "ddf5f12199c0c4bfcc67f766fa66e2ec20ce03d0a7b1eac253705420002cea2c",
+    "youtube_description.txt": "ccb0699fa3158238ab7a767edae22940df30995f3837e9e0ff43810a298d8b6f",
+    "youtube_title.txt": "d99b8264067a04b850b0888576bc1f523d5af0b91346abe235c5be90ce6ec326"
+  },
+  "refs": {
+    "tiktok_kit/01.jpg": "22c1d7aa283b7df431db5027eb303e58e72c12f19b57974f8906c1952fc4d89e",
+    "tiktok_kit/02.jpg": "6491271e0b3babed8fd3a08901127c11fb538c41a80f1d9114d25081e1e018ef",
+    "tiktok_kit/03.jpg": "68e861bdc1bad3737642cb0ff6370d23ecb4aa0f92d2a1e5c72b75c2637ce6d7",
+    "tiktok_kit/04.jpg": "139f0f7773205a006752f6aedcca60ee3b3705fbeae9fd06dcf768fa633fbc17",
+    "tiktok_kit/05.jpg": "d764e49df89ede65181e80b5c8b818acd29276cd176840069adc7fe0303149c8",
+    "tiktok_kit/06.jpg": "32fce4e8ed365460521d8d6cf3fbbb2232f9df496f3b0f7b677b368c71a83971",
+    "tiktok_kit/07.jpg": "f7ae325d5118ef902d308118771b7967beec7065799ba7a645172e21db635e36",
+    "tiktok_kit/08.jpg": "a2a6510faa9e636e88cc6cc6145c8e5545e2f1247b6a1905e5fd21dacdae2b1e",
+    "tiktok_kit/cover.jpg": "22c1d7aa283b7df431db5027eb303e58e72c12f19b57974f8906c1952fc4d89e",
+    "tiktok_kit/slides.zip": "b7d24872ddb37d721bde4ac308060a14fd32567fb92f28711fb038ebd3845ba3"
+  }
+}
