@@ -26,33 +26,6 @@ RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:split-nights-tt-ig-fb@napapp.io
-DTSTAMP:20261115T194411Z
-SEQUENCE:3
-DTSTART;TZID=America/Toronto:20261110T115500
-DTEND;TZID=America/Toronto:20261110T121000
-SUMMARY:✅ Posted: Split nights [TT/IG/FB]
-DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n✅ Instagram: hand-post the Reel\n✅ Facebook: hand-post the slid
- eshow Reel\n\nApproval: Approved (one approval for all platforms)\nKit: ht
- tps://media.napapp.io/posts/2026-11-10-split-nights/kit/\nTikTok kit: http
- s://media.napapp.io/posts/2026-11-10-split-nights/tiktok_kit/\nDashboard: 
- https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-10-split-nights/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Split nights [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Split nights [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:newborn-things-not-wrong-tt-ig-fb@napapp.io
 DTSTAMP:20261115T194411Z
 SEQUENCE:7
