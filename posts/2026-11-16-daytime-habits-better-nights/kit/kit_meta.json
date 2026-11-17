@@ -1,8 +1,8 @@
 {
   "post": "2026-11-16-daytime-habits-better-nights",
   "kind": "carousel",
-  "meta_reels_only": true,
-  "meta_reel": "reel-preview-slideshow-plain.mp4",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -15,42 +15,41 @@
     "tiktok": {
       "date": "2026-11-16",
       "time": "12:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "inbox",
       "url": ""
     },
     "ig": {
       "date": "2026-11-16",
       "time": "12:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.instagram.com/reel/Dfz31DcA3ic/"
     },
     "fb": {
       "date": "2026-11-16",
       "time": "12:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     },
     "yt": {
       "date": "2026-11-16",
       "time": "12:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.youtube.com/shorts/HyFT9N0FD2c"
     }
   },
   "files": {
-    "README.md": "da877d6cf6ed1eabc59730a7253d024e0edd038a5f5533ebfa459476936afd56",
+    "README.md": "f3f7865fd3ef27e27a0891cf76bceea05a0f6e570043a420e47c10fb862fadc4",
     "fb_caption.txt": "3623656b77c6d677f2c1c115d04cfaef221715e20f048f9c1e97a6ab48c20fd4",
     "ig_caption.txt": "6935b2e3c499317d4035e347097964f4c9b55dfa20d3b27748cadea4cd62eee0",
-    "index.html": "d43fefa1b85cdb2afd9c53770c0172e3ee118d0c768ef7c16cc5b36352c70629",
-    "reel-preview-slideshow-plain.mp4": "75bba1ec50b6e64ee51875ea58d6f1cff37a4316fbdb37d3e1d2b97c659b6b42",
+    "index.html": "bcb904762f4912550fd4882b1a6e9d2ef4dfdff84b6cbe21f554f1d43f802334",
     "tiktok_caption.txt": "3623656b77c6d677f2c1c115d04cfaef221715e20f048f9c1e97a6ab48c20fd4",
     "youtube_description.txt": "9abc8361a2eaa6563e16a916a211adbad0815a8e5f4056256f4aaaad5713c093",
     "youtube_title.txt": "224c62c89fd3f48665c5ecea61bdcb0d41012033a8539642eb5253d87f1a1f8d"

@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-19-sleepy-cues-pov",
+  "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "74fce3251089d342",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-19",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-19",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-19",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-19",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "f5f21b1ca26782cd74a9d94dc7f72ea442c5b9c47c50d1bc143134f758c575c6",
+    "fb_caption.txt": "0f54100e22d6eaa58effe5820af057ef752c8afcb3ec7e77d2f6e95ad77a48a7",
+    "ig_caption.txt": "ab7a0814f374fcb9f439edb8ccf4ae018ae60b7cceb5c3736a62ae0e3489ab3b",
+    "index.html": "310ea75bd8989c6835ffcd73af965cbbe30b11757d2c8b3ccf55064461bfb9e5",
+    "tiktok_caption.txt": "0f54100e22d6eaa58effe5820af057ef752c8afcb3ec7e77d2f6e95ad77a48a7",
+    "youtube_description.txt": "8a583dd3aa3210d79b77ea7502215347ac15bef93a3f923ce8a44e1a1508be1e",
+    "youtube_title.txt": "9a658cbc72fb5921186ae0afa1b41409cecaa007b40bfde046d4356508b6801c"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "3368d5b9da9123bd60c4a8e2223434b1a7f7d1930ada48622616fd923531f5a6"
+  }
+}

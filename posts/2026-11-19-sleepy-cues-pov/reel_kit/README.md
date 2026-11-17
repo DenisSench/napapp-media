@@ -9,7 +9,7 @@
 1. AI label REQUIRED on Instagram: before sharing, Advanced settings → turn ON **AI label**.
 2. AI label REQUIRED on the Facebook Page: before sharing, turn ON the **AI info / AI label** toggle.
 3. AI label REQUIRED (this post uses AI-generated images): before posting, More options → turn ON **AI-generated content**. Do not post without it.
-4. AI label REQUIRED on YouTube Shorts: before publishing, turn ON the **altered/synthetic content** label. Do not add an AI line to the description (YouTube has a dedicated field).
+4. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
 5. Download `reel.mp4` to your phone (on the kit page: tap **Download reel.mp4**, or long-press the video and save it).
 6. The video is **silent**. Sounds differ per platform; see the **Sound** block (Instagram and Facebook are separate). If it has no picks yet: on Instagram pick a trending sound that fits a calm, parent-friendly mood, and on the Facebook Page only a Sound Collection track tagged 'Royalty-free'.
 7. Instagram (from the **Instagram app**, not Meta Business Suite): on your phone open an Instagram pick's **audio link** → tap **Use audio** → pick `reel.mp4` → Next → paste the **IG caption** below. If none of the songs are available, use the Instagram backup (royalty-free).
@@ -18,7 +18,7 @@
 10. Facebook Page: switch to the Napapp Page → Reel → same `reel.mp4` → add a **Facebook** pick from the Sound block (Sound Collection, only tracks tagged 'Royalty-free'; or the CC0 re-render) → paste the **FB caption** below.
 11. Don't tick "also share to Facebook" in Instagram if you're posting the FB Reel separately (it would post twice; a licensed IG song may not carry over to the Page anyway).
 12. After posting, send Bob the two links so the stats script can match them to this post.
-13. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. AI label REQUIRED: before publishing, turn ON the altered/synthetic content label. Do not add an AI line to the description (YouTube has a dedicated field).
+13. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 ## Notes
 

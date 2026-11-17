@@ -28,7 +28,7 @@ Safe sleep: on their back, on a firm, flat surface, in an empty crib, every slee
 Subscribe for more simple baby sleep how-tos. Link in bio.
 ```
 
-## TikTok · Mon Nov 16, 12:00 PM ET · Inbox draft
+## TikTok · Mon Nov 16, 12:00 PM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -44,14 +44,12 @@ Better nights start at breakfast ☀️🌳 The NHS says it's a good idea to tea
 #babysleep #newbornlife #babyroutine #napapp
 ```
 
-## Instagram · Mon Nov 16, 12:00 PM ET · Hand-post
+## Instagram · Mon Nov 16, 12:00 PM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
-1. Download reel-preview-slideshow-plain.mp4 (the 9:16 slideshow Reel, top of this page).
-2. Instagram app (@getnapapp): open an Instagram pick's audio link → Use audio → pick the slideshow Reel → Next.
-3. Paste the IG caption. Cover: the first slide (the hook). Don't tick "also share to Facebook".
-4. Share, then send Bob the link.
+1. Option B: Instagram gets the 9:16 slideshow Reel made from these slides (Lee renders it), posted by you by hand in the Instagram app with an Instagram pick. No IG API.
+2. The slideshow Reel file isn't in this kit yet; Bob/Lee add it before the slot. Paste the IG caption below.
 
 Caption (post.md):
 
@@ -63,13 +61,12 @@ Link in bio.
 #babysleep #newbornlife #babyroutine #napapp
 ```
 
-## Facebook · Mon Nov 16, 12:00 PM ET · Hand-post
+## Facebook · Mon Nov 16, 12:00 PM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
-1. Facebook: switch to the Napapp Page → Reel → the same reel-preview-slideshow-plain.mp4.
-2. Add a Facebook pick below (Sound Collection, only tracks tagged 'Royalty-free').
-3. Paste the FB caption → Post. Send Bob the link.
+1. Facebook (Napapp Page): Create post → Photo → select 01 → 00 (4:5) in order → paste the FB caption → add music if offered (Facebook pick below) → Post.
+2. Send Bob the link so tracker.csv gets the post id.
 
 Caption (post.md):
 
