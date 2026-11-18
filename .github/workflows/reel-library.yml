@@ -1,0 +1,36 @@
+name: Reel library
+
+on:
+  push:
+    paths:
+      - 'posts/**'
+      - 'scripts/build-reels-library.mjs'
+      - '.github/workflows/reel-library.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          filter: blob:none
+          fetch-depth: 1
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/build-reels-library.mjs
+      - name: Publish the catalog
+        run: |
+          git add library/reels.json
+          if git diff --cached --quiet; then
+            echo "Catalog already matches the reel kits."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update the in-app reel library."
+          git push
