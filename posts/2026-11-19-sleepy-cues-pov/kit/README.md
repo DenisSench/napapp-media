@@ -9,8 +9,8 @@ Asset: ../reel_kit/reel.mp4
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube Shorts: before publishing, turn ON the **altered/synthetic content** label. Do not add an AI line to the description (YouTube has a dedicated field).
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. AI label REQUIRED: before publishing, turn ON the altered/synthetic content label. Do not add an AI line to the description (YouTube has a dedicated field).
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -103,25 +103,26 @@ Catch the sleepy cues and naps get easier to start 🥱👀 Watch for yawns, dro
 >
 > **Notes for this post:** SCHEDULE (format-test v2 per Garry, Nov 17): 2026-11-19 17:00 ET, A 2-clip / multi-shot (approved). Picks unchanged: silent 18.1 s Reel still needs a sound on every platform. Chopin Nocturne No. 2 leads on TikTok; IG is Everlong, then Linger, then Hold On, We're Going Home.
 SCHEDULE (Kling video 1, requested by Commander Nov 16): 2026-11-19 17:00 ET. TikTok/IG/FB: 18.1 s silent 9:16 Kling video Reel of a baby's sleepy cues with text overlays (kit: posts/2026-11-19-sleepy-cues-pov/reel_kit/). The video has no audio stream, so a sound is required on every platform. Calm picks: Chopin Nocturne No. 2 leads on TikTok (Cleared); IG is Everlong, then Linger, then Hold On, We're Going Home (Everlong rotated to lead because Linger already leads every other current IG Reel). Sunshine (Instrumental) is not used (off current charts as of the Nov 11 refresh). FB / ig_backup: Sound Collection searches 'lullaby' then 'soft piano', plus CC0 --track soft-as-a-dry-pillow. Denis confirms each sound in the in-app picker (TikTok Commercial Music Library; IG via the audio link, not Meta Business Suite; FB Sound Collection 'Royalty-free' or the CC0 --track). RE-CHECKED Nov 16 against research/vira-sounds-refresh-2026-11-11.md: none of these picks is listed as fading; Coming Up Roses still #7 on Kabo; Linger and Everlong still Rising on CreatorDB week of Nov 11. RECHECK Nov 17, 9:00 AM ET (two days out; day-ahead confirm comes Nov 18): picks unchanged. Coming Up Roses #11 on Kabo Nov 17 (was #7), still charting; Everlong/Linger still Rising on CreatorDB week of Nov 11.
+RECHECK Nov 18, 9:00 AM ET (DAY-AHEAD CONFIRM for Nov 19): IG SWAPPED. Old IG picks Everlong, Linger, Hold On, We're Going Home have dropped off both current IG charts (CreatorDB week of Nov 18 edition and SocialPilot Nov 17-25), so they are fading. New IG: The Blue Danube Waltz leads (instrumental, loop-friendly), then November, Coming Up Roses; all three are Rising this week with official instagram.com/reels/audio links. TikTok unchanged: Chopin Nocturne No. 2 and Ain't Nobody Else Like You (calm, cleared evergreen); Coming Up Roses up to #10 on Kabo Nov 18 (was #11), still charting. FB / ig_backup unchanged (Sound Collection 'Royalty-free' searches + CC0 --track bake-in fallback). Holiday tracks still held back.
 
-- **Everlong** · Foo Fighters (primary)
-  - link: https://www.instagram.com/reels/audio/1799705850076187/
-  - why: Slow-build lead for this short sleepy-cues Reel; rotated to primary because Linger already leads every other current IG Reel
-  - how: Best: open https://www.instagram.com/reels/audio/1799705850076187/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Everlong Foo Fighters', then pick the result whose artist is exactly 'Foo Fighters' (not a cover, sped-up version or 'original audio').
-  - trend: CreatorDB week of Nov 11, 2026: #6, Rising, Heat 59, 123K+ reels, #44 Spotify US +11 ('how it started vs how it's going'); earlier SocialPilot Oct 31 - Nov 10: #10, Rising
-  - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
-- **Linger** · The Cranberries (backup)
-  - link: https://www.instagram.com/reels/audio/192068608180555/
-  - why: Soft, cozy and slow; first backup if Everlong is greyed out
-  - how: Best: open https://www.instagram.com/reels/audio/192068608180555/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Linger The Cranberries', then pick the result whose artist is exactly 'The Cranberries' (not a cover, sped-up version or 'original audio').
-  - trend: CreatorDB week of Nov 11, 2026: #5, Rising, Heat 60, 117K+ reels, #42 Spotify US +3 ('fall digicam diary'); earlier SocialPilot Oct 31 - Nov 10: #11, Rising
-  - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
-- **Hold On, We're Going Home** · Drake, Majid Jordan (backup)
-  - link: https://www.instagram.com/reels/audio/435526946919130/
-  - why: Smooth mid-tempo licensed option if Everlong and Linger are greyed out
-  - how: Best: open https://www.instagram.com/reels/audio/435526946919130/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Hold On, We're Going Home Drake', then pick the result whose artist is exactly 'Drake, Majid Jordan' (not a cover, sped-up version or 'original audio').
-  - trend: CreatorDB week of Nov 11, 2026: #13, Rising, Heat 38, 66K+ reels ('relatable skit'); earlier SocialPilot Oct 31 - Nov 10: #7, Rising
-  - confidence: MEDIUM: trending on IG per the cited chart, and the audio page ID comes from that chart; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to
+- **The Blue Danube Waltz** · Royal Symphony Orchestra (primary)
+  - link: https://www.instagram.com/reels/audio/2488033034771649/
+  - why: Gentle classical instrumental with no lyrics; the 'mundane as grand ballet' joke fits POV/bedtime-routine humour and loops smoothly
+  - how: Best: open https://www.instagram.com/reels/audio/2488033034771649/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'The Blue Danube Waltz Royal Symphony Orchestra', then pick the result whose artist is exactly 'Royal Symphony Orchestra' (not a cover, sped-up version or 'original audio').
+  - trend: CreatorDB week of Nov 18, 2026: #14, Rising, Heat 38, 50K reels ('treating the mundane like a grand ballet'); SocialPilot Nov 17-25: #11
+  - confidence: MEDIUM: trending on IG per CreatorDB week of Nov 18 and SocialPilot Nov 17-25; audio page link from SocialPilot's 'Instagram Audio Link'; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; instrumental, no lyrics; pick the exact 'Royal Symphony Orchestra' recording
+- **November** · Past Day (backup)
+  - link: https://www.instagram.com/reels/audio/1968727160170477/
+  - why: Calm, wintry instrumental: no lyrics to clash with baby sleep; seasonal and rising
+  - how: Best: open https://www.instagram.com/reels/audio/1968727160170477/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'November Past Day', then pick the result whose artist is exactly 'Past Day' (not a cover, sped-up version or 'original audio').
+  - trend: CreatorDB week of Nov 18, 2026: #8, Rising, Heat 48, 142K reels ('November photo dump / seasonal reflection'); SocialPilot Nov 17-25: #5
+  - confidence: MEDIUM: trending on IG per CreatorDB week of Nov 18 and SocialPilot Nov 17-25; audio page link from SocialPilot's 'Instagram Audio Link'; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; instrumental, no lyrics
+- **Coming Up Roses** · Harry Styles (backup)
+  - link: https://www.instagram.com/reels/audio/1969670177763370/
+  - why: Warm, grateful-sounding trend play for 'small wins' parent moments; strongest IG momentum of the calm-compatible sounds
+  - how: Best: open https://www.instagram.com/reels/audio/1969670177763370/ on the phone and tap 'Use audio' (exact track). Or in the Reels editor, Add audio and search 'Coming Up Roses Harry Styles', then pick the result whose artist is exactly 'Harry Styles' (not a cover, sped-up version or 'original audio').
+  - trend: CreatorDB week of Nov 18, 2026: #6, Rising, Heat 55, 116K reels, #57 Spotify US +29 ('silly little life' gratitude montage); SocialPilot Nov 17-25: #6 (49K to 116K reels in under 3 weeks)
+  - confidence: MEDIUM: trending on IG per CreatorDB week of Nov 18 and SocialPilot Nov 17-25; audio page link from SocialPilot's 'Instagram Audio Link'; availability on @getnapapp (Creator, Canada) is UNVERIFIED until it appears in the picker; lyrics/section not listened to: Denis should check the chosen section before posting
 
 **Instagram backup (royalty-free):**
 
@@ -148,7 +149,7 @@ SCHEDULE (Kling video 1, requested by Commander Nov 16): 2026-11-19 17:00 ET. Ti
   - licence: CC0 1.0 (reel/music/manifest.json, sha256-checked)
   - confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
 
-Picks as of Nov 17, 2026, 12:35 PM ET
+Picks as of Nov 18, 2026, 9:00 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 

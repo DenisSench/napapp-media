@@ -1,8 +1,8 @@
 {
   "post": "2026-11-17-nap-wind-down-4-steps",
   "kind": "carousel",
-  "meta_reels_only": true,
-  "meta_reel": "reel-preview-slideshow-plain.mp4",
+  "meta_reels_only": false,
+  "meta_reel": null,
   "approval": {
     "state": "approved",
     "label": "Approved",
@@ -15,42 +15,41 @@
     "tiktok": {
       "date": "2026-11-17",
       "time": "17:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "inbox",
-      "url": ""
+      "url": "https://www.tiktok.com/@nap_app/video/7709276687963573525"
     },
     "ig": {
       "date": "2026-11-17",
       "time": "17:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.instagram.com/reel/Df3DHvJgNYc/"
     },
     "fb": {
       "date": "2026-11-17",
       "time": "17:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
       "url": ""
     },
     "yt": {
       "date": "2026-11-17",
       "time": "17:00",
-      "status": "Approved",
-      "posted": false,
+      "status": "Posted",
+      "posted": true,
       "mode": "hand",
-      "url": ""
+      "url": "https://www.youtube.com/shorts/MPd-pYVSFXE"
     }
   },
   "files": {
-    "README.md": "9319b06797cdbdcf6fad5b014b7cf045b955eea2ad708df9f617af52e641ae6e",
+    "README.md": "d552d64f04ea802bf258f170f347307570bc643538ca06e6d0ee716b54ff7995",
     "fb_caption.txt": "048b3d68760aba3bd4fb2e1893b471e75b2b9e43e63329c13439d44c9984e9f2",
     "ig_caption.txt": "e3f6d6201d0fcf9b379100d73a7760886872f5060fb9e0690fc859b85b44a293",
-    "index.html": "4f25d8570f0135dccec987b10323304a7f2fa32a48d6c705c6f920ed15e31472",
-    "reel-preview-slideshow-plain.mp4": "1afdbf6269f7ff917ff9ff98b143ab65157729fa05da128efc639eae37a3b48a",
+    "index.html": "0ddff4c53bc9dc1c06108e5509b5f76e63c834577eb57dae0ed8913babe4b6cb",
     "tiktok_caption.txt": "048b3d68760aba3bd4fb2e1893b471e75b2b9e43e63329c13439d44c9984e9f2",
     "youtube_description.txt": "a7b1aa608daad96c88f66d020565c3ecf2594aae60be18e87e3ad592698e34fd",
     "youtube_title.txt": "3f07d4d86f2ac0ea00fc6f0ec7dcd99a3c8f387277e7c950005487a10c9c3c11"
