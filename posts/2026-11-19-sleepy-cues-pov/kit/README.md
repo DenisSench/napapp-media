@@ -9,8 +9,8 @@ Asset: ../reel_kit/reel.mp4
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube Shorts: before publishing, turn ON the **altered/synthetic content** label. Do not add an AI line to the description (YouTube has a dedicated field).
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. AI label REQUIRED: before publishing, turn ON the altered/synthetic content label. Do not add an AI line to the description (YouTube has a dedicated field).
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -101,7 +101,8 @@ Catch the sleepy cues and naps get easier to start 🥱👀 Watch for yawns, dro
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** SCHEDULE (Kling video 1, requested by Commander Nov 16): 2026-11-19 17:00 ET. TikTok/IG/FB: 18.1 s silent 9:16 Kling video Reel of a baby's sleepy cues with text overlays (kit: posts/2026-11-19-sleepy-cues-pov/reel_kit/). The video has no audio stream, so a sound is required on every platform. Calm picks: Chopin Nocturne No. 2 leads on TikTok (Cleared); IG is Everlong, then Linger, then Hold On, We're Going Home (Everlong rotated to lead because Linger already leads every other current IG Reel). Sunshine (Instrumental) is not used (off current charts as of the Nov 11 refresh). FB / ig_backup: Sound Collection searches 'lullaby' then 'soft piano', plus CC0 --track soft-as-a-dry-pillow. Denis confirms each sound in the in-app picker (TikTok Commercial Music Library; IG via the audio link, not Meta Business Suite; FB Sound Collection 'Royalty-free' or the CC0 --track). RE-CHECKED Nov 16 against research/vira-sounds-refresh-2026-11-11.md: none of these picks is listed as fading; Coming Up Roses still #7 on Kabo; Linger and Everlong still Rising on CreatorDB week of Nov 11. RECHECK Nov 17, 9:00 AM ET (two days out; day-ahead confirm comes Nov 18): picks unchanged. Coming Up Roses #11 on Kabo Nov 17 (was #7), still charting; Everlong/Linger still Rising on CreatorDB week of Nov 11.
+> **Notes for this post:** SCHEDULE (format-test v2 per Garry, Nov 17): 2026-11-19 17:00 ET, A 2-clip / multi-shot (approved). Picks unchanged: silent 18.1 s Reel still needs a sound on every platform. Chopin Nocturne No. 2 leads on TikTok; IG is Everlong, then Linger, then Hold On, We're Going Home.
+SCHEDULE (Kling video 1, requested by Commander Nov 16): 2026-11-19 17:00 ET. TikTok/IG/FB: 18.1 s silent 9:16 Kling video Reel of a baby's sleepy cues with text overlays (kit: posts/2026-11-19-sleepy-cues-pov/reel_kit/). The video has no audio stream, so a sound is required on every platform. Calm picks: Chopin Nocturne No. 2 leads on TikTok (Cleared); IG is Everlong, then Linger, then Hold On, We're Going Home (Everlong rotated to lead because Linger already leads every other current IG Reel). Sunshine (Instrumental) is not used (off current charts as of the Nov 11 refresh). FB / ig_backup: Sound Collection searches 'lullaby' then 'soft piano', plus CC0 --track soft-as-a-dry-pillow. Denis confirms each sound in the in-app picker (TikTok Commercial Music Library; IG via the audio link, not Meta Business Suite; FB Sound Collection 'Royalty-free' or the CC0 --track). RE-CHECKED Nov 16 against research/vira-sounds-refresh-2026-11-11.md: none of these picks is listed as fading; Coming Up Roses still #7 on Kabo; Linger and Everlong still Rising on CreatorDB week of Nov 11. RECHECK Nov 17, 9:00 AM ET (two days out; day-ahead confirm comes Nov 18): picks unchanged. Coming Up Roses #11 on Kabo Nov 17 (was #7), still charting; Everlong/Linger still Rising on CreatorDB week of Nov 11.
 
 - **Everlong** · Foo Fighters (primary)
   - link: https://www.instagram.com/reels/audio/1799705850076187/
@@ -147,7 +148,7 @@ Catch the sleepy cues and naps get easier to start 🥱👀 Watch for yawns, dro
   - licence: CC0 1.0 (reel/music/manifest.json, sha256-checked)
   - confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
 
-Picks as of Nov 17, 2026, 9:00 AM ET
+Picks as of Nov 17, 2026, 12:35 PM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
