@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## YouTube Shorts · Tue Nov 17, 12:00 PM ET · Hand-post
+## YouTube Shorts · Thu Nov 19, 9:00 PM ET · Hand-post
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
@@ -28,7 +28,7 @@ Safe sleep: on their back, on a firm, flat surface, in an empty crib, every slee
 Subscribe for more simple baby sleep how-tos. Link in bio.
 ```
 
-## TikTok · Tue Nov 17, 12:00 PM ET · Inbox draft
+## TikTok · Thu Nov 19, 9:00 PM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -44,7 +44,7 @@ Moving baby into their own room? Here's a calm way to do it 🏡🛏️ The AAP 
 #babysleep #nursery #bedtimeroutine #napapp
 ```
 
-## Instagram · Tue Nov 17, 12:00 PM ET · Hand-post
+## Instagram · Thu Nov 19, 9:00 PM ET · Hand-post
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -63,7 +63,7 @@ Link in bio.
 #babysleep #nursery #bedtimeroutine #napapp
 ```
 
-## Facebook · Tue Nov 17, 12:00 PM ET · Hand-post
+## Facebook · Thu Nov 19, 9:00 PM ET · Hand-post
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
@@ -94,7 +94,7 @@ Moving baby into their own room? Here's a calm way to do it 🏡🛏️ The AAP 
 
 > **How to post on Instagram:** Post from the Instagram app (not Meta Business Suite). Open the song's audio link on your phone and tap 'Use audio'. Don't boost (or tag as a paid partnership) a Reel that uses a licensed song.
 >
-> **Notes for this post:** SCHEDULE (tiktok_slots.json, as of Nov 16 9:00 AM ET): Nov 17 12:00 ET, TikTok carousel + IG/FB 9:16 slideshow Reel. Still RESERVED, not yet approved by Denis (Garry's Nov 17 layout, Nov 15 ~11:45 AM ET). SCHEDULE (tiktok_slots.json, slots remapped by Bob Nov 14 9:45 PM ET per Denis via Commander 9:18 PM: 9 AM->12 PM, 1 PM->5 PM, 7 PM->9 PM): Nov 17 12:00 ET. Still RESERVED, not yet approved by Denis. Earlier times in these notes are superseded. SCHEDULE (how-to plan v2 / batch 2, RESERVED per Garry Nov 11; tiktok_slots.json): Nov 17 09:00 ET. TikTok: carousel. IG/FB: 9:16 slideshow Reel (CC0 bake-in fallback works). Not yet approved by Denis; picks are provisional and get a day-ahead re-check. Chopin Nocturne No. 2 (Piano Mono) leads on TikTok for this own-room move how-to; IG is Linger, then Everlong, then Hold On, We're Going Home (Sunshine dropped: no current chart carries it). Avoid holiday tracks (Mariah, Kelly Clarkson, Ariana) on these how-tos: off-topic and peaking. Denis confirms each sound in the in-app picker (TikTok Commercial Music Library; IG via the audio link, not Meta Business Suite; FB Sound Collection 'Royalty-free' or the CC0 --track). CHECK Nov 15, 9:00 AM ET: picks still valid; full day-ahead confirm on Nov 16. RECHECK Nov 16, 9:00 AM ET (day-ahead confirm for Nov 17): picks CONFIRMED, no swaps. TikTok: Octohog's chart is back at a new URL (octohog.com/tools/trending-tiktok-sounds, updated Nov 16 12:01 UTC) with Coming Up Roses #5 'Cleared' (242.2K videos); Kabo's Nov 16 board has it #8. Tokchart US (Nov 16) has Chopin Nocturne No. 2 (Piano Mono) #5, +100K videos/day (7M total), so the calm pick is also a live trend. Ain't Nobody Else Like You stays as the calm, cleared evergreen fit. New leaders (Stolen From Each Other, Gangster Bxtch, nothing / the feeling by Steve Lacy, Can I Ride, Housewife, Bow Bow Bow, holiday songs) don't fit calm baby-sleep how-tos; Angel Of My Dreams is still excluded for lyrics. IG: CreatorDB is still the week-of-Nov 11 edition (Linger #5, Everlong #6, Hold On, We're Going Home #13, all Rising; next edition expected around Nov 18); SocialPilot has no edition after Nov 10. Ignix's Nov 16 top 10 (from Instagram's own chart) is US Veterans Day music and original audio, which doesn't fit. Coming Up Roses is #2 on optimiseyourmarketing's IG list (week 47), but there is no verified IG audio link for it, so it isn't added. Holiday sounds still held back. FB and ig_backup unchanged. RECHECK Nov 17, 9:00 AM ET (same-day confirm for today): picks CONFIRMED, no swaps. Coming Up Roses slipped to #11 on Kabo (Nov 17) but is still charting; CreatorDB still week of Nov 11 (Linger, Everlong, Hold On, We're Going Home all Rising).
+> **Notes for this post:** SLOT MOVED: this post now goes out Thu Nov 19, 9:00 PM ET (Denis via Commander, Nov 17 2026 10:14 PM ET, verbatim: "Put own-room-move in the next free slot"). SCHEDULE lines below that say Nov 17 12:00 ET or RESERVED are historical. SCHEDULE (tiktok_slots.json, as of Nov 16 9:00 AM ET): Nov 17 12:00 ET, TikTok carousel + IG/FB 9:16 slideshow Reel. Still RESERVED, not yet approved by Denis (Garry's Nov 17 layout, Nov 15 ~11:45 AM ET). SCHEDULE (tiktok_slots.json, slots remapped by Bob Nov 14 9:45 PM ET per Denis via Commander 9:18 PM: 9 AM->12 PM, 1 PM->5 PM, 7 PM->9 PM): Nov 17 12:00 ET. Still RESERVED, not yet approved by Denis. Earlier times in these notes are superseded. SCHEDULE (how-to plan v2 / batch 2, RESERVED per Garry Nov 11; tiktok_slots.json): Nov 17 09:00 ET. TikTok: carousel. IG/FB: 9:16 slideshow Reel (CC0 bake-in fallback works). Not yet approved by Denis; picks are provisional and get a day-ahead re-check. Chopin Nocturne No. 2 (Piano Mono) leads on TikTok for this own-room move how-to; IG is Linger, then Everlong, then Hold On, We're Going Home (Sunshine dropped: no current chart carries it). Avoid holiday tracks (Mariah, Kelly Clarkson, Ariana) on these how-tos: off-topic and peaking. Denis confirms each sound in the in-app picker (TikTok Commercial Music Library; IG via the audio link, not Meta Business Suite; FB Sound Collection 'Royalty-free' or the CC0 --track). CHECK Nov 15, 9:00 AM ET: picks still valid; full day-ahead confirm on Nov 16. RECHECK Nov 16, 9:00 AM ET (day-ahead confirm for Nov 17): picks CONFIRMED, no swaps. TikTok: Octohog's chart is back at a new URL (octohog.com/tools/trending-tiktok-sounds, updated Nov 16 12:01 UTC) with Coming Up Roses #5 'Cleared' (242.2K videos); Kabo's Nov 16 board has it #8. Tokchart US (Nov 16) has Chopin Nocturne No. 2 (Piano Mono) #5, +100K videos/day (7M total), so the calm pick is also a live trend. Ain't Nobody Else Like You stays as the calm, cleared evergreen fit. New leaders (Stolen From Each Other, Gangster Bxtch, nothing / the feeling by Steve Lacy, Can I Ride, Housewife, Bow Bow Bow, holiday songs) don't fit calm baby-sleep how-tos; Angel Of My Dreams is still excluded for lyrics. IG: CreatorDB is still the week-of-Nov 11 edition (Linger #5, Everlong #6, Hold On, We're Going Home #13, all Rising; next edition expected around Nov 18); SocialPilot has no edition after Nov 10. Ignix's Nov 16 top 10 (from Instagram's own chart) is US Veterans Day music and original audio, which doesn't fit. Coming Up Roses is #2 on optimiseyourmarketing's IG list (week 47), but there is no verified IG audio link for it, so it isn't added. Holiday sounds still held back. FB and ig_backup unchanged. RECHECK Nov 17, 9:00 AM ET (same-day confirm for today): picks CONFIRMED, no swaps. Coming Up Roses slipped to #11 on Kabo (Nov 17) but is still charting; CreatorDB still week of Nov 11 (Linger, Everlong, Hold On, We're Going Home all Rising).
 
 - **Linger** · The Cranberries (primary)
   - link: https://www.instagram.com/reels/audio/192068608180555/
