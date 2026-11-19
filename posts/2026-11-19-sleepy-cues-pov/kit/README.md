@@ -9,8 +9,8 @@ Asset: ../reel_kit/reel.mp4
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
-1. AI label REQUIRED on YouTube Shorts: before publishing, turn ON the **altered/synthetic content** label. Do not add an AI line to the description (YouTube has a dedicated field).
-2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. AI label REQUIRED: before publishing, turn ON the altered/synthetic content label. Do not add an AI line to the description (YouTube has a dedicated field).
+1. YouTube (optional): set the altered/synthetic content toggle only if YouTube requires it (Denis, Nov 14: YouTube has a dedicated field; no AI line in the description).
+2. Upload the 9:16 reel as a Short to @getnapapp, paste the title and description. Optional: set the altered/synthetic content toggle only if YouTube requires it.
 
 Title:
 
@@ -104,6 +104,7 @@ Catch the sleepy cues and naps get easier to start 🥱👀 Watch for yawns, dro
 > **Notes for this post:** SCHEDULE (format-test v2 per Garry, Nov 17): 2026-11-19 17:00 ET, A 2-clip / multi-shot (approved). Picks unchanged: silent 18.1 s Reel still needs a sound on every platform. Chopin Nocturne No. 2 leads on TikTok; IG is Everlong, then Linger, then Hold On, We're Going Home.
 SCHEDULE (Kling video 1, requested by Commander Nov 16): 2026-11-19 17:00 ET. TikTok/IG/FB: 18.1 s silent 9:16 Kling video Reel of a baby's sleepy cues with text overlays (kit: posts/2026-11-19-sleepy-cues-pov/reel_kit/). The video has no audio stream, so a sound is required on every platform. Calm picks: Chopin Nocturne No. 2 leads on TikTok (Cleared); IG is Everlong, then Linger, then Hold On, We're Going Home (Everlong rotated to lead because Linger already leads every other current IG Reel). Sunshine (Instrumental) is not used (off current charts as of the Nov 11 refresh). FB / ig_backup: Sound Collection searches 'lullaby' then 'soft piano', plus CC0 --track soft-as-a-dry-pillow. Denis confirms each sound in the in-app picker (TikTok Commercial Music Library; IG via the audio link, not Meta Business Suite; FB Sound Collection 'Royalty-free' or the CC0 --track). RE-CHECKED Nov 16 against research/vira-sounds-refresh-2026-11-11.md: none of these picks is listed as fading; Coming Up Roses still #7 on Kabo; Linger and Everlong still Rising on CreatorDB week of Nov 11. RECHECK Nov 17, 9:00 AM ET (two days out; day-ahead confirm comes Nov 18): picks unchanged. Coming Up Roses #11 on Kabo Nov 17 (was #7), still charting; Everlong/Linger still Rising on CreatorDB week of Nov 11.
 RECHECK Nov 18, 9:00 AM ET (DAY-AHEAD CONFIRM for Nov 19): IG SWAPPED. Old IG picks Everlong, Linger, Hold On, We're Going Home have dropped off both current IG charts (CreatorDB week of Nov 18 edition and SocialPilot Nov 17-25), so they are fading. New IG: The Blue Danube Waltz leads (instrumental, loop-friendly), then November, Coming Up Roses; all three are Rising this week with official instagram.com/reels/audio links. TikTok unchanged: Chopin Nocturne No. 2 and Ain't Nobody Else Like You (calm, cleared evergreen); Coming Up Roses up to #10 on Kabo Nov 18 (was #11), still charting. FB / ig_backup unchanged (Sound Collection 'Royalty-free' searches + CC0 --track bake-in fallback). Holiday tracks still held back.
+RECHECK Nov 19, 9:00 AM ET (SAME-DAY RECHECK for Nov 19): Trend check Nov 19 (public sources only): TikTok: Coming Up Roses holds #10 on Kabo (Nov 19 snapshot, same as Nov 18) and is #5 'Cleared' on Octohog (updated Nov 18, 9:46 PM ET); Chopin Nocturne No. 2 (Piano Mono) is still on Tokchart US (#8, 7M videos), and Ain't Nobody Else Like You stays as the calm, cleared evergreen pick. The top of the board is still holiday songs (Mariah, Darlene Love, Wham!), which we're holding back. IG: CreatorDB is still the week-of-Nov 18 edition (Coming Up Roses #6, November #8, Blue Danube #14, all Rising) and SocialPilot Nov 17-25 is unchanged (November #5, Coming Up Roses #6), so no IG picks are fading. FB / ig_backup unchanged (Sound Collection 'Royalty-free' searches + CC0 --track bake-in fallback). PICKS UNCHANGED.
 
 - **The Blue Danube Waltz** · Royal Symphony Orchestra (primary)
   - link: https://www.instagram.com/reels/audio/2488033034771649/
@@ -149,7 +150,7 @@ RECHECK Nov 18, 9:00 AM ET (DAY-AHEAD CONFIRM for Nov 19): IG SWAPPED. Old IG pi
   - licence: CC0 1.0 (reel/music/manifest.json, sha256-checked)
   - confidence: HIGH for licence (CC0, commercial use OK, confirmed on archive.org + artist page); mood UNVERIFIED (nobody has listened yet); small risk of a false Content ID claim (artist FAQ)
 
-Picks as of Nov 18, 2026, 9:00 AM ET
+Picks as of Nov 19, 2026, 9:00 AM ET
 
 _Only use sounds cleared for business use: TikTok's Commercial sounds list; on the Facebook Page only Sound Collection tracks tagged 'Royalty-free' (or the baked-in CC0 track); on Instagram only the songs listed here, added via their audio link, or the royalty-free backup._
 
