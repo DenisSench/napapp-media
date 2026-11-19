@@ -53,33 +53,6 @@ TRIGGER:-PT5M
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:back-to-work-tired-tt-ig-fb@napapp.io
-DTSTAMP:20261115T194411Z
-SEQUENCE:6
-DTSTART;TZID=America/Toronto:20261112T090000
-DTEND;TZID=America/Toronto:20261112T091500
-SUMMARY:✅ Posted: Back to work tired [TT/IG/FB]
-DESCRIPTION:✅ TikTok: check the inbox draft (lands ~2 h before) and publi
- sh it\n✅ Instagram: hand-post the slideshow Reel (Option B)\n✅ Faceboo
- k: hand-post the slideshow Reel\n\nApproval: Approved (one approval for al
- l platforms)\nKit: https://media.napapp.io/posts/2026-11-15-back-to-work-t
- ired/kit/\nTikTok kit: https://media.napapp.io/posts/2026-11-15-back-to-wo
- rk-tired/tiktok_kit/\nDashboard: https://media.napapp.io/cal-lvt4wit7/
-URL:https://media.napapp.io/posts/2026-11-15-back-to-work-tired/kit/
-TRANSP:TRANSPARENT
-STATUS:CONFIRMED
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Back to work tired [TT/IG/FB] in 30 min
-TRIGGER:-PT30M
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:✅ Posted: Back to work tired [TT/IG/FB] in 5 min
-TRIGGER:-PT5M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:nursery-setup-tt-ig-fb@napapp.io
 DTSTAMP:20261115T194411Z
 SEQUENCE:6
