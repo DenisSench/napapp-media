@@ -90,7 +90,7 @@ _Only use sounds cleared for business use: TikTok's Commercial sounds list; on t
 ```
 Travelling with baby this season? 6 safe-sleep tips for the trip ✈️🧳 Pack a routine you can do anywhere: the AAP suggests sleep routines that can be used wherever you are, like brush, book, bed. Bring a portable crib or play yard, or ask for one when you book; the AAP says many hotels and vacation rentals have them on request, and to use one rather than bringing baby into your bed. Check it first: the AAP says it should be in good repair, with no broken or missing parts and no padding other than the original mattress. Inside, a fitted sheet only, with no pillows, blankets, bumpers or toys; the AAP suggests a familiar crib sheet from home as a reminder of home. Place the crib away from cords, lamps and TVs, as the AAP recommends. If your baby falls asleep in the car seat, the AAP says to move them to a firm sleep surface on their back as soon as possible, since the car seat isn't a safe place to sleep once you arrive. Back to sleep on their back, on a firm, flat surface, in an empty crib, for every sleep until age 1. Where are you headed for the holidays? Napapp logs sleep in one tap wherever you are, so naps on the road are easy to keep track of. Link in bio.
 
-#travelwithbaby #babysleep #safesleep #napapp
+#newmom #newborn #napapp #travelwithbaby
 ```
 
 ## Instagram + Facebook: Reel only
