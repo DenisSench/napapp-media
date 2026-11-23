@@ -1,6 +1,11 @@
 {
   "clips": [
     {
+      "id": "feed-play-sleep-routine",
+      "title": "Feed play sleep routine",
+      "url": "https://media.napapp.io/posts/2026-11-23-feed-play-sleep-routine/reel_kit/reel.mp4"
+    },
+    {
       "id": "sleepy-cues-pov",
       "title": "Sleepy cues",
       "url": "https://media.napapp.io/posts/2026-11-19-sleepy-cues-pov/reel_kit/reel.mp4"
