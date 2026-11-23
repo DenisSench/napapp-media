@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-24-cluster-feeding-evenings",
+  "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "74234e98afe7498f",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-24",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-24",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-24",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-24",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "d32bd39caf2a642493e6eb7e104d02f7fa231e53a7bc6ed155beab30ebf8ba90",
+    "fb_caption.txt": "28337ac02021374cab1bef844ba41c79fb50f4272e332de8f136b316facfd993",
+    "ig_caption.txt": "b85eaeb00c5e843216b8b5f320ed0d95228b9259a22497ddffcb0e1da3ce45f7",
+    "index.html": "d855f5f1e70dec0204ec770f7cd4215b94032fbbd04ae88c282f22ecf7beb9f9",
+    "tiktok_caption.txt": "28337ac02021374cab1bef844ba41c79fb50f4272e332de8f136b316facfd993",
+    "youtube_description.txt": "0a2d44ff38098a234ef94b839e98dee665a0d8c79495bf68f67aa7751c13a8ef",
+    "youtube_title.txt": "9a262e94b4c9dc25a776094c2c47c526452339116ad7f895640096688b140792"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "863f043b407ca979d270c9d917e689ce203f30e0beaf092c31f1f09280357203"
+  }
+}
