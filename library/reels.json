@@ -1,6 +1,16 @@
 {
   "clips": [
     {
+      "id": "daily-rhythm-by-age",
+      "title": "Daily rhythm by age",
+      "url": "https://media.napapp.io/posts/2026-11-25-daily-rhythm-by-age/reel_kit/reel.mp4"
+    },
+    {
+      "id": "cluster-feeding-evenings",
+      "title": "Cluster feeding evenings",
+      "url": "https://media.napapp.io/posts/2026-11-24-cluster-feeding-evenings/reel_kit/reel.mp4"
+    },
+    {
       "id": "feed-play-sleep-routine",
       "title": "Feed play sleep routine",
       "url": "https://media.napapp.io/posts/2026-11-23-feed-play-sleep-routine/reel_kit/reel.mp4"
