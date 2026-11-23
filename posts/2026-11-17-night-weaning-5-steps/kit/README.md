@@ -29,7 +29,7 @@ Safe sleep: on their back, on a firm, flat surface, in an empty crib, every slee
 Subscribe for more simple baby sleep how-tos. Link in bio.
 ```
 
-## TikTok · Tue Nov 17, 9:00 PM ET · Inbox draft
+## TikTok · Tue Nov 17, 9:00 PM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -46,7 +46,7 @@ Night weaning goes best gently, at your baby's pace 🍼✨ The NHS says that fo
 #nightweaning #babysleep #nightfeeds #napapp
 ```
 
-## Instagram · Tue Nov 17, 9:00 PM ET · Hand-post
+## Instagram · Tue Nov 17, 9:00 PM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -66,7 +66,7 @@ Link in bio.
 #nightweaning #babysleep #nightfeeds #napapp
 ```
 
-## Facebook · Tue Nov 17, 9:00 PM ET · Hand-post
+## Facebook · Tue Nov 17, 9:00 PM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

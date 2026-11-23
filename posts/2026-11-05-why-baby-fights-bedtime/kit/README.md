@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## YouTube Shorts · Fri Nov 6, 12:39 PM ET · Hand-post
+## YouTube Shorts · Fri Nov 6, 12:36 PM ET · Hand-post
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 

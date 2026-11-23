@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../reel_kit/reel.mp4
 
-## YouTube Shorts · Fri Nov 6, 6:59 PM ET · Hand-post
+## YouTube Shorts · Fri Nov 6, 6:56 PM ET · Hand-post
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 

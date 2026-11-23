@@ -29,7 +29,7 @@ Safe sleep: on their back, on a firm, flat surface, in an empty crib, every slee
 Subscribe for more simple baby sleep how-tos. Link in bio.
 ```
 
-## TikTok · Thu Nov 19, 12:00 PM ET · Inbox draft
+## TikTok · Thu Nov 19, 12:00 PM ET · Inbox draft · POSTED
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -46,7 +46,7 @@ How much sleep does your baby need? 📋⭐ The American Academy of Sleep Medici
 #newmom #newborn #napapp #babysleep
 ```
 
-## Instagram · Thu Nov 19, 12:00 PM ET · Hand-post
+## Instagram · Thu Nov 19, 12:00 PM ET · Hand-post · POSTED
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -66,7 +66,7 @@ Link in bio.
 #newmom #newborn #napapp #babysleep
 ```
 
-## Facebook · Thu Nov 19, 12:00 PM ET · Hand-post
+## Facebook · Thu Nov 19, 12:00 PM ET · Hand-post · POSTED
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 

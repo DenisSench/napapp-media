@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../tiktok_kit/NN.jpg (9:16) + 4:5
 
-## YouTube Shorts · Thu Nov 19, 9:00 PM ET · Hand-post
+## YouTube Shorts · Tue Nov 17, 12:00 PM ET · Hand-post
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
@@ -28,7 +28,7 @@ Safe sleep: on their back, on a firm, flat surface, in an empty crib, every slee
 Subscribe for more simple baby sleep how-tos. Link in bio.
 ```
 
-## TikTok · Thu Nov 19, 9:00 PM ET · Inbox draft
+## TikTok · Tue Nov 17, 12:00 PM ET · Inbox draft
 
 a draft lands in your TikTok inbox ~2 h before the slot; check it and publish
 
@@ -44,7 +44,7 @@ Moving baby into their own room? Here's a calm way to do it 🏡🛏️ The AAP 
 #newmom #newborn #napapp #nursery
 ```
 
-## Instagram · Thu Nov 19, 9:00 PM ET · Hand-post
+## Instagram · Tue Nov 17, 12:00 PM ET · Hand-post
 
 Option B: IG gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no IG API
 
@@ -63,7 +63,7 @@ Link in bio.
 #newmom #newborn #napapp #nursery
 ```
 
-## Facebook · Thu Nov 19, 9:00 PM ET · Hand-post
+## Facebook · Tue Nov 17, 12:00 PM ET · Hand-post
 
 Reels only: FB gets the 9:16 slideshow Reel (from Lee), posted by you by hand; no FB API
 
