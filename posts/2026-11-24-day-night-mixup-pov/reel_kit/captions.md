@@ -1,0 +1,31 @@
+# Captions: 2026-11-24-day-night-mixup-pov
+
+## Instagram (caption + hashtags)
+
+```
+Up all night, sleepy all day is so common with newborns, because their body clock hasn't developed yet 🌙☀️
+The NHS suggests keeping days light and normal, and nights dim and quiet, to help baby learn that night is different from day. Cleveland Clinic says the difference between night and day sleep often starts showing around 3-6 months. Safe sleep: on their back, on a firm, flat surface, in an empty crib, every sleep until age 1. Save this and follow for more tips. Napapp logs sleep and feeds in one tap.
+Link in bio.
+
+#newmom #newborn #napapp #newbornsleep
+```
+
+## Facebook Page (caption + hashtags)
+
+```
+Up all night, sleepy all day is so common with newborns, because their body clock hasn't developed yet 🌙☀️ The NHS suggests keeping days light and normal, and nights dim and quiet, to help baby learn that night is different from day. Cleveland Clinic says the difference between night and day sleep often starts showing around 3-6 months. Safe sleep: on their back, on a firm, flat surface, in an empty crib, every sleep until age 1. Save this and follow for more tips. Napapp logs sleep and feeds in one tap. Link in bio.
+
+#newmom #newborn #napapp #newbornsleep
+```
+
+## TikTok Caption
+
+```
+Up all night, sleepy all day is so common with newborns, because their body clock hasn't developed yet 🌙☀️ The NHS suggests keeping days light and normal, and nights dim and quiet, to help baby learn that night is different from day. Cleveland Clinic says the difference between night and day sleep often starts showing around 3-6 months. Safe sleep: on their back, on a firm, flat surface, in an empty crib, every sleep until age 1. Save this and follow for more tips. Napapp logs sleep and feeds in one tap. Link in bio.
+```
+
+## TikTok Hashtags
+
+```
+#newmom #newborn #napapp #newbornsleep
+```

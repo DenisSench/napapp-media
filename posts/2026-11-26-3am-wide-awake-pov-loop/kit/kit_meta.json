@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-26-3am-wide-awake-pov-loop",
+  "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "f2c2ade97a56027e",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-26",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-26",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-26",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-26",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "4657761fe2f953a72796f618f7cc7e85e294a66363a2bcdc76935bacb0b2687e",
+    "fb_caption.txt": "1d211aa144d230453aa6abb7badf8a57c111db11990f6d88f3cbbaffba9df96b",
+    "ig_caption.txt": "bac6c314ac95ca7a9294d82745bae5c480a81506b1d6b531673cf3e11766fcc0",
+    "index.html": "20d822e7e14304f3c59981290f946ba8d7b657511233c551ceba560c6bee5a64",
+    "tiktok_caption.txt": "1d211aa144d230453aa6abb7badf8a57c111db11990f6d88f3cbbaffba9df96b",
+    "youtube_description.txt": "5803243da3b3f523647b4eb96433992c6ccd9bb1130e7a06b52468c45603ccec",
+    "youtube_title.txt": "0584074666340924b85911addb4f1c742244e2acc62059a3d72b49c90211b872"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "6482d11e34511a1cf22cb4ddf1e17be2a843c2ea009a5d56f97e1585f2312529"
+  }
+}

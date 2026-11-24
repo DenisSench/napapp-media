@@ -1,0 +1,31 @@
+# Captions: 2026-11-25-bedtime-battle-pov
+
+## Instagram (caption + hashtags)
+
+```
+Bedtime started an hour ago and you're still here 😑📘
+Bedtime running long is so common, and it's not a sign you're doing it wrong. The NHS notes a simple, soothing bedtime routine may help babies settle. Cleveland Clinic suggests a short, calm 20- to 30-minute routine so baby can wind down. Dim the lights and keep the same few steps. Safe sleep: on their back, on a firm, flat surface, in an empty crib, every sleep until age 1. Save this and follow for more tips. Napapp logs sleep and feeds in one tap.
+Link in bio.
+
+#newmom #newborn #napapp #bedtimeroutine
+```
+
+## Facebook Page (caption + hashtags)
+
+```
+Bedtime started an hour ago and you're still here 😑📘 Bedtime running long is so common, and it's not a sign you're doing it wrong. The NHS notes a simple, soothing bedtime routine may help babies settle. Cleveland Clinic suggests a short, calm 20- to 30-minute routine so baby can wind down. Dim the lights and keep the same few steps. Safe sleep: on their back, on a firm, flat surface, in an empty crib, every sleep until age 1. Save this and follow for more tips. Napapp logs sleep and feeds in one tap. Link in bio.
+
+#newmom #newborn #napapp #bedtimeroutine
+```
+
+## TikTok Caption
+
+```
+Bedtime started an hour ago and you're still here 😑📘 Bedtime running long is so common, and it's not a sign you're doing it wrong. The NHS notes a simple, soothing bedtime routine may help babies settle. Cleveland Clinic suggests a short, calm 20- to 30-minute routine so baby can wind down. Dim the lights and keep the same few steps. Safe sleep: on their back, on a firm, flat surface, in an empty crib, every sleep until age 1. Save this and follow for more tips. Napapp logs sleep and feeds in one tap. Link in bio.
+```
+
+## TikTok Hashtags
+
+```
+#newmom #newborn #napapp #bedtimeroutine
+```

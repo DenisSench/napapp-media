@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-24-day-night-mixup-pov",
+  "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "8dfa82f8021a8840",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-24",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-24",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-24",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-24",
+      "time": "17:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "9d2ee5406d2dc400b1a4e5f971808530116063e28dc0cb020693856c3809329e",
+    "fb_caption.txt": "b4f351db0ad504fe3ff7647c9145208953e2ec24476f77ae3b17ab137853bf7c",
+    "ig_caption.txt": "11e289cf39c6d5087df1ce151a4ec15ad4f8700d830d10bdee8e9e1c132ded5b",
+    "index.html": "e5647a4fb10c5a03764256b7266ae13d8694c66dc305ce4cb1e4f655b6e62a79",
+    "tiktok_caption.txt": "b4f351db0ad504fe3ff7647c9145208953e2ec24476f77ae3b17ab137853bf7c",
+    "youtube_description.txt": "c86c904fe2bf1d779c52af0d854f8ae20b858de1f1e84beb1e501a30a8a4b9d4",
+    "youtube_title.txt": "da92cacfe6d9351d7d39c1b2243afae15ae67d2360fdf90b97daff34e781c851"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "a473f97d9feb279af602104fe33459d2e4fb63582b382a039d74f36825dcbc6a"
+  }
+}
