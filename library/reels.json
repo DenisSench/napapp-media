@@ -1,6 +1,16 @@
 {
   "clips": [
     {
+      "id": "3am-wide-awake-pov-loop",
+      "title": "3am wide awake loop",
+      "url": "https://media.napapp.io/posts/2026-11-26-3am-wide-awake-pov-loop/reel_kit/reel.mp4"
+    },
+    {
+      "id": "bedtime-battle-pov",
+      "title": "Bedtime battle",
+      "url": "https://media.napapp.io/posts/2026-11-25-bedtime-battle-pov/reel_kit/reel.mp4"
+    },
+    {
       "id": "daily-rhythm-by-age",
       "title": "Daily rhythm by age",
       "url": "https://media.napapp.io/posts/2026-11-25-daily-rhythm-by-age/reel_kit/reel.mp4"
@@ -9,6 +19,11 @@
       "id": "cluster-feeding-evenings",
       "title": "Cluster feeding evenings",
       "url": "https://media.napapp.io/posts/2026-11-24-cluster-feeding-evenings/reel_kit/reel.mp4"
+    },
+    {
+      "id": "day-night-mixup-pov",
+      "title": "Day night mixup",
+      "url": "https://media.napapp.io/posts/2026-11-24-day-night-mixup-pov/reel_kit/reel.mp4"
     },
     {
       "id": "feed-play-sleep-routine",
