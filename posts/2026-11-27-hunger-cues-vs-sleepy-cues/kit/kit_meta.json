@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-27-hunger-cues-vs-sleepy-cues",
+  "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "e67eeec3a8216cc6",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-27",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-27",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-27",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-27",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "49051e40704be657aa8b55f1a80c81dfc9e260760457efb540b4557cbeada1aa",
+    "fb_caption.txt": "7c726cb2bb0f3757e202de98622f0805f02dcada1b438bb994762d6d87a5b136",
+    "ig_caption.txt": "fc81eb5c1f690a8e58ffaa0da1d13561e91a8c8039f585883e9d320a512f43ee",
+    "index.html": "6c3e7abe1cc8e2f89ee0b9bafcdd6d234c2083ca80e9c188cc740e5a5c33a7e3",
+    "tiktok_caption.txt": "7c726cb2bb0f3757e202de98622f0805f02dcada1b438bb994762d6d87a5b136",
+    "youtube_description.txt": "1323d64fe530b8c34ab0b4e60ae3ee414bdc088960aa83cd178ae5ae38e4cb23",
+    "youtube_title.txt": "92d931e9a203015dcaf5c774d5e5e83446e34c9df5ada80d356d7db6674e6690"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "804bf83e234133c4db5b140f6051f1dc14bada0eedc080e1deb97033e6eea3ea"
+  }
+}

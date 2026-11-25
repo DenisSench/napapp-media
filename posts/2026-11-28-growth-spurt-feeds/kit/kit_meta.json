@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-28-growth-spurt-feeds",
+  "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "3eaf76a0aab3fc7e",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-28",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-28",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-28",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-28",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "ec405da407f42b09b1cf78ad8e00966972964490bb22e334544a83c9e99f1c22",
+    "fb_caption.txt": "f145b208d4de23c93608665ae6c93f3e7ee24fb887f0749633ade093131d9b21",
+    "ig_caption.txt": "8d7f160f0a81dc85c7c9050ea190ea426b058f0c011bbad4dedd487157fe3283",
+    "index.html": "57ec2627cc342d48f0cd32e981198f5b2b830ca5e58cb90e8a6d3671e1b31463",
+    "tiktok_caption.txt": "f145b208d4de23c93608665ae6c93f3e7ee24fb887f0749633ade093131d9b21",
+    "youtube_description.txt": "f1c5a6a480219f8fcef03fbf751bdeb42694724ca16e97aaff9b5d298fe75b9d",
+    "youtube_title.txt": "226b053a8260990087f1022619947185057d00ec7bde0cd291b62872cd8fdff6"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "d517ef179bb2688e1e5056b7bb5836391df087813e49aa029e4e6b21643246e1"
+  }
+}
