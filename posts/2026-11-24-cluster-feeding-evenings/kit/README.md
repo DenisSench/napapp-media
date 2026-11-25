@@ -29,7 +29,7 @@ Safe sleep: on their back, on a firm, flat surface, in an empty crib, every slee
 Subscribe for more simple baby sleep and feeding how-tos. Link in bio.
 ```
 
-## TikTok · Tue Nov 24, 12:00 PM ET · Hand-post
+## TikTok · Tue Nov 24, 12:00 PM ET · Hand-post · POSTED
 
 video posted by you by hand (no inbox draft for video slots)
 
@@ -49,7 +49,7 @@ Evening cluster feeds can feel endless, and they're very normal 🌆☕ The NHS 
 #newmom #newborn #napapp #clusterfeeding
 ```
 
-## Instagram · Tue Nov 24, 12:00 PM ET · Hand-post
+## Instagram · Tue Nov 24, 12:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
@@ -69,7 +69,7 @@ Link in bio.
 #newmom #newborn #napapp #clusterfeeding
 ```
 
-## Facebook · Tue Nov 24, 12:00 PM ET · Hand-post
+## Facebook · Tue Nov 24, 12:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
