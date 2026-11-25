@@ -340,12 +340,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:day-night-mixup-pov-tt-ig-fb-yt@napapp.io
-DTSTAMP:20261125T144812Z
-SEQUENCE:2
+DTSTAMP:20261125T171654Z
+SEQUENCE:3
 DTSTART;TZID=America/Toronto:20261124T170000
 DTEND;TZID=America/Toronto:20261124T171500
 SUMMARY:Post: Day night mixup pov [TT/IG/FB/YT]
-DESCRIPTION:• TikTok: post the video by hand from the kit\n✅ Instagram:
+DESCRIPTION:✅ TikTok: post the video by hand from the kit\n✅ Instagram:
   post the Reel by hand\n✅ Facebook: post the Reel by hand\n• YouTube: 
  upload the 9:16 reel as a Short to @getnapapp (hand-post\; paste the title
   and description from the kit)\n\nApproval: Approved (one approval for all
@@ -367,12 +367,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:daily-rhythm-by-age-tt-ig-fb-yt@napapp.io
-DTSTAMP:20261125T171336Z
-SEQUENCE:1
+DTSTAMP:20261125T171654Z
+SEQUENCE:2
 DTSTART;TZID=America/Toronto:20261125T120000
 DTEND;TZID=America/Toronto:20261125T121500
 SUMMARY:Post: Daily rhythm by age [TT/IG/FB/YT]
-DESCRIPTION:• TikTok: post the video by hand from the kit\n✅ Instagram:
+DESCRIPTION:✅ TikTok: post the video by hand from the kit\n✅ Instagram:
   post the Reel by hand\n✅ Facebook: post the Reel by hand\n• YouTube: 
  upload the 9:16 reel as a Short to @getnapapp (hand-post\; paste the title
   and description from the kit)\n\nApproval: Approved (one approval for all
