@@ -5,7 +5,7 @@ Approval: Approved (one approval for all platforms)
 
 Asset: ../reel_kit/reel.mp4
 
-## YouTube Shorts · Thu Nov 26, 5:00 PM ET · Hand-post
+## YouTube Shorts · Wed Nov 25, 5:00 PM ET · Hand-post
 
 upload the 9:16 reel as a Short to @getnapapp by hand (paste the title and description from the kit)
 
@@ -24,7 +24,7 @@ Description:
 A 3 AM wake-up can stay calm and short 🦉✨ First, wait a few minutes: many babies settle back on their own. If you go in, keep the lights low and your voice soft, and skip the play. Feed or change baby only if they need it, then lay them straight back down so they learn night-time is for sleeping. Safe sleep: on their back, on a firm, flat surface, in an empty crib, every sleep until age 1. Save this and follow for more tips. Napapp logs sleep and feeds in one tap. Link in bio.
 ```
 
-## TikTok · Thu Nov 26, 5:00 PM ET · Hand-post
+## TikTok · Wed Nov 25, 5:00 PM ET · Hand-post · POSTED
 
 video posted by you by hand (no inbox draft for video slots)
 
@@ -44,7 +44,7 @@ A 3 AM wake-up can stay calm and short 🦉✨ First, wait a few minutes: many b
 #newmom #newborn #napapp #nightwakings
 ```
 
-## Instagram · Thu Nov 26, 5:00 PM ET · Hand-post
+## Instagram · Wed Nov 25, 5:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
@@ -64,7 +64,7 @@ Link in bio.
 #newmom #newborn #napapp #nightwakings
 ```
 
-## Facebook · Thu Nov 26, 5:00 PM ET · Hand-post
+## Facebook · Wed Nov 25, 5:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
