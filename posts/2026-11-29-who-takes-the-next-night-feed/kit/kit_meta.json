@@ -1,0 +1,60 @@
+{
+  "post": "2026-11-29-who-takes-the-next-night-feed",
+  "kind": "video",
+  "meta_reels_only": false,
+  "meta_reel": null,
+  "approval": {
+    "state": "approved",
+    "label": "Approved",
+    "source": "STATUS",
+    "note": ""
+  },
+  "conflicts": [],
+  "sounds_fingerprint": "85d6a72ab89b11b5",
+  "platforms": {
+    "tiktok": {
+      "date": "2026-11-29",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "ig": {
+      "date": "2026-11-29",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "fb": {
+      "date": "2026-11-29",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    },
+    "yt": {
+      "date": "2026-11-29",
+      "time": "12:00",
+      "status": "Approved",
+      "posted": false,
+      "mode": "hand",
+      "url": ""
+    }
+  },
+  "files": {
+    "README.md": "9e3c46b97099ef0309a957778a53d5702b1403587fe66fe2ff58780610d432bf",
+    "fb_caption.txt": "e811aee6643f1aa32aae4a314a6849c4d0694dd2d3cf462cc2764981be4e0a46",
+    "ig_caption.txt": "a41d25f5d7d8f86382e36062661f10e394b7dadfbe1d7704820a3f4460ce84ba",
+    "index.html": "2f3aa7628b9ec3fb6009c9694d7eb53901cb0c421e4dd8aec32815b4b1f490b8",
+    "tiktok_caption.txt": "e811aee6643f1aa32aae4a314a6849c4d0694dd2d3cf462cc2764981be4e0a46",
+    "youtube_description.txt": "37127a4ceb1e2e949d1618aaaa8295f69d46e678ffb7f05117eb08285aa9d928",
+    "youtube_title.txt": "4c3f825721c5546e0178ab1b23bea23c5868bad7afc2aaa65155c81e8a54972f"
+  },
+  "refs": {
+    "reel_kit/reel.mp4": "265d04e2c90129b61cba607a41bdf458906f7a568f6c02b2bfcc7655a9b394a5"
+  }
+}

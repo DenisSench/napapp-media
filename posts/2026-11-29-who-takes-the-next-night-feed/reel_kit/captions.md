@@ -1,0 +1,42 @@
+# Captions: 2026-11-29-who-takes-the-next-night-feed
+
+## Instagram (caption + hashtags)
+
+```
+POV: baby's up. Whose turn is it? 🌛🤝
+NHS: formula feeding? A partner can share night feeds. Breastfeeding? They can take the early morning change so you go back to sleep.
+AAP: take shifts with bottle feeds, changes and rocking. Extra hours in bed can help parents cope.
+Off duty? The NHS says rest can matter more than chores. Baby sleeps on their back in an empty crib.
+Save this and follow for more tips. Napapp logs sleep and feeds in one tap.
+Link in bio.
+
+#newmom #newborn #napapp #newparents
+```
+
+## Facebook Page (caption + hashtags)
+
+```
+POV: baby's up. Whose turn is it? 🌛🤝
+NHS: formula feeding? A partner can share night feeds. Breastfeeding? They can take the early morning change so you go back to sleep.
+AAP: take shifts with bottle feeds, changes and rocking. Extra hours in bed can help parents cope.
+Off duty? The NHS says rest can matter more than chores. Baby sleeps on their back in an empty crib.
+Save this and follow for more tips. Napapp logs sleep and feeds in one tap. Link in bio.
+
+#newmom #newborn #napapp #newparents
+```
+
+## TikTok Caption
+
+```
+POV: baby's up. Whose turn is it? 🌛🤝
+NHS: formula feeding? A partner can share night feeds. Breastfeeding? They can take the early morning change so you go back to sleep.
+AAP: take shifts with bottle feeds, changes and rocking. Extra hours in bed can help parents cope.
+Off duty? The NHS says rest can matter more than chores. Baby sleeps on their back in an empty crib.
+Save this and follow for more tips. Napapp logs sleep and feeds in one tap. Link in bio.
+```
+
+## TikTok Hashtags
+
+```
+#newmom #newborn #napapp #newparents
+```
