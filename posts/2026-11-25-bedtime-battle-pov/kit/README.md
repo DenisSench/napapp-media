@@ -24,7 +24,7 @@ Description:
 Bedtime started an hour ago and you're still here 😑📘 Bedtime running long is so common, and it's not a sign you're doing it wrong. The NHS notes a simple, soothing bedtime routine may help babies settle. Cleveland Clinic suggests a short, calm 20- to 30-minute routine so baby can wind down. Dim the lights and keep the same few steps. Safe sleep: on their back, on a firm, flat surface, in an empty crib, every sleep until age 1. Save this and follow for more tips. Napapp logs sleep and feeds in one tap. Link in bio.
 ```
 
-## TikTok · Thu Nov 26, 5:00 PM ET · Hand-post
+## TikTok · Thu Nov 26, 5:00 PM ET · Hand-post · POSTED
 
 video posted by you by hand (no inbox draft for video slots)
 
@@ -44,7 +44,7 @@ Bedtime started an hour ago and you're still here 😑📘 Bedtime running long 
 #newmom #newborn #napapp #bedtimeroutine
 ```
 
-## Instagram · Thu Nov 26, 5:00 PM ET · Hand-post
+## Instagram · Thu Nov 26, 5:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
@@ -64,7 +64,7 @@ Link in bio.
 #newmom #newborn #napapp #bedtimeroutine
 ```
 
-## Facebook · Thu Nov 26, 5:00 PM ET · Hand-post
+## Facebook · Thu Nov 26, 5:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
