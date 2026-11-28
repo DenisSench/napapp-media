@@ -29,7 +29,7 @@ Safe sleep: on their back, on a firm, flat surface, in an empty crib, every slee
 Subscribe for more simple baby sleep and feeding how-tos. Link in bio.
 ```
 
-## TikTok · Sat Nov 28, 12:00 PM ET · Hand-post
+## TikTok · Sat Nov 28, 12:00 PM ET · Hand-post · POSTED
 
 video posted by you by hand (no inbox draft for video slots)
 
@@ -53,7 +53,7 @@ Save this and follow for more tips. Napapp logs sleep and feeds in one tap. Link
 #newmom #newborn #napapp #growthspurt
 ```
 
-## Instagram · Sat Nov 28, 12:00 PM ET · Hand-post
+## Instagram · Sat Nov 28, 12:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
@@ -76,7 +76,7 @@ Link in bio.
 #newmom #newborn #napapp #growthspurt
 ```
 
-## Facebook · Sat Nov 28, 12:00 PM ET · Hand-post
+## Facebook · Sat Nov 28, 12:00 PM ET · Hand-post · POSTED
 
 Reel posted by you by hand
 
